@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          'The Jekyll Butler'
-description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://getpoole.com
+title:            Fred Hohman
+tagline:          'Ph.D. Student in CSE at GT'
+description:      'Ph.D. Student in CSE at GT.'
+url:              http://fredhohman.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Fred Hohman'
+  url:            https://twitter.com/fredhohman
 
 paginate:         1
 
@@ -21,4 +21,9 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/fredhohman/fredhohman.github.io
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
