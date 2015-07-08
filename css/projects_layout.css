@@ -1,0 +1,146 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*Header*/
+
+/*About Projects*/
+#about_projects {
+	background-color:#FFFEFE;
+	width:100%;
+	padding-bottom:0px;
+}
+
+.about_projects_content{
+	width:620px;
+	height:auto;
+	margin:0 auto;
+	text-align:left;
+	line-height:35px;
+}
+
+.about_projects_toc{
+	width:620px;
+	height:auto;
+	margin:0 auto;
+	text-align:left;
+	margin-bottom:50px;
+}
+
+/*Project Picture Template*/
+.projects_picture {
+	width:1000px;
+	height:auto;
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	text-align:center;
+	margin:0 auto;
+}
+
+.projects_picture_small {
+	width:620px;
+	height:auto;
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	text-align:center;
+	margin:0 auto;
+}
+
+.projects_bullet_divider_wrapper{
+	width:100px; 
+	margin:0 auto; 
+	padding-bottom:50px;
+}
+
+.projects_bullet_divider{
+	border-radius:50%; 
+	height:10px; 
+	width:10px; 
+	background-color:#2B84D3; 
+	float:left;
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.projects_title{
+	width:620px;
+	margin:0 auto;
+	text-align:left;
+}
+
+.projects_subtitle{
+	width:620px;
+	margin:0 auto;
+	text-align:left;
+	padding-bottom:0px;
+}
+
+.projects_date{
+	width:620px;
+	margin:0 auto;
+	text-align:left;
+	padding-bottom:15px;
+}
+
+.projects_content_main{
+	width:620px;
+	margin:0 auto;
+	padding-top:40px;
+	padding-bottom:40px;
+	line-height:35px;
+}
+
+.projects_content_short{
+	width:620px;
+	margin:0 auto;
+	padding-top:40px;
+	padding-bottom:15px;
+	line-height:35px;
+}
+
+.projects_content_links_divider{
+	height:1px;
+	width:620px;
+	margin:0 auto;
+	background-color:#CDCDCD;
+}
+
+.projects_links{
+	width:620px;
+	margin:0 auto;
+	padding-bottom:50px;
+	padding-top:15px;
+}
+
+.projects_pictures_wrapper{
+	width:630px;
+	margin:0 auto;
+	overflow:hidden;
+}
+
+.projects_pictures{
+	width:311px;
+	height:207px;
+	margin-left:2px;
+	margin-right:2px;
+	margin-top:2px;
+	margin-bottom:2px;
+	background-image:url(../images/banners/banner.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	float:left;
+}
+	
+.projects_enlarge{
+	width:620px; 
+	margin:0 auto; 
+	text-align:center; 
+	padding-bottom:0px;
+	padding-top:8px;
+}
+
+/*Social*/
+
+/*Footer*/

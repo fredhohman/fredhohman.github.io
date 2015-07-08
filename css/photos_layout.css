@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*Header*/
+
+/*Photos*/
+#about_photos {
+	background-color:#FFFEFE;
+	width:100%;
+	padding-bottom:25px;
+}
+
+#about_photos_title{
+	width:620px;
+	margin:0 auto;
+	text-align:left;
+	}
+
+#about_photos_content{
+	width:620px;
+	height:auto;
+	margin:0 auto;
+	text-align:left;
+	line-height:35px;
+}
+
+#instagram_frame{
+	width:255px;
+	height:255px;
+	overflow:hidden;
+	margin:0 auto;
+}
+
+.picture_subtitle{
+	width:620px; 
+	margin:0 auto; 
+	text-align:center;
+	padding-top:25px;
+}
+
+#photos{
+	width:990px;
+	height:auto;
+	background-color:#FFFEFE;
+	overflow:hidden;
+	margin:0 auto;
+	padding-bottom:50px;
+}
+
+.photos_picture{
+	width:324px;
+	height:324px;
+	margin-left:3px;
+	margin-right:3px;
+	margin-bottom:3px;
+	margin-top:3px;
+	background-image:url(../images/banners/banner.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	float:left;
+}
+
+
+/*Social*/
+
+/*Footer*/

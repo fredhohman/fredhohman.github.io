@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body {
+	height:100%;
+}
+
+#logo{
+	width:450px;
+	height:450px;
+	background-image:url(../images/fredhohman_logo_new_circle.png);
+	background-position:center;
+	background-size:contain;
+	margin:0 auto;
+}
+
+#top {
+	height:600px;
+	width:100%;
+	background-color:#FFFEFE;
+}
+
+#top_content {
+	text-align:center;
+}
+
+#bottom {
+	height:300px;
+	width:100%;
+	background-color:#FFFEFE;
+	border-top:#CDCDCD 1px solid;
+}
+
+#bottom_content {
+	text-align:center;
+}
