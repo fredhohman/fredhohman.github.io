@@ -5,7 +5,7 @@ I'm a Ph.D. student studying [Computational Science and Engineering][cse] at [Ge
 
 My site is currently quite empty. But don't worry, that's all changing soon.
 
-Check back in a bit.
+**Check back in a bit.**
 
 [cse]: http://www.cse.gatech.edu
 [gt]: http://www.gatech.edu
