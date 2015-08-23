@@ -18,9 +18,6 @@
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
-  @media (max-width: 41em) {
-	margin-bottom:-0.5em;
-  	}
   	
   a {
     color: #505050;
@@ -38,6 +35,9 @@
     font-weight: 400;
     color: #c0c0c0;
     letter-spacing: 0;
+    @media (max-width: 41em) {
+	width: 100%;
+  	}
   }
 }
 
