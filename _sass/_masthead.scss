@@ -18,7 +18,10 @@
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
-
+  @media (max-width: 41em) {
+	margin-bottom:-0.5em;
+  	}
+  	
   a {
     color: #505050;
   }
@@ -42,7 +45,7 @@
 	display: none;
 	@media (max-width: 41em) {
 		display:block;
-  }
+  		}
 }
 
 nav {
