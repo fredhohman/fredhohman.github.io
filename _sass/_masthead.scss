@@ -18,7 +18,11 @@
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
-  	
+  @media (max-width: 41em) {
+  display:block;
+  width:100%;
+  }
+  
   a {
     color: #505050;
   }
@@ -35,18 +39,15 @@
     font-weight: 400;
     color: #c0c0c0;
     letter-spacing: 0;
-    @media (max-width: 41em) {
-	width: 100%;
-  	}
   }
 }
 
-.mastheadspacer{
-	display: none;
-	@media (max-width: 41em) {
-		display:block;
-  		}
-}
+// .mastheadspacer{
+// 	display: none;
+// 	@media (max-width: 41em) {
+// 		display:block;
+//   		}
+// }
 
 nav {
   border-bottom: 1px #ECECEC solid;
