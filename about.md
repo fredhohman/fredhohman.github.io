@@ -71,7 +71,7 @@ Graduated from UGA
 * Multivariable Calculus ([MATH 2500][math2260])
 * Elementary Differential Equations ([MATH 2700][math2700])
 * Linear Algebra ([MATH 3000][math3000])
-* Sequences and Series ([MATH 3100H][math3100]
+* Sequences and Series ([MATH 3100H][math3100])
 * Introduction to Higher Mathematics ([MATH 3200][math3200])
 * Numerical Analysis I ([MATH 4500][math4500])
 * Numerical Analysis II ([MATH 4510][math4510])
@@ -135,7 +135,7 @@ Graduated from UGA
 [math2500]: http://en.wikipedia.org/wiki/Multivariable_calculus "Multivariable Calculus."
 [math2700]: http://en.wikipedia.org/wiki/Differential_equation "Elementary Differential Equations."
 [math3000]: http://en.wikipedia.org/wiki/Linear_algebra "Linear Algebra."
-[math3100H]: http://en.wikipedia.org/wiki/Category:Sequences_and_series "Sequences and Series."
+[math3100]: http://en.wikipedia.org/wiki/Category:Sequences_and_series "Sequences and Series."
 [math3200]: http://en.wikipedia.org/wiki/Mathematical_proof "Introduction to Higher Mathematics."
 [math4500]: http://en.wikipedia.org/wiki/Numerical_analysis "Numerical Analysis I."
 [math4510]: http://en.wikipedia.org/wiki/Numerical_analysis "Numerical Analysis II."
