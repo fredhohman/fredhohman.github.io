@@ -4,7 +4,7 @@ title: 3D Printing the Trefoil Knot and its Pages
 categories: projects
 permalink: projects/3d-printing-the-trefoil-knot-and-its-pages/
 ---
-a
+
 At the University of Georgia, I spent three semesters exploring 3D printing techniques in topology under [Dr. David Gay][dg] in the [Mathematics Department][ugamath], in particular, visualizing complex shapes and knots using a [MakerBot Replicator 2][makerbot]. 
 
 <!--more-->
