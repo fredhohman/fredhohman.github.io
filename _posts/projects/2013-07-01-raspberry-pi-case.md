@@ -10,17 +10,17 @@ The [Raspberry Pi][rpi] is a small microcomputer that teaches computer science t
 <!--more-->
 
 <figure>
-  <img class="full" src="/images/projects/rpi/rpi_1.jpg" alt="Raspberry Pi Case.">
+  <img class="full" src="/images/projects/rpi/rpi_1.JPG" alt="Raspberry Pi Case.">
   <figcaption>Now that's a case.</figcaption>
 </figure>
 
 The $35 credit-card sized computer ships with 512 MB of onboard ram, an ARM processor clocked at 700 Hz, and a full set of standard I/Os that are compatible with most peripheral accessories. Many lightweight [Linux distributions][downloads] exist for the Raspberry Pi that can be sideloaded onto an SD card to act as the Raspberry Pi’s primary HDD.
 
 <figure>
-  <img class="lhalf" src="/images/projects/rpi/rpi_4.jpg" alt="Raspberry Pi Case.">
-  <img class="rhalf" src="/images/projects/rpi/rpi_2.jpg" alt="Raspberry Pi Case.">
-  <img class="lhalf" src="/images/projects/rpi/rpi_3.jpg" alt="Raspberry Pi Case.">
-  <img class="rhalf" src="/images/projects/rpi/rpi_5.jpg" alt="Raspberry Pi Case.">
+  <img class="lhalf" src="/images/projects/rpi/rpi_4.JPG" alt="Raspberry Pi Case.">
+  <img class="rhalf" src="/images/projects/rpi/rpi_2.JPG" alt="Raspberry Pi Case.">
+  <img class="lhalf" src="/images/projects/rpi/rpi_3.JPG" alt="Raspberry Pi Case.">
+  <img class="rhalf" src="/images/projects/rpi/rpi_5.JPG" alt="Raspberry Pi Case.">
   <figcaption>&nbsp;</figcaption>
 </figure>
 

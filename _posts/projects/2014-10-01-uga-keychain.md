@@ -10,7 +10,7 @@ This is a 3D printed model of the [University of Georgia’s][uga] [“G” logo
 <!--more-->
 
 <figure>
-  <img class="full" src="/images/projects/keychain/uga_keychain.jpg" alt="UGA Keychain.">
+  <img class="full" src="/images/projects/keychain/uga_keychain.JPG" alt="UGA Keychain.">
   <figcaption>Go dawgs.</figcaption>
 </figure>
 

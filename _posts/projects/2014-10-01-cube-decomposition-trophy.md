@@ -10,17 +10,17 @@ This is a 3D printed, three-piece cube decomposition model that can be transform
 <!--more-->
 
 <figure>
-  <img class="full" src="/images/projects/trophy/trophy_1.jpg" alt="Cube Decomposition Trophy.">
+  <img class="full" src="/images/projects/trophy/trophy_1.JPG" alt="Cube Decomposition Trophy.">
   <figcaption>Red and black make a good color combo.</figcaption>
 </figure>
 
 The model was originally made for the [University of Georgia’s][uga] [High School Math Tournament][tourn] and was given away to the top scoring teams and participants.
 
 <figure>
-  <img class="lhalf" src="/images/projects/trophy/trophy_2.jpg" alt="Cube Decomposition Trophy.">
-  <img class="rhalf" src="/images/projects/trophy/trophy_3.jpg" alt="Cube Decomposition Trophy.">
-  <img class="lhalf" src="/images/projects/trophy/trophy_4.jpg" alt="Cube Decomposition Trophy.">
-  <img class="rhalf" src="/images/projects/trophy/trophy_5.jpg" alt="Cube Decomposition Trophy.">
+  <img class="lhalf" src="/images/projects/trophy/trophy_2.JPG" alt="Cube Decomposition Trophy.">
+  <img class="rhalf" src="/images/projects/trophy/trophy_3.JPG" alt="Cube Decomposition Trophy.">
+  <img class="lhalf" src="/images/projects/trophy/trophy_4.JPG" alt="Cube Decomposition Trophy.">
+  <img class="rhalf" src="/images/projects/trophy/trophy_5.JPG" alt="Cube Decomposition Trophy.">
   <figcaption>&nbsp;</figcaption>
 </figure>
 

@@ -10,7 +10,7 @@ title: Home
 I’m a Ph.D. student at [Georgia Tech][gt] studying [Computational Science and Engineering][cse] in the [College of Computing][coc].
 
 <figure>
-  <img class="full" src="/images/me.jpg" alt="That's me.">
+  <img class="full" src="/images/me.JPG" alt="That's me.">
   <figcaption>That's me.</figcaption>
 </figure>
 
