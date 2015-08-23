@@ -2,7 +2,7 @@
 layout: post
 title: Hello, World
 categories: blog
-permalink: blog/:title
+permalink: blog/hello-world
 comments: true
 ---
 
