@@ -1,0 +1,40 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           "/:title"
+relative_permalinks: true
+
+# Setup
+title:               Fred Hohman
+tagline:             CSE Ph.D. Student at GT
+url:                 http://fredhohman.com
+paginate:            5
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Fred Hohman
+  url:               https://twitter.com/fredhohman
+  email:             fredhohman@gatech.edu
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://fredhohman/fredhohman.github.io
+
+nav_list:
+  About: '/about'
+  Projects: '/projects'
+  Blog: '/blog'
+  Other: '/other'
+
+paginate_path: "blog/page:num/"
+
+excerpt_separator: <!--more-->

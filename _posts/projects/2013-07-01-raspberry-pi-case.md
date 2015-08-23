@@ -1,0 +1,34 @@
+---
+layout: project
+title: Raspberry Pi Case
+categories: projects
+permalink: projects/raspberry-pi-case
+---
+
+The [Raspberry Pi][rpi] is a small microcomputer that teaches computer science techniques to people of all ages.
+
+<!--more-->
+
+<figure>
+  <img class="full" src="/images/projects/rpi/rpi_1.jpg" alt="Raspberry Pi Case.">
+  <figcaption>Now that's a case.</figcaption>
+</figure>
+
+The $35 credit-card sized computer ships with 512 MB of onboard ram, an ARM processor clocked at 700 Hz, and a full set of standard I/Os that are compatible with most peripheral accessories. Many lightweight [Linux distributions][downloads] exist for the Raspberry Pi that can be sideloaded onto an SD card to act as the Raspberry Pi’s primary HDD.
+
+<figure>
+  <img class="lhalf" src="/images/projects/rpi/rpi_4.jpg" alt="Raspberry Pi Case.">
+  <img class="rhalf" src="/images/projects/rpi/rpi_2.jpg" alt="Raspberry Pi Case.">
+  <img class="lhalf" src="/images/projects/rpi/rpi_3.jpg" alt="Raspberry Pi Case.">
+  <img class="rhalf" src="/images/projects/rpi/rpi_5.jpg" alt="Raspberry Pi Case.">
+  <figcaption>&nbsp;</figcaption>
+</figure>
+
+I primarily use my RPi to use Python and tinker with small automation projects, so my RPi typically sits on my desk. I machined this solid aluminum case to protect the RPi from harmful outside interaction. The design maintains the Raspberry Pi’s functionality by leaving the sides open and LED’s visible while also allowing for others to view the microcomputer. The case looks great on a desk too.
+
+##Links
+* [Raspberry Pi Home][rpi]
+* [Raspberry Pi OS Distributions][downloads]
+
+[rpi]: http://www.raspberrypi.org "Raspberry Pi Home."
+[downloads]: http://www.raspberrypi.org/downloads "Raspberry Pi Downloads."

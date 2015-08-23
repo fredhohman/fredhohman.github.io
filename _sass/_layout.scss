@@ -1,0 +1,65 @@
+// Layout
+//
+// Styles for managing the structural hierarchy of the site.
+
+.container {
+  max-width: 55rem;
+  /*max-width: 38rem;*/
+  padding-left:  1rem;
+  padding-right: 1rem;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+footer {
+	/*background-color: #F6F6F6;*/
+	border-top: 1px #ECECEC solid;
+	padding-bottom: 2rem;
+	margin-top: 2em;
+
+	@media (max-width: 41em) {
+    padding-left: 1em;
+    padding-right: 1em,;
+  }
+
+}
+
+.footer {
+	max-width: 35em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1em;
+	line-height: 2em;
+}
+
+div.social {
+	display: block;
+	height: 2.75em;
+}
+
+img.social-icon {
+	float: left;
+    max-width: 2em;
+    margin-right: 1em;
+}
+
+
+//Center the element in .container below
+
+h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, dl, table, time, .message, .highlight, .gist-file, .pagination {
+  max-width: 35rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.comments{
+	max-width: 35em;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+hr {
+	max-width: 35em;
+	margin-left: auto;
+	margin-right: auto;
+}

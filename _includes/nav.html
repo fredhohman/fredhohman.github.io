@@ -1,0 +1,8 @@
+<nav>
+	<div class="nav">
+	{% for page in site.nav_list %}
+		<a href="{{ page[1] }}">{{ page[0] }}</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+	{% endfor %}
+	</div>
+</nav>
