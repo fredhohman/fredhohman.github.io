@@ -4,7 +4,7 @@ title: 3D Printing the Trefoil Knot and its Pages
 categories: projects
 permalink: projects/3d-printing-the-trefoil-knot-and-its-pages/
 ---
-
+a
 At the University of Georgia, I spent three semesters exploring 3D printing techniques in topology under [Dr. David Gay][dg] in the [Mathematics Department][ugamath], in particular, visualizing complex shapes and knots using a [MakerBot Replicator 2][makerbot]. 
 
 <!--more-->
@@ -24,9 +24,13 @@ I was then invited to repost this piece on [Wolfram Community][wc]. At the end o
 &nbsp;
 
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" lang="en"><p>One of our users <a href="https://twitter.com/fredhohman">@fredhohman</a> has written a great post about printing a 3D trefoil knot <a href="http://t.co/9J2YenPoRR">http://t.co/9J2YenPoRR</a> <a href="http://t.co/y63hxhT574">pic.twitter.com/y63hxhT574</a></p>&mdash; Wolfram (@WolframResearch) <a href="https://twitter.com/WolframResearch/status/540801977484328960">December 5, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 &nbsp;
+
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Mathematics Student Creates 3D Printed Puzzle of Trefoil Knot, Gains Math Community’s Interest <a href="http://t.co/2rHMioiPjc">http://t.co/2rHMioiPjc</a> <a href="http://t.co/ux1FyJqPjl">pic.twitter.com/ux1FyJqPjl</a></p>&mdash; 3D Printing News (@My3DPrinting) <a href="https://twitter.com/My3DPrinting/status/541121153168080897">December 6, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 &nbsp;
+
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">Mathematics Student Creates 3D Printed Puzzle of Trefoil Knot, Gains Math Community’s Interest <a href="http://t.co/4l81gfN3Tk">http://t.co/4l81gfN3Tk</a> <a href="https://twitter.com/thingiverse">@thingiverse</a></p>&mdash; Eddie Krassenstein (@EddieKrassenste) <a href="https://twitter.com/EddieKrassenste/status/540833517178195968">December 5, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 &nbsp;
