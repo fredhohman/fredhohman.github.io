@@ -56,14 +56,14 @@ Graduated from UGA
 
 ##Coursework
 
-#####GT
+#####Georgia Tech
 
 * Intro to Computational Science and Engineering ([CSE 6001][cse6010])
 * Computational Problem Solving ([CSE 6010][cse6010])
 * Material Informatics ([CSE 8803/ME 8883][cse8803])
 * Visualization Seminar ([CS 8001 VIS][cs8001-vis])
 
-#####UGA
+#####University of Georgia
 
 ######Math
 
