@@ -6,7 +6,7 @@ permalink: about/
 
 ####But you can call me Fred. Nice to meet you. 
 
-I’m a Ph.D. student at [Georgia Tech][gt] studying [Computational Science and Engineering][cse] in the [College of Computing][coc]. If you aren't familiar with CSE, Wikipedia says its
+I’m a Ph.D. student at [Georgia Tech][gt] studying [Computational Science and Engineering][cse] in the [College of Computing][coc]. If you aren't familiar with CSE, Wikipedia says it's
 
 >a new discipline that deals with the development and application of computational models and simulations to solve complex physical problems arising in engineering analysis and design as well as natural phenomena. CSE has been described as the "third mode of discovery" (next to theory and experimentation).
 

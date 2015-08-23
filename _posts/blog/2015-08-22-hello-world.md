@@ -22,7 +22,7 @@ I've answered this question more than a dozen of times over my last semester. I'
   <figcaption>Controversial. I know.</figcaption>
 </figure>
 
-For those that don't know, *Computational Science* is indeed different than *Computer Science*[^fn-cse]. If you aren't familiar with CSE, Wikipedia says its
+For those that don't know, *Computational Science* is indeed different than *Computer Science*[^fn-cse]. If you aren't familiar with CSE, Wikipedia says it's
 
 >a new discipline that deals with the development and application of computational models and simulations to solve complex physical problems arising in engineering analysis and design as well as natural phenomena. CSE has been described as the "third mode of discovery" (next to theory and experimentation).
 
