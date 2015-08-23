@@ -2,6 +2,7 @@
 layout: post
 title: Hello, World
 categories: blog
+permalink: blog/:title
 comments: true
 ---
 
@@ -10,7 +11,7 @@ Welcome to the new `fredhohman.com`.
 <!--more-->
 
 ###What's going on?
-2015 has been a big year so far. I graduated from the University of Georgia with a B.S. in Mathematics and B.S. in Physics. During the past four years I spent there I experienced living in the lovely artistic and historic city of Athens, GA, met lifelong friends, and discovered what truly  interests me. 
+2015 has been a big year so far. I graduated from the University of Georgia with a B.S. in Mathematics and B.S. in Physics. During the past four years I spent there I experienced living in the lovely artistic and historic city of Athens, GA, met lifelong friends, and discovered what truly  interests me.
 
 >"So what do you want to do with a Math and Physics degree?"
 
