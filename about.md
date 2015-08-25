@@ -26,7 +26,7 @@ I like to write about the [Stuff I Use][stuff-i-use], take [Photos][photos], and
 ##The Longer Version
 As a member of the [GT MINED][mined] research group, my research applies data science to speed up the process of new material manufacturing. 
 
-At UGA I explored 3D printing in topology by observing the physical geometry of shapes that are particularly hard to visualize. With the assistance of [Dr. David Gay][dg] I wrote about my research and [my 3D models][thingiverse] sparked interest in the mathematical, 3D printing community. My undergraduate thesis was titled “3D Printing the Trefoil Knot and its Pages” and can be read about here.
+At UGA I explored 3D printing in topology by observing the physical geometry of shapes that are particularly hard to visualize. With the assistance of [Dr. David Gay][dg] I wrote about my research and [my 3D models][thingiverse] sparked interest in the mathematical, 3D printing community. My undergraduate thesis was titled [“3D Printing the Trefoil Knot and its Pages”][trefoil] and it included 3D printed models as well as a gallery of photographs.
 
 I participated in Fairfield University's [Mathematics & Computational Science REU][reu] during the summer of 2014 researching Experimental and Numerical Studies of Oceanic Overflow under [Dr. Shanon Reckinger][sr]. My group presented at various universities, the [American Physical Society’s Division of Fluid Dynamics Conference][apsdfd]in 2014, and won Outstanding Poster at the [Joint Mathematics Meeting][jmm] in 2015. 
 
@@ -124,7 +124,7 @@ Graduated from UGA
 [uga-math-feature]: http://www.math.uga.edu/news-and-events/math-department-newsletter-spring-2015##studentprofile "UGA Math Department Feature."
 [trefoil]: {{ site.url }}/projects/3d-printing-the-trefoil-knot-and-its-pages "3D Printing the Trefoil Knot and its Pages"
 [reu]: {{ site.url }}/projects/mathematics-&-computational-science-reu/ "Mathematics & Computational Science REU"
-
+[trefoil]: {{ site.url }}/projects/3d-printing-the-trefoil-knot-and-its-pages "3D Printing the Trefoil Knot and its Pages."
 
 [cse6001]: https://en.wikipedia.org/wiki/Computational_science "Computational Science and Engineering."
 [cse6010]: https://en.wikipedia.org/wiki/Computational_science "Computational Science and Engineering."
