@@ -50,7 +50,7 @@ I write journal entries in [Day One][day-one] that contain research notes, a day
 ###Software
 I've used [Mathematica][mathematica] to symbolically solve multivariable calculus problems, numerically compute matrix transformations, and generate 3D models for my undergraduate thesis. While Mathematica is my go-to computational tool at UGA, at GT I'm primarily using [Python][python] and [MATLAB][matlab] for research.
 
-I typeset LaTeX in [TeXShop][texshop], take notes in Markdown with [Mou][mou], and write code in [Submlime Text][sublime].
+I typeset LaTeX in [TeXShop][texshop], take notes in Markdown with [Mou][mou], and write code in [Sublime Text][sublime].
 
 For 3D printing I use Mathematica and [OpenSCAD][openscad] to generate models, [Blender][blender] for computer renders and model/mesh manipulation, and [Makerware][makerware] for print preparation. If you are interested in creating your own models, [Tinkercad][tinkercad] is an easy-to-use, free modeling application that runs in the browser—no downloading required! 
 

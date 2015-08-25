@@ -114,7 +114,6 @@ Graduated from UGA
 [ugaphysics]: http://www.physast.uga.edu "UGA Physics."
 [uga]: http://www.uga.edu "University of Georgia."
 [mined]: http://mined.gatech.edu "GT MINED Research Group."
-[dg]: http://euclidlab.org/david-gay/ "Dr. David Gay"
 [thingiverse]: http://www.thingiverse.com/fredhohman/about "My Thingiverse Profile."
 [reu]: http://faculty.fairfield.edu/srafalski/reu/ "Fairfield University REU."
 [sr]: http://www.shanonreckinger.com "Dr. Shanon Reckinger."
