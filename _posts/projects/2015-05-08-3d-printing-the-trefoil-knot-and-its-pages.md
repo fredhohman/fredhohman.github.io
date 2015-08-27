@@ -5,7 +5,7 @@ categories: projects
 permalink: projects/3d-printing-the-trefoil-knot-and-its-pages/
 ---
 
-At the University of Georgia, I spent three semesters exploring 3D printing techniques in topology under [Dr. David Gay][dg] in the [Mathematics Department][ugamath], in particular, visualizing complex shapes and knots using a [MakerBot Replicator 2][makerbot]. 
+At the University of Georgia I spent three semesters exploring 3D printing techniques in topology under [Dr. David Gay][dg] in the [Mathematics Department][ugamath], in particular, visualizing complex shapes and knots using a [MakerBot Replicator 2][makerbot]. 
 
 <!--more-->
 
@@ -14,7 +14,7 @@ At the University of Georgia, I spent three semesters exploring 3D printing tech
   <figcaption>My first designed, 3D printed trefoil knot.</figcaption>
 </figure>
 
-My project involved coding, generating, and manipulating variations of the open-book decomposition of the complement of the trefoil knot in Mathematica to create a "3D printed puzzle" made of multiple pieces that hold together via small magnets. 
+My project involved programming, generating, and manipulating variations of the open-book decomposition of the complement of the trefoil knot in Mathematica to create a "3D printed puzzle" made of multiple pieces that hold together via small magnets. 
 
 During the summer of 2014 I was asked to guest post on [Dr. Laura Taalman’s][lt] 3D printing blog MakerHome. She printed one object every day for a year, including my trefoil knot. I wrote a two-part piece for her website which described in detail the mathematical theory governing my research, the visualization techniques used, and models I had printed thus far. You can read the [introduction here][mhi], [part I here][mh1], and [part II here][mh2]. 
 
