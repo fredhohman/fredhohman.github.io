@@ -19,7 +19,7 @@ I carry a custom [Timbuk2 messenger bag][timbuk2] for just about everything. If 
 	<figcaption>Apple Pi. Get it?</figcaption>
 </figure>
 
-Ever since I was 10 I've been writing with [PaperMate Clearpoint 0.5mm mechanical pencils][pencil] which write well on unlined [Moleskine journals][moleskin-large] and blank computer paper (lines get in the way of math!).
+Ever since I was 10 I've been writing with [PaperMate Clearpoint 0.5mm mechanical pencils][pencil] on blank computer paper (lines get in the way of math!). More recently I've been carrying a single [Moleskin sketchbook][moleskin-sketch] for meetings and research notes. The size is perfect for an all-in-one notebook, and the paper in the sketchbook from the [Art Collection][moleskin-art] is 111lb, which is much thicker than the average Moleskin notebook (it irks me when ink or pencil bleeds through paper). 
 
 When I am out and about, I carry a [small Moleskin][moleskin] in my back pocket and clip an old [REI carabiner][carabiner] to my belt to hold my keys.
 
@@ -128,6 +128,8 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 [the-setup]: https://usesthis.com "The Setup."
 [ps]: http://paulstamatiou.com/stuff-i-use/ "Paul Stamatiou."
 [watch]: https://support.apple.com/kb/SP717?locale=en_US "Apple Watch Sport."
-[moleskin-large]: http://www.moleskine.com/us/collections/model/product/set-of-3-plain-cahier-journals-black-extra-large "Moleskin."
+[moleskin-sketch]: https://store.moleskine.com/usa/notebooks/creativity/sketchbook/p39?lang=en-us&ic=arKvSg%3D%3D "Moleskin Sketchbook."
 [the-setup]: https://usesthis.com "The Setup."
 [fluid]: http://fluidapp.com "Fluid App."
+
+[moleskin-art]: http://www.moleskine.com/microsites/artcollection "Moleskin Art Collection."
