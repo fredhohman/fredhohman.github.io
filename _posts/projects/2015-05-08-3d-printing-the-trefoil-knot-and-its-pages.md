@@ -19,11 +19,23 @@ My project involved programming, generating, and manipulating variations of the 
 During the summer of 2014 I was asked to guest post on [Dr. Laura Taalman’s][lt] 3D printing blog MakerHome. She printed one object every day for a year, including my trefoil knot. I wrote a two-part piece for her website which described in detail the mathematical theory governing my research, the visualization techniques used, and models I had printed thus far. You can read the [introduction here][mhi], [part I here][mh1], and [part II here][mh2]. 
 
 
-I was then invited to repost this piece on [Wolfram Community][wc]. At the end of 2014 the project spread around the internet and was written about by [3DPrint.com][3dprint] amongst other mathematics blogs, such as this Sketches of Topology post titled ["Mathematics with 3D Printing.”][sot] 
+I was then invited to repost this piece on [Wolfram Community][wc]. At the end of 2014 the project spread around the internet and was written about by [3DPrint.com][3dprint] amongst other mathematics blogs, such as this Sketches of Topology post titled ["Mathematics with 3D Printing.”][sot]
 
 &nbsp;
 
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" lang="en"><p>One of our users <a href="https://twitter.com/fredhohman">@fredhohman</a> has written a great post about printing a 3D trefoil knot <a href="http://t.co/9J2YenPoRR">http://t.co/9J2YenPoRR</a> <a href="http://t.co/y63hxhT574">pic.twitter.com/y63hxhT574</a></p>&mdash; Wolfram (@WolframResearch) <a href="https://twitter.com/WolframResearch/status/540801977484328960">December 5, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- &nbsp;
+
+<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">One of our users <a href="https://twitter.com/fredhohman">@fredhohman</a> has written a great post about printing a 3D trefoil knot <a href="http://t.co/9J2YenPoRR">http://t.co/9J2YenPoRR</a> <a href="http://t.co/y63hxhT574">pic.twitter.com/y63hxhT574</a></p>&mdash; Wolfram (@WolframResearch) <a href="https://twitter.com/WolframResearch/status/540801977484328960">December 5, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+&nbsp;
+
+<blockquote class="twitter-tweet tw-align-center" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Beautiful 3D prints of puzzles based on open-book trefoil knot decompositions by <a href="https://twitter.com/fredhohman">@fredhohman</a>: <a href="http://t.co/amrWFoYRkI">http://t.co/amrWFoYRkI</a> <a href="http://t.co/x7gP3U5h2s">pic.twitter.com/x7gP3U5h2s</a></p>&mdash; Laura Taalman (@mathgrrl) <a href="https://twitter.com/mathgrrl/status/636971149252001792">August 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- &nbsp;
+
+<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">Beautiful 3D prints of puzzles based on open-book trefoil knot decompositions by <a href="https://twitter.com/fredhohman">@fredhohman</a>: <a href="http://t.co/amrWFoYRkI">http://t.co/amrWFoYRkI</a> <a href="http://t.co/x7gP3U5h2s">pic.twitter.com/x7gP3U5h2s</a></p>&mdash; Laura Taalman (@mathgrrl) <a href="https://twitter.com/mathgrrl/status/636971149252001792">August 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 &nbsp;
 
