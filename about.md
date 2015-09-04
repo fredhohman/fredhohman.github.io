@@ -115,6 +115,7 @@ Graduated from UGA
 [uga]: http://www.uga.edu "University of Georgia."
 [mined]: http://mined.gatech.edu "GT MINED Research Group."
 [thingiverse]: http://www.thingiverse.com/fredhohman/about "My Thingiverse Profile."
+[dg]: http://euclidlab.org/david-gay/ "Dr. David Gay."
 [reu]: http://faculty.fairfield.edu/srafalski/reu/ "Fairfield University REU."
 [sr]: http://www.shanonreckinger.com "Dr. Shanon Reckinger."
 [apsdfd]: http://www.aps.org/units/dfd/ "American Physical Society Division of Fluid Dynamics."
