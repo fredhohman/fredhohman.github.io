@@ -5,11 +5,13 @@ categories: blog
 comments: true
 ---
 
-Georgia Tech, being located in Midtown Atlanta, is said to have gigabit internet on campus. Atlanta has been targetted by Google to [bring Google Fiber to parts of the city][fiber], with AT&T and Comcast [soon to follow][comcast].
+Georgia Tech, being located in Midtown Atlanta, has supposedly had gigabit internet on campus for some time now. I wanted to test the speed for myself.
 
-I wanted to test the speed for myself, so I loaded up [speedtest.net][speedtest], plugged in my laptop to an ethernet port in the Klaus Advanced Computing Building (Gerogia Tech's College of Computing), and clicked "Begin Test". 
 <!--more-->
-The results are in a gif below.
+
+To do this, I simply loaded up [speedtest.net][speedtest], plugged in my laptop to an ethernet port in the Klaus Advanced Computing Building (Gerogia Tech's College of Computing), and clicked "Begin Test". 
+
+The results are in two `.gif`'s below: one for download speed and one for upload speed.
 
 <figure>
   <video   class="lhalf" width="100%" autoplay loop poster="http://thumbs.gfycat.com/SoulfulMelodicBallpython-poster.jpg">
@@ -23,7 +25,11 @@ The results are in a gif below.
   <figcaption>Fast internet is fast.</figcaption>
 </figure>
 
-*922.43 Mbps* download and *932.64 Mbps* upload. That's awfully quick. Needless to say, I'm excited to be using gigabit on campus during graduate school. I did a quick Google search for "georgia tech internet speed" and sure enough, I found the following statsitic in a tweet:
+*922.43 Mbps* download and *932.64 Mbps* upload. That's awfully quick[^fn-speed]. To put the download speed into perspective, it's roughly 37x faster than what my parents pay for outside of Atlanta, and about 12x faster than what my roommate and I pay for in the city. 
+
+Maybe one day soon I can get gigabit internet in my apartment since Atlanta has been targeted by Google to [bring Google Fiber to parts of the city][fiber], with AT&T and Comcast [soon to follow][comcast].
+
+Needless to say, I'm excited to be using gigabit on campus during graduate school. I did a quick Google search for "georgia tech internet speed" and sure enough, I found the following statistic in a tweet:
 
 &nbsp;
 
@@ -31,7 +37,7 @@ The results are in a gif below.
 
 &nbsp;
 
-Just a few days after my findings, someone I follow on Twitter posted his unusually high LTE download speed, so I decided to share GT's speed with him:
+Just a few days after my findings, someone I follow on Twitter posted his unusually high LTE download speed, so I decided to boast about GT's speed:
 
 &nbsp;
 
@@ -40,3 +46,5 @@ Just a few days after my findings, someone I follow on Twitter posted his unusua
 [fiber]: https://fiber.google.com/cities/atlanta/ "Google Fiber Atlanta."
 [comcast]: http://arstechnica.com/business/2015/06/comcast-2gbps-fiber-to-launch-in-a-bunch-of-markets-this-month/ "Comcast Gigabit Internet."
 [speedtest]: http://www.speedtest.net "speedtest.net"
+
+[^fn-speed]: Like, really fast.
