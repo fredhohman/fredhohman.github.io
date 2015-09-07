@@ -2,6 +2,7 @@
 layout: post
 title: Georgia Tech Gigabit Internet
 categories: blog
+permalink: blog/georgia-tech-gigabit-internet
 comments: true
 ---
 
