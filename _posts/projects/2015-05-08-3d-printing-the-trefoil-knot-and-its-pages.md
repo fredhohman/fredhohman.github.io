@@ -18,24 +18,19 @@ My project involved programming, generating, and manipulating variations of the 
 
 During the summer of 2014 I was asked to guest post on [Dr. Laura Taalman’s][lt] 3D printing blog MakerHome. She printed one object every day for a year, including my trefoil knot. I wrote a two-part piece for her website which described in detail the mathematical theory governing my research, the visualization techniques used, and models I had printed thus far. You can read the [introduction here][mhi], [part I here][mh1], and [part II here][mh2]. 
 
-
-I was then invited to repost this piece on [Wolfram Community][wc]. At the end of 2014 the project spread around the internet and was written about by [3DPrint.com][3dprint] amongst other mathematics blogs, such as this Sketches of Topology post titled ["Mathematics with 3D Printing.”][sot]
+I was then invited to repost this piece on [Wolfram Community][wc]. At the end of 2014 the project spread around the internet and was [written about by 3DPrint.com][3dprint-1] amongst other mathematics blogs, such as this Sketches of Topology post titled ["Mathematics with 3D Printing.”][sot] Most recently, 3DPrint.com [wrote a second piece][3dprint-2] about the completed project.
 
 &nbsp;
 
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" lang="en"><p>One of our users <a href="https://twitter.com/fredhohman">@fredhohman</a> has written a great post about printing a 3D trefoil knot <a href="http://t.co/9J2YenPoRR">http://t.co/9J2YenPoRR</a> <a href="http://t.co/y63hxhT574">pic.twitter.com/y63hxhT574</a></p>&mdash; Wolfram (@WolframResearch) <a href="https://twitter.com/WolframResearch/status/540801977484328960">December 5, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<!-- &nbsp;
-
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">One of our users <a href="https://twitter.com/fredhohman">@fredhohman</a> has written a great post about printing a 3D trefoil knot <a href="http://t.co/9J2YenPoRR">http://t.co/9J2YenPoRR</a> <a href="http://t.co/y63hxhT574">pic.twitter.com/y63hxhT574</a></p>&mdash; Wolfram (@WolframResearch) <a href="https://twitter.com/WolframResearch/status/540801977484328960">December 5, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-
 &nbsp;
 
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Beautiful 3D prints of puzzles based on open-book trefoil knot decompositions by <a href="https://twitter.com/fredhohman">@fredhohman</a>: <a href="http://t.co/amrWFoYRkI">http://t.co/amrWFoYRkI</a> <a href="http://t.co/x7gP3U5h2s">pic.twitter.com/x7gP3U5h2s</a></p>&mdash; Laura Taalman (@mathgrrl) <a href="https://twitter.com/mathgrrl/status/636971149252001792">August 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<!-- &nbsp;
+&nbsp;
 
-<blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">Beautiful 3D prints of puzzles based on open-book trefoil knot decompositions by <a href="https://twitter.com/fredhohman">@fredhohman</a>: <a href="http://t.co/amrWFoYRkI">http://t.co/amrWFoYRkI</a> <a href="http://t.co/x7gP3U5h2s">pic.twitter.com/x7gP3U5h2s</a></p>&mdash; Laura Taalman (@mathgrrl) <a href="https://twitter.com/mathgrrl/status/636971149252001792">August 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Georgia Tech PhD Student Puts Finishing Touches on 3D Printed Trumpety Trefoil&#10;<a href="http://t.co/ChZzkoYxat">http://t.co/ChZzkoYxat</a> <a href="http://t.co/Tny3D2IxuA">pic.twitter.com/Tny3D2IxuA</a></p>&mdash; 3D Printing News (@My3DPrinting) <a href="https://twitter.com/My3DPrinting/status/642735695115644928">September 12, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 &nbsp;
 
@@ -109,7 +104,8 @@ You can download my models from [my Thingiverse profile][thingiverse] to 3D prin
 [mh1]: http://makerhome.blogspot.com/2014/08/day-355-saturday-guest-fred-hohman-and.html "MakerHome Feature Part I."
 [mh2]: http://makerhome.blogspot.com/2014/08/day-356-sunday-guest-fred-hohman-and.html "MakerHome Feature Part II."
 [wc]: http://community.wolfram.com/groups/-/m/t/401983?source=frontpage "Wolfram Community Post."
-[3dprint]: http://3dprint.com/28780/math-3d-printed-trefoil-knot/ "3DPrint.com Feature."
+[3dprint-1]: http://3dprint.com/28780/math-3d-printed-trefoil-knot/ "3DPrint.com Feature I."
+[3dprint-2]: http://3dprint.com/95127/3d-printed-trumpety-trefoil/ "#DPrint.com Feature II."
 [sot]: http://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/ "Sketches of Topology Feature."
 [thingiverse]: http://www.thingiverse.com/fredhohman/overview "My Thingiverse Profile."
 [curo2014]: {{ site.url }}/assets/curo_symposium_2014.pdf
