@@ -30,7 +30,7 @@ I was then invited to repost this piece on [Wolfram Community][wc]. At the end o
 
 &nbsp;
 
-<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Georgia Tech PhD Student Puts Finishing Touches on 3D Printed Trumpety Trefoil&#10;<a href="http://t.co/ChZzkoYxat">http://t.co/ChZzkoYxat</a> <a href="http://t.co/Tny3D2IxuA">pic.twitter.com/Tny3D2IxuA</a></p>&mdash; 3D Printing News (@My3DPrinting) <a href="https://twitter.com/My3DPrinting/status/642735695115644928">September 12, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Georgia Tech PhD Student Puts Finishing Touches on 3D Printed Trumpety Trefoil&#10;<a href="http://t.co/ChZzkoYxat">http://t.co/ChZzkoYxat</a> <a href="http://t.co/Tny3D2IxuA">pic.twitter.com/Tny3D2IxuA</a></p>&mdash; 3D Printing News (@My3DPrinting) <a href="https://twitter.com/My3DPrinting/status/642735695115644928">September 12, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 &nbsp;
 
