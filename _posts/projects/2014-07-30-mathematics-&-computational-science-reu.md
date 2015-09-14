@@ -44,6 +44,7 @@ The project has also been [featured by MITgcm][mitgcm-feature].
 * [Theresa Morrison][tm]
 * [Dr. Shanon Reckinger][sr]
 * [Dr. Scott Reckinger][scott]
+* Mateus Guimaraes
 
 ##Features
 * [MITgcm Feature][mitgcm-feature]
