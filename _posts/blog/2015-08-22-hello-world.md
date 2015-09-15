@@ -10,7 +10,7 @@ Welcome to the new `fredhohman.com`.
 
 <!--more-->
 
-##What's going on?
+## What's going on?
 2015 has been a big year so far. I graduated from the University of Georgia with a B.S. in Mathematics and B.S. in Physics. During the past four years I spent there I experienced living in the lovely artistic and historic city of Athens, GA, met lifelong friends, and discovered what truly  interests me.
 
 >"So what do you want to do with a Math and Physics degree?"
@@ -28,7 +28,7 @@ For those that don't know, *Computational Science* is indeed different than *Com
 
 But I usually just tell people I'm going to make computers do things with numbers.
 
-##But what about this website?
+## But what about this website?
 
 As I start my Ph.D. at Georgia Tech this Fall I decided I needed an easier way to update my website. I also wanted to add a blog page to provide continual communication and add a bit of personality to the site. 
 

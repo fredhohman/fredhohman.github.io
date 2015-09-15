@@ -63,8 +63,8 @@ You can download my models from [my Thingiverse profile][thingiverse] to 3D prin
 
 ##Features
 * [MakerHome Introduction][mhi], [Part I][mh1], [Part II][mh2]
-* [Wolfram Community][wc]
 * [3DPrint.com Article I][3dprint-1], [Article II][3dprint-2]
+* [Wolfram Community Announcement][wc]
 * [Sketches of Topology Post][sot]
 
 ##Gallery
