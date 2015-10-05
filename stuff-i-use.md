@@ -29,11 +29,11 @@ My primary computer is [early 2011 15" MacBook Pro][mbp] with the high-resolutio
 When I'm at my desk I also use a [Logitech G502 mouse][mouse] and an [Asus 27" 1440p monitor][monitor]. 
 
 ###Mobile
-I've always had an iPhone for its simplicity, app abundance, and camera. I'm currently carrying a 64GB space gray [iPhone 6][iphone] and a [fourth-gen iPad][ipad].
+I've always had an iPhone for its simplicity, app abundance, and camera. I'm currently carrying a 64GB space gray [iPhone 6S+][iphone] and a [fourth-gen iPad][ipad].
 
 <figure>
 	<img class="iphone" src="/images/iphone.png" alt="My iPhone Homescreen.">
-	<figcaption>My iPhone 6 Homescreen.</figcaption>
+	<figcaption>My old iPhone 6 Homescreen.</figcaption>
 </figure>
 
 On my homepage sits many of the mobile versions of the desktop services I use on OS X, but notable mentions include [Fantastical][fantastical] for calendar and reminders, [Dark Sky][darksky] for down to the minute weather predictions (necessary for taking bike rides on campus), [Inbox][inbox] by Gmail for email, and [Sleep Cycle][sleep-cycle] for a data-centric alarm clock.
@@ -83,7 +83,7 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 [imac]: http://support.apple.com/kb/SP28?viewlocale=en_US&locale=en_US "Late 2007 iMac"
 [mouse]: http://gaming.logitech.com/en-us/product/g502-proteus-core-tunable-gaming-mouse "Logitech g502 Mouse."
 [monitor]: http://www.asus.com/us/Commercial_Monitors_Projectors/PB278Q/ "Asus 1440p Monitor."
-[iphone]: http://support.apple.com/kb/SP705?viewlocale=en_US&locale=en_US "iPhone 6."
+[iphone]: http://www.apple.com/iphone-6s/specs/ "iPhone 6S+s."
 [ipad]: http://support.apple.com/kb/SP662?viewlocale=en_US&locale=en_US "4th Gen iPad."
 [fantastical]: https://flexibits.com/fantastical-iphone "Fantastical."
 [darksky]: http://darkskyapp.com "Dark Sky."

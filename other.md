@@ -11,7 +11,7 @@ I like finding and using new tools to do things. [The Setup][the-setup] in parti
 I've been sharing music with friends for as long as I can remember, so I started making monthly public playlists so anyone can tune in. Each playlist contains ten tracks and links to Spotify, Apple Music, and Youtube. For fans of indie rock, electronic music, and related genres.
 
 #[Photos][photos]
-I'm no professional photographer, but sometimes I take pictures. I shoot with a [Nikon D80][d80], but I always have an [iPhone 6][iphone] at my side. You can also find me on [Instagram][insta].
+I'm no professional photographer, but sometimes I take pictures. I shoot with a [Nikon D80][d80], but I always have an [iPhone 6S+][iphone] at my side. You can also find me on [Instagram][insta].
 
 #[Archive][archive]
 The one-stop shop for everything on `fredhohman.com`, including all posts from the Blog, Monthly Music, and Projects. 
@@ -23,5 +23,5 @@ The one-stop shop for everything on `fredhohman.com`, including all posts from t
 
 [d80]: http://www.nikonusa.com/en/Nikon-Products/Product-Archive/dslr-cameras/D80.html "Nikon D80."
 [insta]: https://instagram.com/fredhohman/ "My Instagram Account."
-[iphone]: http://support.apple.com/kb/SP705?viewlocale=en_US&locale=en_US "iPhone."
+[iphone]: http://www.apple.com/iphone-6s/specs/ "iPhone 6S+."
 [the-setup]: https://usesthis.com "The Setup."

@@ -4,7 +4,7 @@ title: Photos
 permalink: photos/
 ---
 
-I'm no professional photographer, but sometimes I take pictures. I shoot with a [Nikon D80][d80], but I always have an [iPhone 6][iphone] at my side. You can also find me on [Instagram][insta].
+I'm no professional photographer, but sometimes I take pictures. I shoot with a [Nikon D80][d80], but I always have an [iPhone 6S+][iphone] at my side. You can also find me on [Instagram][insta].
 
 <!-- ## Instagram -->
 
@@ -50,6 +50,6 @@ I'm no professional photographer, but sometimes I take pictures. I shoot with a 
 
 &nbsp;
 
-[iphone]: http://support.apple.com/kb/SP705?viewlocale=en_US&locale=en_US "iPhone 6."
+[iphone]: http://www.apple.com/iphone-6s/specs/ "iPhone 6S+."
 [d80]: http://www.nikonusa.com/en/Nikon-Products/Product-Archive/dslr-cameras/D80.html "Nikon D80."
 [insta]: https://instagram.com/fredhohman/ "My Instagram Account."
