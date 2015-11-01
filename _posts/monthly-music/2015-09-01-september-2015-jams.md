@@ -17,8 +17,8 @@ comments: true
 10. Hahaha Pt. 2 – Kishi Bashi
 
 [View in Spotify][spotify].  
-[View in Apple Music][apple music].  
-[View on Youtube][youtube].
+<!-- [View in Apple Music][apple music].  
+ -->[View on Youtube][youtube].
 
 [spotify]: https://open.spotify.com/user/fred.hohman/playlist/1ERZJceGnb885ewBJb66wP "View in Spotify."
 [apple music]: https://itunes.apple.com/us/playlist/september-2015-jams/idpl.02e7a7b2544f4f8dab357a4ec678e4e3 "View in iTunes."
