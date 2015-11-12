@@ -8,7 +8,8 @@ relative_permalinks: true
 title:               Fred Hohman
 tagline:             CSE Ph.D. Student at GT
 url:                 http://fredhohman.com
-paginate:            5
+# gems:                [jekyll-paginate]
+# paginate:            5
 baseurl:             ""
 
 # Assets
@@ -35,6 +36,6 @@ nav_list:
   Blog: '/blog'
   Other: '/other'
 
-paginate_path: "blog/page:num/"
+# paginate_path: "blog/page:num/"
 
 excerpt_separator: <!--more-->
