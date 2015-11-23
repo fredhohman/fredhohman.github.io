@@ -55,5 +55,5 @@ I like to write about the [Stuff I Use][stuff-i-use], take [Photos][photos], and
 [coc]: http://www.cc.gatech.edu "GT College of Computing."
 [intj]: http://en.wikipedia.org/wiki/INTJ "INTJ."
 
-[cv]: {{ site.url }}/assests/fredhohman-cv.pdf "My CV."
-[resume]: {{ site.url }}/assests/fredhohman-resume.pdf "My Resume."
+[cv]: {{ site.url }}/assets/fredhohman-cv.pdf "My CV."
+[resume]: {{ site.url }}/assets/fredhohman-resume.pdf "My Resume."

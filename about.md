@@ -161,5 +161,5 @@ Graduated from UGA
 [stat4510]: http://en.wikipedia.org/wiki/Mathematical_statistics "Mathematical Statistics I."
 [stat4520]: http://en.wikipedia.org/wiki/Mathematical_statistics "Mathematical Statistics II."
 
-[cv]: {{ site.url }}/assests/fredhohman-cv.pdf "My CV."
-[resume]: {{ site.url }}/assests/fredhohman-resume.pdf "My Resume."
+[cv]: {{ site.url }}/assets/fredhohman-cv.pdf "My CV."
+[resume]: {{ site.url }}/assets/fredhohman-resume.pdf "My Resume."
