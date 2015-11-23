@@ -9,13 +9,15 @@ title: Home
 
 I’m a Ph.D. student at [Georgia Tech][gt] studying [Computational Science and Engineering][cse] in the [College of Computing][coc].
 
+Here's my [CV][cv] and [resume][resume].
+
 <figure>
   <img class="full" src="/images/me.JPG" alt="That's me.">
   <figcaption>That's me.</figcaption>
 </figure>
 
 #[About][about]
-Besides my studies, I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia. I’m interested in a multitude of topics spanning the various disciplines of **applied mathematics**, **data science**, **digital design**, **visualization**, and **consumer technology**.
+Besides my studies, I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia. I’m interested in a multitude of topics spanning the various disciplines of **data science**, **visual analytics**, **applied mathematics**, **digital design**, and **consumer technology**.
 
 #[Projects][projects]
 Some of my past endeavors including research projects, academic course projects, and anything else I find interesting.
@@ -52,3 +54,6 @@ I like to write about the [Stuff I Use][stuff-i-use], take [Photos][photos], and
 [cse]: http://cse.gatech.edu "GT Computational Science and Engineering."
 [coc]: http://www.cc.gatech.edu "GT College of Computing."
 [intj]: http://en.wikipedia.org/wiki/INTJ "INTJ."
+
+[cv]: {{ site.url }}/assests/fredhohman-cv.pdf "My CV."
+[resume]: {{ site.url }}/assests/fredhohman-resume.pdf "My Resume."

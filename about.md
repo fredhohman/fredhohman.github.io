@@ -12,6 +12,8 @@ I’m a Ph.D. student at [Georgia Tech][gt] studying [Computational Science and 
 
 But I usually just tell people I make computers do things with numbers.
 
+Here's my [CV][cv] and [resume][resume].
+
 <figure>
   <img class="full" src="/images/me3.jpg" alt="That's me.">
   <figcaption>That's me.</figcaption>
@@ -35,11 +37,11 @@ I participated in Fairfield University's [Mathematics & Computational Science RE
   <figcaption>Sitting in NYC.</figcaption>
 </figure>
 
-Besides my studies, I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia. I’m interested in a multitude of topics spanning the various disciplines of **applied mathematics**, **data science**, **digital design**, **visualization**, and **consumer technology**.
+Besides my studies, I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia. I’m interested in a multitude of topics spanning the various disciplines of **data science**, **visual analytics**, **applied mathematics**, **digital design**, and **consumer technology**.
 
 Considered by my family and peers to be a resident techie, I enjoy staying current with consumer technology and computer UI/UX design. When I’m not at my desk crunching numbers, I enjoy playing and discovering music, cycling, and riding motorcycles.
 
-##Everything Else
+<!-- ##Everything Else
 
 #####2015
 Became Ph.D. student at GT  
@@ -52,7 +54,7 @@ Graduated from UGA
 
 #####2013
 [Invited to share my thoughts on Google Glass for The Red & Black][randb]  
-`fredhohman.com` was born
+`fredhohman.com` was born -->
 
 ##Coursework
 
@@ -158,3 +160,6 @@ Graduated from UGA
 
 [stat4510]: http://en.wikipedia.org/wiki/Mathematical_statistics "Mathematical Statistics I."
 [stat4520]: http://en.wikipedia.org/wiki/Mathematical_statistics "Mathematical Statistics II."
+
+[cv]: {{ site.url }}/assests/fredhohman-cv.pdf "My CV."
+[resume]: {{ site.url }}/assests/fredhohman-resume.pdf "My Resume."
