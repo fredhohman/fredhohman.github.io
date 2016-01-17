@@ -62,8 +62,11 @@ Graduated from UGA
 
 * Intro to Computational Science and Engineering ([CSE 6001][cse6010])
 * Computational Problem Solving ([CSE 6010][cse6010])
+* Numerical Linear Algebra ([CSE/MATH 6643][cse6643]) 
+* Modeling and Simulation ([CSE 6730][cse6730])
 * Material Informatics ([CSE 8803/ME 8883][cse8803])
-* Visualization Seminar ([CS 8001 VIS][cs8001-vis])
+* Data Visualization Seminar ([CS 8001 VIS][cs8001-vis])
+* Special Problems in Personal Visual Analytics ([CS 8903][cs8903])
 
 #####University of Georgia
 
@@ -130,8 +133,11 @@ Graduated from UGA
 
 [cse6001]: https://en.wikipedia.org/wiki/Computational_science "Computational Science and Engineering."
 [cse6010]: https://en.wikipedia.org/wiki/Computational_science "Computational Science and Engineering."
+[cse6643]: https://en.wikipedia.org/wiki/Numerical_linear_algebra "Numerial Linear Algebra."
+[cse6730]: https://en.wikipedia.org/wiki/Modeling_and_simulation "Modeling and Simulation."
 [cse8803]: https://en.wikipedia.org/wiki/Materials_informatics "Material Informatics."
-[cs8001-vis]: https://en.wikipedia.org/wiki/Visualization_(computer_graphics) "Visualization."
+[cs8001-vis]: https://en.wikipedia.org/wiki/Visualization_(computer_graphics) "Data Visualization."
+[cs8903]: https://en.wikipedia.org/wiki/Visual_analytics "Visual Analytics."
 
 [math2260]: http://en.wikipedia.org/wiki/Calculus "Calculus II for Science and Engineering."
 [math2500]: http://en.wikipedia.org/wiki/Multivariable_calculus "Multivariable Calculus."
