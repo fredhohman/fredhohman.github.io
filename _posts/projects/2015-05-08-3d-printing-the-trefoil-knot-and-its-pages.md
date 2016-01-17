@@ -24,19 +24,11 @@ I was then invited to repost this piece on [Wolfram Community][wc]. At the end o
 
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" lang="en"><p>One of our users <a href="https://twitter.com/fredhohman">@fredhohman</a> has written a great post about printing a 3D trefoil knot <a href="http://t.co/9J2YenPoRR">http://t.co/9J2YenPoRR</a> <a href="http://t.co/y63hxhT574">pic.twitter.com/y63hxhT574</a></p>&mdash; Wolfram (@WolframResearch) <a href="https://twitter.com/WolframResearch/status/540801977484328960">December 5, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-&nbsp;
-
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Beautiful 3D prints of puzzles based on open-book trefoil knot decompositions by <a href="https://twitter.com/fredhohman">@fredhohman</a>: <a href="http://t.co/amrWFoYRkI">http://t.co/amrWFoYRkI</a> <a href="http://t.co/x7gP3U5h2s">pic.twitter.com/x7gP3U5h2s</a></p>&mdash; Laura Taalman (@mathgrrl) <a href="https://twitter.com/mathgrrl/status/636971149252001792">August 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-&nbsp;
 
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Georgia Tech PhD Student Puts Finishing Touches on 3D Printed Trumpety Trefoil&#10;<a href="http://t.co/ChZzkoYxat">http://t.co/ChZzkoYxat</a> <a href="http://t.co/Tny3D2IxuA">pic.twitter.com/Tny3D2IxuA</a></p>&mdash; 3D Printing News (@My3DPrinting) <a href="https://twitter.com/My3DPrinting/status/642735695115644928">September 12, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-&nbsp;
-
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" lang="en"><p lang="en" dir="ltr">Mathematics Student Creates 3D Printed Puzzle of Trefoil Knot, Gains Math Community’s Interest <a href="http://t.co/2rHMioiPjc">http://t.co/2rHMioiPjc</a> <a href="http://t.co/ux1FyJqPjl">pic.twitter.com/ux1FyJqPjl</a></p>&mdash; 3D Printing News (@My3DPrinting) <a href="https://twitter.com/My3DPrinting/status/541121153168080897">December 6, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-&nbsp;
 
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">Mathematics Student Creates 3D Printed Puzzle of Trefoil Knot, Gains Math Community’s Interest <a href="http://t.co/4l81gfN3Tk">http://t.co/4l81gfN3Tk</a> <a href="https://twitter.com/thingiverse">@thingiverse</a></p>&mdash; Eddie Krassenstein (@EddieKrassenste) <a href="https://twitter.com/EddieKrassenste/status/540833517178195968">December 5, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
