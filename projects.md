@@ -6,13 +6,16 @@ permalink: projects/
 
 Here you will find some of my past endeavors including research projects, academic course projects, and anything else I find interesting.
 
-###Undergraduate Thesis
+### Research
+* [Material Informatics: Grain Growth][mic]
+
+### Undergraduate Thesis
 * [3D Printing the Trefoil Knot and its Pages][trefoil]
 
-###REU
+### REU
 * [Math & Computational Science REU][reu]
 
-###Academic
+### Academic
 * [UGA Undergrad Course Projects][uga-course]
 	* Image Compression
 	* Railgun Simulation
@@ -21,7 +24,8 @@ Here you will find some of my past endeavors including research projects, academ
 * [Cube Decomposition Trophy][trophy]
 * [UGA Keychain][keychain]
 
-###Other
+### Other
+* `fredhohman.com`: My Jekyll Website (coming soon!)
 * [Road Bike Restoration][bike]
 * [Raspberry Pi Case][rpi]
 
@@ -52,3 +56,4 @@ Here you will find some of my past endeavors including research projects, academ
 [keychain]: {{ site.url }}/projects/uga-keychain "UGA Keychain."
 [bike]: {{ site.url }}/projects/road-bike-restoration "Road Bike Restoration."
 [rpi]: {{ site.url }}/projects/raspberry-pi-case "Raspberry Pi Case."
+[mic]: {{ site.url }}/projects/material-informatics-grain-growth "Material Informatics Grain Growth."
