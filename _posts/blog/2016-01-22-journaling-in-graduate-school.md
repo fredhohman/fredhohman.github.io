@@ -6,7 +6,7 @@ permalink: blog/journaling-in-graduate-school
 comments: true
 ---
 
-How I started a daily journal to document every day of my graduate career and why I think it's a good idea.
+How I started a daily journal to document every day of my graduate career and why I think journaling in general is a good idea.
 
 <!--more-->
 
