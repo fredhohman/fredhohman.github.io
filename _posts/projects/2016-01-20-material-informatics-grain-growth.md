@@ -29,7 +29,7 @@ We do this by running initial simulations to train our model on, perform analyse
 <figure>
   <img class="lhalf" src="/images/projects/grain-growth/pca-in.gif" alt="An example grain growth simulation.">
     <img class="rhalf" src="/images/projects/grain-growth/pca-out.gif" alt="An example grain growth simulation.">
-  <figcaption>Low dimensional representation of our inputs and outputs of our model.</figcaption>
+  <figcaption>Low dimensional representation of the inputs and outputs of our model.</figcaption>
 </figure>
 
 Results so far looking promising, but we are still putting the final touches on the project report!
