@@ -11,7 +11,7 @@ I like finding and using new tools to do things. [The Setup][the-setup] in parti
 * TOC
 {:toc}
 
-###What's in my Bag
+### What's in my Bag
 I carry a custom [Timbuk2 messenger bag][timbuk2] for just about everything. If that isn't enough space, I wear a [Jansport Classic backpack][jansport] for backup.
 
 <figure>
@@ -23,12 +23,12 @@ Ever since I was 10 I've been writing with [PaperMate Clearpoint 0.5mm mechanica
 
 When I am out and about, I carry a [small Moleskin][moleskin] in my back pocket and clip an old [REI carabiner][carabiner] to my belt to hold my keys.
 
-###Computer
+### Computer
 My primary computer is [early 2011 15" MacBook Pro][mbp] with the high-resolution screen upgrade, which replaced a [late 2007 iMac][imac] (yes—the white one) which I have had for nearly 8 years now. I plan to upgrade to the 15" Retina MacBook Pro once the next refresh is released. 
 
 When I'm at my desk I also use a [Logitech G502 mouse][mouse] and an [Asus 27" 1440p monitor][monitor]. 
 
-###Mobile
+### Mobile
 I've always had an iPhone for its simplicity, app abundance, and camera. I'm currently carrying a 64GB space gray [iPhone 6S+][iphone] and a [fourth-gen iPad][ipad].
 
 <figure>
@@ -38,39 +38,39 @@ I've always had an iPhone for its simplicity, app abundance, and camera. I'm cur
 
 On my homepage sits many of the mobile versions of the desktop services I use on OS X, but notable mentions include [Fantastical][fantastical] for calendar and reminders, [Dark Sky][darksky] for down to the minute weather predictions (necessary for taking bike rides on campus), [Inbox][inbox] by Gmail for email, and [Sleep Cycle][sleep-cycle] for a data-centric alarm clock.
 
-I also wear a space gray [Apple Watch Sport][watch]. Necessary? No. Convenient? Certainly. 
+I also wear a space gray [Apple Watch Sport][watch] with the red sport band. Necessary? No. Stylish? A little. Convenient? Certainly. 
 
-###Services
+### Services
 If I'm working, driving, or biking, I'm probably listening to music on [Spotify][spotify]. I rely on [Dropbox][dropbox] as my primary digital workspace. For getting things done I use [Trello][trello] to organize coursework, research, and projects while occasionally creating simple lists in [Wunderlist][wunderlist]. I prefer Trello to other GTD services as it can export specific tasks to my calendar while preserving the task’s due date, time, and notes. 
 
 While browsing the internet and Twitter on [Tweetbot][tweetbot], I constantly save things to my [Pocket][pocket] to read whenever I get a few minutes, whereas I typically store long-term articles and ideas in [Evernote][evernote]. I also use [1Password][1password] for saving passwords and [Mint][mint] for tracking money. Oh, and [IFTTT][ifttt] can be handy too. 
 
-I write journal entries in [Day One][day-one] that contain research notes, a days summary, and interesting quotes and pieces I read. I've used Day One off and on for a few years but during the summer of 2015 I started writing daily entries to log every day of my time as a Ph.D. student so that upon graduataion I can look back and remember the details, both big and little. Daily writing also helps one communicate more effectively and easily.
+I write journal entries in [Day One][day-one] that contain research notes, a days summary, and interesting quotes and pieces I read. I've used Day One off and on for a few years but during the summer of 2015 [I started writing daily entries to log every day of my time as a Ph.D. student][dayone-blog] so that upon graduation I can look back and remember the details, both big and little. I believe daily writing also helps one communicate more effectively and easily.
 
-###Software
-I've used [Mathematica][mathematica] to symbolically solve multivariable calculus problems, numerically compute matrix transformations, and generate 3D models for my undergraduate thesis. While Mathematica is my go-to computational tool at UGA, at GT I'm primarily using [Python][python] and [MATLAB][matlab] for research.
+### Software
+I've used [Mathematica][mathematica] to symbolically solve multivariable calculus problems, numerically compute matrix transformations, and generate 3D models for my undergraduate thesis. While Mathematica was my go-to computational tool at UGA, at GT I'm primarily using [Python][python] and [MATLAB][matlab] for research.
 
 I typeset LaTeX in [TeXShop][texshop], take notes in Markdown with [Mou][mou], and write code in [Sublime Text][sublime].
 
-For 3D printing I use Mathematica and [OpenSCAD][openscad] to generate models, [Blender][blender] for computer renders and model/mesh manipulation, and [Makerware][makerware] for print preparation. If you are interested in creating your own models, [Tinkercad][tinkercad] is an easy-to-use, free modeling application that runs in the browser—no downloading required! 
+For 3D printing I use Mathematica and [OpenSCAD][openscad] to generate models, [Blender][blender] for computer renders and model/mesh manipulation, and [Makerware][makerware] for print preparation. If you are interested in creating your own models, [Tinkercad][tinkercad] is an easy-to-use, free modeling application that runs in the browser---no downloading required! 
 
-I tried [Pixelmator][pixelmator] instead of Adobe’s CC to avoid cost, and it’s been a great tool for visual mockups and light photo editing. I also prefer [Alfred][alfred] over OS X’s Spotlight to open files, launch applications, and search the internet, because it’s fast—*really* fast. 
+I tried [Pixelmator][pixelmator] instead of Adobe’s CC to avoid cost, and it’s been a great tool for visual mock-ups and light photo editing. I also prefer [Alfred][alfred] over OS X’s Spotlight to open files, launch applications, and search the internet, because it’s fast---*really* fast. 
 
 [Fluid App][fluid] is a great tool that turns a website into a Mac App. I primarily use it for Gmail and Trello.
 
-###Audio
+### Audio
 As I already said, I spend a majority of my day listening to music. So on both sides of my desk sit [KRK Rokit 5 studio monitors][rokit5] with an accompanying [Rokit 10s subwoofer][rokit10]. I run audio from my computer through a [Presonus Firestudio][firestudio]. 
 
-I carry [Shure SE215 isolating headphones/earbuds][shure] with me at all times as they provide excellent sound on the go and never fall out of my ears. 
+I carry [Shure SE215 isolating headphones/earbuds][shure] with me at all times as they provide excellent sound on the go, block out exterior noise, and most importantly never fall out of my ears. 
 
-###Photography
+### Photography
 As an amateur photographer, I'm shooting with a hand-me-down [Nikon D80][d80], but I always have my iPhone on me to snap a quick picture. A subset of my pictures are macro shots of 3D printed models, so a light tent is my most used accessory. 
 
-###Drums
+### Drums
 I received a [Sonor Force 2001 drum set][sonor] when I was 10, and I still play it today. I play [Sabian AA][aa] and [AAX cymbals][aax] and [Evans drumheads][evans]. My drumstick of choice is the [Vic Firth 5A][5a]. For quieter jam sessions, I make less noise on a [Roland electric drum set][roland]. 
 
-###Entertainment
-I found Microsoft's ideas more innovative than Sony's regarding the future of the living room so an [Xbox One][xbox] serves as my main entertainment system to play Halo, watch Netflix, and cheer on the Georgia Bulldogs on gameday. 
+### Entertainment
+I found Microsoft's ideas more innovative than Sony's regarding the future of the living room so an [Xbox One][xbox] serves as my main entertainment system to play Halo, watch Netflix, and cheer on the Georgia Bulldogs on gameday. A [Chromecast][chromecast] sticks out of my TV too. 
 
 When trying to relax, there is no better companion than an [Eno hammock][eno].
 
@@ -133,3 +133,7 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 [fluid]: http://fluidapp.com "Fluid App."
 
 [moleskin-art]: http://www.moleskine.com/microsites/artcollection "Moleskin Art Collection."
+
+[dayone-blog]: {{ site.baseurl }}/blog/journaling-in-graduate-school "Journaling in Graduate School."
+
+[chromecast]: https://www.google.com/intl/en_us/chromecast/?utm_source=chromecast.com "Chromecast."
