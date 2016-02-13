@@ -10,10 +10,6 @@ How I started a daily journal to document every day of my graduate career and wh
 
 <!--more-->
 
-<div class="message">
-<strong>Note:</strong> [Day One 2.0][dayone2] launched in early 2016 and improves nearly every aspect of the app. Highlight features include multiple journals, multiple pictures per entry, bulk entry management, and a complete visual overhaul.
-</div>
-
 ## Why Journal?
 
 If you were to ask me "why journal?" half a year ago I wouldn't have had an answer. I never quite knew what a journal was for, and often times would confuse *journal* with *diary*. 
@@ -43,6 +39,10 @@ I spent some time reviewing popular journaling apps and it quickly became clear 
 </figure>
 
 Each entry can include a picture, a log of one's activity for the day, and tags for easy filtering. I have mine synced with Dropbox to backup my entries and have the ability to write from either my phone or computer. There's a bunch of other useful features too, but instead of listing them here I'll let you read them on [Day One's website][dayone].
+
+<div class="message">
+<strong>Note:</strong> <a href="http://dayoneapp.com/2016/01/introducing-day-one-2/" alt="Day One 2.0.">Day One 2.0</a> launched in early 2016 and improves nearly every aspect of the app. Highlight features include multiple journals, multiple pictures per entry, bulk entry management, and a complete visual overhaul.
+</div>
 
 ## Journaling in Graduate School
 
@@ -129,4 +129,3 @@ I never thought I would write a journal, write about writing a journal[^fn-meta]
 [dayone]: http://dayoneapp.com "Day One App."
 [uses]: http://dayoneapp.com/category/uses/ "Day One Uses."
 [why-journal]: http://dayoneapp.com/journal-series/why-to-journal-and-why-day-one/] "Why Journal?"
-[dayone2]: http://dayoneapp.com/2016/01/introducing-day-one-2/ "Day One 2.0."
