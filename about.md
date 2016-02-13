@@ -4,7 +4,7 @@ title: Hello, I'm Frederick.
 permalink: about/
 ---
 
-####But you can call me Fred. Nice to meet you. 
+#### But you can call me Fred. Nice to meet you. 
 
 I’m a Ph.D. student at [Georgia Tech][gt] studying [Computational Science and Engineering][cse] in the [College of Computing][coc]. If you aren't familiar with CSE, Wikipedia says it's
 
@@ -25,7 +25,7 @@ I like to write about the [Stuff I Use][stuff-i-use], take [Photos][photos], and
 
 ***
 
-##The Longer Version
+## The Longer Version
 As a member of the [GT MINED][mined] research group, my research applies data science to speed up the process of new material manufacturing. 
 
 At UGA I explored 3D printing in topology by observing the physical geometry of shapes that are particularly hard to visualize. With the assistance of [Dr. David Gay][dg] I wrote about my research and [my 3D models][thingiverse] sparked interest in the mathematical, 3D printing community. My undergraduate thesis was titled [“3D Printing the Trefoil Knot and its Pages”][trefoil] and it included 3D printed models as well as a gallery of photographs.
@@ -56,9 +56,9 @@ Graduated from UGA
 [Invited to share my thoughts on Google Glass for The Red & Black][randb]  
 `fredhohman.com` was born -->
 
-##Coursework
+## Coursework
 
-#####Georgia Tech
+##### Georgia Tech
 
 * Intro to Computational Science and Engineering ([CSE 6001][cse6010])
 * Computational Problem Solving ([CSE 6010][cse6010])
@@ -68,9 +68,9 @@ Graduated from UGA
 * Data Visualization Seminar ([CS 8001 VIS][cs8001-vis])
 * Special Problems in Personal Visual Analytics ([CS 8903][cs8903])
 
-#####University of Georgia
+##### University of Georgia
 
-######Math
+###### Math
 
 * Calculus II for Science and Engineering ([MATH 2260][math2260])
 * Multivariable Calculus ([MATH 2500][math2260])
@@ -86,7 +86,7 @@ Graduated from UGA
 * Undergraduate Research II ([MATH 4970H][trefoil])
 * Honors Thesis ([MATH 4990H][trefoil])
 
-######Physics
+###### Physics
 
 * Advanced Introductory Physics I ([PHYS 1311/L][phys1311])
 * Advanced Introductory Physics II ([PHYS 1312/L][phys1312])
@@ -101,7 +101,7 @@ Graduated from UGA
 * Quantum Mechanics I ([PHYS 4701][phys4701])
 * Introduction to Nanotechnology ([PHYS 4800][phys4800])
 
-######Statistics
+###### Statistics
 
 * Mathematical Statistics I ([STAT 4510][stat4510])
 * Mathematical Statistics II ([STAT 4520][stat4520])
