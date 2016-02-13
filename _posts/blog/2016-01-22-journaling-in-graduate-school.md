@@ -2,7 +2,7 @@
 layout: post
 title: Journaling in Graduate School
 categories: blog
-permalink: blog/journaling-in-graduate-school
+<!-- permalink: blog/journaling-in-graduate-school -->
 comments: true
 ---
 
