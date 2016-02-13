@@ -47,19 +47,19 @@ You can download my models from [my Thingiverse profile][thingiverse] to 3D prin
 
 ***
 
-##Links
+## Links
 * [Undergraduate Thesis][thesis]
 * [My Thingiverse Profile][thingiverse]
 * [UGA CURO 2015 Symposium Presentation][curo2015]
 * [UGA CURO 2014 Symposiium Presentation][curo2014]
 
-##Features
+## Features
 * [MakerHome Introduction][mhi], [Part I][mh1], [Part II][mh2]
 * [3DPrint.com Article I][3dprint-1], [Article II][3dprint-2]
 * [Wolfram Community Announcement][wc]
 * [Sketches of Topology Post][sot]
 
-##Gallery
+## Gallery
 
 <figure>
   <img class="full" src="/images/projects/trefoil/trefoil_puzzle1.jpg" alt="">

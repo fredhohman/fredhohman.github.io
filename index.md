@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-#Hello, I'm Frederick.
+# Hello, I'm Frederick.
 
-####But you can call me Fred. Nice to meet you.
+#### But you can call me Fred. Nice to meet you.
 
 I’m a Ph.D. student at [Georgia Tech][gt] studying [Computational Science and Engineering][cse] in the [College of Computing][coc].
 
@@ -16,16 +16,16 @@ Here's my [CV][cv] and [resume][resume].
   <figcaption>That's me.</figcaption>
 </figure>
 
-#[About][about]
+# [About][about]
 Besides my studies, I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia. I’m interested in a multitude of topics spanning the various disciplines of **data science**, **visual analytics**, **applied mathematics**, **digital design**, and **consumer technology**.
 
-#[Projects][projects]
+# [Projects][projects]
 Some of my past endeavors including research projects, academic course projects, and anything else I find interesting.
 
-#[Blog][blog]
+# [Blog][blog]
 Things I think about, read, and discover that I share with the Internet.
 
-#[Other][other]
+# [Other][other]
 I like to write about the [Stuff I Use][stuff-i-use], take [Photos][photos], and make [Monthly Music Playlists][monthly-music].
 
 <!-- {% for page in site.pages %}

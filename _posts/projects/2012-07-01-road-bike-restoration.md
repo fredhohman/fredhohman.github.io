@@ -26,7 +26,7 @@ In 1987 my father was fitted for a Norco hybrid bicycle. After many years of use
 
 After cleaning old parts and salvaging what I could, I had a chromoly frame that predated me to build upon. I used [Sheldon Brown’s website][sb] for tips on what to buy. I purchased drop down handlebars, derailleurs, wheels, and other modern hardware from [Performance Bicycle][pb] and began painting and building. I lowered the bike’s total gear count to 16, but that has been plenty to get to class quickly—even over the large hills in Athens, GA.
 
-##Links
+## Links
 * [Sheldon Brown's Bicycle Technical Info][sb]
 * [Performance Bicycle][pb]
 

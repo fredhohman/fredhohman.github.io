@@ -26,7 +26,7 @@ The $35 credit-card sized computer ships with 512 MB of onboard ram, an ARM proc
 
 I primarily use my RPi to use Python and tinker with small automation projects, so my RPi typically sits on my desk. I machined this solid aluminum case to protect the RPi from harmful outside interaction. The design maintains the Raspberry Pi’s functionality by leaving the sides open and LED’s visible while also allowing for others to view the microcomputer. The case looks great on a desk too.
 
-##Links
+## Links
 * [Raspberry Pi Home][rpi]
 * [Raspberry Pi OS Distributions][downloads]
 

@@ -39,14 +39,14 @@ The project has also been [featured by MITgcm][mitgcm-feature].
 
 ***
 
-##Project Members
+## Project Members
 * [Thomas Gibson][tg]
 * [Theresa Morrison][tm]
 * [Dr. Shanon Reckinger][sr]
 * [Dr. Scott Reckinger][scott]
 * Mateus Guimaraes
 
-##Features
+## Features
 * [MITgcm Feature][mitgcm-feature]
 * [JMM Poster][jmm-poster]
 * [APS DFD Abstract][apsdfd]

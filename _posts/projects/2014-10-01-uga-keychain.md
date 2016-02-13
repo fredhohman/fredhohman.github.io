@@ -16,7 +16,7 @@ This is a 3D printed model of the [University of Georgia’s][uga] [“G” logo
 
 Nearly a hundred keychains were 3D printed to give to middle and high school students exploring the intersection of art and science. The model is fully scaleable and can be downloaded and printed from the [Thingiverse post][thing].
 
-##Links
+## Links
 * [Thingiverse Post][thing]
 
 [uga]: http://www.uga.edu "UGA."

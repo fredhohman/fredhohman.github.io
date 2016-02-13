@@ -26,7 +26,7 @@ The model was originally made for the [University of Georgia’s][uga] [High Sch
 
 The model features built-in holes for [D6x1mm magnets][mag] (6mm diameter and 1mm height) that can be glued in after the print has completed. The additional color emphasizes the unique geometry of the middle piece. The model can be downloaded and printed from [Thingiverse][thing].
 
-##Links
+## Links
 * [Thingiverse Post][thing]
 * [UGA High School Math Tournament][tourn]
 

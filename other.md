@@ -4,16 +4,16 @@ title: Other
 permalink: other/
 ---
 
-#[Stuff I Use][stuff-i-use]
+# [Stuff I Use][stuff-i-use]
 I like finding and using new tools to do things. [The Setup][the-setup] in particular contains great interviews of people in diverse areas discussing their tools. This is my setup: the stuff I use.
 
-#[Monthly Music][mm]
+# [Monthly Music][mm]
 I've been sharing music with friends for as long as I can remember, so I started making monthly public playlists so anyone can tune in. Each playlist contains ten tracks and links to Spotify, Apple Music, and Youtube. For fans of indie rock, electronic music, and related genres.
 
-#[Photos][photos]
+# [Photos][photos]
 I'm no professional photographer, but sometimes I take pictures. I shoot with a [Nikon D80][d80], but I always have an [iPhone 6S+][iphone] at my side. You can also find me on [Instagram][insta].
 
-#[Archive][archive]
+# [Archive][archive]
 The one-stop shop for everything on `fredhohman.com`, including all posts from the Blog, Monthly Music, and Projects. 
 
 [stuff-i-use]: {{ site.url }}/stuff-i-use "Stuff I Use."
