@@ -10,6 +10,10 @@ How I started a daily journal to document every day of my graduate career and wh
 
 <!--more-->
 
+<div class="message">
+<strong>Note:</strong> [Day One 2.0][dayone2] launched in early 2016 and improves nearly every aspect of the app. Highlight features include multiple journals, multiple pictures per entry, bulk entry management, and a complete visual overhaul.
+</div>
+
 ## Why Journal?
 
 If you were to ask me "why journal?" half a year ago I wouldn't have had an answer. I never quite knew what a journal was for, and often times would confuse *journal* with *diary*. 
@@ -125,3 +129,4 @@ I never thought I would write a journal, write about writing a journal[^fn-meta]
 [dayone]: http://dayoneapp.com "Day One App."
 [uses]: http://dayoneapp.com/category/uses/ "Day One Uses."
 [why-journal]: http://dayoneapp.com/journal-series/why-to-journal-and-why-day-one/] "Why Journal?"
+[dayone2]: http://dayoneapp.com/2016/01/introducing-day-one-2/ "Day One 2.0."
