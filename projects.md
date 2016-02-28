@@ -50,8 +50,9 @@ Here you will find some of my past endeavors including research projects, academ
 </div> -->
 
 [trefoil]: {{ site.url }}/projects/3d-printing-the-trefoil-knot-and-its-pages "3D Printing the Trefoil Knot and its Pages"
-[reu]: {{ site.url }}/projects/mathematics-&-computational-science-reu/ "Mathematics & Computational Science REU"
-[uga-course]: {{ site.url }}/projects/uga-undergrad-course-projects/ "UGA Undergrad Course Projects."
+[reu]: {{ site.url }}/projects/mathematics-&-computational-science-reu "Mathematics & Computational Science REU"
+[uga-course]: {{ site.url }}/projects/uga-undergrad-course-projects "UGA Undergrad Course Projects."
+<!-- [uga-course]: {{ site.url }}/projects/uga-undergrad-course-projects/ "UGA Undergrad Course Projects." -->
 [trophy]: {{ site.url }}/projects/cube-decomposition-trophy "Cube Decomposition Trophy."
 [keychain]: {{ site.url }}/projects/uga-keychain "UGA Keychain."
 [bike]: {{ site.url }}/projects/road-bike-restoration "Road Bike Restoration."
