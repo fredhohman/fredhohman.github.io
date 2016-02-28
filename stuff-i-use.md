@@ -36,7 +36,7 @@ I've always had an iPhone for its simplicity, app abundance, and camera. I'm cur
 	<figcaption>My old iPhone 6 Homescreen.</figcaption>
 </figure>
 
-On my homepage sits many of the mobile versions of the desktop services I use on OS X, but notable mentions include [Fantastical][fantastical] for calendar and reminders, [Dark Sky][darksky] for down to the minute weather predictions (necessary for taking bike rides on campus), [Inbox][inbox] by Gmail for email, and [Sleep Cycle][sleep-cycle] for a data-centric alarm clock.
+On my homepage sits many of the mobile versions of the desktop services I use on OS X, but notable mentions include [Fantastical][fantastical] for calendar and reminders, [Dark Sky][darksky] for down to the minute weather predictions (necessary for taking bike rides on campus), [Inbox][inbox] by Gmail for email, and  the data-centric alarm clock[Sleep Cycle][sleep-cycle].
 
 I also wear a space gray [Apple Watch Sport][watch] with the red sport band. Necessary? No. Stylish? A little. Convenient? Certainly. 
 
@@ -48,11 +48,11 @@ While browsing the internet and Twitter on [Tweetbot][tweetbot], I constantly sa
 I write journal entries in [Day One][day-one] that contain research notes, a days summary, and interesting quotes and pieces I read. I've used Day One off and on for a few years but during the summer of 2015 [I started writing daily entries to log every day of my time as a Ph.D. student][dayone-blog] so that upon graduation I can look back and remember the details, both big and little. I believe daily writing also helps one communicate more effectively and easily.
 
 ### Software
-I've used [Mathematica][mathematica] to symbolically solve multivariable calculus problems, numerically compute matrix transformations, and generate 3D models for my undergraduate thesis. While Mathematica was my go-to computational tool at UGA, at GT I'm primarily using [Python][python] and [MATLAB][matlab] for research.
+While [Mathematica][mathematica] was my go-to computational tool at UGA, at GT I'm primarily using [Python][python] and [MATLAB][matlab] for research.
 
 I typeset LaTeX in [TeXShop][texshop], take notes in Markdown with [Mou][mou], and write code in [Sublime Text][sublime].
 
-For 3D printing I use Mathematica and [OpenSCAD][openscad] to generate models, [Blender][blender] for computer renders and model/mesh manipulation, and [Makerware][makerware] for print preparation. If you are interested in creating your own models, [Tinkercad][tinkercad] is an easy-to-use, free modeling application that runs in the browser---no downloading required! 
+For 3D printing I use Mathematica and [OpenSCAD][openscad] to generate models, [Blender][blender] for renders and model/mesh manipulation, and [Makerware][makerware] for print preparation. If you are interested in creating your own models, [Tinkercad][tinkercad] is an easy-to-use, free modeling application that runs in the browser---no downloading required! 
 
 I tried [Pixelmator][pixelmator] instead of Adobe’s CC to avoid cost, and it’s been a great tool for visual mock-ups and light photo editing. I also prefer [Alfred][alfred] over OS X’s Spotlight to open files, launch applications, and search the internet, because it’s fast---*really* fast. 
 
