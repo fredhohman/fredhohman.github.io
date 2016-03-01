@@ -1,0 +1,23 @@
+---
+layout: post
+title: March 2016 Jams
+categories: monthly-music
+comments: true
+---
+
+1. Butterfly Effect – fox capture plan
+2. Overgrown – James Blake
+3. The Song They Play Every Night – Little Green Cars
+4. Fireflies – Lights & Motion
+5. Lost – Lido, Muri
+6. Keep Me Close – The Boxer Rebellion
+7. All The Same – Wavves
+8. Easier Day – Little Green Cars
+9. Hours – Tycho
+10. Feel It All Around – Washed Out
+
+[View in Spotify][spotify].  
+[View on Youtube][youtube].
+
+[spotify]: https://open.spotify.com/user/fred.hohman/playlist/3vZK9p6aJnkYN777Yg5Hw2 "View in Spotify."
+[youtube]: https://www.youtube.com/playlist?list=PL7t4sFPlrvYWZYulH0H9PyK3uJcLCbwaa "View on Youtube."
