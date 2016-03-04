@@ -37,7 +37,7 @@ We presented our model, code, and results during an in-class poster session.
 
 <figure>
   <a href="{{ site.url }}/assets/cse-6730-poster.pdf">
-  <img class="full" src="images/projects/cse-6730-bobby-dodd-simulation/cse-6730-poster_thumb.png" alt="Project Poster.">
+  <img class="full" src="/images/projects/cse-6730-bobby-dodd-simulation/cse-6730-poster-thumb.png" alt="Project Poster.">
   </a>
   <figcaption>Our project poster. Click to view the full <code>.pdf</code>.</figcaption>
 </figure>
