@@ -16,6 +16,7 @@ Here you will find some of my past endeavors including research projects, academ
 * [Math & Computational Science REU][reu]
 
 ### Academic
+* [Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium][bd]
 * [UGA Undergrad Course Projects][uga-course]
 	* Image Compression
 	* Railgun Simulation
@@ -58,3 +59,4 @@ Here you will find some of my past endeavors including research projects, academ
 [bike]: {{ site.url }}/projects/road-bike-restoration "Road Bike Restoration."
 [rpi]: {{ site.url }}/projects/raspberry-pi-case "Raspberry Pi Case."
 [mic]: {{ site.url }}/projects/material-informatics-grain-growth "Material Informatics Grain Growth."
+[bd]: {{ site.url }}/projects/cse-6730-bobby-dodd-simulation "Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium."

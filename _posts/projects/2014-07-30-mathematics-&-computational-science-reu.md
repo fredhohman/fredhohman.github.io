@@ -24,7 +24,7 @@ My group designed and built an experiment to mimic oceanic overflow while also c
   <a href="{{ site.url }}/assets/reu_poster.pdf">
   <img class="full" src="/images/projects/reu/reu_poster_small.png" alt="JMM Winning Poster.">
   </a>
-  <figcaption>Our winning JMM poster. Click it to view the full <code>.pdf</code>.</figcaption>
+  <figcaption>Our winning JMM poster. Click to view the full <code>.pdf</code>.</figcaption>
 </figure>
 
 We presented our research at the [2014 REU Mini-Conference at Yale University][yale], the [2014 American Physical Society (APS) Division of Fluid Dynamics Meeting][apsdfd], and we were awarded 1st place in the [2015 Joint Mathematics Meeting Undergraduate Poster Session][jmm] for Computational Mathematics. 
