@@ -1,0 +1,23 @@
+---
+layout: post
+title: April 2016 Jams
+categories: monthly-music
+comments: true
+---
+
+1. SOTI – Bill Laurance
+2. Heartbreaks + Setbacks – Thundercat
+3. Do It, Try It – M83
+4. Big Ideas – The Boxer Rebellion
+5. Clair de Lune – Little Green Cars
+6. Nostos – Jean-Michel Blais, BUFFLO
+7. Chia – Bill Laurance
+8. The Party – Little Green Cars
+9. Osaka Son – Polyenso
+10. Fireflies – Lights & Motion
+
+[View in Spotify][spotify].  
+[View on Youtube][youtube].
+
+[spotify]: https://open.spotify.com/user/fred.hohman/playlist/53mTsqsJTNe8w3KxkJfsiA "View in Spotify."
+[youtube]: https://www.youtube.com/playlist?list=PL7t4sFPlrvYVFrxUadbnhTUKqS7wFDoDS "View on Youtube."
