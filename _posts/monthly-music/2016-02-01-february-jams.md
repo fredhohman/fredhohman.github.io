@@ -3,6 +3,7 @@ layout: post
 title: February 2016 Jams
 categories: monthly-music
 comments: true
+permalink: feburary-2016-jams/
 ---
 
 1. TWIN – Christian Scott

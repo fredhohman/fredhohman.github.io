@@ -3,6 +3,7 @@ layout: post
 title: September 2015 Jams
 categories: monthly-music
 comments: true
+permalink: september-2015-jams/
 ---
 
 1. 17 New Years – Polyenso

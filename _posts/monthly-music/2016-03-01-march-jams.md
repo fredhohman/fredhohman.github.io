@@ -3,6 +3,7 @@ layout: post
 title: March 2016 Jams
 categories: monthly-music
 comments: true
+permalink: march-2016-jams/
 ---
 
 1. Butterfly Effect – fox capture plan
