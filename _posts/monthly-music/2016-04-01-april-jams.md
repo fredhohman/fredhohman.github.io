@@ -3,6 +3,7 @@ layout: post
 title: April 2016 Jams
 categories: monthly-music
 comments: true
+permalink: april-2016-jams/
 ---
 
 1. SOTI – Bill Laurance
