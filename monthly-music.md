@@ -28,7 +28,7 @@ I've been sharing music with friends for as long as I can remember, so I started
 
 ***
 
-#Monthly Music Archive
+# Monthly Music Archive
 
 <div>
   {% for post in site.categories.monthly-music %}
