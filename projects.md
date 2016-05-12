@@ -6,9 +6,6 @@ permalink: projects/
 
 Here you will find some of my past endeavors including research projects, academic course projects, and anything else I find interesting.
 
-### Research
-* [Material Informatics: Grain Growth][mic]
-
 ### Undergraduate Thesis
 * [3D Printing the Trefoil Knot and its Pages][trefoil]
 
@@ -16,6 +13,7 @@ Here you will find some of my past endeavors including research projects, academ
 * [Math & Computational Science REU][reu]
 
 ### Academic
+* [Material Informatics: Grain Growth][mic]
 * [Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium][bd]
 * [UGA Undergrad Course Projects][uga-course]
 	* Image Compression
