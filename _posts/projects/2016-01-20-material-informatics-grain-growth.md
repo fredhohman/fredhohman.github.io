@@ -6,12 +6,12 @@ permalink: projects/material-informatics-grain-growth
 ---
 
 <div class="message">
-<strong>Note:</strong> This project is still under development during the Spring 2016 semester.
+<strong>Note:</strong> This project is still under development during Summer 2016.
 </div>
 
 [Material Informatics][mi] is an emerging field that applies data science techniques to material science in order to better understand the discovery and development of advanced materials. This is accomplished by building process-structure-property relationships: data-driven models that can predict new material properties much faster than standard simulations. 
 
-This material informatics project aims to build structure-property linkages for grain boundary pinning during grain growth.
+This project for **CSE 8803 Material Informatics** aims to build structure-property linkages for grain boundary pinning during grain growth.
 
 <!--more-->
 
@@ -36,7 +36,7 @@ Results so far looking promising, but we are still putting the final touches on 
 
 This project was started in [CSE 8803 / ME 8883 Material Informatics][mic] class taught in Fall 2015 at Georgia Tech and has since become a standalone research project. [The project blog can be found here.][grain-growth] 
 
-Final results are expected to be reported by the end of the Spring 2016 semester.
+Final results are expected to be reported by the end of the Summer 2016 semester.
 
 ***
 
