@@ -65,7 +65,7 @@ Graduated from UGA
 * Numerical Linear Algebra ([CSE/MATH 6643][cse6643]) 
 * Modeling and Simulation ([CSE 6730][cse6730])
 * Computational Data Analysis ([CSE/ISYE 6740][cse6740])
-* Material Informatics ([CSE 8803/ME 8883][cse8803])
+* Materials Informatics ([CSE 8803/ME 8883][cse8803])
 * Information Visualization ([CS 7450][cs7450])
 * Data Visualization Seminar ([CS 8001 VIS][cs8001-vis])
 * Special Problems in Personal Visual Analytics ([CS 8903][cs8903])
@@ -139,7 +139,7 @@ Graduated from UGA
 [cse6643]: https://en.wikipedia.org/wiki/Numerical_linear_algebra "Numerial Linear Algebra."
 [cse6730]: https://en.wikipedia.org/wiki/Modeling_and_simulation "Modeling and Simulation."
 [cse6740]: https://en.wikipedia.org/wiki/Machine_Learning "Computational Data Analysis."
-[cse8803]: https://en.wikipedia.org/wiki/Materials_informatics "Material Informatics."
+[cse8803]: https://en.wikipedia.org/wiki/Materials_informatics "Materials Informatics."
 [cs7450]: https://en.wikipedia.org/wiki/Visualization_(computer_graphics) "Information Visualization."
 [cs8001-vis]: https://en.wikipedia.org/wiki/Visualization_(computer_graphics) "Data Visualization."
 [cs8903]: https://en.wikipedia.org/wiki/Visual_analytics "Visual Analytics."

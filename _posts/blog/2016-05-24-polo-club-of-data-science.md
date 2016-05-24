@@ -20,7 +20,7 @@ CSE at Georgia Tech, the smallest school in the College of Computing, has a grea
 
 &nbsp;
 
-During my first year I've been working in the field of material informatics: a new field that uses the power of data science techniques to better solve problems in materials science. A year ago this seemed like good fit considering my background in math, physics, and interest in data. This year I contributed to handful of related projects too, including bypassing expensive simulations by building a [surrogate model for material grain growth][grain-growth], contributing to the open-source material informatics python package [PyMKS][pymks] developed within the research group, and applying informatics approaches to advanced materials in the [Materials Development Program][mdp] funded by DARPA. Throughout these projects I've worked hard and met wonderful and intelligent people, but as time went on my interest began to fade.
+During my first year I've been working in the field of materials informatics: a new field that uses the power of data science techniques to better solve problems in materials science. A year ago this seemed like good fit considering my background in math, physics, and interest in data. This year I contributed to handful of related projects too, including bypassing expensive simulations by building a [surrogate model for material grain growth][grain-growth], contributing to the open-source materials informatics python package [PyMKS][pymks] developed within the research group, and applying informatics approaches to advanced materials in the [Materials Development Program][mdp] funded by DARPA. Throughout these projects I've worked hard and met wonderful and intelligent people, but as time went on my interest began to fade.
 
 ## The Switch
 
@@ -53,7 +53,7 @@ During my senior year at my undergraduate institution, I recall a conversation I
 [^fn-discussion]: Thank you to those individuals who willingly talked with me, as well as the the ones I trapped!
 [^research-areas]: Some extra reading: <a href="https://en.wikipedia.org/wiki/Data_mining" title="Data Mining.">data mining</a>, <a href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a>, <a href="https://en.wikipedia.org/wiki/Human–computer_interaction">human-computer interaction</a>, and <a href="https://en.wikipedia.org/wiki/Visualization_(computer_graphics)">visualization</a>.
 
-[grain-growth]: http://fredhohman.com/projects/material-informatics-grain-growth "Material Informatics Grain Growth Project."
+[grain-growth]: http://fredhohman.com/projects/material-informatics-grain-growth "Materials Informatics Grain Growth Project."
 [pymks]: http://www.pymks.org "PyMKS."
 [mdp]: http://www.darpa.mil/program/materials-development-for-platforms "Materials Development for Platforms."
 [poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science."
