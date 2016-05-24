@@ -48,7 +48,7 @@ This research echos my older "math + design" idea in the context of computationa
 
 ## I Was Warned About This
 
-During my senior year at my undergraduate institution, I recall a conversation I had with a math faculty member and a graduating Ph.D. student regarding my future as a graduate student. They both said "However hard you think graduate school is, it's harder." That's probably true, but a supportive community and an exciting work helps ease the difficulty.
+During my senior year at my undergraduate institution, I recall a conversation I had with a math faculty member and a graduating Ph.D. student regarding my future as a graduate student. They both said "However hard you think graduate school is, it's harder." That's probably true, but a supportive community and exciting work helps ease the difficulty.
 
 [^fn-discussion]: Thank you to those individuals who willingly talked with me, as well as the the ones I trapped!
 [^research-areas]: Some extra reading: <a href="https://en.wikipedia.org/wiki/Data_mining" title="Data Mining.">data mining</a>, <a href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a>, <a href="https://en.wikipedia.org/wiki/Human–computer_interaction">human-computer interaction</a>, and <a href="https://en.wikipedia.org/wiki/Visualization_(computer_graphics)">visualization</a>.
