@@ -6,7 +6,7 @@ permalink: about/
 
 #### But you can call me Fred. Nice to meet you. 
 
-I’m a Ph.D. student at [Georgia Tech][gt] studying [Computational Science and Engineering][cse] in the [College of Computing][coc]. If you aren't familiar with CSE, Wikipedia says it's
+I’m a Ph.D. student in the [Polo Club of Data Science][poloclub] studying [Computational Science and Engineering][cse] at [Georgia Tech][gt]. If you aren't familiar with CSE, Wikipedia says it's
 
 >a new discipline that deals with the development and application of computational models and simulations to solve complex physical problems arising in engineering analysis and design as well as natural phenomena. CSE has been described as the "third mode of discovery" (next to theory and experimentation).
 
@@ -64,7 +64,9 @@ Graduated from UGA
 * Computational Problem Solving ([CSE 6010][cse6010])
 * Numerical Linear Algebra ([CSE/MATH 6643][cse6643]) 
 * Modeling and Simulation ([CSE 6730][cse6730])
+* Computational Data Analysis ([CSE/ISYE 6740][cse6740])
 * Material Informatics ([CSE 8803/ME 8883][cse8803])
+* Information Visualization ([CS 7450][cs7450])
 * Data Visualization Seminar ([CS 8001 VIS][cs8001-vis])
 * Special Problems in Personal Visual Analytics ([CS 8903][cs8903])
 
@@ -111,6 +113,7 @@ Graduated from UGA
 [photos]: {{ site.url }}/photos "Photos."
 [archive]: {{ site.url }}/archive
 
+[poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science."
 [gt]: http://gatech.edu "Georgia Tech."
 [cse]: http://cse.gatech.edu "GT Computational Science and Engineering."
 [coc]: http://www.cc.gatech.edu "GT College of Computing."
@@ -135,7 +138,9 @@ Graduated from UGA
 [cse6010]: https://en.wikipedia.org/wiki/Computational_science "Computational Science and Engineering."
 [cse6643]: https://en.wikipedia.org/wiki/Numerical_linear_algebra "Numerial Linear Algebra."
 [cse6730]: https://en.wikipedia.org/wiki/Modeling_and_simulation "Modeling and Simulation."
+[cse6740]: https://en.wikipedia.org/wiki/Machine_Learning "Computational Data Analysis."
 [cse8803]: https://en.wikipedia.org/wiki/Materials_informatics "Material Informatics."
+[cs7450]: https://en.wikipedia.org/wiki/Visualization_(computer_graphics) "Information Visualization."
 [cs8001-vis]: https://en.wikipedia.org/wiki/Visualization_(computer_graphics) "Data Visualization."
 [cs8903]: https://en.wikipedia.org/wiki/Visual_analytics "Visual Analytics."
 
