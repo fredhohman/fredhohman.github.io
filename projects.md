@@ -13,7 +13,7 @@ Here you will find some of my past endeavors including research projects, academ
 * [Math & Computational Science REU][reu]
 
 ### Academic
-* [Material Informatics: Grain Growth][mic]
+* [Materials Informatics: Grain Growth][mic]
 * [Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium][bd]
 * [UGA Undergrad Course Projects][uga-course]
 	* Image Compression
@@ -56,5 +56,5 @@ Here you will find some of my past endeavors including research projects, academ
 [keychain]: {{ site.url }}/projects/uga-keychain "UGA Keychain."
 [bike]: {{ site.url }}/projects/road-bike-restoration "Road Bike Restoration."
 [rpi]: {{ site.url }}/projects/raspberry-pi-case "Raspberry Pi Case."
-[mic]: {{ site.url }}/projects/material-informatics-grain-growth "Material Informatics Grain Growth."
+[mic]: {{ site.url }}/projects/materials-informatics-grain-growth "Materials Informatics Grain Growth."
 [bd]: {{ site.url }}/projects/cse-6730-bobby-dodd-simulation "Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium."
