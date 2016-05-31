@@ -18,7 +18,7 @@ I participated in [Fairfield University’s REU in Mathematics & Computational S
 
 Overflows in the ocean occur when dense water flows down a continental slope into less dense ambient water. These density driven plumes occur naturally in various locations in the global ocean, but it is important to study idealized and small-scale models which allow for stronger confidence and control of parameters. 
 
-My group designed and built an experiment to mimic oceanic overflow while also configuring the [MIT General Circulation Model][mitgcm] on a linux computer cluster to parallel compute numerical simulations. We then directly compared our experimental data with our numerical simulations using MATLAB for pre- and post-processing visualization.
+My group designed and built an experiment to mimic oceanic overflow while also configuring the [MIT General Circulation Model][mitgcm] on a Linux computer cluster to parallel compute numerical simulations. We then directly compared our experimental data with our numerical simulations using MATLAB for pre- and post-processing visualization.
 
 <figure>
   <a href="{{ site.url }}/assets/reu_poster.pdf">

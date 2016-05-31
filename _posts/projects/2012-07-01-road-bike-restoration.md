@@ -5,7 +5,7 @@ categories: projects
 permalink: projects/road-bike-restoration
 ---
 
-I spent some time restoring and converting a 25 year-old Norco into a road bike.
+I spent some time restoring and converting a 25-year-old Norco into a road bike.
 
 <!--more-->
 

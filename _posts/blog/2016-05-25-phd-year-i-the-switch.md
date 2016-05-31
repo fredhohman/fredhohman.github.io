@@ -20,7 +20,7 @@ Computational Science & Engineering (CSE) at Georgia Tech, the smallest school i
 
 &nbsp;
 
-During my first year I've been working in the field of materials informatics: a new field that uses the power of data science techniques to better solve problems in materials science. A year ago this seemed like a good fit considering my background in math, physics, and interest in data. Over the past two semester I contributed to handful of related projects, including bypassing expensive simulations by building a [surrogate model for material grain growth][grain-growth], contributing to the open-source materials informatics python package [PyMKS][pymks] developed within the research group, and applying informatics approaches to advanced materials in the [Materials Development Program][mdp] funded by DARPA. Throughout these projects I've worked hard and met wonderful and intelligent people, but as time went on my interest began to fade.
+During my first year, I've been working in the field of materials informatics: a new field that uses the power of data science techniques to better solve problems in materials science. A year ago this seemed like a good fit considering my background in math, physics, and interest in data. Over the past two semesters I contributed to a handful of related projects, including bypassing expensive simulations by building a [surrogate model for material grain growth][grain-growth], contributing to the open-source materials informatics python package [PyMKS][pymks] developed within the research group, and applying informatics approaches to advanced materials in the [Materials Development Program][mdp] funded by DARPA. Throughout these projects I've worked hard and met wonderful and intelligent people, but as time went on my interest began to fade.
 
 So after much thinking and discussion[^fn-discussion] I have decided to stop my materials informatics work and switch to something that better fits my interests while I am still early in my graduate career. 
 
@@ -48,7 +48,7 @@ This research echoes my older "math + design" idea in the context of computing, 
 
 ## I Was Warned About This
 
-During my senior year at my undergraduate institution, I recall a conversation I had with a math faculty member and a graduating Ph.D. student regarding my future as a graduate student. They both said "However hard you think graduate school is, it's harder." That's probably true, but a supportive community and exciting work helps ease the difficulty.
+During my senior year at my undergraduate institution, I recall a conversation I had with a math faculty member and a graduating Ph.D. student regarding my future as a graduate student. They both said "However hard you think graduate school is, it's harder." That's probably true, but a supportive community and exciting work help ease the difficulty.
 
 [^fn-discussion]: Thank you to those individuals who willingly talked with me, as well as the ones I trapped!
 [^research-areas]: Some extra reading: <a href="https://en.wikipedia.org/wiki/Data_mining" title="Data Mining.">data mining</a>, <a href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a>, <a href="https://en.wikipedia.org/wiki/Human–computer_interaction">human-computer interaction</a>, and <a href="https://en.wikipedia.org/wiki/Visualization_(computer_graphics)">visualization</a>.

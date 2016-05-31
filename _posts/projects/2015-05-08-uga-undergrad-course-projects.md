@@ -14,7 +14,7 @@ Here are four of the projects I completed during my coursework at UGA.
 ## Image Compression
 <time class="post-date">May, 2014</time>
 
-For my **Numerical Analysis II** final, I implemented [Principal Component Analysis (PCA)][pca] to perform mathematical image compression. The class’s algorithms were ranked based on visual image recovery and mine won the [50% compression category][jc]. The [project report][image_compression] introduces the reader to PCA, discusses an OS X Automator program for improving the compression algorithm, and provides the Mathematica code to compress any arbitrary image.
+For my **Numerical Analysis II** final, I implemented [Principal Component Analysis (PCA)][pca] to perform mathematical image compression. The class’s algorithms were ranked based on visual image recovery and mine won the [50% compression category][jc]. The [project report][image_compression] introduces the reader to PCA, discusses an OS X Automator program for improving the compression algorithm, and provides the Mathematica code for compressing any arbitrary image.
 
 * [Report and Code Documentation][image_compression]  
 * [Winning Results][jc]  

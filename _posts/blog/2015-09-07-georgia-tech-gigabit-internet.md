@@ -10,7 +10,7 @@ Georgia Tech, being located in Midtown Atlanta, has supposedly had gigabit inter
 
 <!--more-->
 
-To do this, I simply loaded up [speedtest.net][speedtest], plugged in my laptop to an ethernet port in the Klaus Advanced Computing Building (Gerogia Tech's College of Computing), and clicked "Begin Test". 
+To do this, I simply loaded up [speedtest.net][speedtest], plugged in my laptop to an ethernet port in the Klaus Advanced Computing Building (Georgia Tech's College of Computing), and clicked "Begin Test". 
 
 The results are in two `.gif`'s below: one for download speed and one for upload speed.
 

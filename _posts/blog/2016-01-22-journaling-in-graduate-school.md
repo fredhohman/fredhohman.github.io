@@ -73,7 +73,7 @@ I also write a quick summary of the days events, much
 like a traditional diary.
 {% endhighlight %}
 
-Tags are helpful to better filter entries when I want to look back. Some tags have a handful of entries and some have dozens. I've included a few of my more general and noteable tags below to help someone get started[^fn-tags]:
+Tags are helpful to better filter entries when I want to look back. Some tags have a handful of entries and some have dozens. I've included a few of my more general and notable tags below to help someone get started[^fn-tags]:
 
 * daily (to keep a quick filter for all the entries)
 * gt (Georgia Tech)

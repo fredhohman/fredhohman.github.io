@@ -16,9 +16,9 @@ At the University of Georgia I spent three semesters exploring 3D printing techn
 
 My project involved programming, generating, and manipulating variations of the open-book decomposition of the complement of the trefoil knot in Mathematica to create a "3D printed puzzle" made of multiple pieces that hold together via small magnets. 
 
-During the summer of 2014 I was asked to guest post on [Dr. Laura Taalman’s][lt] 3D printing blog MakerHome. She printed one object every day for a year, including my trefoil knot. I wrote a two-part piece for her website which described in detail the mathematical theory governing my research, the visualization techniques used, and models I had printed thus far. You can read the [introduction here][mhi], [part I here][mh1], and [part II here][mh2]. 
+During the summer of 2014, I was asked to guest post on [Dr. Laura Taalman’s][lt] 3D printing blog MakerHome. She printed one object every day for a year, including my trefoil knot. I wrote a two-part piece for her website which described in detail the mathematical theory governing my research, the visualization techniques used, and models I had printed thus far. You can read the [introduction here][mhi], [part I here][mh1], and [part II here][mh2]. 
 
-I was then invited to repost this piece on [Wolfram Community][wc]. At the end of 2014 the project spread around the internet and was [written about by 3DPrint.com][3dprint-1] amongst other mathematics blogs, such as this Sketches of Topology post titled ["Mathematics with 3D Printing.”][sot] Most recently, 3DPrint.com [wrote a second piece][3dprint-2] about the completed project.
+I was then invited to repost this piece on [Wolfram Community][wc]. At the end of 2014, the project spread around the internet and was [written about by 3DPrint.com][3dprint-1] amongst other mathematics blogs, such as this Sketches of Topology post titled ["Mathematics with 3D Printing.”][sot] Most recently, 3DPrint.com [wrote a second piece][3dprint-2] about the completed project.
 
 &nbsp;
 

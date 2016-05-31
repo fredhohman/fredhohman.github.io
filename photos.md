@@ -6,10 +6,11 @@ permalink: photos/
 
 I'm no professional photographer, but sometimes I take pictures. I shoot with a [Nikon D80][d80], but I always have an [iPhone 6S+][iphone] at my side. You can also find me on [Instagram][insta].
 
+<br/>
+
 <!-- ## Instagram -->
 
 <!-- INSTANSIVE WIDGET --><script src="//instansive.com/widget/js/instansive.js"></script><iframe src="//instansive.com/widgets/b5d1c3e309615126f87e3462f86154750e81a605.html" id="instansive_b5d1c3e309" name="instansive_b5d1c3e309"  scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
-
 
 <!-- <figure>
 	<img class="classic" src="/images/photos/paper-art.jpg">

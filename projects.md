@@ -4,7 +4,7 @@ title: Projects
 permalink: projects/
 ---
 
-Here you will find some of my past endeavors including research projects, academic course projects, and anything else I find interesting.
+Things I do, including research, academic course projects, and misellaneous interests.
 
 ### Undergraduate Thesis
 * [3D Printing the Trefoil Knot and its Pages][trefoil]

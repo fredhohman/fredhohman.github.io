@@ -11,7 +11,7 @@ permalink: projects/materials-informatics-grain-growth
 
 [Materials Informatics][mi] is an emerging field that applies data science techniques to material science in order to better understand the discovery and development of advanced materials. This is accomplished by building process-structure-property relationships: data-driven models that can predict new material properties much faster than standard simulations. 
 
-This project for **CSE 8803 Materialsmaterial Informatics** aims to build structure-property linkages for grain boundary pinning during grain growth.
+This project for **CSE 8803 Materials Informatics** aims to build structure-property linkages for grain boundary pinning during grain growth.
 
 <!--more-->
 
@@ -20,7 +20,7 @@ This project for **CSE 8803 Materialsmaterial Informatics** aims to build struct
   <figcaption>An example grain growth simulation.</figcaption>
 </figure>
 
-Grain boundary pinning is a phenomenon in which insoluble particles are added to a microstructure. These particles affect the final grain size of a microstructure when subjected to a process (e.g. heating). In industry it's common to "pin" a material in order to control its final grain size distribution. 
+Grain boundary pinning is a phenomenon in which insoluble particles are added to a microstructure. These particles affect the final grain size of a microstructure when subjected to a process (e.g. heating). In industry, it's common to "pin" a material in order to control its final grain size distribution. 
 
 Grain growth is possible to simulate, but often times the simulations are computationally expensive. My group is developing a data-driven, surrogate model to avoid these long simulations such that given a new set of input pin distribution parameters, we are able to predict the final microstructure after grain growth has occurred.
 

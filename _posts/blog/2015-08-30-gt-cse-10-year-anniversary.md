@@ -15,7 +15,7 @@ Georgia Tech's [School of Computational Science and Engineering][cse] in the [Co
   <figcaption>Happy Birthday CSE!</figcaption>
 </figure>
 
-During my second week of graduate school, my new department threw a 10 year anniversary party. The event kicked off with a short presentation by our chair Dr. David Bader about the state of CSE at GT. 
+During my second week of graduate school, my new department threw a 10-year anniversary party. The event kicked off with a short presentation by our chair Dr. David Bader about the state of CSE at GT. 
 
 Here's the short version: CSE at GT is doing fantastic and rapidly growing. In fact, it's growing so fast that CSE is moving to a brand new High Performance Computing building that will be finished in 2018[^fn-hpcc]. 
 
