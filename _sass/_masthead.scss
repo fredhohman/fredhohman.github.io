@@ -10,17 +10,19 @@
   @media (max-width: 41em) {
     padding-left: 1em;
     padding-right: 1em,;
-/*    text-align: center;
-*/  }
+    /*text-align: center;*/
+  }
 }
 
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  /*color: #505050;*/
+  color: #303030;
  
   a {
-    color: #505050;
+    /*color: #505050;*/
+    color: #303030;
   }
 
   a:hover{
@@ -65,4 +67,14 @@ nav {
   margin-left: auto;
   margin-right: auto;
   font-size: 500;
+}
+
+.masthead-slash{
+  display: none;
+  color: #268bd2; 
+  font-size: 75%;
+}
+
+@media (min-width: 41em) {
+  .masthead-slash{display: inline}
 }

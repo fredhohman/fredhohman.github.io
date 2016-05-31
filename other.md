@@ -4,6 +4,8 @@ title: Other
 permalink: other/
 ---
 
+Everything else.
+
 # [Stuff I Use][stuff-i-use]
 I like finding and using new tools to do things. [The Setup][the-setup] in particular contains great interviews of people in diverse areas discussing their tools. This is my setup: the stuff I use.
 

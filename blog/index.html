@@ -6,7 +6,7 @@ title: Blog
 <p>Things I think about, read, and write.</p>
 
 <div class="posts">
-  {% for post in site.categories.blog %}
+  {% for post in site.categories.blog limit:5 %}
   <article class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
