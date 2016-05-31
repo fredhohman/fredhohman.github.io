@@ -24,14 +24,14 @@ This summer I'll be an [NSIP Ph.D. intern][nsip] at Pacific Northwest National L
 
 I'm one week into my summer work, and I finally understand where I fall in the hierarchy of the lab: I'm housed in the Data Sciences & Analytics group, in the Computational & Statistical Analytics Division, which falls under the National Security Directorate (one of the three missions of the lab).
 
-I'll be spending 11 weeks in [Tri-Cities, Washington][tri-cities] working with [Dr. Nathan Hodas][nathan] on using **visual analytics to better understand deep learning models**.
+I'll be spending 11 weeks in [Tri-Cities, Washington][tri-cities] working with [Dr. Nathan Hodas][nathan] on using **visual analytics to better understand how deep learning models semantically learn**.
 
 <figure>
   <img class="full" src="/images/blog/wa-map.png" alt="My Flight to Washington.">
   <figcaption>My long flight out West.</figcaption>
 </figure>
 
-During my time out West away from Atlanta I plan to take a few trips to places like Seattle, Portland, and possibly Vancouver. I'll also be taking a weekend getaway to Los Angles on my birthday. Looking forward to taking pictures, meeting new people, and experiencing all the Pacific Northwest has to offer this summer!
+During my time out West, I plan to take a few trips to places like Seattle, Portland, and possibly Vancouver. I'll also be taking a weekend getaway to Los Angles on my birthday. Looking forward to taking pictures, meeting new people, and experiencing all the Pacific Northwest has to offer this summer!
 
 [^fn-pnnl-research]: <a href="http://www.pnnl.gov/research/">Research at PNNL.</a>
 
