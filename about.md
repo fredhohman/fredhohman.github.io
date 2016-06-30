@@ -26,7 +26,7 @@ I like to write about the [Stuff I Use][stuff-i-use], take [Photos][photos], and
 ***
 
 ## The Longer Version
-At Georgia Tech, I'm a member of the [Polo Club of Data Science][poloclub], where our research bridges **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people understand and explore big data[^research-areas].
+At Georgia Tech, I'm a member of the [Polo Club of Data Science][poloclub], where our research bridges **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people understand and explore big data.
 
 At UGA I explored 3D printing in topology by observing the physical geometry of shapes that are particularly hard to visualize. With the assistance of [Dr. David Gay][dg] I wrote about my research and [my 3D models][thingiverse] sparked interest in the mathematical, 3D printing community. My undergraduate thesis was titled [“3D Printing the Trefoil Knot and its Pages”][trefoil] and it included 3D printed models as well as a gallery of photographs.
 
