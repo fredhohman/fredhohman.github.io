@@ -20,13 +20,13 @@ Here's my [CV][cv] and [resume][resume].
 Besides my studies, I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia. I’m interested in a multitude of topics spanning the various disciplines of **data science**, **visual analytics**, **applied mathematics**, **digital design**, and **consumer technology**.
 
 # [Projects][projects]
-Some of my past endeavors including research projects, academic course projects, and anything else I find interesting.
+Things I do, including research, academic course projects, and misellaneous interests.
 
 # [Blog][blog]
-Things I think about, read, and discover that I share with the Internet.
+Things I think about, read, and write.
 
 # [Other][other]
-I like to write about the [Stuff I Use][stuff-i-use], take [Photos][photos], and make [Monthly Music Playlists][monthly-music].
+Everything else.
 
 <!-- {% for page in site.pages %}
 <article class="post" style="margin-bottom:1em;">

@@ -12,7 +12,7 @@ I’m a Ph.D. student in the [Polo Club of Data Science][poloclub] studying [Com
 
 But I usually just tell people I make computers do things with numbers.
 
-Here's my [CV][cv] and [resume][resume].
+Here's my [CV][cv] and [resume][resume] (*will be updated end of summer 2016*).
 
 <figure>
   <img class="full" src="/images/me3.jpg" alt="That's me.">
@@ -26,7 +26,7 @@ I like to write about the [Stuff I Use][stuff-i-use], take [Photos][photos], and
 ***
 
 ## The Longer Version
-As a member of the [GT MINED][mined] research group, my research applies data science to speed up the process of new material manufacturing. 
+At Georgia Tech, I'm a member of the [Polo Club of Data Science][poloclub], where our research bridges **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people understand and explore big data[^research-areas].
 
 At UGA I explored 3D printing in topology by observing the physical geometry of shapes that are particularly hard to visualize. With the assistance of [Dr. David Gay][dg] I wrote about my research and [my 3D models][thingiverse] sparked interest in the mathematical, 3D printing community. My undergraduate thesis was titled [“3D Printing the Trefoil Knot and its Pages”][trefoil] and it included 3D printed models as well as a gallery of photographs.
 
@@ -108,6 +108,65 @@ Graduated from UGA
 * Mathematical Statistics I ([STAT 4510][stat4510])
 * Mathematical Statistics II ([STAT 4520][stat4520])
 
+<!-- ***
+
+## Education
+
+**Ph.D. in Computational Science & Engineering**  
+*<span style="color: #eeb211">Georgia Tech</span>, Atlanta, GA*  <span style="float: right">2011-Present</span>  
+Interests: Data science, machine learning, visual analytics, information visualization  
+Overall GPA: 4.00/4.00
+
+**B.S. Mathematics, Physics**  
+*<span style="color: #CC0000">University of Georgia</span>, Athens, GA*  
+Thesis: "3D Printing the Trefoil Knot and its Pages"  
+Overall GPA: 3.84/4.00, Magna Cum Laude
+
+## Research Experience
+
+### Pacific Northwest National Laboratory <span style="color: gray; font-size: 75%; font-weight: 400">Richland, WA</span>  
+**NSIP Ph.D. Intern** May 2016 - Aug 2016  
+Data Sciences & Analytics Group working on understanding the interpretability of deep learning models using visualization. 
+
+**Georgia Tech, Atlanta, GA**  
+*Graduate Research Assistant, Aug 2011 - Present*  
+Member of the Polo Club of Data Science researching the intersection of machine learning and visualization to help people understand and interact with data.  
+
+**Undergraduate Thesis and Research**  
+*University of Georgia, Department of Mathematics, Athens, GA*  
+Project: 3D Printing the Trefoil Knot and its Pages  
+• Exploring 3D printing in topology. Programmed, designed, and 3D printed 34-piece, colorcoordinated,
+and magnetized 3D puzzle of the trefoil knot fibration illustrating an open-book decomposition.
+Posted smaller, derivative models online and have received 8,000+ views and 1,500+
+downloads.
+• Research areas: 3D modeling, topology, visualization, mathematical exposition
+
+**REU in Mathematics and Computational Science**
+2014-2015 Fairfield University, Department of Engineering, Fairfield, CT
+Project: Numerical and Experimental Comparison of Oceanic Overflow -->
+<!-- • Directly compared numerical solutions derived from the Navier-Stokes equations to designed experiments
+performed at the lab-scale to model specific ocean phoneme. Configured MIT General
+Circulation Model on a linux computer cluster to parallel compute numerical simulations while
+using MATLAB for pre- and post-processing data visualization.
+• Research ares: Computational fluid dynamics, data visualization, applied mathematics -->
+
+<!-- ### Contact
+
+Fred Hohman  
+Data Analytics & Simulation Lab  
+Klaus Advanced Computing Building  
+266 Ferst Dr NW  
+Atlanta, GA 30332  
+<span style="background: linear-gradient(0deg, #3498db, #34495e); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: block">
+—  
+USA  
+Earth  
+Solar System  
+Milky Way  
+Local Group  
+Universe  
+</span>
+ -->
 [stuff-i-use]: {{ site.url }}/stuff-i-use "Stuff I Use."
 [monthly-music]: {{ site.url }}/monthly-music "Monthly Music."
 [photos]: {{ site.url }}/photos "Photos."
