@@ -4,12 +4,13 @@ title: Home
 ---
 
 # Hello, I'm Frederick.
+*But you can call me Fred. Nice to meet you.*
 
-#### But you can call me Fred. Nice to meet you.
+I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex]. 
 
-I’m a Ph.D. student at [Georgia Tech][gt] studying [Computational Science and Engineering][cse] in the [College of Computing][coc].
+As a member of the [Polo Club of Data Science][poloclub], our research bridges **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people understand and explore big data.
 
-Here's my [CV][cv] and [resume][resume].
+Here's my [CV][cv].
 
 <figure>
   <img class="full" src="/images/me.JPG" alt="That's me.">
@@ -17,7 +18,7 @@ Here's my [CV][cv] and [resume][resume].
 </figure>
 
 # [About][about]
-Besides my studies, I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia. I’m interested in a multitude of topics spanning the various disciplines of **data science**, **visual analytics**, **applied mathematics**, **digital design**, and **consumer technology**.
+I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia. I’m interested in the combination of math + art, or more specifically, the intersection of **data science** (machine learning, deep learning, and big data analytics) and **visualization** (visual analytics, information visualization, and digital design).
 
 # [Projects][projects]
 Things I do, including research, academic course projects, and misellaneous interests.
@@ -57,3 +58,6 @@ Everything else.
 
 [cv]: {{ site.url }}/assets/fredhohman-cv.pdf "My CV."
 [resume]: {{ site.url }}/assets/fredhohman-resume.pdf "My Resume."
+[polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau."
+[alex]: http://va.gatech.edu/endert/ "Alex Endert."
+[poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science."

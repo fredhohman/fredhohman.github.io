@@ -4,157 +4,168 @@ title: Hello, I'm Frederick.
 permalink: about/
 ---
 
-#### But you can call me Fred. Nice to meet you. 
+*But you can call me Fred. Nice to meet you.*
 
-I’m a Ph.D. student in the [Polo Club of Data Science][poloclub] studying [Computational Science and Engineering][cse] at [Georgia Tech][gt]. If you aren't familiar with CSE, Wikipedia says it's
+I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex]. 
 
->a new discipline that deals with the development and application of computational models and simulations to solve complex physical problems arising in engineering analysis and design as well as natural phenomena. CSE has been described as the "third mode of discovery" (next to theory and experimentation).
+As a member of the [Polo Club of Data Science][poloclub], our research bridges **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people understand and explore big data.
 
-But I usually just tell people I make computers do things with numbers.
-
-Here's my [CV][cv] and [resume][resume] (*will be updated end of summer 2016*).
+Here's my [CV][cv].
 
 <figure>
-  <img class="full" src="/images/me3.jpg" alt="That's me.">
+  <img class="full" src="/images/me.jpg" alt="That's me.">
   <figcaption>That's me.</figcaption>
 </figure>
 
-I previously received my B.S. degrees in [Applied Mathematics][ugamath] and [Physics][ugaphysics] from the [University of Georgia][uga]. 
+I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia. I’m interested in the combination of math + art, or more specifically, the intersection of **data science** (machine learning, deep learning, and big data analytics) and **visualization** (visual analytics, information visualization, and digital design).
 
-I like to write about the [Stuff I Use][stuff-i-use], take [Photos][photos], and make [Monthly Music][monthly-music] playlists.
+Considered by my family and peers to be a resident techie, I enjoy staying current with consumer technology and computer UI/UX design. When I’m not at my desk crunching numbers, I enjoy playing and discovering music, throwing frisbee, and riding motorcycles.
 
 ***
+
+<!-- I previously received my B.S. degrees in [Applied Mathematics][ugamath] and [Physics][ugaphysics] from the [University of Georgia][uga]. 
+
+I like to write about the [Stuff I Use][stuff-i-use], take [Photos][photos], and make [Monthly Music][monthly-music] playlists.
 
 ## The Longer Version
 At Georgia Tech, I'm a member of the [Polo Club of Data Science][poloclub], where our research bridges **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people understand and explore big data.
 
 At UGA I explored 3D printing in topology by observing the physical geometry of shapes that are particularly hard to visualize. With the assistance of [Dr. David Gay][dg] I wrote about my research and [my 3D models][thingiverse] sparked interest in the mathematical, 3D printing community. My undergraduate thesis was titled [“3D Printing the Trefoil Knot and its Pages”][trefoil] and it included 3D printed models as well as a gallery of photographs.
 
-I participated in Fairfield University's [Mathematics & Computational Science REU][reu] during the summer of 2014 researching Experimental and Numerical Studies of Oceanic Overflow under [Dr. Shanon Reckinger][sr]. My group presented at various universities, the [American Physical Society’s Division of Fluid Dynamics Conference][apsdfd]in 2014, and won Outstanding Poster at the [Joint Mathematics Meeting][jmm] in 2015. 
+I participated in Fairfield University's [Mathematics & Computational Science REU][reu] during the summer of 2014 researching Experimental and Numerical Studies of Oceanic Overflow under [Dr. Shanon Reckinger][sr]. My group presented at various universities, the [American Physical Society’s Division of Fluid Dynamics Conference][apsdfd]in 2014, and won Outstanding Poster at the [Joint Mathematics Meeting][jmm] in 2015.  -->
 
-<figure>
+<!-- <figure>
   <img src="/images/me2.JPG" alt="Sitting in NYC.">
   <figcaption>Sitting in NYC.</figcaption>
-</figure>
+</figure> -->
 
-Besides my studies, I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia. I’m interested in a multitude of topics spanning the various disciplines of **data science**, **visual analytics**, **applied mathematics**, **digital design**, and **consumer technology**.
-
-Considered by my family and peers to be a resident techie, I enjoy staying current with consumer technology and computer UI/UX design. When I’m not at my desk crunching numbers, I enjoy playing and discovering music, cycling, and riding motorcycles.
-
-<!-- ##Everything Else
-
-#####2015
-Became Ph.D. student at GT  
-Graduated from UGA  
-[UGA Mathematics Department Feature][uga-math-feature]  
-[Won 1st place at Poster Session at Joint Mathematics Meeting][reu]
-
-#####2014
-[3D printed models went around the internet][trefoil]
-
-#####2013
-[Invited to share my thoughts on Google Glass for The Red & Black][randb]  
-`fredhohman.com` was born -->
-
-## Coursework
-
-##### Georgia Tech
-
-* Intro to Computational Science and Engineering ([CSE 6001][cse6010])
-* Computational Problem Solving ([CSE 6010][cse6010])
-* Numerical Linear Algebra ([CSE/MATH 6643][cse6643]) 
-* Modeling and Simulation ([CSE 6730][cse6730])
-* Computational Data Analysis ([CSE/ISYE 6740][cse6740])
-* Materials Informatics ([CSE 8803/ME 8883][cse8803])
-* Information Visualization ([CS 7450][cs7450])
-* Data Visualization Seminar ([CS 8001 VIS][cs8001-vis])
-* Special Problems in Personal Visual Analytics ([CS 8903][cs8903])
-
-##### University of Georgia
-
-###### Math
-
-* Calculus II for Science and Engineering ([MATH 2260][math2260])
-* Multivariable Calculus ([MATH 2500][math2260])
-* Elementary Differential Equations ([MATH 2700][math2700])
-* Linear Algebra ([MATH 3000][math3000])
-* Sequences and Series ([MATH 3100H][math3100])
-* Introduction to Higher Mathematics ([MATH 3200][math3200])
-* Numerical Analysis I ([MATH 4500][math4500])
-* Numerical Analysis II ([MATH 4510][math4510])
-* Introduction to Partial Differential Equations ([MATH 4720][math4720])
-* Mathematics and Music ([MATH 4760][math4760])
-* Undergraduate Research I ([MATH 4960H][trefoil])
-* Undergraduate Research II ([MATH 4970H][trefoil])
-* Honors Thesis ([MATH 4990H][trefoil])
-
-###### Physics
-
-* Advanced Introductory Physics I ([PHYS 1311/L][phys1311])
-* Advanced Introductory Physics II ([PHYS 1312/L][phys1312])
-* Introduction to Scientific Programming ([PHYS 2001][phys2001])
-* Electronics ([PHYS 3320/L][phys3320])
-* Modern Physics ([PHYS 3700][phys3700])
-* Mathematical Methods in Physics ([PHYS 3900][phys3900])
-* Classical Mechanics I ([PHYS 4101][phys4101])
-* Classical Mechanics II ([PHYS 4102][phys4201])
-* Electricity and Magnetism I ([PHYS 4201][phys4201])
-* Thermodynamics and Kinetic Theory ([PHYS 4300][phys4300])
-* Quantum Mechanics I ([PHYS 4701][phys4701])
-* Introduction to Nanotechnology ([PHYS 4800][phys4800])
-
-###### Statistics
-
-* Mathematical Statistics I ([STAT 4510][stat4510])
-* Mathematical Statistics II ([STAT 4520][stat4520])
-
-<!-- ***
 
 ## Education
 
 **Ph.D. in Computational Science & Engineering**  
-*<span style="color: #eeb211">Georgia Tech</span>, Atlanta, GA*  <span style="float: right">2011-Present</span>  
-Interests: Data science, machine learning, visual analytics, information visualization  
+*[Georgia Institute of Technology][gt], Atlanta, GA*  
+Aug. 2015 — Present  
+Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
+Research interests: Data science, deep learning, visual analytics, information visualization  
 Overall GPA: 4.00/4.00
 
-**B.S. Mathematics, Physics**  
-*<span style="color: #CC0000">University of Georgia</span>, Athens, GA*  
-Thesis: "3D Printing the Trefoil Knot and its Pages"  
+**B.S. in Mathematics**, Area of Emphasis in Applied Mathematics  
+**B.S. in Physics**  
+*[University of Georgia][uga], Athens, GA*  
+Aug. 2011 — May 2015  
+Thesis: ["3D Printing the Trefoil Knot and its Pages"][trefoil]  
 Overall GPA: 3.84/4.00, Magna Cum Laude
+
+<br/>
 
 ## Research Experience
 
-### Pacific Northwest National Laboratory <span style="color: gray; font-size: 75%; font-weight: 400">Richland, WA</span>  
-**NSIP Ph.D. Intern** May 2016 - Aug 2016  
-Data Sciences & Analytics Group working on understanding the interpretability of deep learning models using visualization. 
+**Georgia Institute of Technology**, Atlanta, GA  
+*Graduate Research Assistant, School of Computational Science and Engineering*  
+Aug. 2016 — Present  
+<span style="margin-top:10px; display:block"></span>
+<span style="color:#9a9a9a">
+Member of the Polo Club of Data Science where we bridge data mining and machine learning techniques with principles from human-computer interaction and visualization to make interactive tools to help people understand and explore big data.
+</span>
 
-**Georgia Tech, Atlanta, GA**  
-*Graduate Research Assistant, Aug 2011 - Present*  
-Member of the Polo Club of Data Science researching the intersection of machine learning and visualization to help people understand and interact with data.  
+**Pacific Northwest National Laboratory**, Richland, WA  
+*National Security Ph.D. Intern, Data Sciences & Analytics Group*  
+Summer 2016  
+<span style="margin-top:10px; display:block"></span>
+Project: Understanding Deep Learning Models Via Visualization  
+<span style="color:#9a9a9a">
+• Explored, built, and trained various deep neural network (DNN) models. Developed code to create images from DNNs to compare machine v. human semantic understanding.  
+• Research areas: Deep learning, image analysis, visualization.
+</span>
+
+**Georgia Institute of Technology**, Atlanta, GA  
+*Graduate Research Assistant, School of Computational Science and Engineering*  
+Aug. 2015 — May 2016  
+<span style="margin-top:10px; display:block"></span>
+Project: [Material Informatics][gg]  
+<span style="color:#9a9a9a">
+• Applied data science practices to speed up the process of new material characterization, development, and manufacturing to meet needs of national Materials Genome Initiative.  
+• Research areas: Physical data science, material informatics, statistics.
+</span>
 
 **Undergraduate Thesis and Research**  
 *University of Georgia, Department of Mathematics, Athens, GA*  
-Project: 3D Printing the Trefoil Knot and its Pages  
-• Exploring 3D printing in topology. Programmed, designed, and 3D printed 34-piece, colorcoordinated,
-and magnetized 3D puzzle of the trefoil knot fibration illustrating an open-book decomposition.
-Posted smaller, derivative models online and have received 8,000+ views and 1,500+
-downloads.
-• Research areas: 3D modeling, topology, visualization, mathematical exposition
+Jan. 2015 — May 2016  
+<span style="margin-top:10px; display:block"></span>
+Project: [3D Printing the Trefoil Knot and its Pages][trefoil]  
+<span style="color:#9a9a9a">
+• Exploring 3D printing in topology. Programmed, designed, and 3D printed 34-piece, colorcoordinated, and magnetized 3D puzzle of the trefoil knot fibration illustrating an open-book decomposition. Posted models online and have received 11,500+ views and 2,500+ downloads.  
+• Research areas: 3D modeling, topology, visualization, mathematical exposition.
+</span>
 
-**REU in Mathematics and Computational Science**
-2014-2015 Fairfield University, Department of Engineering, Fairfield, CT
-Project: Numerical and Experimental Comparison of Oceanic Overflow -->
-<!-- • Directly compared numerical solutions derived from the Navier-Stokes equations to designed experiments
-performed at the lab-scale to model specific ocean phoneme. Configured MIT General
-Circulation Model on a linux computer cluster to parallel compute numerical simulations while
-using MATLAB for pre- and post-processing data visualization.
-• Research ares: Computational fluid dynamics, data visualization, applied mathematics -->
+**REU in Mathematics and Computational Science**  
+2014-2015 Fairfield University, Department of Engineering, Fairfield, CT  
+Summer 2014  
+<span style="margin-top:10px; display:block"></span>
+Project: [Numerical and Experimental Comparison of Oceanic Overflow][reu]  
+<span style="color:#9a9a9a">
+• Directly compared numerical solutions derived from the Navier-Stokes equations to designed experiments performed at the lab-scale to model specific ocean phoneme. Configured MIT General Circulation Model on a linux computer cluster to parallel compute numerical simulations while using MATLAB for pre- and post-processing data visualization.  
+• Research ares: Computational fluid dynamics, data visualization, applied mathematics.
+</span>
 
-<!-- ### Contact
+<br/>
+
+## Coursework
+
+**Computational Science and Engineering**  
+Intro to Computational Science and Engineering ([CSE 6001][cse6010])  
+Computational Problem Solving ([CSE 6010][cse6010])  
+Numerical Linear Algebra ([CSE/MATH 6643][cse6643])  
+Modeling and Simulation ([CSE 6730][cse6730])  
+Computational Data Analysis ([CSE/ISYE 6740][cse6740])  
+Materials Informatics ([CSE 8803/ME 8883][cse8803])  
+
+**Computer Science**  
+Information Visualization ([CS 7450][cs7450])  
+Data Visualization Seminar ([CS 8001 VIS][cs8001-vis])  
+Special Problems in Personal Visual Analytics ([CS 8903][cs8903])  
+
+**Math**  
+Calculus II for Science and Engineering ([MATH 2260][math2260])  
+Multivariable Calculus ([MATH 2500][math2260])  
+Elementary Differential Equations ([MATH 2700][math2700])  
+Linear Algebra ([MATH 3000][math3000])  
+Sequences and Series ([MATH 3100H][math3100])  
+Introduction to Higher Mathematics ([MATH 3200][math3200])  
+Numerical Analysis I ([MATH 4500][math4500])  
+Numerical Analysis II ([MATH 4510][math4510])  
+Introduction to Partial Differential Equations ([MATH 4720][math4720])  
+Mathematics and Music ([MATH 4760][math4760])  
+Undergraduate Research I ([MATH 4960H][trefoil])  
+Undergraduate Research II ([MATH 4970H][trefoil])  
+Honors Thesis ([MATH 4990H][trefoil])  
+
+**Physics**  
+Advanced Introductory Physics I ([PHYS 1311/L][phys1311])  
+Advanced Introductory Physics II ([PHYS 1312/L][phys1312])  
+Introduction to Scientific Programming ([PHYS 2001][phys2001])  
+Electronics ([PHYS 3320/L][phys3320])  
+Modern Physics ([PHYS 3700][phys3700])  
+Mathematical Methods in Physics ([PHYS 3900][phys3900])  
+Classical Mechanics I ([PHYS 4101][phys4101])  
+Classical Mechanics II ([PHYS 4102][phys4201])  
+Electricity and Magnetism I ([PHYS 4201][phys4201])  
+Thermodynamics and Kinetic Theory ([PHYS 4300][phys4300])  
+Quantum Mechanics I ([PHYS 4701][phys4701])  
+Introduction to Nanotechnology ([PHYS 4800][phys4800])  
+
+**Statistics**  
+Mathematical Statistics I ([STAT 4510][stat4510])  
+Mathematical Statistics II ([STAT 4520][stat4520])  
+
+<br/>
+
+## Contact
 
 Fred Hohman  
 Data Analytics & Simulation Lab  
 Klaus Advanced Computing Building  
+Georgia Tech  
 266 Ferst Dr NW  
 Atlanta, GA 30332  
 <span style="background: linear-gradient(0deg, #3498db, #34495e); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: block">
@@ -166,7 +177,7 @@ Milky Way
 Local Group  
 Universe  
 </span>
- -->
+
 [stuff-i-use]: {{ site.url }}/stuff-i-use "Stuff I Use."
 [monthly-music]: {{ site.url }}/monthly-music "Monthly Music."
 [photos]: {{ site.url }}/photos "Photos."
@@ -192,6 +203,7 @@ Universe
 [trefoil]: {{ site.url }}/projects/3d-printing-the-trefoil-knot-and-its-pages "3D Printing the Trefoil Knot and its Pages"
 [reu]: {{ site.url }}/projects/mathematics-&-computational-science-reu/ "Mathematics & Computational Science REU"
 [trefoil]: {{ site.url }}/projects/3d-printing-the-trefoil-knot-and-its-pages "3D Printing the Trefoil Knot and its Pages."
+[gg]: {{ site.url }}/projects/materials-informatics-grain-growth "Material Informatics: Grain Growth."
 
 [cse6001]: https://en.wikipedia.org/wiki/Computational_science "Computational Science and Engineering."
 [cse6010]: https://en.wikipedia.org/wiki/Computational_science "Computational Science and Engineering."
@@ -213,7 +225,7 @@ Universe
 [math4510]: http://en.wikipedia.org/wiki/Numerical_analysis "Numerical Analysis II."
 [math4720]: http://en.wikipedia.org/wiki/Partial_differential_equation "Introduction to Partial Differential Equations."
 [math4760]: http://en.wikipedia.org/wiki/Music_and_mathematics "Mathematics and Music."
-[trefoil]: {{ site.url }}/projects/3d-printing-the-trefoil-knot-and-its-pages "3D Printing the Trefoil Knot and its Pages."
+
 
 [phys1311]: http://en.wikipedia.org/wiki/Mechanics "Advanced Introductory Physics I."
 [phys1312]: http://en.wikipedia.org/wiki/Electromagnetism "Advanced Introductory Physics II."
@@ -230,6 +242,9 @@ Universe
 
 [stat4510]: http://en.wikipedia.org/wiki/Mathematical_statistics "Mathematical Statistics I."
 [stat4520]: http://en.wikipedia.org/wiki/Mathematical_statistics "Mathematical Statistics II."
+
+[polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau."
+[alex]: http://va.gatech.edu/endert/ "Alex Endert."
 
 [cv]: {{ site.url }}/assets/fredhohman-cv.pdf "My CV."
 [resume]: {{ site.url }}/assets/fredhohman-resume.pdf "My Resume."
