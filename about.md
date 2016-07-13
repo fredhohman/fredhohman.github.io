@@ -56,13 +56,13 @@ Aug. 2011 — May 2015
 Thesis: ["3D Printing the Trefoil Knot and its Pages"][trefoil]  
 Overall GPA: 3.84/4.00, Magna Cum Laude
 
-<br/>
+<!-- <br/> -->
 
 ## Research Experience
 
 **Georgia Institute of Technology**, Atlanta, GA  
 *Graduate Research Assistant, School of Computational Science and Engineering*  
-Aug. 2016 — Present  
+Aug. 2016 — Present, Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
 <span style="margin-top:10px; display:block"></span>
 <span style="color:#9a9a9a">
 Member of the Polo Club of Data Science where we bridge data mining and machine learning techniques with principles from human-computer interaction and visualization to make interactive tools to help people understand and explore big data.
@@ -70,37 +70,37 @@ Member of the Polo Club of Data Science where we bridge data mining and machine 
 
 **Pacific Northwest National Laboratory**, Richland, WA  
 *National Security Ph.D. Intern, Data Sciences & Analytics Group*  
-Summer 2016  
+Summer 2016, Mentor: [Nathan Hodas][nathan]  
 <span style="margin-top:10px; display:block"></span>
 Project: Understanding Deep Learning Models Via Visualization  
 <span style="color:#9a9a9a">
-• Explored, built, and trained various deep neural network (DNN) models. Developed code to create images from DNNs to compare machine v. human semantic understanding.  
+• Developed Python code using Keras to create images from deep neural networks to compare machine v. human semantic understanding.  
 • Research areas: Deep learning, image analysis, visualization.
 </span>
 
 **Georgia Institute of Technology**, Atlanta, GA  
 *Graduate Research Assistant, School of Computational Science and Engineering*  
-Aug. 2015 — May 2016  
+Aug. 2015 — May 2016, Mentor: [Surya Kalidindi][sk]  
 <span style="margin-top:10px; display:block"></span>
 Project: [Material Informatics][gg]  
 <span style="color:#9a9a9a">
-• Applied data science practices to speed up the process of new material characterization, development, and manufacturing to meet needs of national Materials Genome Initiative.  
+• Built data-driven surrogate model for computationally expensive material grain growth simulations. Created property-structure linkages using machine learning pipeline to predict material properties. Contributed to direction and code repository of PyMKS package: Materials Knowledge Systems in Python.  
 • Research areas: Physical data science, material informatics, statistics.
 </span>
 
 **Undergraduate Thesis and Research**  
 *University of Georgia, Department of Mathematics, Athens, GA*  
-Jan. 2015 — May 2016  
+Jan. 2015 — May 2016, Advisor: [David Gay][dg]  
 <span style="margin-top:10px; display:block"></span>
 Project: [3D Printing the Trefoil Knot and its Pages][trefoil]  
 <span style="color:#9a9a9a">
-• Exploring 3D printing in topology. Programmed, designed, and 3D printed 34-piece, colorcoordinated, and magnetized 3D puzzle of the trefoil knot fibration illustrating an open-book decomposition. Posted models online and have received 11,500+ views and 2,500+ downloads.  
+• Exploring 3D printing in topology. Programmed, designed, and 3D printed 34-piece, color-coordinated, and magnetized 3D puzzle of the trefoil knot fibration illustrating an open-book decomposition. Led 3D printing research and education in mathematics department.  
 • Research areas: 3D modeling, topology, visualization, mathematical exposition.
 </span>
 
 **REU in Mathematics and Computational Science**  
-2014-2015 Fairfield University, Department of Engineering, Fairfield, CT  
-Summer 2014  
+Fairfield University, Department of Engineering, Fairfield, CT  
+Summer 2014, Mentor: [Shanon Reckinger][sr]  
 <span style="margin-top:10px; display:block"></span>
 Project: [Numerical and Experimental Comparison of Oceanic Overflow][reu]  
 <span style="color:#9a9a9a">
@@ -108,7 +108,7 @@ Project: [Numerical and Experimental Comparison of Oceanic Overflow][reu]
 • Research ares: Computational fluid dynamics, data visualization, applied mathematics.
 </span>
 
-<br/>
+<!-- <br/>
 
 ## Coursework
 
@@ -158,7 +158,7 @@ Introduction to Nanotechnology ([PHYS 4800][phys4800])
 Mathematical Statistics I ([STAT 4510][stat4510])  
 Mathematical Statistics II ([STAT 4520][stat4520])  
 
-<br/>
+<br/> -->
 
 ## Contact
 
@@ -245,6 +245,8 @@ Universe
 
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau."
 [alex]: http://va.gatech.edu/endert/ "Alex Endert."
+[nathan]: https://www.linkedin.com/in/nathan-hodas-ba37956 "Nathan Hodas."
+[sk]: http://www.me.gatech.edu/faculty/kalidindi "Surya Kalidindi."
 
 [cv]: {{ site.url }}/assets/fredhohman-cv.pdf "My CV."
 [resume]: {{ site.url }}/assets/fredhohman-resume.pdf "My Resume."
