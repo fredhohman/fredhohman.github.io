@@ -163,6 +163,7 @@ Mathematical Statistics II ([STAT 4520][stat4520])
 ## Contact
 
 Fred Hohman  
+`fredhohman@gatech.edu`  
 Data Analytics & Simulation Lab  
 Klaus Advanced Computing Building  
 Georgia Tech  
