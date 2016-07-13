@@ -13,7 +13,7 @@ As a member of the [Polo Club of Data Science][poloclub], our research bridges *
 Here's my [CV][cv].
 
 <figure>
-  <img class="full" src="/images/me.jpg" alt="That's me.">
+  <img class="full" src="/images/me.JPG" alt="That's me.">
   <figcaption>That's me.</figcaption>
 </figure>
 
