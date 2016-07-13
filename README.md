@@ -1,5 +1,5 @@
 # Hello, I'm Frederick.
-But you can call me Fred. Nice to meet you.*
+*But you can call me Fred. Nice to meet you.*
 
 I’m a Ph.D. student at [Georgia Tech][gt] studying [Computational Science and Engineering][cse] in the [College of Computing][coc], and this is my website built on [Jekyll][jekyll]: the simple static site generator.
 
