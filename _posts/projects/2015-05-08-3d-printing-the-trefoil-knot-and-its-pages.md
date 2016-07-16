@@ -51,7 +51,7 @@ You can download my models from [my Thingiverse profile][thingiverse] to 3D prin
 * [Undergraduate Thesis][thesis]
 * [My Thingiverse Profile][thingiverse]
 * [UGA CURO 2015 Symposium Presentation][curo2015]
-* [UGA CURO 2014 Symposiium Presentation][curo2014]
+* [UGA CURO 2014 Symposium Presentation][curo2014]
 
 ## Features
 * [MakerHome Introduction][mhi], [Part I][mh1], [Part II][mh2]
