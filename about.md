@@ -99,7 +99,7 @@ Project: [3D Printing the Trefoil Knot and its Pages][trefoil]
 </span>
 
 **REU in Mathematics and Computational Science**  
-Fairfield University, Department of Engineering, Fairfield, CT  
+*Fairfield University, Department of Engineering, Fairfield, CT*  
 Summer 2014, Mentor: [Shanon Reckinger][sr]  
 <span style="margin-top:10px; display:block"></span>
 Project: [Numerical and Experimental Comparison of Oceanic Overflow][reu]  
