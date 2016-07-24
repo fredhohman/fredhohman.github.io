@@ -50,6 +50,7 @@ You can download my models from [my Thingiverse profile][thingiverse] to 3D prin
 ## Links
 * [Undergraduate Thesis][thesis]
 * [My Thingiverse Profile][thingiverse]
+* [Introductory Code on Github][github]
 * [UGA CURO 2015 Symposium Presentation][curo2015]
 * [UGA CURO 2014 Symposium Presentation][curo2014]
 
@@ -100,6 +101,7 @@ You can download my models from [my Thingiverse profile][thingiverse] to 3D prin
 [3dprint-2]: http://3dprint.com/95127/3d-printed-trumpety-trefoil/ "#DPrint.com Feature II."
 [sot]: http://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/ "Sketches of Topology Feature."
 [thingiverse]: http://www.thingiverse.com/fredhohman/overview "My Thingiverse Profile."
+[github]: https://github.com/fredhohman/3d-printed-trefoil "Github."
 [curo2014]: {{ site.url }}/assets/curo_symposium_2014.pdf
 [curo2015]: {{ site.url }}/assets/curo_symposium_2015.pdf
 [thesis]: {{ site.url }}/assets/thesis.pdf
