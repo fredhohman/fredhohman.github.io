@@ -2,7 +2,7 @@
 layout: post
 title: Pacific Northwest Summer Photos
 categories: blog
-permalink: blog/2016-09-01-pacific-northwest-summer-photos
+permalink: blog/pacific-northwest-summer-photos
 comments: true
 ---
 
