@@ -29,26 +29,6 @@ Things I do, including research, academic course projects, and misellaneous inte
 * [Road Bike Restoration][bike]
 * [Raspberry Pi Case][rpi]
 
-<!-- ***
-
-<div class="posts">
-  {% for post in site.categories.projects %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <time datetime="{{ post.date | date: "%B %-d, %Y" }}" class="post-date">
-      {{ post.date | date: "%B %-d, %Y" }}
-    </time>
-
-    {{ post.excerpt }}
-  </article>
-  {% endfor %}
-</div> -->
-
 [trefoil]: {{ site.url }}/projects/3d-printing-the-trefoil-knot-and-its-pages "3D Printing the Trefoil Knot and its Pages"
 [reu]: {{ site.url }}/projects/mathematics-&-computational-science-reu "Mathematics & Computational Science REU"
 [uga-course]: {{ site.url }}/projects/uga-undergrad-course-projects "UGA Undergrad Course Projects."
