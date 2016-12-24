@@ -44,9 +44,9 @@ I participated in Fairfield University's [Mathematics & Computational Science RE
 
 **Ph.D. in Computational Science & Engineering**  
 *[Georgia Institute of Technology][gt], Atlanta, GA*  
-Aug. 2015 — Present  
+Present — Aug. 2015  
 Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
-Research interests: Data science, deep learning, visual analytics, information visualization  
+Research interests: Explainable artificial intelligence, visual analytics, machine learning, deep learning  
 Overall GPA: 4.00/4.00
 
 **B.S. in Mathematics**, Area of Emphasis in Applied Mathematics  
@@ -62,7 +62,7 @@ Overall GPA: 3.84/4.00, Magna Cum Laude
 
 **Georgia Institute of Technology**, Atlanta, GA  
 *Graduate Research Assistant, School of Computational Science and Engineering*  
-Aug. 2016 — Present, Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
+Present — Aug. 2016, Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
 <span style="margin-top:10px; display:block"></span>
 <span style="color:#9a9a9a">
 Member of the Polo Club of Data Science where we bridge data mining and machine learning techniques with principles from human-computer interaction and visualization to make interactive tools to help people understand and explore big data.
@@ -74,13 +74,13 @@ Summer 2016, Mentor: [Nathan Hodas][nathan]
 <span style="margin-top:10px; display:block"></span>
 Project: Understanding Deep Learning Models Via Visualization  
 <span style="color:#9a9a9a">
-• Developed Python code using Keras to create images from deep neural networks to compare machine v. human semantic understanding.  
+• Developed Python code using Keras to generate images from deep neural networks to explore image classifiers’ ability to learn semantics.  
 • Research areas: Deep learning, image analysis, visualization.
 </span>
 
 **Georgia Institute of Technology**, Atlanta, GA  
 *Graduate Research Assistant, School of Computational Science and Engineering*  
-Aug. 2015 — May 2016, Mentor: [Surya Kalidindi][sk]  
+May 2016 — Aug. 2015, Mentor: [Surya Kalidindi][sk]  
 <span style="margin-top:10px; display:block"></span>
 Project: [Material Informatics][gg]  
 <span style="color:#9a9a9a">
@@ -90,7 +90,7 @@ Project: [Material Informatics][gg]
 
 **Undergraduate Thesis and Research**  
 *University of Georgia, Department of Mathematics, Athens, GA*  
-Jan. 2015 — May 2016, Advisor: [David Gay][dg]  
+May 2015 — Jan. 2013, Advisor: [David Gay][dg]  
 <span style="margin-top:10px; display:block"></span>
 Project: [3D Printing the Trefoil Knot and its Pages][trefoil]  
 <span style="color:#9a9a9a">
@@ -106,6 +106,16 @@ Project: [Numerical and Experimental Comparison of Oceanic Overflow][reu]
 <span style="color:#9a9a9a">
 • Directly compared numerical solutions derived from the Navier-Stokes equations to designed experiments performed at the lab-scale to model specific ocean phoneme. Configured MIT General Circulation Model on a linux computer cluster to parallel compute numerical simulations while using MATLAB for pre- and post-processing data visualization.  
 • Research ares: Computational fluid dynamics, data visualization, applied mathematics.
+</span>
+
+## Teaching
+
+**Georgia Institute of Technology**, Atlanta, GA  
+*Graduate Teaching Assistant, School of Computational Science and Engineering*  
+Spring 2017, CSE 6242 Data and Visual Analytics 
+<span style="margin-top:10px; display:block"></span>
+<span style="color:#9a9a9a">
+Assisted in teaching and administration for Data and Visual Analytics (CSE 6242), a graduate course with 250+ students enrolled.
 </span>
 
 <!-- <br/>
