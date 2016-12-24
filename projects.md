@@ -13,6 +13,7 @@ Things I do, including research, academic course projects, and misellaneous inte
 * [Math & Computational Science REU][reu]
 
 ### Academic
+* [A Viz of Ice and Fire][got]
 * [Materials Informatics: Grain Growth][mic]
 * [Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium][bd]
 * [UGA Undergrad Course Projects][uga-course]
@@ -58,3 +59,4 @@ Things I do, including research, academic course projects, and misellaneous inte
 [rpi]: {{ site.url }}/projects/raspberry-pi-case "Raspberry Pi Case."
 [mic]: {{ site.url }}/projects/materials-informatics-grain-growth "Materials Informatics Grain Growth."
 [bd]: {{ site.url }}/projects/cse-6730-bobby-dodd-simulation "Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium."
+[got]: {{ site.url }}/projects/cs-7450-a-viz-of-ice-and-fire "A Viz of Ice and Fire."
