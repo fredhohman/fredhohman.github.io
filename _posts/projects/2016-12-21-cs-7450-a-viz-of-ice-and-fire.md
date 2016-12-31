@@ -35,7 +35,7 @@ Our code is easily scalable to include and remove different textual categories, 
 
 ## Project Members
 * [Sandeep Soni][sandeep]
-* [Ian Stewert][ian]
+* [Ian Stewart][ian]
 
 ## Links
 * [A Viz of Ice and Fire][viz]
