@@ -7,27 +7,27 @@ permalink: projects/
 Things I do, including research, academic course projects, and misellaneous interests.
 
 ### Undergraduate Thesis
-* [3D Printing the Trefoil Knot and its Pages][trefoil]
+* [3D Printing the Trefoil Knot and its Pages][trefoil]&nbsp;<small style="color: #c0c0c0">2015</small>
 
 ### REU
-* [Math & Computational Science REU][reu]
+* [Math & Computational Science REU][reu]&nbsp;<small style="color: #c0c0c0">2014</small>
 
 ### Academic
-* [A Viz of Ice and Fire][got]
-* [Materials Informatics: Grain Growth][mic]
-* [Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium][bd]
+* [A Viz of Ice and Fire][got]&nbsp;<small style="color: #c0c0c0">2016</small>
+* [Materials Informatics: Grain Growth][mic]&nbsp;<small style="color: #c0c0c0">2016</small>
+* [Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium][bd]&nbsp;<small style="color: #c0c0c0">2016</small>
 * [UGA Undergrad Course Projects][uga-course]
-	* Image Compression
-	* Railgun Simulation
-	* Path Minimization
-	* Numerical ODE Solution and Integration Project
-* [Cube Decomposition Trophy][trophy]
-* [UGA Keychain][keychain]
+	* Image Compression&nbsp;<small style="color: #c0c0c0">2014</small>
+	* Railgun Simulation&nbsp;<small style="color: #c0c0c0">2014</small>
+	* Path Minimization&nbsp;<small style="color: #c0c0c0">2013</small>
+	* Numerical ODE Solution and Integration Project&nbsp;<small style="color: #c0c0c0">2013</small>
+* [Cube Decomposition Trophy][trophy]&nbsp;<small style="color: #c0c0c0">2014</small>
+* [UGA Keychain][keychain]&nbsp;<small style="color: #c0c0c0">2014</small>
 
 ### Other
 * `fredhohman.com`: My Jekyll Website (coming soon!)
-* [Road Bike Restoration][bike]
-* [Raspberry Pi Case][rpi]
+* [Raspberry Pi Case][rpi]&nbsp;<small style="color: #c0c0c0">2013</small>
+* [Road Bike Restoration][bike]&nbsp;<small style="color: #c0c0c0">2012</small>
 
 [trefoil]: {{ site.url }}/projects/3d-printing-the-trefoil-knot-and-its-pages "3D Printing the Trefoil Knot and its Pages"
 [reu]: {{ site.url }}/projects/mathematics-&-computational-science-reu "Mathematics & Computational Science REU"
