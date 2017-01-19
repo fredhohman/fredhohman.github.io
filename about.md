@@ -47,6 +47,7 @@ I participated in Fairfield University's [Mathematics & Computational Science RE
 Present — Aug. 2015  
 Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
 Research interests: Explainable artificial intelligence, visual analytics, machine learning, deep learning  
+Qualifying exams passed Nov. 2016  
 Overall GPA: 4.00/4.00
 
 **B.S. in Mathematics**, Area of Emphasis in Applied Mathematics  
