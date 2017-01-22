@@ -14,49 +14,47 @@ I like finding and using new tools to do things. [The Setup][the-setup] in parti
 ### What's in my Bag
 I carry a custom [Timbuk2 messenger bag][timbuk2] for just about everything. If that isn't enough space, I wear a [Jansport Classic backpack][jansport] for backup.
 
-<figure>
+<!-- <figure>
 	<img class="full" src="/images/stuff-i-use.jpg" alt="Stuff I Use.">
 	<figcaption>Apple Pi. Get it?</figcaption>
-</figure>
+</figure> -->
 
 Ever since I was 10 I've been writing with [PaperMate Clearpoint 0.5mm mechanical pencils][pencil] on blank computer paper (lines get in the way of math!). More recently I've been carrying a single [Moleskin sketchbook][moleskin-sketch] for meetings and research notes. The size is perfect for an all-in-one notebook, and the paper in the sketchbook from the [Art Collection][moleskin-art] is 111lb, which is much thicker than the average Moleskin notebook (it irks me when ink or pencil bleeds through paper). 
 
-When I am out and about, I carry a [small Moleskin][moleskin] in my back pocket and clip an old [REI carabiner][carabiner] to my belt to hold my keys.
+When I am out and about, I carry [Field Notes][fieldnotes] in my back pocket and clip an old [REI carabiner][carabiner] to my belt to hold my keys.
 
 ### Computer
-My primary computer is [early 2011 15" MacBook Pro][mbp] with the high-resolution screen upgrade, which replaced a [late 2007 iMac][imac] (yes—the white one) which I have had for nearly 8 years now. I plan to upgrade to the 15" Retina MacBook Pro once the next refresh is released. 
+I'm using a [2016 15" MacBook Pro][mbp], which replaced a [2011 MacBook Pro][mbp2011], which replaced a [late 2007 iMac][imac].
 
-When I'm at my desk I also use a [Logitech G502 mouse][mouse] and an [Asus 27" 1440p monitor][monitor]. 
+When I'm at my desk at GT or home I connect to the [LG Ultrafine 5K Monitor][monitor] (the single USB-C cable is wonderful!) and use a [Logitech G502 mouse][mouse] and [Code keyboard][keyboard] with Cherry MX Greens. 
 
 ### Mobile
-I've always had an iPhone for its simplicity, app abundance, and camera. I'm currently carrying a 64GB space gray [iPhone 6S+][iphone] and a [fourth-gen iPad][ipad].
+I've always had an iPhone for its simplicity, app abundance, and camera. I'm currently carrying a 128GB black [iPhone 7+][iphone] and an old [fourth-gen iPad][ipad].
 
-<figure>
+<!-- <figure>
 	<img class="iphone" src="/images/iphone.png" alt="My iPhone Homescreen.">
 	<figcaption>My old iPhone 6 Homescreen.</figcaption>
-</figure>
+</figure> -->
 
-On my homepage sits many of the mobile versions of the desktop services I use on OS X, but notable mentions include [Fantastical][fantastical] for calendar and reminders, [Dark Sky][darksky] for down to the minute weather predictions (necessary for taking bike rides on campus), [Inbox][inbox] by Gmail for email, and  the data-centric alarm clock[Sleep Cycle][sleep-cycle].
+On my homepage sits many of the mobile versions of the desktop services I use on OS X, but notable mentions include [Fantastical][fantastical] for calendar and reminders, [Dark Sky][darksky] for down to the minute weather predictions (necessary for taking bike rides on campus), [Inbox][inbox] by Gmail for email, and  the data-centric alarm clock [Sleep Cycle][sleep-cycle].
 
 I also wear a space gray [Apple Watch Sport][watch] with the red sport band. Necessary? No. Stylish? A little. Convenient? Certainly. 
 
 ### Services
 If I'm working, driving, or biking, I'm probably listening to music on [Spotify][spotify]. I rely on [Dropbox][dropbox] as my primary digital workspace. For getting things done I use [Trello][trello] to organize coursework, research, and projects while occasionally creating simple lists in [Wunderlist][wunderlist]. I prefer Trello to other GTD services as it can export specific tasks to my calendar while preserving the task’s due date, time, and notes. 
 
-While browsing the internet and Twitter on [Tweetbot][tweetbot], I constantly save things to my [Pocket][pocket] to read whenever I get a few minutes, whereas I typically store long-term articles and ideas in [Evernote][evernote]. I also use [1Password][1password] for saving passwords and [Mint][mint] for tracking money. Oh, and [IFTTT][ifttt] can be handy too. 
+While browsing the internet and Twitter on [Tweetbot][tweetbot], I constantly save things to my [Pocket][pocket] to read whenever I get a few minutes, whereas I typically store long-term articles and ideas in [Evernote][evernote]. I also use [1Password][1password] for saving passwords and [Mint][mint] for tracking money. [Slack][slack] is always open, and [IFTTT][ifttt] can be handy too. 
 
 I write journal entries in [Day One][day-one] that contain research notes, a days summary, and interesting quotes and pieces I read. I've used Day One off and on for a few years but during the summer of 2015 [I started writing daily entries to log every day of my time as a Ph.D. student][dayone-blog] so that upon graduation I can look back and remember the details, both big and little. I believe daily writing also helps one communicate more effectively and easily.
 
 ### Software
-While [Mathematica][mathematica] was my go-to computational tool at UGA, at GT I'm primarily using [Python][python] and [MATLAB][matlab] for research.
+For AI and analytics research, I mostly use [Python][python], and for data visualzation I program mostly for the web (HTML, CSS, JS, and [D3][d3]). For more mathy things, I'll default to [Mathematica][mathematica] for continuous problems and [MATLAB][matlab] for discrete ones.
 
 I typeset LaTeX in [TeXShop][texshop], take notes in Markdown with [Mou][mou], and write code in [Sublime Text][sublime].
 
 For 3D printing I use Mathematica and [OpenSCAD][openscad] to generate models, [Blender][blender] for renders and model/mesh manipulation, and [Makerware][makerware] for print preparation. If you are interested in creating your own models, [Tinkercad][tinkercad] is an easy-to-use, free modeling application that runs in the browser---no downloading required! 
 
 I tried [Pixelmator][pixelmator] instead of Adobe’s CC to avoid cost, and it’s been a great tool for visual mock-ups and light photo editing. I also prefer [Alfred][alfred] over OS X’s Spotlight to open files, launch applications, and search the internet, because it’s fast---*really* fast. 
-
-[Fluid App][fluid] is a great tool that turns a website into a Mac App. I primarily use it for Gmail and Trello.
 
 ### Audio
 As I already said, I spend a majority of my day listening to music. So on both sides of my desk sit [KRK Rokit 5 studio monitors][rokit5] with an accompanying [Rokit 10s subwoofer][rokit10]. I run audio from my computer through a [Presonus Firestudio][firestudio]. 
@@ -77,13 +75,15 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 [timbuk2]: http://www.timbuk2.com "Timbuk2."
 [jansport]: http://www.jansport.com/shop/en/jansport-us/backpacks/right-pack-typ7 "Jansport."
 [pencil]: http://www.amazon.com/Paper-Mate-Mechanical-Assorted-34666PP/dp/B001PV2KYM/ref=sr_1_5?s=office-products&ie=UTF8&qid=1420268018&sr=1-5&keywords=papermate+mechanical+pencil "Clearpoint Mechanical Pencil."
-[moleskin]: http://www.moleskine.com/us/collections/model/product/set-of-3-plain-cahier-journals-pebble-grey-pocket "Moleskin Notebooks."
+[fieldnotes]: https://fieldnotesbrand.com/ "Fieled Notes."
 [carabiner]: http://www.amazon.com/Metolius-Mini-Carabiner-Black-Wiregate/dp/B003UA09SK/ref=sr_1_fkmr1_1?ie=UTF8&qid=1431720383&sr=8-1-fkmr1&keywords=Metolius+FS+Mini+II+Carabiner "REI Carabiner."
-[mbp]: http://support.apple.com/kb/SP620?viewlocale=en_US&locale=en_US "Early 2011 MacBook Pro."
+[mbp]: https://support.apple.com/kb/SP749?locale=en_US "2016 MacBook Pro."
+[mbp2011]: http://support.apple.com/kb/SP620?viewlocale=en_US&locale=en_US "Early 2011 MacBook Pro."
 [imac]: http://support.apple.com/kb/SP28?viewlocale=en_US&locale=en_US "Late 2007 iMac"
-[mouse]: http://gaming.logitech.com/en-us/product/g502-proteus-core-tunable-gaming-mouse "Logitech g502 Mouse."
-[monitor]: http://www.asus.com/us/Commercial_Monitors_Projectors/PB278Q/ "Asus 1440p Monitor."
-[iphone]: http://www.apple.com/iphone-6s/specs/ "iPhone 6S+s."
+[keyboard]: https://codekeyboards.com/ "Code Keyboard."
+[mouse]: http://gaming.logitech.com/en-us/product/g502-proteus-spectrum-rgb-gaming-mouse "Logitech g502 Mouse."
+[monitor]: http://www.lg.com/us/monitors/lg-27MD5K-5k-uhd-led-monitor?cmpid=2016HEMonitor-SEM-SF-Generic_US_Google_5K-Resolution_k0649&gclid=Cj0KEQiAzZHEBRD0ivi9_pDzgYMBEiQAtvxt-AxENU7EErIavOrcUuzBKDUQiBAa7myVuTdKixQeSGQaAkZQ8P8HAQ "LG UltraFine 5K Monitor."
+[iphone]: http://www.apple.com/iphone-7/specs/ "iPhone 7+."
 [ipad]: http://support.apple.com/kb/SP662?viewlocale=en_US&locale=en_US "4th Gen iPad."
 [fantastical]: https://flexibits.com/fantastical-iphone "Fantastical."
 [darksky]: http://darkskyapp.com "Dark Sky."
@@ -137,3 +137,5 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 [dayone-blog]: {{ site.baseurl }}/blog/journaling-in-graduate-school "Journaling in Graduate School."
 
 [chromecast]: https://www.google.com/intl/en_us/chromecast/?utm_source=chromecast.com "Chromecast."
+[d3]: https://d3js.org/ "D3."
+[slack]: https://slack.com/ "Slack."
