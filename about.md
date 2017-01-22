@@ -132,6 +132,7 @@ Computational Data Analysis ([CSE/ISYE 6740][cse6740])
 Materials Informatics ([CSE 8803/ME 8883][cse8803])  
 
 **Computer Science**  
+Human Computer Interaction ([CS 6750][cs6750])
 Information Visualization ([CS 7450][cs7450])  
 Data Visualization Seminar ([CS 8001 VIS][cs8001-vis])  
 Special Problems in Personal Visual Analytics ([CS 8903][cs8903])  
@@ -223,6 +224,7 @@ Universe
 [cse6730]: https://en.wikipedia.org/wiki/Modeling_and_simulation "Modeling and Simulation."
 [cse6740]: https://en.wikipedia.org/wiki/Machine_Learning "Computational Data Analysis."
 [cse8803]: https://en.wikipedia.org/wiki/Materials_informatics "Materials Informatics."
+[cs6750]: https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction "Human Computer Interaction."
 [cs7450]: https://en.wikipedia.org/wiki/Visualization_(computer_graphics) "Information Visualization."
 [cs8001-vis]: https://en.wikipedia.org/wiki/Visualization_(computer_graphics) "Data Visualization."
 [cs8903]: https://en.wikipedia.org/wiki/Visual_analytics "Visual Analytics."
@@ -237,7 +239,6 @@ Universe
 [math4510]: http://en.wikipedia.org/wiki/Numerical_analysis "Numerical Analysis II."
 [math4720]: http://en.wikipedia.org/wiki/Partial_differential_equation "Introduction to Partial Differential Equations."
 [math4760]: http://en.wikipedia.org/wiki/Music_and_mathematics "Mathematics and Music."
-
 
 [phys1311]: http://en.wikipedia.org/wiki/Mechanics "Advanced Introductory Physics I."
 [phys1312]: http://en.wikipedia.org/wiki/Electromagnetism "Advanced Introductory Physics II."
