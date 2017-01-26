@@ -261,5 +261,5 @@ Universe
 [nathan]: https://www.linkedin.com/in/nathan-hodas-ba37956 "Nathan Hodas."
 [sk]: http://www.me.gatech.edu/faculty/kalidindi "Surya Kalidindi."
 
-[cv]: {{ site.url }}/assets/fredhohman-cv.pdf "My CV."
+[cv]: {{ site.url }}/cv.pdf "My CV."
 [resume]: {{ site.url }}/assets/fredhohman-resume.pdf "My Resume."

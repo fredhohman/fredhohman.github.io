@@ -56,8 +56,7 @@ Everything else.
 [coc]: http://www.cc.gatech.edu "GT College of Computing."
 [intj]: http://en.wikipedia.org/wiki/INTJ "INTJ."
 
-[cv]: {{ site.url }}/assets/fredhohman-cv.pdf "My CV."
-[resume]: {{ site.url }}/assets/fredhohman-resume.pdf "My Resume."
+[cv]: {{ site.url }}/cv.pdf "My CV."
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau."
 [alex]: http://va.gatech.edu/endert/ "Alex Endert."
 [poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science."
