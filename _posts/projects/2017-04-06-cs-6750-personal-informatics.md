@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Personal Informatics: Health Easel
+title: Personal Informatics&#58; Health Easel
 categories: projects
 permalink: projects/cs-6750-health-easel
 ---
