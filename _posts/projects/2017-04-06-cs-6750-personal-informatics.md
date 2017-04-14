@@ -5,15 +5,15 @@ categories: projects
 permalink: projects/cs-6750-health-easel
 ---
 
-For **[CS 6750 Human-Computer Interaction][hci]**, my team and I spent a semester working on a personal health informatics project, in particular exploring the role of personal tracking data in the doctor's office
+For **[CS 6750 Human-Computer Interaction][hci]**, my team and I spent a semester working on a personal health informatics project, in particular exploring the role of personal tracking data in the doctor's office.
 
-Building upon previous research conducted at Georgia Tech[^fn-previous] where researchers worked with medical professionals to determine if and what types of personal tracking health data could be useful for diagnosis and treatment. 
+Our project built upon previous research conducted at Georgia Tech where researchers worked with medical professionals to determine if and what types of personal tracking health data could be useful for diagnosis and treatment[^fn-previous]. 
 
-Georgia Tech is involved in a project titled Campus Life that seeks to study if students' mental health is correlated with academic performance through the the lens of digital footprints. The program gave mobile devices to students to record several types of information regarding student health: both passive and active. 
+Georgia Tech is involved in a project titled [Campus Life][campuslife] that seeks to study if students' mental health is correlated with academic performance through the the lens of digital footprints, i.e. quantified self-like data. The program gave mobile devices to students to record several types of information regarding passive and active student health. 
 
-Our class project aims to study how people, particularly Georgia Tech students, could bring quantified self data into on-campus doctor appointments to have data-informed health discussion. Moreover, what technology would be required to facilitate this discussion?
+Our class project aims to study how people, particularly Georgia Tech students, could bring quantified self data into on-campus doctor appointments to have a more data-informed health discussion during a consultation. Moreover, what technology would be required to facilitate this discussion?
 
-Our final design, the Health Easel, is a new in-consultation health visualization prototype system that allows a patient to bring personal tracking data to their appointment and display relevant variables represented by simple visualizations on the display where both the patient and doctor can review in real-time to make informed health decisions.
+Our final design, dubbed the **Health Easel**, is a new in-consultation health visualization prototype system that allows a patient to bring personal tracking data to their appointment and visualize relevant variables represented by simple charts on the display where both the patient and doctor can review in real-time to make informed health decisions.
 
 
 
@@ -192,7 +192,7 @@ We sketched out a device that features a large, high-resolution touch screen dis
 </figure>
 
 ## Introducing the Health Easel
-Dubbed the **Health Easel**, our new in-consultation health visualization prototype system allows a patient to bring personal tracking data to their appointment and display relevant variables represented by simple visualizations on the display where both the patient and doctor can review in real-time to make informed health decisions.
+Dubbed the **Health Easel**, our new in-consultation health visualization prototype system allows a patient to bring personal tracking data to their appointment and visualize relevant variables represented by simple charts on the display where both the patient and doctor can review in real-time to make informed health decisions.
 
 The Health Easel allows users (both patients and doctors) to conduct "Wizard of Oz" experiments using magnets that hold paper visualizations from the front and back to accurately mimic window movement on a touch display.
 
