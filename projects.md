@@ -13,6 +13,7 @@ Things I do, including research, academic course projects, and misellaneous inte
 * [Math & Computational Science REU][reu]&nbsp;<small style="color: #c0c0c0">2014</small>
 
 ### Academic
+* [Health Easel][hci]&nbsp;<small style="color: #c0c0c0">2017</small>
 * [A Viz of Ice and Fire][got]&nbsp;<small style="color: #c0c0c0">2016</small>
 * [Materials Informatics: Grain Growth][mic]&nbsp;<small style="color: #c0c0c0">2016</small>
 * [Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium][bd]&nbsp;<small style="color: #c0c0c0">2016</small>
@@ -25,7 +26,7 @@ Things I do, including research, academic course projects, and misellaneous inte
 * [UGA Keychain][keychain]&nbsp;<small style="color: #c0c0c0">2014</small>
 
 ### Other
-* `fredhohman.com`: My Jekyll Website (coming soon!)
+* [`fredhohman.com` on Github][fredhohman.com]
 * [Raspberry Pi Case][rpi]&nbsp;<small style="color: #c0c0c0">2013</small>
 * [Road Bike Restoration][bike]&nbsp;<small style="color: #c0c0c0">2012</small>
 
@@ -40,3 +41,5 @@ Things I do, including research, academic course projects, and misellaneous inte
 [mic]: {{ site.url }}/projects/materials-informatics-grain-growth "Materials Informatics Grain Growth."
 [bd]: {{ site.url }}/projects/cse-6730-bobby-dodd-simulation "Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium."
 [got]: {{ site.url }}/projects/cs-7450-a-viz-of-ice-and-fire "A Viz of Ice and Fire."
+[hci]: {{ site.url }}/projects/cs-6750-health-easel "Health Easel"
+[fredhohman.com]: https://github.com/fredhohman/fredhohman.github.io "fredhohman.com on Github"
