@@ -9,7 +9,7 @@ permalink: projects/cs-7450-a-viz-of-ice-and-fire
 
 The hit TV show Game of Thrones has won critical acclaim and the attention of millions of fans with its inspiring cinematography and brilliant dialogue. Dedicated fans of the show can recall critical scenes and key quotes with ease, but can they pick out high-level trends that emerge over the course of the series? 
 
-For instance, in which season was the frozen North the focus of the plot? With all the violent twists in the plot, how often does the show's dialogue tend toward the topic of death? This project for **CS 7450 Information Visualization** seeks to highlight these large-scale patterns that might otherwise be missed.
+For instance, in which season was the frozen North the focus of the plot? With all the violent twists in the plot, how often does the show's dialogue tend toward the topic of death? This project for **[CS 7450 Information Visualization][infovis]** seeks to highlight these large-scale patterns that might otherwise be missed.
 
 You can view the web visualization [here][viz].
 
@@ -40,10 +40,12 @@ Our code is easily scalable to include and remove different textual categories, 
 ## Links
 * [A Viz of Ice and Fire][viz]
 * [Github Repository][github]
+* [Georgia Tech's CS 7450 InfoVis Class][infovis]
 
-[fred]: http://fredhohman.com
-[ian]: http://ianbstewart.github.io/
-[sandeep]: http://sandeepsoni.github.io
+[fred]: http://fredhohman.com "Fred Hohman"
+[ian]: http://ianbstewart.github.io/ "Ian Stewart"
+[sandeep]: http://sandeepsoni.github.io "Sandeep Soni"
 
 [github]: https://github.com/fredhohman/a-viz-of-ice-and-fire "Github Repository."
 [viz]: http://fredhohman.com/a-viz-of-ice-and-fire/ "A Viz of Ice and Fire."
+[infovis]: http://www.cc.gatech.edu/~stasko/7450/ "Georgia Tech's Information Visualization Class"
