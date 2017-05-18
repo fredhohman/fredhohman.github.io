@@ -1,0 +1,33 @@
+button {
+  font-size: 14px;
+  font-weight: 500;
+  padding-top: 8px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: #845fb4;
+  background: #ffffff;
+  border: solid 1px #2196F3;
+  border-radius: 4px;
+
+    -webkit-transition: 0.35s color ease, 0.35s background-color ease;
+       -moz-transition: 0.35s color ease, 0.35s background-color ease;
+        -ms-transition: 0.35s color ease, 0.35s background-color ease;
+         -o-transition: 0.35s color ease, 0.35s background-color ease;
+            transition: 0.35s color ease, 0.35s background-color ease;
+
+
+}
+
+button:hover,
+button.hover {
+  border-color: #2196F3;
+  background-color: #2196F3;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+button:hover a {
+  text-decoration: none;
+  color: #ffffff;
+}
