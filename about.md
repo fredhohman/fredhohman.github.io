@@ -13,7 +13,7 @@ As a member of the [Polo Club of Data Science][poloclub], our research bridges *
 Here's my [CV][cv].
 
 <figure>
-  <img class="full" src="/images/me3.JPG" alt="That's me.">
+  <img class="full" src="/images/me4.JPG" alt="That's me.">
   <figcaption>That's me.</figcaption>
 </figure>
 
@@ -33,12 +33,6 @@ At Georgia Tech, I'm a member of the [Polo Club of Data Science][poloclub], wher
 At UGA I explored 3D printing in topology by observing the physical geometry of shapes that are particularly hard to visualize. With the assistance of [Dr. David Gay][dg] I wrote about my research and [my 3D models][thingiverse] sparked interest in the mathematical, 3D printing community. My undergraduate thesis was titled [“3D Printing the Trefoil Knot and its Pages”][trefoil] and it included 3D printed models as well as a gallery of photographs.
 
 I participated in Fairfield University's [Mathematics & Computational Science REU][reu] during the summer of 2014 researching Experimental and Numerical Studies of Oceanic Overflow under [Dr. Shanon Reckinger][sr]. My group presented at various universities, the [American Physical Society’s Division of Fluid Dynamics Conference][apsdfd]in 2014, and won Outstanding Poster at the [Joint Mathematics Meeting][jmm] in 2015.  -->
-
-<!-- <figure>
-  <img src="/images/me2.JPG" alt="Sitting in NYC.">
-  <figcaption>Sitting in NYC.</figcaption>
-</figure> -->
-
 
 ## Education
 
@@ -67,6 +61,15 @@ Present — Aug. 2016, Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][ale
 <span style="margin-top:10px; display:block"></span>
 <span style="color:#9a9a9a">
 Member of the Polo Club of Data Science where we bridge data mining and machine learning techniques with principles from human-computer interaction and visualization to make interactive tools to help people understand and explore big data.
+</span>
+
+**NASA Jet Propulsion Lab (JPL)**, Pasadena, CA  
+*Creative Computer Scientist, Data Visualization Program*  
+Summer 2017  
+<span style="margin-top:10px; display:block"></span>
+Project: Cyber Visualization  
+<span style="color:#9a9a9a">
+• Intensive joint summer program between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research.  
 </span>
 
 **Pacific Northwest National Laboratory**, Richland, WA  
@@ -262,4 +265,3 @@ Universe
 [sk]: http://www.me.gatech.edu/faculty/kalidindi "Surya Kalidindi."
 
 [cv]: {{ site.url }}/cv.pdf "My CV."
-[resume]: {{ site.url }}/assets/fredhohman-resume.pdf "My Resume."
