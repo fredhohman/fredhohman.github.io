@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+  <body>
+  
+    <!-- {% include header.html %} -->
+    <!-- {% include nav.html %} -->
+    <div style="height: 30px"></div>
+
+    <div class="container content">
+
+      <main>
+        {{ content }}
+      </main>
+
+      {% include comments.html %}
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+</html>

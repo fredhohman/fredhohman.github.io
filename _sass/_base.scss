@@ -37,6 +37,13 @@ a {
   color: #2196F3;
   text-decoration: none;
 
+/*  -webkit-transition: 0.15s color ease;
+     -moz-transition: 0.15s color ease;
+      -ms-transition: 0.15s color ease;
+       -o-transition: 0.15s color ease;
+          transition: 0.15s color ease;*/
+
+
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
@@ -46,6 +53,11 @@ a {
   strong {
     color: inherit;
   }
+}
+
+a:hover {
+  /*color: #ffffff;*/
+  /*text-decoration: none;*/
 }
 
 img {
@@ -77,3 +89,4 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+

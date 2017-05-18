@@ -1,10 +1,18 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
 # Hello, I'm Frederick.
 *But you can call me Fred. Nice to meet you.*
+
+<!-- <span>
+	<button><a href="{{ site.baseful }}/projects">Projects</a></button>
+	<button><a href="{{ site.baseful }}/blog">Blog</a></button>
+	<button><a href="{{ site.baseful }}/other">Other</a></button>
+</span> -->
+
+<!-- {% include nav.html %} -->
 
 I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex]. 
 
@@ -13,12 +21,15 @@ As a member of the [Polo Club of Data Science][poloclub], our research bridges *
 Here's my [CV][cv].
 
 <figure>
-  <img class="full" src="/images/me3.JPG" alt="That's me.">
-  <figcaption>That's me.</figcaption>
+  <img class="full" src="/images/me4.JPG" alt="That's me.">
 </figure>
 
 # [About][about]
 I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia. I’m interested in the combination of math + art, or more specifically, the intersection of **data science** (machine learning, deep learning, and big data analytics) and **visualization** (visual analytics, information visualization, and digital design).
+
+Considered by my family and peers to be a resident techie, I enjoy staying current with consumer technology and computer UI/UX design. When I’m not at my desk crunching numbers, I enjoy playing and discovering music, throwing frisbee, and riding motorcycles.
+
+
 
 # [Projects][projects]
 Things I do, including research, academic course projects, and misellaneous interests.
