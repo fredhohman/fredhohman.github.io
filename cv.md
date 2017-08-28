@@ -12,27 +12,12 @@ As a member of the [Polo Club of Data Science][poloclub], our research bridges *
 
 Here's my [CV][cv].
 
-<figure>
+<!-- <figure>
   <img class="full" src="/images/me4.JPG" alt="That's me.">
   <figcaption>That's me.</figcaption>
-</figure>
-
-I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia. I’m interested in the combination of math + art, or more specifically, the intersection of **data science** (machine learning, deep learning, and big data analytics) and **visualization** (visual analytics, information visualization, and digital design).
-
-Considered by my family and peers to be a resident techie, I enjoy staying current with consumer technology and computer UI/UX design. When I’m not at my desk crunching numbers, I enjoy playing and discovering music, throwing frisbee, and riding motorcycles.
+</figure> -->
 
 ***
-
-<!-- I previously received my B.S. degrees in [Applied Mathematics][ugamath] and [Physics][ugaphysics] from the [University of Georgia][uga]. 
-
-I like to write about the [Stuff I Use][stuff-i-use], take [Photos][photos], and make [Monthly Music][monthly-music] playlists.
-
-## The Longer Version
-At Georgia Tech, I'm a member of the [Polo Club of Data Science][poloclub], where our research bridges **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people understand and explore big data.
-
-At UGA I explored 3D printing in topology by observing the physical geometry of shapes that are particularly hard to visualize. With the assistance of [Dr. David Gay][dg] I wrote about my research and [my 3D models][thingiverse] sparked interest in the mathematical, 3D printing community. My undergraduate thesis was titled [“3D Printing the Trefoil Knot and its Pages”][trefoil] and it included 3D printed models as well as a gallery of photographs.
-
-I participated in Fairfield University's [Mathematics & Computational Science REU][reu] during the summer of 2014 researching Experimental and Numerical Studies of Oceanic Overflow under [Dr. Shanon Reckinger][sr]. My group presented at various universities, the [American Physical Society’s Division of Fluid Dynamics Conference][apsdfd]in 2014, and won Outstanding Poster at the [Joint Mathematics Meeting][jmm] in 2015.  -->
 
 ## Education
 
