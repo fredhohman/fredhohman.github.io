@@ -4,7 +4,7 @@ title: CV
 permalink: cv/
 ---
 
-*But you can call me Fred. Nice to meet you.*
+# Fred Hohman
 
 I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex]. 
 
@@ -12,12 +12,20 @@ As a member of the [Polo Club of Data Science][poloclub], our research bridges *
 
 Here's my [CV][cv].
 
+Klaus Advanced Computing Building  
+Georgia Tech  
+266 Ferst Dr NW  
+Atlanta, GA 30332  
+
 <!-- <figure>
   <img class="full" src="/images/me4.JPG" alt="That's me.">
   <figcaption>That's me.</figcaption>
 </figure> -->
 
+<time datetime="{{ site.time | date: "%B %-d, %Y" }}" class="post-date">Updated: {{ site.time | date: "%B %Y" }}</time>
+
 ***
+
 
 ## Education
 
@@ -36,7 +44,6 @@ Aug. 2011 — May 2015
 Thesis: ["3D Printing the Trefoil Knot and its Pages"][trefoil]  
 Overall GPA: 3.84/4.00, Magna Cum Laude
 
-<!-- <br/> -->
 
 ## Research Experience
 
@@ -97,6 +104,110 @@ Project: [Numerical and Experimental Comparison of Oceanic Overflow][reu]
 • Research ares: Computational fluid dynamics, data visualization, applied mathematics.
 </span>
 
+
+## Honors and Awards
+
+2017 Best Demo, Honorable Mention at ACM SIGMOD/PODS Conference
+
+2015-2019 President's Fellowship at Georgia Institute of Technology
+
+2015 Outstanding Poster at JMM Undergraduate Poster Session in Computational Math
+
+2015 UGA CURO Research Graduation Distinction
+
+2014 UGA CURO Research Assistantship
+
+2013 Presidential Scholar
+
+2011-2015 Dean's List
+
+2011-2015 Georgia HOPE Scholarship
+
+2011 Mission of Blessed Trinity: Artistic Sensibility (one of two students to receive upon graduation)
+
+2009 Eagle Scout Award
+
+
+## Publications
+
+**3D Exploration of Graph Layers via Vertex Cloning**  
+James Abello, Fred Hohman, Duen Horng Chau  
+*Poster, IEEE Information Visualization (VIS). Oct 1-6, 2017. Phoenix, USA.*  
+<span class="paper-misc">
+Github, PDF
+</span>
+
+**A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue**  
+Fred Hohman, Sandeep Soni, Ian Stewart, John Stasko  
+*2nd Workshop on Visualization for the Digital Humanities at IEEE VIS. Oct 1-6, 2017. Phoenix, USA.*
+
+**VIGOR: Interactive Visual Exploration of Graph Query Results**  
+Robert Pienta, Fred Hohman, Alex Endert, Acar Tamersoy, Kevin Roundy, Chris Gates, Shamkant Navathe, Duen Horng Chau  
+*IEEE Transactions on Visualization and Computer Graphics (Proc. VAST'17). Jan 2018. Phoenix, USA.*
+
+**mHealth Visual Discovery Dashboard**  
+Dezhi Fang, Fred Hohman, Peter Polack, Hillol Sarker, Minsuk Kahng, Moushumi Sharmin, Mustafa al'Absi, Duen Horng Chau.  
+*Demo, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UBICOMP). Sept 11-15, 2017. Maui, USA.*
+
+**Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression**  
+Nilaksh Das, Madhuri Shanbhogue, Shang-Tse Chen, Fred Hohman, Li Chen, Michael E. Kounavis, Duen Horng Chau  
+*arXiv:1705.02900. May 8, 2017.*
+
+**Visual Graph Query Construction and Refinement**  
+Robert Pienta, Fred Hohman, Acar Tamersoy, Alex Endert, Shamkant Navathe, Hanghang Tong, Duen Horn Chau  
+*Demo, ACM International Conference on Management of Data (SIGMOD/PODS) Conference}. May 14-19, 2017. Chicago, USA.*  
+*Best Demo, Honorable Mention*
+
+**ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation**  
+Fred Hohman, Nathan Hodas, Duen Horng Chau  
+*Late-Breaking Work, ACM Conference on Human Factors in Computing Systems (CHI)}. May 6-11, 2017. Denver, CO, USA.*
+
+**Experimental and Numerical Comparison of Oceanic Overflow**  
+Thomas Gibson, Fred Hohman, Theresa Morrison, Shanon Reckinger, Scott Reckinger  
+*Abstract, American Physical Society Division of Fluid Dynamics. Nov 23-25, 2014. San Francisco, CA, USA.*
+
+
+## Presentations
+
+**"Constellation: Visualizing Cybersecurity in Real Time"**
+Aug. 2017 NASA Jet Propulsion Lab (JPL).
+Aug. 2017California Institute of Technology.
+
+**"Visualizing Learned Semantics with Deep Learning"**
+Nov. 2016 Georgia Tech. Ph.D. Qualifying Oral Exam.
+
+**"Drawing Semantics with Deep Learning"**
+July 2016 Pacific Northwest National Laboratory. National Security Internship Program Research Symposium.
+
+**"3D Printing The Trefoil Knot And Its Pages"**
+Mar. 2015 UGA Center for Undergraduate Research Symposium. Hands on demo.\\ %Abstract published in UGA Journal of Undergraduate Research Opportunities.
+
+**"Experimental and Numerical Studies of Oceanic Overflow"**
+June 2015 American Meteorological Society’s 20th Conference on Atmospheric and Oceanic Fluid Dynamics.
+Jan. 2015 Joint Mathematics Meeting. Outstanding Poster at Student Poster Session in Computational Math.
+Nov. 2014 American Physical Society Division of Fluid Dynamics.% Abstract published in proceedings.
+Aug. 2014 Invited and presented on behalf at Brown University, Los Alamos National Lab. 
+July 2014 Northeast REU Mini-Conference at Yale University.
+July 2014 University of Rhode Island Bay Campus.
+
+**"3D Printing in Topology"**
+Mar. 2014 UGA Center for Undergraduate Research Symposium. Hands on demo.
+
+
+## Press
+Sept. 2015 "Georgia Tech PhD Student Puts Finishing Touches on 3D Printed Trumpety Trefoil." 3dprint.com.
+
+2015 "Student Profile: Fred Hohman." 2015 UGA Mathematics Department Newsletter.
+
+Feb. 2015 "Falling Water." MITgcm.org.
+
+Dec. 2014 "Mathematics/Physics Student Creates 3D Printed Puzzle of Trefoil Knot, Catches Mathematical Community's Interest." 3dprint.com.
+
+July 2014 "Day 311 - Trefoil Trumpet." Makerhome.com.
+
+April 2014 "Mathematics with 3D Printing". Sketches of Topology.
+
+
 ## Teaching
 
 **Georgia Institute of Technology**, Atlanta, GA  
@@ -107,58 +218,92 @@ Spring 2017, CSE 6242 Data and Visual Analytics
 Assisted in teaching and administration for Data and Visual Analytics (CSE 6242), a graduate course with 250+ students enrolled.
 </span>
 
-<!-- <br/>
+2014-2015 **Student Notetaker**
+*University of Georgia, Athens, GA*
+Generated notes for undergraduate mathematics and physics courses for students with disabilities.
 
-## Coursework
+2012 **Tutor**
+*University of Georgia, Athens, GA*
+Specialized in tutoring calculus to undergraduates.
 
-**Computational Science and Engineering**  
-Intro to Computational Science and Engineering ([CSE 6001][cse6010])  
-Computational Problem Solving ([CSE 6010][cse6010])  
-Numerical Linear Algebra ([CSE/MATH 6643][cse6643])  
-Modeling and Simulation ([CSE 6730][cse6730])  
-Computational Data Analysis ([CSE/ISYE 6740][cse6740])  
-Materials Informatics ([CSE 8803/ME 8883][cse8803])  
 
-**Computer Science**  
-Human Computer Interaction ([CS 6750][cs6750])
-Information Visualization ([CS 7450][cs7450])  
-Data Visualization Seminar ([CS 8001 VIS][cs8001-vis])  
-Special Problems in Personal Visual Analytics ([CS 8903][cs8903])  
+## Design
 
-**Math**  
-Calculus II for Science and Engineering ([MATH 2260][math2260])  
-Multivariable Calculus ([MATH 2500][math2260])  
-Elementary Differential Equations ([MATH 2700][math2700])  
-Linear Algebra ([MATH 3000][math3000])  
-Sequences and Series ([MATH 3100H][math3100])  
-Introduction to Higher Mathematics ([MATH 3200][math3200])  
-Numerical Analysis I ([MATH 4500][math4500])  
-Numerical Analysis II ([MATH 4510][math4510])  
-Introduction to Partial Differential Equations ([MATH 4720][math4720])  
-Mathematics and Music ([MATH 4760][math4760])  
-Undergraduate Research I ([MATH 4960H][trefoil])  
-Undergraduate Research II ([MATH 4970H][trefoil])  
-Honors Thesis ([MATH 4990H][trefoil])  
+2017 **IDEA Workshop Proceedings Cover**
+*ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (IDEA), Halifax, Canada*
+Designed workshop poster and conference proceedings cover.
 
-**Physics**  
-Advanced Introductory Physics I ([PHYS 1311/L][phys1311])  
-Advanced Introductory Physics II ([PHYS 1312/L][phys1312])  
-Introduction to Scientific Programming ([PHYS 2001][phys2001])  
-Electronics ([PHYS 3320/L][phys3320])  
-Modern Physics ([PHYS 3700][phys3700])  
-Mathematical Methods in Physics ([PHYS 3900][phys3900])  
-Classical Mechanics I ([PHYS 4101][phys4101])  
-Classical Mechanics II ([PHYS 4102][phys4201])  
-Electricity and Magnetism I ([PHYS 4201][phys4201])  
-Thermodynamics and Kinetic Theory ([PHYS 4300][phys4300])  
-Quantum Mechanics I ([PHYS 4701][phys4701])  
-Introduction to Nanotechnology ([PHYS 4800][phys4800])  
+2017 **Brad Myers Advisee Tree**
+*ACM Conference on Human Factors in Computing Systems (CHI), Denver, USA*
+Designed and implemented an interactive visualization of Brad Myers's advisee tree shown during his CHI 2017 Lifetime Research Award talk. Designed accompanying ribbon worn by attendees at the conference.
 
-**Statistics**  
-Mathematical Statistics I ([STAT 4510][stat4510])  
-Mathematical Statistics II ([STAT 4520][stat4520])  
+2014 **3D Printed Cube Decomposition Trophy**
+*University of Georgia Mathematics Department, Athens, USA*
+Designed, modeled, and 3D printed cube decomposition trophy for annual UGA High School Math Tournament that was given to the top scoring teams and participants.
 
-<br/> -->
+2014 **3D Printed UGA Keychain**
+*University of Georgia Lamar Dodd School of Art, Athens, USA*
+Created 3D printed UGA keychain and presentation notes given at Experience UGA: a interdisciplinary event that exposes middle-school and high-school students to hands-on learning activities.
+
+
+## Technology Skills
+**OS:** Mac OS X, Ubuntu, Unix Command Line, Windows  
+**Programming:** Python, Matlab, Mathematica, C  
+**Web:** HTML, CSS, JavaScript, D3, SQL, Bootstrap, LaTeX, Markdown, Jekyll, Git  
+**Graphics:** Affinity Designer, Pixelmator, Matplotlib, Blender, Keynote, Meshlab, MakerBot Desktop  
+**HCI:** Contextual Inquiry, Think-Alouds, User Personas, Rapid Paper Prototyping, Affinity Diagraming
+
+
+## Professional Activities
+### Reviewer
+
+Symposium on Visualization in Data Science (**VDS**) at IEEE VIS 2017  
+IEEE Visual Analytics Science and Technology (**VAST**) 2017  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2017  
+IEEE International Conference on Distributed Computing Systems (**ICDCS**) 2017  
+SIAM International Conference on Data Mining (**SDM**) 2017  
+ACM Conference on Human Factors in Computing Systems (**CHI**) 2017
+
+### Member
+2016-Present Association for Computing Machinery (**ACM**)  
+2016-Present Institute of Electrical and Electronics Engineers (**IEEE**)  
+2012-2015 UGA Mathematics Club  
+2012-2013 Society of Physics Students, UGA Chapter (**SPS**)  
+2011-2015 National Society of Collegiate Scholars (**NSCS**)
+
+
+## References
+
+**Dr. Polo Chau**, Assistant Professor  
+School of Computational Science and Engineering  
+Georgia Institute of Technology  
+Atlanta, GA, USA  
+[cc.gatech.edu/~dchau/][polo]
+
+**Dr. Alex Endert**, Assistant Professor  
+School of Interactive Computing  
+Georgia Institute of Technology  
+Atlanta, GA, USA  
+[va.gatech.edu/endert/][alex]
+
+**Dr. Nathan Hodas**, Senior Research Scientist  
+Data Sciences and Analytics Group  
+Pacific Northwest National Laboratory  
+Richland, WA, USA  
+[signatures.pnnl.gov/bios/nathan-hodas][nathan]
+
+**Dr. David Gay**, Associate Professor  
+Department of Mathematics  
+University of Georgia  
+Athens, GA, USA  
+[euclidlab.org/david-gay/][gay]
+
+**Dr. Shanon Reckinger**, Assistant Teaching Professor  
+Mechanical and Industrial Engineering Department  
+Montana State University  
+Bozeman, MT, USA  
+[shanonreckinger.com][shanon]
+
 
 ## Contact
 
@@ -246,7 +391,9 @@ Universe
 
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau."
 [alex]: http://va.gatech.edu/endert/ "Alex Endert."
-[nathan]: https://www.linkedin.com/in/nathan-hodas-ba37956 "Nathan Hodas."
+[nathan]: https://signatures.pnnl.gov/bios/nathan-hodas "Nathan Hodas."
+[gay]: https://euclidlab.org/david-gay/ "David Gay."
+[shanon]: http://www.shanonreckinger.com "Shanon Reckinger."
 [sk]: http://www.me.gatech.edu/faculty/kalidindi "Surya Kalidindi."
 
 [cv]: {{ site.url }}/cv.pdf "My CV."
