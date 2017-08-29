@@ -1,5 +1,5 @@
 #cv h1, #cv h2, #cv h3, #cv h4, #cv h5, #cv h6, #cv p, #cv blockquote, #cv ul, #cv ol, #cv dl, #cv table, #cv time, #cv .message, #cv .highlight, #cv .gist-file, #cv .pagination{
-	max-width: 55rem; //should match .container max-width above
+	max-width: 55rem; //should match .container max-width 
 	margin-left: 5rem;
 }
 
@@ -17,23 +17,26 @@
 
 #cv h3 {
 	margin-top: 0rem;
+	font-weight: 300;
 }
 
-// #cv h2::before {
-// 	width: 5rem;
-// 	content: "hi";
-// 	background-color: red;
-// }
-
+#cv h2 {
+	margin-top: 2.5rem;
+	font-weight: 300;
+}
 #cv .cv-left-date {
 	margin-left: -5rem;
-	color: red;
 	// text-align: right;
 	width: 5rem;
 	display: inline-block;
-	// font-size: 8px;
+	font-size: 12px;
 	margin-top:0;
 	margin-bottom:0;
 	margin-right:0;
 	padding:0;
+}
+
+#cv .cv-spacer {
+	margin-top:5px;
+	display:block;
 }

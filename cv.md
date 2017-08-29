@@ -34,10 +34,9 @@ Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]
 Research interests: Explainable artificial intelligence, visual analytics, machine learning, deep learning  
 Overall GPA: 4.00/4.00
 
-**B.S. in Mathematics**, Area of Emphasis in Applied Mathematics  
-**B.S. in Physics**  
-*[University of Georgia][uga], Athens, GA*  
-Aug. 2011 — May 2015  
+<span class="cv-left-date">Aug. 2011 —</span>**B.S. in Mathematics**, Area of Emphasis in Applied Mathematics  
+<span class="cv-left-date">May 2015</span>**B.S. in Physics**  
+*[University of Georgia][uga], Athens, GA*   
 Thesis: ["3D Printing the Trefoil Knot and its Pages"][trefoil]  
 Overall GPA: 3.84/4.00, Magna Cum Laude
 
@@ -52,18 +51,17 @@ Present — Aug. 2016, Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][ale
 Member of the Polo Club of Data Science where we bridge data mining and machine learning techniques with principles from human-computer interaction and visualization to make interactive tools to help people understand and explore big data.
 </span>
 
-**NASA Jet Propulsion Lab (JPL)**, Pasadena, CA  
+<span class="cv-left-date">Summer 2017</span>**NASA Jet Propulsion Lab (JPL)**, Pasadena, CA  
 *Creative Computer Scientist, Data Visualization Program*  
-Summer 2017  
 <span style="margin-top:10px; display:block"></span>
 Project: Cyber Visualization  
 <span style="color:#9a9a9a">
 • Intensive joint summer program between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research.  
 </span>
 
-**Pacific Northwest National Laboratory**, Richland, WA  
+<span class="cv-left-date">Summer 2016</span>**Pacific Northwest National Laboratory**, Richland, WA  
 *National Security Ph.D. Intern, Data Sciences & Analytics Group*  
-Summer 2016, Mentor: [Nathan Hodas][nathan]  
+Mentor: [Nathan Hodas][nathan]  
 <span style="margin-top:10px; display:block"></span>
 Project: Understanding Deep Learning Models Via Visualization  
 <span style="color:#9a9a9a">
@@ -71,9 +69,9 @@ Project: Understanding Deep Learning Models Via Visualization
 • Research areas: Deep learning, image analysis, visualization.
 </span>
 
-**Georgia Institute of Technology**, Atlanta, GA  
-*Graduate Research Assistant, School of Computational Science and Engineering*  
-May 2016 — Aug. 2015, Mentor: [Surya Kalidindi][sk]  
+<span class="cv-left-date">May 2016 —</span>**Georgia Institute of Technology**, Atlanta, GA  
+<span class="cv-left-date">Aug. 2015</span>*Graduate Research Assistant, School of Computational Science and Engineering*  
+Mentor: [Surya Kalidindi][sk]  
 <span style="margin-top:10px; display:block"></span>
 Project: [Material Informatics][gg]  
 <span style="color:#9a9a9a">
@@ -81,9 +79,9 @@ Project: [Material Informatics][gg]
 • Research areas: Physical data science, material informatics, statistics.
 </span>
 
-**Undergraduate Thesis and Research**  
-*University of Georgia, Department of Mathematics, Athens, GA*  
-May 2015 — Jan. 2013, Advisor: [David Gay][dg]  
+<span class="cv-left-date">May 2015 —</span>**Undergraduate Thesis and Research**  
+<span class="cv-left-date">Jan. 2013</span>*University of Georgia, Department of Mathematics, Athens, GA*  
+Advisor: [David Gay][gay]  
 <span style="margin-top:10px; display:block"></span>
 Project: [3D Printing the Trefoil Knot and its Pages][trefoil]  
 <span style="color:#9a9a9a">
@@ -91,9 +89,9 @@ Project: [3D Printing the Trefoil Knot and its Pages][trefoil]
 • Research areas: 3D modeling, topology, visualization, mathematical exposition.
 </span>
 
-**REU in Mathematics and Computational Science**  
+<span class="cv-left-date">Summer 2014</span>**REU in Mathematics and Computational Science**  
 *Fairfield University, Department of Engineering, Fairfield, CT*  
-Summer 2014, Mentor: [Shanon Reckinger][sr]  
+Mentor: [Shanon Reckinger][sr]  
 <span style="margin-top:10px; display:block"></span>
 Project: [Numerical and Experimental Comparison of Oceanic Overflow][reu]  
 <span style="color:#9a9a9a">
@@ -104,25 +102,25 @@ Project: [Numerical and Experimental Comparison of Oceanic Overflow][reu]
 
 ## Honors and Awards
 
-2017 Best Demo, Honorable Mention at ACM SIGMOD/PODS Conference
-
-2015-2019 President's Fellowship at Georgia Institute of Technology
-
-2015 Outstanding Poster at JMM Undergraduate Poster Session in Computational Math
-
-2015 UGA CURO Research Graduation Distinction
-
-2014 UGA CURO Research Assistantship
-
-2013 Presidential Scholar
-
-2011-2015 Dean's List
-
-2011-2015 Georgia HOPE Scholarship
-
-2011 Mission of Blessed Trinity: Artistic Sensibility (one of two students to receive upon graduation)
-
-2009 Eagle Scout Award
+<span class="cv-left-date">2017</span>Best Demo, Honorable Mention at ACM SIGMOD/PODS Conference
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2015—2019</span>President's Fellowship at Georgia Institute of Technology
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2015</span>Outstanding Poster at JMM Undergraduate Poster Session in Computational Math
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2015</span>UGA CURO Research Graduation Distinction
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2014</span>UGA CURO Research Assistantship
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2013</span>Presidential Scholar
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2011 — 2015</span>Dean's List
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2011 — 2015</span>Georgia HOPE Scholarship
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2011</span>Mission of Blessed Trinity: Artistic Sensibility (one of two students to receive upon graduation)
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2009</span>Eagle Scout Award
 
 
 ## Publications
@@ -131,7 +129,7 @@ Project: [Numerical and Experimental Comparison of Oceanic Overflow][reu]
 James Abello, Fred Hohman, Duen Horng Chau  
 *Poster, IEEE Information Visualization (VIS). Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
-Github, PDF
+[PDF][17-vis-playground-pdf], Video ([Youtube][17-vis-playground-video-youtube], [Vimeo][17-vis-playground-video-vimeo])
 </span>
 
 **A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue**  
@@ -144,11 +142,17 @@ Robert Pienta, Fred Hohman, Alex Endert, Acar Tamersoy, Kevin Roundy, Chris Gate
 
 **mHealth Visual Discovery Dashboard**  
 Dezhi Fang, Fred Hohman, Peter Polack, Hillol Sarker, Minsuk Kahng, Moushumi Sharmin, Mustafa al'Absi, Duen Horng Chau.  
-*Demo, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UBICOMP). Sept 11-15, 2017. Maui, USA.*
+*Demo, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UBICOMP). Sept 11-15, 2017. Maui, USA.*  
+<span class="paper-misc">
+[PDF][17-ubicomp-dashboard-pdf], [Video][17-ubicomp-dashboard-video]
+</span>
 
 **Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression**  
 Nilaksh Das, Madhuri Shanbhogue, Shang-Tse Chen, Fred Hohman, Li Chen, Michael E. Kounavis, Duen Horng Chau  
-*arXiv:1705.02900. May 8, 2017.*
+*arXiv:1705.02900. May 8, 2017.*  
+<span class="paper-misc">
+[PDF][17-univ-defense-pdf]
+</span>
 
 **Visual Graph Query Construction and Refinement**  
 Robert Pienta, Fred Hohman, Acar Tamersoy, Alex Endert, Shamkant Navathe, Hanghang Tong, Duen Horn Chau  
@@ -157,7 +161,10 @@ Robert Pienta, Fred Hohman, Acar Tamersoy, Alex Endert, Shamkant Navathe, Hangha
 
 **ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation**  
 Fred Hohman, Nathan Hodas, Duen Horng Chau  
-*Late-Breaking Work, ACM Conference on Human Factors in Computing Systems (CHI)}. May 6-11, 2017. Denver, CO, USA.*
+*Late-Breaking Work, ACM Conference on Human Factors in Computing Systems (CHI)}. May 6-11, 2017. Denver, CO, USA.*  
+<span class="paper-misc">
+[PDF][17-chi-shapeshop-pdf], [Video][17-chi-shapeshop-video], [Github][17-chi-shapeshop-github], [Poster][17-chi-shapeshop-poster]
+</span>
 
 **Experimental and Numerical Comparison of Oceanic Overflow**  
 Thomas Gibson, Fred Hohman, Theresa Morrison, Shanon Reckinger, Scott Reckinger  
@@ -167,106 +174,125 @@ Thomas Gibson, Fred Hohman, Theresa Morrison, Shanon Reckinger, Scott Reckinger
 ## Presentations
 
 **"Constellation: Visualizing Cybersecurity in Real Time"**  
-Aug. 2017 NASA Jet Propulsion Lab (JPL).  
-Aug. 2017 California Institute of Technology.
+<span class="cv-left-date">Aug. 2017</span>NASA Jet Propulsion Lab (JPL).  
+<span class="cv-spacer"></span>
+<span class="cv-left-date">Aug. 2017</span>California Institute of Technology.
 
 **"Visualizing Learned Semantics with Deep Learning"**  
-Nov. 2016 Georgia Tech. Ph.D. Qualifying Oral Exam.
+<span class="cv-left-date">Nov. 2016</span>Georgia Tech. Ph.D. Qualifying Oral Exam.
 
 **"Drawing Semantics with Deep Learning"**  
-July 2016 Pacific Northwest National Laboratory. National Security Internship Program Research Symposium.
+<span class="cv-left-date">July 2016</span>Pacific Northwest National Laboratory. National Security Internship Program Research Symposium.
 
 **"3D Printing The Trefoil Knot And Its Pages"**  
-Mar. 2015 UGA Center for Undergraduate Research Symposium. Hands on demo.\\ %Abstract published in UGA Journal of Undergraduate Research Opportunities.
+<span class="cv-left-date">Mar. 2015</span>UGA Center for Undergraduate Research Symposium. Hands on demo.
 
 **"Experimental and Numerical Studies of Oceanic Overflow"**  
-June 2015 American Meteorological Society’s 20th Conference on Atmospheric and Oceanic Fluid Dynamics.  
-Jan. 2015 Joint Mathematics Meeting. Outstanding Poster at Student Poster Session in Computational Math.  
-Nov. 2014 American Physical Society Division of Fluid Dynamics.% Abstract published in proceedings.  
-Aug. 2014 Invited and presented on behalf at Brown University, Los Alamos National Lab.   
-July 2014 Northeast REU Mini-Conference at Yale University.  
-July 2014 University of Rhode Island Bay Campus.
+<span class="cv-left-date">June 2015</span>American Meteorological Society’s 20th Conference on Atmospheric and Oceanic Fluid Dynamics.  
+<span class="cv-spacer"></span>
+<span class="cv-left-date">Jan. 2015</span>Joint Mathematics Meeting. Outstanding Poster at Student Poster Session in Computational Math.  
+<span class="cv-spacer"></span>
+<span class="cv-left-date">Nov. 2014</span>American Physical Society Division of Fluid Dynamics.
+<span class="cv-spacer"></span>
+<span class="cv-left-date">Aug. 2014</span>Invited and presented on behalf at Brown University, Los Alamos National Lab.   
+<span class="cv-spacer"></span>
+<span class="cv-left-date">July 2014</span>Northeast REU Mini-Conference at Yale University.  
+<span class="cv-spacer"></span>
+<span class="cv-left-date">July 2014</span>University of Rhode Island Bay Campus.
 
 **"3D Printing in Topology"**  
-Mar. 2014 UGA Center for Undergraduate Research Symposium. Hands on demo.
+<span class="cv-left-date">Mar. 2014</span>UGA Center for Undergraduate Research Symposium. Hands on demo.
 
 
 ## Press
-Sept. 2015 "Georgia Tech PhD Student Puts Finishing Touches on 3D Printed Trumpety Trefoil." 3dprint.com.
-
-2015 "Student Profile: Fred Hohman." 2015 UGA Mathematics Department Newsletter.
-
-Feb. 2015 "Falling Water." MITgcm.org.
-
-Dec. 2014 "Mathematics/Physics Student Creates 3D Printed Puzzle of Trefoil Knot, Catches Mathematical Community's Interest." 3dprint.com.
-
-July 2014 "Day 311 - Trefoil Trumpet." Makerhome.com.
-
-April 2014 "Mathematics with 3D Printing". Sketches of Topology.
+<span class="cv-left-date">Sept. 2015</span> "Georgia Tech PhD Student Puts Finishing Touches on 3D Printed Trumpety Trefoil." 3dprint.com.
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2015</span>"Student Profile: Fred Hohman." 2015 UGA Mathematics Department Newsletter.
+<span class="cv-spacer"></span>
+<span class="cv-left-date">Feb. 2015</span>"Falling Water." MITgcm.org.
+<span class="cv-spacer"></span>
+<span class="cv-left-date">Dec. 2014</span>"Mathematics/Physics Student Creates 3D Printed Puzzle of Trefoil Knot, Catches Mathematical Community's Interest." 3dprint.com.
+<span class="cv-spacer"></span>
+<span class="cv-left-date">July 2014</span>"Day 311 - Trefoil Trumpet." Makerhome.com.
+<span class="cv-spacer"></span>
+<span class="cv-left-date">Apr. 2014</span>"Mathematics with 3D Printing". Sketches of Topology.
 
 
 ## Teaching
 
-**Georgia Institute of Technology**, Atlanta, GA  
+<span class="cv-left-date">Spring 2017</span>**Georgia Institute of Technology**, Atlanta, GA  
 *Graduate Teaching Assistant, School of Computational Science and Engineering*  
-Spring 2017, CSE 6242 Data and Visual Analytics 
+CSE 6242 Data and Visual Analytics 
 <span style="margin-top:10px; display:block"></span>
 <span style="color:#9a9a9a">
 Assisted in teaching and administration for Data and Visual Analytics (CSE 6242), a graduate course with 250+ students enrolled.
 </span>
 
-2014-2015 **Student Notetaker**
+<span class="cv-left-date">2014—2015</span>**Student Notetaker**
 *University of Georgia, Athens, GA*
 Generated notes for undergraduate mathematics and physics courses for students with disabilities.
 
-2012 **Tutor**
+<span class="cv-left-date">2012</span>**Tutor**
 *University of Georgia, Athens, GA*
 Specialized in tutoring calculus to undergraduates.
 
 
 ## Design
 
-2017 **IDEA Workshop Proceedings Cover**
-*ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (IDEA), Halifax, Canada*
+<span class="cv-left-date">2017</span>**IDEA Workshop Proceedings Cover**  
+*ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (IDEA), Halifax, Canada*  
 Designed workshop poster and conference proceedings cover.
 
-2017 **Brad Myers Advisee Tree**
-*ACM Conference on Human Factors in Computing Systems (CHI), Denver, USA*
+<span class="cv-left-date">2017</span>**Brad Myers Advisee Tree**  
+*ACM Conference on Human Factors in Computing Systems (CHI), Denver, USA*  
 Designed and implemented an interactive visualization of Brad Myers's advisee tree shown during his CHI 2017 Lifetime Research Award talk. Designed accompanying ribbon worn by attendees at the conference.
 
-2014 **3D Printed Cube Decomposition Trophy**
-*University of Georgia Mathematics Department, Athens, USA*
+<span class="cv-left-date">Aug. 2014</span>**3D Printed Cube Decomposition Trophy**  
+*University of Georgia Mathematics Department, Athens, USA*  
 Designed, modeled, and 3D printed cube decomposition trophy for annual UGA High School Math Tournament that was given to the top scoring teams and participants.
 
-2014 **3D Printed UGA Keychain**
-*University of Georgia Lamar Dodd School of Art, Athens, USA*
+<span class="cv-left-date">Aug. 2014</span>**3D Printed UGA Keychain**  
+*University of Georgia Lamar Dodd School of Art, Athens, USA*  
 Created 3D printed UGA keychain and presentation notes given at Experience UGA: a interdisciplinary event that exposes middle-school and high-school students to hands-on learning activities.
 
 
 ## Technology Skills
 **OS:** Mac OS X, Ubuntu, Unix Command Line, Windows  
+<span class="cv-spacer"></span>
 **Programming:** Python, Matlab, Mathematica, C  
+<span class="cv-spacer"></span>
 **Web:** HTML, CSS, JavaScript, D3, SQL, Bootstrap, LaTeX, Markdown, Jekyll, Git  
+<span class="cv-spacer"></span>
 **Graphics:** Affinity Designer, Pixelmator, Matplotlib, Blender, Keynote, Meshlab, MakerBot Desktop  
+<span class="cv-spacer"></span>
 **HCI:** Contextual Inquiry, Think-Alouds, User Personas, Rapid Paper Prototyping, Affinity Diagraming
 
 
 ## Professional Activities
 
-### Reviewer
+**Reviewer**  
 Symposium on Visualization in Data Science (**VDS**) at IEEE VIS 2017  
+<span class="cv-spacer"></span> 
 IEEE Visual Analytics Science and Technology (**VAST**) 2017  
+<span class="cv-spacer"></span>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2017  
+<span class="cv-spacer"></span>
 IEEE International Conference on Distributed Computing Systems (**ICDCS**) 2017  
+<span class="cv-spacer"></span>
 SIAM International Conference on Data Mining (**SDM**) 2017  
+<span class="cv-spacer"></span>
 ACM Conference on Human Factors in Computing Systems (**CHI**) 2017
 
-### Member
-2016-Present Association for Computing Machinery (**ACM**)  
-2016-Present Institute of Electrical and Electronics Engineers (**IEEE**)  
-2012-2015 UGA Mathematics Club  
-2012-2013 Society of Physics Students, UGA Chapter (**SPS**)  
-2011-2015 National Society of Collegiate Scholars (**NSCS**)
+**Member**  
+<span class="cv-left-date">2016 —</span>Association for Computing Machinery (**ACM**)  
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2016 —</span>Institute of Electrical and Electronics Engineers (**IEEE**)  
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2012 — 2015</span>UGA Mathematics Club  
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2012 — 2013</span>Society of Physics Students, UGA Chapter (**SPS**)  
+<span class="cv-spacer"></span>
+<span class="cv-left-date">2011 — 2015</span>National Society of Collegiate Scholars (**NSCS**)
 
 
 ## References
@@ -336,7 +362,6 @@ Universe
 [uga]: http://www.uga.edu "University of Georgia."
 [mined]: http://mined.gatech.edu "GT MINED Research Group."
 [thingiverse]: http://www.thingiverse.com/fredhohman/about "My Thingiverse Profile."
-[dg]: http://euclidlab.org/david-gay/ "Dr. David Gay."
 [reu]: http://faculty.fairfield.edu/srafalski/reu/ "Fairfield University REU."
 [sr]: http://www.shanonreckinger.com "Dr. Shanon Reckinger."
 [apsdfd]: http://www.aps.org/units/dfd/ "American Physical Society Division of Fluid Dynamics."
@@ -396,3 +421,14 @@ Universe
 [cv]: {{ site.url }}/cv.pdf "My CV."
 
 [fred]: http://fredhohman.com
+
+[17-vis-playground-pdf]: {{ site.url }}/papers/17-vis-playground.pdf
+[17-vis-playground-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
+[17-vis-playground-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
+[17-ubicomp-dashboard-pdf]: {{ site.url }}/papers/17-ubicomp-dashboard.pdf
+[17-ubicomp-dashboard-video]: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
+[17-chi-shapeshop-pdf]: {{ site.url }}/papers/17-chi-shapeshop.pdf
+[17-chi-shapeshop-video]: https://www.youtube.com/watch?v=XL3fFwZ1DDQ&feature=youtu.be
+[17-chi-shapeshop-github]: https://github.com/fredhohman/shapeshop
+[17-chi-shapeshop-poster]: {{ site.url }}/papers/17-chi-shapeshop-poster.pdf
+[17-univ-defense-pdf]: https://arxiv.org/abs/1705.02900
