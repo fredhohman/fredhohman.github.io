@@ -4,18 +4,17 @@ title: CV
 permalink: cv/
 ---
 
-# Fred Hohman
+# [Fred Hohman][fred]
+Klaus Advanced Computing Building  
+Georgia Tech  
+266 Ferst Dr NW  
+Atlanta, GA 30332  
 
 I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex]. 
 
 As a member of the [Polo Club of Data Science][poloclub], our research bridges **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people understand and explore big data.
 
 Here's my [CV][cv].
-
-Klaus Advanced Computing Building  
-Georgia Tech  
-266 Ferst Dr NW  
-Atlanta, GA 30332  
 
 <!-- <figure>
   <img class="full" src="/images/me4.JPG" alt="That's me.">
@@ -29,12 +28,10 @@ Atlanta, GA 30332
 
 ## Education
 
-**Ph.D. in Computational Science & Engineering**  
-*[Georgia Institute of Technology][gt], Atlanta, GA*  
-Present — Aug. 2015  
+<span class="cv-left-date">Present —</span>**Ph.D. in Computational Science & Engineering**  
+<span class="cv-left-date">Aug. 2015</span>*[Georgia Institute of Technology][gt], Atlanta, GA*  
 Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
 Research interests: Explainable artificial intelligence, visual analytics, machine learning, deep learning  
-Qualifying exams passed Nov. 2016  
 Overall GPA: 4.00/4.00
 
 **B.S. in Mathematics**, Area of Emphasis in Applied Mathematics  
@@ -169,28 +166,28 @@ Thomas Gibson, Fred Hohman, Theresa Morrison, Shanon Reckinger, Scott Reckinger
 
 ## Presentations
 
-**"Constellation: Visualizing Cybersecurity in Real Time"**
-Aug. 2017 NASA Jet Propulsion Lab (JPL).
-Aug. 2017California Institute of Technology.
+**"Constellation: Visualizing Cybersecurity in Real Time"**  
+Aug. 2017 NASA Jet Propulsion Lab (JPL).  
+Aug. 2017 California Institute of Technology.
 
-**"Visualizing Learned Semantics with Deep Learning"**
+**"Visualizing Learned Semantics with Deep Learning"**  
 Nov. 2016 Georgia Tech. Ph.D. Qualifying Oral Exam.
 
-**"Drawing Semantics with Deep Learning"**
+**"Drawing Semantics with Deep Learning"**  
 July 2016 Pacific Northwest National Laboratory. National Security Internship Program Research Symposium.
 
-**"3D Printing The Trefoil Knot And Its Pages"**
+**"3D Printing The Trefoil Knot And Its Pages"**  
 Mar. 2015 UGA Center for Undergraduate Research Symposium. Hands on demo.\\ %Abstract published in UGA Journal of Undergraduate Research Opportunities.
 
-**"Experimental and Numerical Studies of Oceanic Overflow"**
-June 2015 American Meteorological Society’s 20th Conference on Atmospheric and Oceanic Fluid Dynamics.
-Jan. 2015 Joint Mathematics Meeting. Outstanding Poster at Student Poster Session in Computational Math.
-Nov. 2014 American Physical Society Division of Fluid Dynamics.% Abstract published in proceedings.
-Aug. 2014 Invited and presented on behalf at Brown University, Los Alamos National Lab. 
-July 2014 Northeast REU Mini-Conference at Yale University.
+**"Experimental and Numerical Studies of Oceanic Overflow"**  
+June 2015 American Meteorological Society’s 20th Conference on Atmospheric and Oceanic Fluid Dynamics.  
+Jan. 2015 Joint Mathematics Meeting. Outstanding Poster at Student Poster Session in Computational Math.  
+Nov. 2014 American Physical Society Division of Fluid Dynamics.% Abstract published in proceedings.  
+Aug. 2014 Invited and presented on behalf at Brown University, Los Alamos National Lab.   
+July 2014 Northeast REU Mini-Conference at Yale University.  
 July 2014 University of Rhode Island Bay Campus.
 
-**"3D Printing in Topology"**
+**"3D Printing in Topology"**  
 Mar. 2014 UGA Center for Undergraduate Research Symposium. Hands on demo.
 
 
@@ -255,8 +252,8 @@ Created 3D printed UGA keychain and presentation notes given at Experience UGA: 
 
 
 ## Professional Activities
-### Reviewer
 
+### Reviewer
 Symposium on Visualization in Data Science (**VDS**) at IEEE VIS 2017  
 IEEE Visual Analytics Science and Technology (**VAST**) 2017  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2017  
@@ -397,3 +394,5 @@ Universe
 [sk]: http://www.me.gatech.edu/faculty/kalidindi "Surya Kalidindi."
 
 [cv]: {{ site.url }}/cv.pdf "My CV."
+
+[fred]: http://fredhohman.com
