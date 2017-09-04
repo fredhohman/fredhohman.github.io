@@ -111,60 +111,60 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 
 ## Publications
 
-**[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deep-pop-pdf]**  
+**[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-arxiv-pdf]**  
 [Caleb Robinson][caleb], [Fred Hohman][fred], [Bistra Dilkina][bistra]  
 *arXiv:1708.09086. August 30, 2017.*  
 <span class="paper-misc">
 [PDF][17-deep-pop-pdf] | Github (coming soon!)
 </span>
 
-**[3D Exploration of Graph Layers via Vertex Cloning][17-vis-playground-pdf]**  
+**[3D Exploration of Graph Layers via Vertex Cloning][17-playground-vis-pdf]**  
 [James Abello][james], [Fred Hohman][fred], [Duen Horng Chau][polo]  
 *Poster, IEEE Information Visualization (VIS). Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
-[PDF][17-vis-playground-pdf] | Video ([Youtube][17-vis-playground-video-youtube], [Vimeo][17-vis-playground-video-vimeo])
+[PDF][17-playground-vis-pdf] | Video ([Youtube][17-playground-vis-video-youtube], [Vimeo][17-playground-vis-video-vimeo])
 </span>
 
-**[A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue][17-vis4dh-got-pdf]**  
+**[A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue][17-got-vis4dh-pdf]**  
 [Fred Hohman][fred], [Sandeep Soni][sandeep], [Ian Stewart][ian], [John Stasko][stasko]  
 *2nd Workshop on Visualization for the Digital Humanities at IEEE VIS. Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
-[PDF][17-vis4dh-got-pdf] | [Github][17-vis4dh-got-github] | [Data][17-vis4dh-got-data]
+[PDF][17-got-vis4dh-pdf] | [Github][17-got-vis4dh-github] | [Data][17-got-vis4dh-data]
 </span>
 
-**[VIGOR: Interactive Visual Exploration of Graph Query Results][17-vast-vigor-pdf]**  
+**[VIGOR: Interactive Visual Exploration of Graph Query Results][17-vigor-vast-pdf]**  
 [Robert Pienta][robert], [Fred Hohman][fred], [Alex Endert][alex], [Acar Tamersoy][acar], [Kevin Roundy][kevin], [Chris Gates][chris], [Shamkant Navathe][navathe], [Duen Horng Chau][polo]  
 *IEEE Transactions on Visualization and Computer Graphics (Proc. VAST'17). Jan 2018. Phoenix, USA.*  
 <span class="paper-misc">
-[PDF][17-vast-vigor-pdf] | [Video][17-vast-vigor-video] | [Preview][17-vast-vigor-preview]
+[PDF][17-vigor-vast-pdf] | [Video][17-vigor-vast-video] | [Preview][17-vigor-vast-preview]
 </span>
 
-**[mHealth Visual Discovery Dashboard][17-ubicomp-dashboard-pdf]**  
+**[mHealth Visual Discovery Dashboard][17-dashboard-ubicomp-pdf]**  
 [Dezhi Fang][andy], [Fred Hohman][fred], [Peter Polack][peter], [Hillol Sarker][hillol], [Minsuk Kahng][brian], [Moushumi Sharmin][moushumi], [Mustafa al'Absi][mustafa], [Duen Horng Chau][polo]  
 *Demo, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UBICOMP). Sept 11-15, 2017. Maui, USA.*  
 <span class="paper-misc">
-[PDF][17-ubicomp-dashboard-pdf] | [Video][17-ubicomp-dashboard-video]
+[PDF][17-dashboard-ubicomp-pdf] | [Video][17-dashboard-ubicomp-video]
 </span>
 
-**[Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression][17-univ-defense-pdf]**  
+**[Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression][17-defense-arxiv-pdf]**  
 [Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
 *arXiv:1705.02900. May 8, 2017.*  
 <span class="paper-misc">
-[PDF][17-univ-defense-pdf]
+[PDF][17-defense-arxiv-pdf]
 </span>
 
-**[Visual Graph Query Construction and Refinement][17-sigmod-visage-pdf]**  
+**[Visual Graph Query Construction and Refinement][17-visage-sigmod-pdf]**  
 [Robert Pienta][robert], [Fred Hohman][fred], [Acar Tamersoy][acar], [Alex Endert][alex], [Shamkant Navathe][navathe], [Hanghang Tong][hanghang], [Duen Horn Chau][polo]  
 *Demo, ACM International Conference on Management of Data (SIGMOD/PODS). May 14-19, 2017. Chicago, USA.*    
 <span class="paper-misc">
-[PDF][17-sigmod-visage-pdf] | [Video][17-sigmod-visage-video] | [Poster][17-sigmod-visage-video] | *Best Demo, Honorable Mention*
+[PDF][17-visage-sigmod-pdf] | [Video][17-visage-sigmod-video] | [Poster][17-visage-sigmod-video] | *Best Demo, Honorable Mention*
 </span>
 
-**[ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation][17-chi-shapeshop-pdf]**  
+**[ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation][17-shapeshop-chi-pdf]**  
 [Fred Hohman][fred], [Nathan Hodas][nathan], [Duen Horng Chau][polo]  
 *Late-Breaking Work, ACM Conference on Human Factors in Computing Systems (CHI). May 6-11, 2017. Denver, CO, USA.*  
 <span class="paper-misc">
-[PDF][17-chi-shapeshop-pdf] | Video ([Polo Club][17-chi-shapeshop-video-poloclub], [CHI][17-chi-shapeshop-video-chi]) | [Github][17-chi-shapeshop-github] | [Poster][17-chi-shapeshop-poster]
+[PDF][17-shapeshop-chi-pdf] | Video ([Polo Club][17-shapeshop-chi-video-poloclub], [CHI][17-shapeshop-chi-video-chi]) | [Github][17-shapeshop-chi-github] | [Poster][17-shapeshop-chi-poster]
 </span>
 
 **Experimental and Numerical Comparison of Oceanic Overflow**  
@@ -462,27 +462,27 @@ Universe
 
 [fred]: http://fredhohman.com
 
-[17-vis-playground-pdf]: {{ site.url }}/papers/17-vis-playground.pdf
-[17-vis-playground-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
-[17-vis-playground-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
-[17-ubicomp-dashboard-pdf]: {{ site.url }}/papers/17-ubicomp-dashboard.pdf
-[17-ubicomp-dashboard-video]: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
-[17-chi-shapeshop-pdf]: {{ site.url }}/papers/17-chi-shapeshop.pdf
-[17-chi-shapeshop-video-poloclub]: https://www.youtube.com/watch?v=XL3fFwZ1DDQ&feature=youtu.be
-[17-chi-shapeshop-video-chi]: https://www.youtube.com/watch?v=wRX1xEdrD1g
-[17-chi-shapeshop-github]: https://github.com/fredhohman/shapeshop
-[17-chi-shapeshop-poster]: {{ site.url }}/papers/17-chi-shapeshop-poster.pdf
-[17-univ-defense-pdf]: https://arxiv.org/abs/1705.02900
-[17-vis4dh-got-pdf]: {{ site.url }}/papers/17-vis4dh-got.pdf
-[17-vis4dh-got-github]: https://github.com/fredhohman/a-viz-of-ice-and-fire
-[17-vis4dh-got-data]: https://github.com/fredhohman/a-viz-of-ice-and-fire/tree/master/vis/data
-[17-vast-vigor-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
-[17-vast-vigor-video]: https://www.youtube.com/watch?v=-jeck0yrT_Q&index=3&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
-[17-vast-vigor-preview]: https://vimeo.com/groups/480818/videos/230830163
-[17-sigmod-visage-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-sigmod-visage.pdf
-[17-sigmod-visage-video]: https://www.youtube.com/watch?v=l2L7Y5mCh1s&index=2&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
-[17-sigmod-visage-poster]: http://www.cc.gatech.edu/~rpienta3/data/posters/17-sigmod-visage-poster.pdf
-[17-deep-pop-pdf]: https://arxiv.org/abs/1708.09086
+[17-playground-vis-pdf]: {{ site.url }}/papers/17-vis-playground.pdf
+[17-playground-vis-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
+[17-playground-vis-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
+[17-dashboard-ubicomp-pdf]: {{ site.url }}/papers/17-ubicomp-dashboard.pdf
+[17-dashboard-ubicomp-video]: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
+[17-shapeshop-chi-pdf]: {{ site.url }}/papers/17-chi-shapeshop.pdf
+[17-shapeshop-chi-video-poloclub]: https://www.youtube.com/watch?v=XL3fFwZ1DDQ&feature=youtu.be
+[17-shapeshop-chi-video-chi]: https://www.youtube.com/watch?v=wRX1xEdrD1g
+[17-shapeshop-chi-github]: https://github.com/fredhohman/shapeshop
+[17-shapeshop-chi-poster]: {{ site.url }}/papers/17-chi-shapeshop-poster.pdf
+[17-defense-arxiv-pdf]: https://arxiv.org/abs/1705.02900
+[17-got-vis4dh-pdf]: {{ site.url }}/papers/17-vis4dh-got.pdf
+[17-got-vis4dh-github]: https://github.com/fredhohman/a-viz-of-ice-and-fire
+[17-got-vis4dh-data]: https://github.com/fredhohman/a-viz-of-ice-and-fire/tree/master/vis/data
+[17-vigor-vast-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
+[17-vigor-vast-video]: https://www.youtube.com/watch?v=-jeck0yrT_Q&index=3&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
+[17-vigor-vast-preview]: https://vimeo.com/groups/480818/videos/230830163
+[17-visage-sigmod-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-sigmod-visage.pdf
+[17-visage-sigmod-video]: https://www.youtube.com/watch?v=l2L7Y5mCh1s&index=2&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
+[17-visage-sigmod-poster]: http://www.cc.gatech.edu/~rpienta3/data/posters/17-sigmod-visage-poster.pdf
+[17-deeppop-arxiv-pdf]: https://arxiv.org/abs/1708.09086
 
 [sketches-of-topology]: https://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/
 [makerhome-day-311]: http://makerhome.blogspot.com/2014/07/day-311-trefoil-trumpet.html
