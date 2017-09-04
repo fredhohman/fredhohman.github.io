@@ -115,7 +115,7 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 [Caleb Robinson][caleb], [Fred Hohman][fred], [Bistra Dilkina][bistra]  
 *arXiv:1708.09086. August 30, 2017.*  
 <span class="paper-misc">
-[PDF][17-deep-pop-pdf] | Github (coming soon!)
+[PDF][17-deeppop-arxiv-pdf] | Github (coming soon!)
 </span>
 
 **[3D Exploration of Graph Layers via Vertex Cloning][17-playground-vis-pdf]**  
