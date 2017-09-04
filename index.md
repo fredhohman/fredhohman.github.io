@@ -32,7 +32,7 @@ Considered by my family and peers to be a resident techie, I enjoy staying curre
 
 
 # [Projects][projects]
-Things I do, including research, academic course projects, and misellaneous interests.
+Things I do, including research, academic course projects, and miscellaneous interests.
 
 # [Blog][blog]
 Things I think about, read, and write.

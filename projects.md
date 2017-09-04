@@ -4,7 +4,7 @@ title: Projects
 permalink: projects/
 ---
 
-Things I do, including research, academic course projects, and misellaneous interests.
+Things I do, including research, academic course projects, and miscellaneous interests.
 
 ### Undergraduate Thesis
 * [3D Printing the Trefoil Knot and its Pages][trefoil]&nbsp;<small style="color: #c0c0c0">2015</small>
