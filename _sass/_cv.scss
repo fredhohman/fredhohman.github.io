@@ -8,11 +8,27 @@
 }
 
 #cv a {
-	// color: #313131;
+	color: #515151;
+}
+
+#cv a:hover {
+	color: #2196F3;
+	text-decoration: none;
 }
 
 #cv .paper-misc {
 	color: #9a9a9a;
+	// color: #2196F3;
+}
+
+#cv .paper-misc a {
+	color: #9a9a9a;
+	// color: #2196F3;
+}
+
+#cv .paper-misc a:hover {
+	// color: #9a9a9a;
+	color: #2196F3;
 }
 
 #cv h3 {
@@ -23,7 +39,21 @@
 #cv h2 {
 	margin-top: 2.5rem;
 	font-weight: 300;
+	color: #313131;
 }
+
+#cv h1 {
+	color: #313131;
+}
+
+#cv strong a {
+	color: #303030;
+}
+
+#cv .cv-blue-link a {
+	color: #2196F3;
+}
+
 #cv .cv-left-date {
 	margin-left: -5rem;
 	// text-align: right;
@@ -39,4 +69,18 @@
 #cv .cv-spacer {
 	margin-top:5px;
 	display:block;
+}
+
+#cv .cv-description {
+	color: #9a9a9a;
+	font-size: 14px;
+	font-weight: 300;
+}
+
+#cv .cv-description a {
+	color: #9a9a9a;
+}
+
+#cv .cv-description a:hover {
+	color: #2196F3;
 }
