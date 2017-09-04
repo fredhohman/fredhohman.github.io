@@ -71,15 +71,15 @@ Conducted research in physical data science and material informatics by creating
 Contributed to direction and code of PyMKS: Materials Knowledge Systems in Python.  
 </span>
 
-<span class="cv-left-date">May 2015 —</span>**Undergraduate Thesis and Research**  
-<span class="cv-left-date">Jan. 2013</span>*[University of Georgia][uga], [Department of Mathematics][ugamath], Athens, GA*  
+<span class="cv-left-date">May 2015 —</span>**[University of Georgia][uga]**  
+<span class="cv-left-date">Jan. 2013</span>*Undergraduate Research Assistant, [Department of Mathematics][ugamath], Athens, GA*  
 Advisor: [David Gay][gay]  
 <span class="cv-description">
 Explored 3D printing and mathematical exposition in topology. Programmed, designed, and 3D printed 34-piece, color-coordinated, and magnetized 3D puzzle of the trefoil knot fibration. Led 3D printing research and education in mathematics department.  
 </span>
 
 <span class="cv-left-date">Summer 2014</span>**[REU in Mathematics and Computational Science][fairfield]**  
-*[Fairfield University][fairfield], Department of Engineering, Fairfield, CT*  
+*[Fairfield University][fairfield], Department of Mathematics, Fairfield, CT*  
 Mentor: [Shanon Reckinger][sr]  
 <span class="cv-description">
 Directly compared numerical solutions derived from the Navier-Stokes equations to designed experiments performed at the lab-scale to model specific ocean phoneme. Configured MIT General Circulation Model on a linux computer cluster to run parallel computational fluid dynamics simulations.
@@ -170,7 +170,6 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 **Experimental and Numerical Comparison of Oceanic Overflow**  
 [Thomas Gibson][thomas], [Fred Hohman][fred], [Theresa Morrison][theresa], [Shanon Reckinger][shanon], [Scott Reckinger][scott-reckinger]  
 *Abstract, American Physical Society Division of Fluid Dynamics. Nov 23-25, 2014. San Francisco, CA, USA.*
-
 
 ## Presentations
 
