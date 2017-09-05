@@ -255,8 +255,9 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 <span class="cv-left-date">Spring 2017</span>**[Graduate Teaching Assistant][cse-6242]**  
 *Georgia Institute of Technology, Atlanta, GA*  
+Instructor: [Polo Chau][polo]  
 <span class="cv-description">
-Assisted in teaching and administration for [Data and Visual Analytics (CSE 6242)][cse-6242], a graduate course with 250+ students enrolled.
+Designed homeworks, held weekly office hours, and mentored student team projects for [Data and Visual Analytics (CSE6242 / CX4242)][cse-6242], a graduate course with 220+ students enrolled.
 </span>
 
 <span class="cv-left-date">2014—2015</span>**Student Notetaker**  
