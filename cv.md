@@ -40,14 +40,7 @@ Thesis: ["3D Printing the Trefoil Knot and its Pages"][trefoil]
 Overall GPA: 3.84/4.00, Magna Cum Laude
 
 
-## Research Experience
-
-<span class="cv-left-date">Present —</span>**[Georgia Institute of Technology][gt]**, Atlanta, GA  
-<span class="cv-left-date">Aug. 2016</span>*Graduate Research Assistant, [School of Computational Science and Engineering][cse]*  
-Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
-<span class="cv-description">
-Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction (HCI) to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data.
-</span>
+## Industry Research Experience
 
 <span class="cv-left-date">Summer 2017</span>**[NASA Jet Propulsion Lab (JPL)][jpl]**, Pasadena, CA  
 *Creative Computer Scientist, [Human Interfaces Group][hi]*  
@@ -61,6 +54,16 @@ Joint work between NASA JPL, Caltech, and Art Center creating interactive data v
 Mentor: [Nathan Hodas][nathan]  
 <span class="cv-description">
 Built visualization tools to generate images from deep neural networks to explore image classifiers’ ability to learn semantics.  
+</span>
+
+
+## Academic Research Experience
+
+<span class="cv-left-date">Present —</span>**[Georgia Institute of Technology][gt]**, Atlanta, GA  
+<span class="cv-left-date">Aug. 2016</span>*Graduate Research Assistant, [School of Computational Science and Engineering][cse]*  
+Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
+<span class="cv-description">
+Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction (HCI) to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data.
 </span>
 
 <span class="cv-left-date">May 2016 —</span>**[Georgia Institute of Technology][gt]**, Atlanta, GA  
@@ -88,25 +91,55 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 
 ## Honors and Awards
 
-<span class="cv-left-date">2017</span>Best Demo, Honorable Mention at ACM SIGMOD/PODS Conference
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2015 — 2019</span>President's Fellowship at Georgia Institute of Technology
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2015</span>Outstanding Poster at JMM Undergraduate Poster Session in Computational Math
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2015</span>UGA CURO Research Graduation Distinction
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2014</span>UGA CURO Research Assistantship
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2013</span>Presidential Scholar
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2011 — 2015</span>Dean's List
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2011 — 2015</span>Georgia HOPE Scholarship
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2011</span>Mission of Blessed Trinity: Artistic Sensibility (one of two students to receive upon graduation)
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2009</span>Eagle Scout Award
+<span class="cv-left-date">2017</span>Best Demo, Honorable Mention at ACM SIGMOD/PODS Conference  
+<span class="cv-description">
+For "Visual Graph Query Construction and Refinement"
+</span>
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2015 — 2019</span>President's Fellowship at Georgia Institute of Technology  
+<span class="cv-description">
+Select number of 1st year doctoral students who bring exemplary levels of scholarship and innovation to their academic departments
+</span>
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2015</span>Outstanding Poster at JMM Undergraduate Poster Session in Computational Math  
+<span class="cv-description">
+For "Experimental and Numerical Comparison of Oceanic Overflow"
+</span>
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2015</span>UGA CURO Research Graduation Distinction  
+<span class="cv-description">
+Awarded to undergraduates who write a thesis, present at the CURO Symposium, and complete 9 hours of research credit
+</span>
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2014</span>UGA CURO Research Assistantship  
+<span class="cv-description">
+Stipend awarded to outstanding undergraduates that actively participate in faculty-mentored research
+</span>
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2013</span>Presidential Scholar  
+<span class="cv-description">
+Achieved a 4.0 GPA during a semester with minimum 14 credit hours
+</span>
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2011 — 2015</span>Dean's List  
+<span class="cv-description">
+Achieved at least a 3.5 GPA during a semester with minimum 14 credit hours
+</span>
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2011 — 2015</span>Georgia HOPE Scholarship  
+<span class="cv-description">
+Merit-based award to Georgia residents providing tuition assistance for their undergraduate degree
+</span>
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2011</span>Mission of Blessed Trinity: Artistic Sensibility  
+<span class="cv-description">
+One of two students to receive the Mission Statement award upon high-school graduation
+</span>
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2009</span>Eagle Scout Award  
+<span class="cv-description">
+Highest achievement attainable in the Boy Scouts of America, only 4% of scouts granted this rank
+</span>
 
 
 ## Publications
@@ -348,7 +381,7 @@ Klaus Advanced Computing Building
 Georgia Tech  
 266 Ferst Dr NW  
 Atlanta, GA 30332  
-<span style="background: linear-gradient(0deg, #3498db, #34495e); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: block">
+<span style="background: linear-gradient(0deg, #34495e, #3498db); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: block">
 —  
 USA  
 Earth  
@@ -383,44 +416,6 @@ Universe
 [reu]: {{ site.url }}/projects/mathematics-&-computational-science-reu/ "Mathematics & Computational Science REU"
 [trefoil]: {{ site.url }}/projects/3d-printing-the-trefoil-knot-and-its-pages "3D Printing the Trefoil Knot and its Pages"
 [gg]: {{ site.url }}/projects/materials-informatics-grain-growth "Material Informatics: Grain Growth"
-
-[cse6001]: https://en.wikipedia.org/wiki/Computational_science "Computational Science and Engineering"
-[cse6010]: https://en.wikipedia.org/wiki/Computational_science "Computational Science and Engineering"
-[cse6643]: https://en.wikipedia.org/wiki/Numerical_linear_algebra "Numerial Linear Algebra"
-[cse6730]: https://en.wikipedia.org/wiki/Modeling_and_simulation "Modeling and Simulation"
-[cse6740]: https://en.wikipedia.org/wiki/Machine_Learning "Computational Data Analysis"
-[cse8803]: https://en.wikipedia.org/wiki/Materials_informatics "Materials Informatics"
-[cs6750]: https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction "Human Computer Interaction"
-[cs7450]: https://en.wikipedia.org/wiki/Visualization_(computer_graphics) "Information Visualization"
-[cs8001-vis]: https://en.wikipedia.org/wiki/Visualization_(computer_graphics) "Data Visualization"
-[cs8903]: https://en.wikipedia.org/wiki/Visual_analytics "Visual Analytics"
-
-[math2260]: http://en.wikipedia.org/wiki/Calculus "Calculus II for Science and Engineering"
-[math2500]: http://en.wikipedia.org/wiki/Multivariable_calculus "Multivariable Calculus"
-[math2700]: http://en.wikipedia.org/wiki/Differential_equation "Elementary Differential Equations"
-[math3000]: http://en.wikipedia.org/wiki/Linear_algebra "Linear Algebra"
-[math3100]: http://en.wikipedia.org/wiki/Category:Sequences_and_series "Sequences and Series"
-[math3200]: http://en.wikipedia.org/wiki/Mathematical_proof "Introduction to Higher Mathematics"
-[math4500]: http://en.wikipedia.org/wiki/Numerical_analysis "Numerical Analysis I"
-[math4510]: http://en.wikipedia.org/wiki/Numerical_analysis "Numerical Analysis II"
-[math4720]: http://en.wikipedia.org/wiki/Partial_differential_equation "Introduction to Partial Differential Equations"
-[math4760]: http://en.wikipedia.org/wiki/Music_and_mathematics "Mathematics and Music"
-
-[phys1311]: http://en.wikipedia.org/wiki/Mechanics "Advanced Introductory Physics I"
-[phys1312]: http://en.wikipedia.org/wiki/Electromagnetism "Advanced Introductory Physics II"
-[phys2001]: http://en.wikipedia.org/wiki/Computational_science "Introduction to Scientific Programming"
-[phys3320]: http://en.wikipedia.org/wiki/Electronics "Electronics"
-[phys3700]: http://en.wikipedia.org/wiki/Modern_physics "Modern Physics"
-[phys3900]: http://en.wikipedia.org/wiki/Mathematical_Methods_in_the_Physical_Sciences "Mathematical Methods in Physics"
-[phys4101]: http://en.wikipedia.org/wiki/Mechanics "Classical Mechanics I"
-[phys4102]: http://en.wikipedia.org/wiki/Mechanics "Classical Mechanics II"
-[phys4201]: http://en.wikipedia.org/wiki/Electromagnetism "Electricity and Magnetism I"
-[phys4300]: http://en.wikipedia.org/wiki/Thermodynamics "Thermodynamics and Kinetic Theory"
-[phys4701]: http://en.wikipedia.org/wiki/Quantum_mechanics "Quantum Mechanics I"
-[phys4800]: http://en.wikipedia.org/wiki/Nanotechnology "Introduction to Nanotechnology"
-
-[stat4510]: http://en.wikipedia.org/wiki/Mathematical_statistics "Mathematical Statistics I"
-[stat4520]: http://en.wikipedia.org/wiki/Mathematical_statistics "Mathematical Statistics II"
 
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau"
 [alex]: http://va.gatech.edu/endert/ "Alex Endert"
