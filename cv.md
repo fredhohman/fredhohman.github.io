@@ -5,14 +5,17 @@ permalink: cv/
 ---
 
 # Fred Hohman
-Klaus Advanced Computing Building  
-Georgia Tech  
-266 Ferst Dr NW  
-Atlanta, GA 30332  
+<span class="cv-box">
+*<span class="cv-ai">AI</span> + <span class="cv-vis">visualization</span> researcher*
+</span>
 
 As a member of the [Polo Club of Data Science][poloclub], my research bridges **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people understand and explore big data.
 
-[PDF][cv].
+<!-- <span class="cv-pdf"> -->
+<!-- [PDF][cv]. -->
+<!-- </span> -->
+
+[<img src="../images/pdf.png" width="48">][cv]
 
 <!-- <figure>
   <img class="full" src="/images/me4.JPG" alt="That's me.">
@@ -254,20 +257,20 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 ## Teaching
 
 <span class="cv-left-date">Spring 2017</span>**[Graduate Teaching Assistant][cse-6242]**  
-*Georgia Institute of Technology, Atlanta, GA*  
-Instructor: [Polo Chau][polo]  
+*[Georgia Institute of Technology][gt], Atlanta, GA*  
+[Data and Visual Analytics (CSE6242 / CX4242)][cse-6242], Instructor: [Polo Chau][polo]  
 <span class="cv-description">
 Designed homeworks, held weekly office hours, and mentored student team projects for [Data and Visual Analytics (CSE6242 / CX4242)][cse-6242], a graduate course with 220+ students enrolled.
 </span>
 
 <span class="cv-left-date">2014—2015</span>**Student Notetaker**  
-*University of Georgia, Athens, GA*  
+*[University of Georgia][uga], Athens, GA*  
 <span class="cv-description">
 Generated notes for undergraduate mathematics and physics courses for students with disabilities.
 </span>
 
 <span class="cv-left-date">2012</span>**Tutor**  
-*University of Georgia, Athens, GA*  
+*[University of Georgia][uga], Athens, GA*  
 <span class="cv-description">
 Specialized in tutoring calculus to undergraduates.
 </span>

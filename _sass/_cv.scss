@@ -44,6 +44,8 @@
 
 #cv h1 {
 	color: #313131;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
 }
 
 #cv strong a {
@@ -88,4 +90,25 @@
 
 #cv .cv-description a:hover {
 	color: #2196F3;
+}
+
+#cv .cv-box {
+	font-size: 20px;
+}
+
+#cv .cv-pdf {
+	padding: 10px;
+	border: 1px solid red;
+}
+
+#cv .cv-ai {
+	color: #E7841E;
+	// padding-bottom: 3px;
+	// border-bottom: 1px solid #E7841E;
+}
+
+#cv .cv-vis {
+	color: #2196F3;
+	// padding-bottom: 3px;
+	// border-bottom: 1px solid #2196F3;
 }
