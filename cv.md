@@ -9,7 +9,11 @@ permalink: cv/
 *<span class="cv-ai">AI</span> + <span class="cv-vis">visualization</span> researcher*
 </span>
 
-As a member of the [Polo Club of Data Science][poloclub], my research bridges **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people understand and explore big data.
+I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex].
+My research combines **<span class="cv-ai">data mining and machine learning</span>** techniques with principles from **<span class="cv-vis">human-computer interaction and visualization</span>** to make interactive tools to help people explore large graph data and interpret machine learning models.
+
+<!-- My research focuses on building interactive visualization tools for exploring large graph data and interpreting deep learning models. -->
+
 
 <!-- [<img src="../images/pdf.png" width="48">][cv] -->
 
@@ -18,7 +22,7 @@ As a member of the [Polo Club of Data Science][poloclub], my research bridges **
   <figcaption>That's me.</figcaption>
 </figure> -->
 
-Research interests: Explainable artificial intelligence, visual analytics, machine learning, deep learning  
+<!-- Research interests: large graph visual analytics, interactive machine learning, interpretable deep learning   -->
 
 <a href="http://fredhohman.com"><img class="social-icon" src="/images/footer/home-color.svg">fredhohman.com</a>  
 <!-- <span class="cv-spacer"></span> -->
@@ -39,6 +43,7 @@ Research interests: Explainable artificial intelligence, visual analytics, machi
 <span class="cv-left-date">Present —</span>**Ph.D. in Computational Science & Engineering**  
 <span class="cv-left-date">Aug. 2015</span>*[Georgia Institute of Technology][gt], Atlanta, GA*  
 Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
+Minor: "User-Centered Design in Data Science"  
 Overall GPA: 4.00/4.00
 
 <span class="cv-left-date">May 2015 —</span>**B.S. in Mathematics**, Area of Emphasis in Applied Mathematics  
