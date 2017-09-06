@@ -4,30 +4,22 @@ title: CV
 permalink: cv/
 ---
 
+
 # Fred Hohman
-<span class="cv-box">
+<span class="cv-subtitle">
 *<span class="cv-ai">AI</span> + <span class="cv-vis">visualization</span> researcher*
 </span>
 
+<span class="cv-max-width">
 I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex].
+</span>
+
+<span class="cv-max-width">
 My research combines **<span class="cv-ai">data mining and machine learning</span>** techniques with principles from **<span class="cv-vis">human-computer interaction and visualization</span>** to make interactive tools to help people explore large graph data and interpret machine learning models.
-
-<!-- My research focuses on building interactive visualization tools for exploring large graph data and interpreting deep learning models. -->
-
-
-<!-- [<img src="../images/pdf.png" width="48">][cv] -->
-
-<!-- <figure>
-  <img class="full" src="/images/me4.JPG" alt="That's me.">
-  <figcaption>That's me.</figcaption>
-</figure> -->
-
-<!-- Research interests: large graph visual analytics, interactive machine learning, interpretable deep learning   -->
+</span>
 
 <a href="http://fredhohman.com"><img class="social-icon" src="/images/footer/home-color.svg">fredhohman.com</a>  
-<!-- <span class="cv-spacer"></span> -->
-<a href="http://www.twitter.com/fredhohman"><img class="social-icon" src="/images/footer/twitter-color.svg">@fredhohman</a>  
-<!-- <span class="cv-spacer"></span> -->
+<a href="https://twitter.com/fredhohman"><img class="social-icon" src="/images/footer/twitter-color.svg">@fredhohman</a>  
 <a href="https://github.com/fredhohman"><img class="social-icon" src="/images/footer/github-color.svg">github.com/fredhohman</a>  
 
 <span class="cv-spacer-line"></span>
