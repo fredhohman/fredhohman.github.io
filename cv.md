@@ -147,11 +147,11 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 ## Publications
 
-**[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-arxiv-pdf]**  
-[Caleb Robinson][caleb], [Fred Hohman][fred], [Bistra Dilkina][bistra]  
-*arXiv:1708.09086. August 30, 2017.*  
+**[VIGOR: Interactive Visual Exploration of Graph Query Results][17-vigor-vast-pdf]**  
+[Robert Pienta][robert], [Fred Hohman][fred], [Alex Endert][alex], [Acar Tamersoy][acar], [Kevin Roundy][kevin], [Chris Gates][chris], [Shamkant Navathe][navathe], [Duen Horng Chau][polo]  
+*IEEE Transactions on Visualization and Computer Graphics (Proc. VAST'17). Jan 2018. Phoenix, USA.*  
 <span class="paper-misc">
-[PDF][17-deeppop-arxiv-pdf] | Github (coming soon!)
+[PDF][17-vigor-vast-pdf] | [Video][17-vigor-vast-video] | [Preview][17-vigor-vast-preview]
 </span>
 
 **[3D Exploration of Graph Layers via Vertex Cloning][17-playground-vis-pdf]**  
@@ -165,14 +165,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [Fred Hohman][fred], [Sandeep Soni][sandeep], [Ian Stewart][ian], [John Stasko][stasko]  
 *2nd Workshop on Visualization for the Digital Humanities at IEEE VIS. Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
-[PDF][17-got-vis4dh-pdf] | [Github][17-got-vis4dh-github] | [Data][17-got-vis4dh-data]
-</span>
-
-**[VIGOR: Interactive Visual Exploration of Graph Query Results][17-vigor-vast-pdf]**  
-[Robert Pienta][robert], [Fred Hohman][fred], [Alex Endert][alex], [Acar Tamersoy][acar], [Kevin Roundy][kevin], [Chris Gates][chris], [Shamkant Navathe][navathe], [Duen Horng Chau][polo]  
-*IEEE Transactions on Visualization and Computer Graphics (Proc. VAST'17). Jan 2018. Phoenix, USA.*  
-<span class="paper-misc">
-[PDF][17-vigor-vast-pdf] | [Video][17-vigor-vast-video] | [Preview][17-vigor-vast-preview]
+[PDF][17-got-vis4dh-pdf] | [Github][17-got-vis4dh-github] | [Data][17-got-vis4dh-data] | [BibTeX][17-got-vis4dh-bibtex]
 </span>
 
 **[mHealth Visual Discovery Dashboard][17-dashboard-ubicomp-pdf]**  
@@ -182,25 +175,32 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [PDF][17-dashboard-ubicomp-pdf] | [Video][17-dashboard-ubicomp-video]
 </span>
 
+**[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-arxiv-pdf]**  
+[Caleb Robinson][caleb], [Fred Hohman][fred], [Bistra Dilkina][bistra]  
+*arXiv:1708.09086. August 30, 2017.*  
+<span class="paper-misc">
+[PDF][17-deeppop-arxiv-pdf] | Github (coming soon!) | [BibTeX][17-deeppop-arxiv-bibtex]
+</span>
+
 **[Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression][17-defense-arxiv-pdf]**  
 [Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
 *arXiv:1705.02900. May 8, 2017.*  
 <span class="paper-misc">
-[PDF][17-defense-arxiv-pdf]
+[PDF][17-defense-arxiv-pdf] | [BibTeX][17-defense-arxiv-bibtex]
 </span>
 
 **[Visual Graph Query Construction and Refinement][17-visage-sigmod-pdf]**  
 [Robert Pienta][robert], [Fred Hohman][fred], [Acar Tamersoy][acar], [Alex Endert][alex], [Shamkant Navathe][navathe], [Hanghang Tong][hanghang], [Duen Horn Chau][polo]  
 *Demo, ACM International Conference on Management of Data (SIGMOD/PODS). May 14-19, 2017. Chicago, USA.*    
 <span class="paper-misc">
-[PDF][17-visage-sigmod-pdf] | [Video][17-visage-sigmod-video] | [Poster][17-visage-sigmod-video] | *Best Demo, Honorable Mention*
+[PDF][17-visage-sigmod-pdf] | [Video][17-visage-sigmod-video] | [Poster][17-visage-sigmod-video] | [BibTeX][17-visage-sigmod-bibtex] | *Best Demo, Honorable Mention*
 </span>
 
 **[ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation][17-shapeshop-chi-pdf]**  
 [Fred Hohman][fred], [Nathan Hodas][nathan], [Duen Horng Chau][polo]  
 *Late-Breaking Work, ACM Conference on Human Factors in Computing Systems (CHI). May 6-11, 2017. Denver, CO, USA.*  
 <span class="paper-misc">
-[PDF][17-shapeshop-chi-pdf] | Video ([Polo Club][17-shapeshop-chi-video-poloclub], [CHI][17-shapeshop-chi-video-chi]) | [Github][17-shapeshop-chi-github] | [Poster][17-shapeshop-chi-poster]
+[PDF][17-shapeshop-chi-pdf] | Video ([Polo Club][17-shapeshop-chi-video-poloclub], [CHI][17-shapeshop-chi-video-chi]) | [Github][17-shapeshop-chi-github] | [Poster][17-shapeshop-chi-poster] | [BibTeX][17-shapeshop-chi-bibtex]
 </span>
 
 **Experimental and Numerical Comparison of Oceanic Overflow**  
@@ -470,17 +470,22 @@ Universe
 [17-shapeshop-chi-video-chi]: https://www.youtube.com/watch?v=wRX1xEdrD1g
 [17-shapeshop-chi-github]: https://github.com/fredhohman/shapeshop
 [17-shapeshop-chi-poster]: {{ site.url }}/papers/17-chi-shapeshop-poster.pdf
+[17-shapeshop-chi-bibtex]: {{ site.url }}/bibtex/hohman2017shapeshop
 [17-defense-arxiv-pdf]: https://arxiv.org/abs/1705.02900
+[17-defense-arxiv-bibtex]: {{ site.url }}/bibtex/das2017keeping
 [17-got-vis4dh-pdf]: {{ site.url }}/papers/17-vis4dh-got.pdf
 [17-got-vis4dh-github]: https://github.com/fredhohman/a-viz-of-ice-and-fire
 [17-got-vis4dh-data]: https://github.com/fredhohman/a-viz-of-ice-and-fire/tree/master/vis/data
+[17-got-vis4dh-bibtex]: {{ site.url }}/bibtex/hohman2017viz
 [17-vigor-vast-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
 [17-vigor-vast-video]: https://www.youtube.com/watch?v=-jeck0yrT_Q&index=3&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
 [17-vigor-vast-preview]: https://vimeo.com/groups/480818/videos/230830163
 [17-visage-sigmod-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-sigmod-visage.pdf
 [17-visage-sigmod-video]: https://www.youtube.com/watch?v=l2L7Y5mCh1s&index=2&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
 [17-visage-sigmod-poster]: http://www.cc.gatech.edu/~rpienta3/data/posters/17-sigmod-visage-poster.pdf
+[17-visage-sigmod-bibtex]: {{ site.url }}/bibtex/pienta2017visual
 [17-deeppop-arxiv-pdf]: https://arxiv.org/abs/1708.09086
+[17-deeppop-arxiv-bibtex]: {{ site.url }}/bibtex/robinson2017deep
 
 [sketches-of-topology]: https://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/
 [makerhome-day-311]: http://makerhome.blogspot.com/2014/07/day-311-trefoil-trumpet.html
