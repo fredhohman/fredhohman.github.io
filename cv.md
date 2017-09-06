@@ -79,8 +79,8 @@ Conducted research in physical data science and material informatics by creating
 Contributed to direction and code of PyMKS: Materials Knowledge Systems in Python.  
 </span>
 
-<span class="cv-left-date">May 2015 —</span>**[University of Georgia][uga]**  
-<span class="cv-left-date">Jan. 2013</span>*Undergraduate Research Assistant, [Department of Mathematics][ugamath], Athens, GA*  
+<span class="cv-left-date">May 2015 —</span>**[University of Georgia][uga]**, Athens, GA  
+<span class="cv-left-date">Jan. 2013</span>*Undergraduate Research Assistant, [Department of Mathematics][ugamath]*  
 Advisor: [David Gay][gay]  
 <span class="cv-description">
 Explored 3D printing and mathematical exposition in topology. Programmed, designed, and 3D printed 34-piece, color-coordinated, and magnetized 3D puzzle of the trefoil knot fibration. Led 3D printing research and education in mathematics department.  
