@@ -11,11 +11,7 @@ permalink: cv/
 
 As a member of the [Polo Club of Data Science][poloclub], my research bridges **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people understand and explore big data.
 
-<!-- <span class="cv-pdf"> -->
-<!-- [PDF][cv]. -->
-<!-- </span> -->
-
-[<img src="../images/pdf.png" width="48">][cv]
+<!-- [<img src="../images/pdf.png" width="48">][cv] -->
 
 <!-- <figure>
   <img class="full" src="/images/me4.JPG" alt="That's me.">
@@ -24,6 +20,15 @@ As a member of the [Polo Club of Data Science][poloclub], my research bridges **
 
 Research interests: Explainable artificial intelligence, visual analytics, machine learning, deep learning  
 
+<a href="http://fredhohman.com"><img class="social-icon" src="/images/footer/home-color.svg">fredhohman.com</a>  
+<!-- <span class="cv-spacer"></span> -->
+<a href="http://www.twitter.com/fredhohman"><img class="social-icon" src="/images/footer/twitter-color.svg">@fredhohman</a>  
+<!-- <span class="cv-spacer"></span> -->
+<a href="https://github.com/fredhohman"><img class="social-icon" src="/images/footer/github-color.svg">github.com/fredhohman</a>  
+
+<span class="cv-spacer-line"></span>
+
+<a href="https://fredhohman.com/cv.pdf"><img class="social-icon" src="/images/footer/file-pdf-o-color.svg"></a> [CV PDF][cv]  
 <time datetime="{{ site.time | date: "%B %-d, %Y" }}" class="post-date">Updated: {{ site.time | date: "%B %d, %Y" }}</time>
 
 ***
@@ -504,3 +509,6 @@ Universe
 [hi]: https://www.hi.jpl.nasa.gov/ "Human Interfaces Group at NASA JPL"
 [pnnl]: https://www.pnnl.gov/ "Pacific Northwest National Laboratory"
 [dsa]: http://www.pnnl.gov/nationalsecurity/technical/capabilities/computing/data_sciences.stm "Data Sciences and Analytics Group at PNNL"
+
+[twitter]: https:/www.twitter.com/fredhohman
+[github]: https:/www.github.com/fredhohman

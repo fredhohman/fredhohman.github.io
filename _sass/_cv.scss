@@ -1,4 +1,4 @@
-#cv h1, #cv h2, #cv h3, #cv h4, #cv h5, #cv h6, #cv p, #cv blockquote, #cv ul, #cv ol, #cv dl, #cv table, #cv time, #cv .message, #cv .highlight, #cv .gist-file, #cv .pagination{
+#cv h1, #cv h2, #cv h3, #cv h4, #cv h5, #cv h6, #cv p, #cv blockquote, #cv ul, #cv ol, #cv dl, #cv table, #cv time, #cv .message, #cv .highlight, #cv .gist-file, #cv .pagination, hr{
 	max-width: 55rem; //should match .container max-width 
 	margin-left: 5rem;
 }
@@ -78,6 +78,15 @@
 	display: block;
 }
 
+#cv .cv-spacer-line {
+	margin-top: 5px;
+	display: block;
+	background-color: #eee;
+	height: 1px;
+	max-width: 250px;
+	margin-bottom: 5px;
+}
+
 #cv .cv-description {
 	color: #9a9a9a;
 	font-size: 14px;
@@ -111,4 +120,9 @@
 	color: #2196F3;
 	// padding-bottom: 3px;
 	// border-bottom: 1px solid #2196F3;
+}
+
+#cv time {
+	color: #9a9a9a;
+	font-weight: 300;
 }
