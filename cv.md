@@ -462,20 +462,20 @@ Universe
 
 [fred]: http://fredhohman.com
 
-[17-playground-vis-pdf]: {{ site.url }}/papers/17-vis-playground.pdf
+[17-playground-vis-pdf]: {{ site.url }}/papers/17-playground-vis.pdf
 [17-playground-vis-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
 [17-playground-vis-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
-[17-dashboard-ubicomp-pdf]: {{ site.url }}/papers/17-ubicomp-dashboard.pdf
+[17-dashboard-ubicomp-pdf]: {{ site.url }}/papers/17-dashboard-ubicomp.pdf
 [17-dashboard-ubicomp-video]: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
-[17-shapeshop-chi-pdf]: {{ site.url }}/papers/17-chi-shapeshop.pdf
+[17-shapeshop-chi-pdf]: {{ site.url }}/papers/17-shapeshop-chi.pdf
 [17-shapeshop-chi-video-poloclub]: https://www.youtube.com/watch?v=XL3fFwZ1DDQ&feature=youtu.be
 [17-shapeshop-chi-video-chi]: https://www.youtube.com/watch?v=wRX1xEdrD1g
 [17-shapeshop-chi-github]: https://github.com/fredhohman/shapeshop
-[17-shapeshop-chi-poster]: {{ site.url }}/papers/17-chi-shapeshop-poster.pdf
+[17-shapeshop-chi-poster]: {{ site.url }}/papers/17-shapeshop-chi-poster.pdf
 [17-shapeshop-chi-bibtex]: {{ site.url }}/bibtex/hohman2017shapeshop
 [17-defense-arxiv-pdf]: https://arxiv.org/abs/1705.02900
 [17-defense-arxiv-bibtex]: {{ site.url }}/bibtex/das2017keeping
-[17-got-vis4dh-pdf]: {{ site.url }}/papers/17-vis4dh-got.pdf
+[17-got-vis4dh-pdf]: {{ site.url }}/papers/17-got-vis4dh.pdf
 [17-got-vis4dh-github]: https://github.com/fredhohman/a-viz-of-ice-and-fire
 [17-got-vis4dh-data]: https://github.com/fredhohman/a-viz-of-ice-and-fire/tree/master/vis/data
 [17-got-vis4dh-bibtex]: {{ site.url }}/bibtex/hohman2017viz
