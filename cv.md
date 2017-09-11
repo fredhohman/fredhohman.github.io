@@ -174,7 +174,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [Dezhi Fang][andy], [Fred Hohman][fred], [Peter Polack][peter], [Hillol Sarker][hillol], [Minsuk Kahng][brian], [Moushumi Sharmin][moushumi], [Mustafa al'Absi][mustafa], [Duen Horng Chau][polo]  
 *Demo, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UBICOMP). Sept 11-15, 2017. Maui, USA.*  
 <span class="paper-misc">
-[PDF][17-dashboard-ubicomp-pdf] | [Video][17-dashboard-ubicomp-video]
+[PDF][17-dashboard-ubicomp-pdf] | [Video][17-dashboard-ubicomp-video] | [Poster][17-dashboard-ubicomp-poster]
 </span>
 
 **[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-arxiv-pdf]**  
@@ -467,6 +467,7 @@ Universe
 [17-playground-vis-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
 [17-dashboard-ubicomp-pdf]: {{ site.url }}/papers/17-dashboard-ubicomp.pdf
 [17-dashboard-ubicomp-video]: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
+[17-dashboard-ubicomp-poster]: {{ site.url }}/papers/17-dashboard-ubicomp-poster.pdf
 [17-shapeshop-chi-pdf]: {{ site.url }}/papers/17-shapeshop-chi.pdf
 [17-shapeshop-chi-video-poloclub]: https://www.youtube.com/watch?v=XL3fFwZ1DDQ&feature=youtu.be
 [17-shapeshop-chi-video-chi]: https://www.youtube.com/watch?v=wRX1xEdrD1g
