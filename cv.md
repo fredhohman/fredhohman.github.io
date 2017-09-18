@@ -163,7 +163,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 <span class="cv-website-marker">[Site][17-playground-vast]</span> | [PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo])
 </span>
 
-**[A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue][17-got-vis4dh]**  
+**[A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue][17-got-vis4dh-pdf]**  
 [Fred Hohman][fred], [Sandeep Soni][sandeep], [Ian Stewart][ian], [John Stasko][stasko]  
 *2nd Workshop on Visualization for the Digital Humanities at IEEE VIS. Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
