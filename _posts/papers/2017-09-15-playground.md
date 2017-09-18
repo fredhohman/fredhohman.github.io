@@ -1,6 +1,5 @@
 ---
 layout: paper
-title: 3D Exploration of Graph Layers via Vertex Cloning
 categories: papers
 permalink: papers/playground
 ---
@@ -13,14 +12,11 @@ permalink: papers/playground
     <figcaption class="single">
         (A) The Les Miserables co-occurrence network of the novel’s characters, visualized using standard force-directed layout.
         (B) A graph playground created by applying fixed-point edge decomposition, producing cloned vertices that appear in multiple layers.
-        The character Valjean appears in six layers; his clones are connected using a vertical black line, and his egonet is highlighted in
-        every layer. (C) The graph playground layers separated and individually redrawn using force-directed layout in 2D, with Valjean’s
-        colored egonet still shown. Our method reveals interesting subgraph structures and distributes them into layers, e.g., stars in layer
-        1 (blue), and a clique in layer 6 (brown). Valjean’s vertex is colored black in every layer he exists in (all layers except layer 9),
-        highlighting his central role in the novel and his diverse participation in different graph patterns.
+        The character Valjean appears in six layers; his clones are connected using a vertical black line, and his egonet is highlighted in every layer.
+        (C) The graph playground layers separated and individually redrawn using force-directed layout in 2D, with Valjean’s colored egonet still shown. Our method reveals interesting subgraph structures and distributes them into layers, e.g., stars in layer 1 (blue), and a clique in layer 6 (brown).
+        Valjean’s vertex is colored black in every layer he exists in (all layers except layer 9), highlighting his central role in the novel and his diverse participation in different graph patterns.
     </figcaption>
 </figure>
-
 
 ## Abstract
 We use an iterative edge decomposition approach, derived from the popular iterative vertex peeling strategy, to globally split each vertex egonet (subgraph induced by a vertex and its neighbors) into a collection of edge-disjoint layers. 
