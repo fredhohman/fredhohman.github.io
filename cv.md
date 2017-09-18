@@ -156,11 +156,11 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [PDF][17-vigor-vast-pdf] | [Video][17-vigor-vast-video] | [Preview][17-vigor-vast-preview]
 </span>
 
-**[3D Exploration of Graph Layers via Vertex Cloning][17-playground-vis-pdf]**  
+**[3D Exploration of Graph Layers via Vertex Cloning][17-playground-vast]**  
 [James Abello][james], [Fred Hohman][fred], [Duen Horng Chau][polo]  
-*Poster, IEEE Information Visualization (VIS). Oct 1-6, 2017. Phoenix, USA.*  
+*Poster, IEEE Viisual Analytics Science and Technology (VAST). Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
-[PDF][17-playground-vis-pdf] | Video ([Youtube][17-playground-vis-video-youtube], [Vimeo][17-playground-vis-video-vimeo])
+<span class="cv-website-marker">[Site][17-playground-vast]</span> | [PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo])
 </span>
 
 **[A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue][17-got-vis4dh-pdf]**  
@@ -177,11 +177,11 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [PDF][17-dashboard-ubicomp-pdf] | [Video][17-dashboard-ubicomp-video] | [Poster][17-dashboard-ubicomp-poster]
 </span>
 
-**[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-arxiv-pdf]**  
+**[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-arxiv]**  
 [Caleb Robinson][caleb], [Fred Hohman][fred], [Bistra Dilkina][bistra]  
 *arXiv:1708.09086. August 30, 2017.*  
 <span class="paper-misc">
-[PDF][17-deeppop-arxiv-pdf] | Github (coming soon!) | [BibTeX][17-deeppop-arxiv-bibtex]
+<span class="cv-website-marker">[Site][17-deeppop-arxiv]</span> | [PDF][17-deeppop-arxiv-pdf] | Github (coming soon!) | [BibTeX][17-deeppop-arxiv]
 </span>
 
 **[Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression][17-defense-arxiv-pdf]**  
@@ -198,11 +198,11 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [PDF][17-visage-sigmod-pdf] | [Video][17-visage-sigmod-video] | [Poster][17-visage-sigmod-video] | [BibTeX][17-visage-sigmod-bibtex] | *Best Demo, Honorable Mention*
 </span>
 
-**[ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation][17-shapeshop-chi-pdf]**  
+**[ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation][17-shapeshop-chi]**  
 [Fred Hohman][fred], [Nathan Hodas][nathan], [Duen Horng Chau][polo]  
 *Late-Breaking Work, ACM Conference on Human Factors in Computing Systems (CHI). May 6-11, 2017. Denver, CO, USA.*  
 <span class="paper-misc">
-[PDF][17-shapeshop-chi-pdf] | Video ([Polo Club][17-shapeshop-chi-video-poloclub], [CHI][17-shapeshop-chi-video-chi]) | [Github][17-shapeshop-chi-github] | [Poster][17-shapeshop-chi-poster] | [BibTeX][17-shapeshop-chi-bibtex]
+<span class="cv-website-marker">[Site][17-shapeshop-chi]</span> | [PDF][17-shapeshop-chi-pdf] | Video ([Polo Club][17-shapeshop-chi-video-poloclub], [CHI][17-shapeshop-chi-video-chi]) | [Github][17-shapeshop-chi-github] | [Poster][17-shapeshop-chi-poster] | [BibTeX][17-shapeshop-chi]
 </span>
 
 **Experimental and Numerical Comparison of Oceanic Overflow**  
@@ -462,9 +462,10 @@ Universe
 
 [fred]: http://fredhohman.com "Fred Hohman"
 
-[17-playground-vis-pdf]: {{ site.url }}/papers/17-playground-vis.pdf
-[17-playground-vis-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
-[17-playground-vis-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
+[17-playground-vast]: {{ site.url }}/papers/playground
+[17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vis.pdf
+[17-playground-vast-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
+[17-playground-vast-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
 [17-dashboard-ubicomp-pdf]: {{ site.url }}/papers/17-dashboard-ubicomp.pdf
 [17-dashboard-ubicomp-video]: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
 [17-dashboard-ubicomp-poster]: {{ site.url }}/papers/17-dashboard-ubicomp-poster.pdf
@@ -473,7 +474,7 @@ Universe
 [17-shapeshop-chi-video-chi]: https://www.youtube.com/watch?v=wRX1xEdrD1g
 [17-shapeshop-chi-github]: https://github.com/fredhohman/shapeshop
 [17-shapeshop-chi-poster]: {{ site.url }}/papers/17-shapeshop-chi-poster.pdf
-[17-shapeshop-chi-bibtex]: {{ site.url }}/bibtex/hohman2017shapeshop
+[17-shapeshop-chi]: {{ site.url }}/papers/shapeshop
 [17-defense-arxiv-pdf]: https://arxiv.org/abs/1705.02900
 [17-defense-arxiv-bibtex]: {{ site.url }}/bibtex/das2017keeping
 [17-got-vis4dh-pdf]: {{ site.url }}/papers/17-got-vis4dh.pdf
@@ -487,8 +488,8 @@ Universe
 [17-visage-sigmod-video]: https://www.youtube.com/watch?v=l2L7Y5mCh1s&index=2&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
 [17-visage-sigmod-poster]: http://www.cc.gatech.edu/~rpienta3/data/posters/17-sigmod-visage-poster.pdf
 [17-visage-sigmod-bibtex]: {{ site.url }}/bibtex/pienta2017visual
+[17-deeppop-arxiv]: {{ site.url }}/papers/deeppop
 [17-deeppop-arxiv-pdf]: https://arxiv.org/abs/1708.09086
-[17-deeppop-arxiv-bibtex]: {{ site.url }}/bibtex/robinson2017deep
 
 [sketches-of-topology]: https://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/
 [makerhome-day-311]: http://makerhome.blogspot.com/2014/07/day-311-trefoil-trumpet.html

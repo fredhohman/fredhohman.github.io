@@ -23,14 +23,14 @@ We present our ongoing work, ShapeShop, an interactive system for visualizing an
 Built using standard web technologies, ShapeShop allows users to experiment with and compare deep learning models to help explore the robustness of image classifiers.   
 
 ## Materials
-[PDF][17-shapeshop-chi-pdf] | Video ([Polo Club][17-shapeshop-chi-video-poloclub], [CHI][17-shapeshop-chi-video-chi]) | [Github][17-shapeshop-chi-github] | [Poster][17-shapeshop-chi-poster] | [BibTeX][17-shapeshop-chi-bibtex]
+[PDF][17-shapeshop-chi-pdf] | Video ([Polo Club][17-shapeshop-chi-video-poloclub], [CHI][17-shapeshop-chi-video-chi]) | [Github][17-shapeshop-chi-github] | [Poster][17-shapeshop-chi-poster] | [BibTeX][17-shapeshop-chi]
 
 ## Citation
-**[ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation][17-shapeshop-chi-pdf]**  
+**[ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation][17-shapeshop-chi]**  
 [Fred Hohman][fred], [Nathan Hodas][nathan], [Duen Horng Chau][polo]  
 *Late-Breaking Work, ACM Conference on Human Factors in Computing Systems (CHI). May 6-11, 2017. Denver, CO, USA.*  
 <span class="paper-misc">
-[PDF][17-shapeshop-chi-pdf] | Video ([Polo Club][17-shapeshop-chi-video-poloclub], [CHI][17-shapeshop-chi-video-chi]) | [Github][17-shapeshop-chi-github] | [Poster][17-shapeshop-chi-poster] | [BibTeX][17-shapeshop-chi-bibtex]
+[PDF][17-shapeshop-chi-pdf] | Video ([Polo Club][17-shapeshop-chi-video-poloclub], [CHI][17-shapeshop-chi-video-chi]) | [Github][17-shapeshop-chi-github] | [Poster][17-shapeshop-chi-poster] | [BibTeX][17-shapeshop-chi]
 </span>
 
 ## BibTeX
@@ -55,4 +55,4 @@ Built using standard web technologies, ShapeShop allows users to experiment with
 [17-shapeshop-chi-video-chi]: https://www.youtube.com/watch?v=wRX1xEdrD1g
 [17-shapeshop-chi-github]: https://github.com/fredhohman/shapeshop
 [17-shapeshop-chi-poster]: {{ site.url }}/papers/17-shapeshop-chi-poster.pdf
-[17-shapeshop-chi-bibtex]: {{ site.url }}/bibtex/hohman2017shapeshop
+[17-shapeshop-chi]: {{ site.url }}/papers/shapeshop

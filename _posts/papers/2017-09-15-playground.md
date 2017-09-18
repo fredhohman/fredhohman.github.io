@@ -8,7 +8,7 @@ permalink: papers/playground
 [James Abello][james], [Fred Hohman][fred], [Duen Horng Chau][polo]  
 
 <figure>
-     <img class="single" src="/images/papers/17-playground-vis.png">
+     <img class="single" src="/images/papers/17-playground-vast.png">
     <figcaption class="single">
         (A) The Les Miserables co-occurrence network of the novel’s characters, visualized using standard force-directed layout.
         (B) A graph playground created by applying fixed-point edge decomposition, producing cloned vertices that appear in multiple layers.
@@ -28,26 +28,32 @@ This is one of the few instances where 3D visualization enhances graph explorati
 Our approach helps disentangle "hairball" looking embeddings produced by conventional 2D graph drawings.
 
 ## Materials
-[PDF][17-playground-vis-pdf] | Video ([Youtube][17-playground-vis-video-youtube], [Vimeo][17-playground-vis-video-vimeo])
+[PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo])
 
 ## Citation
-**[3D Exploration of Graph Layers via Vertex Cloning][17-playground-vis-pdf]**  
+**[3D Exploration of Graph Layers via Vertex Cloning][17-playground-vast-pdf]**  
 [James Abello][james], [Fred Hohman][fred], [Duen Horng Chau][polo]  
-*Poster, IEEE Information Visualization (VIS). Oct 1-6, 2017. Phoenix, USA.*  
+*Poster, IEEE Visual Analytics Science and Technology (VAST). Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
-[PDF][17-playground-vis-pdf] | Video ([Youtube][17-playground-vis-video-youtube], [Vimeo][17-playground-vis-video-vimeo])
+[PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo])
 </span>
 
 ## BibTeX
-
 ```
-
+@inproceedings{hohman2017playground,
+  title={3D Exploration of Graph Layers via Vertex Cloning},
+  author={Abello, James and Hohman, Fred and Chau, Duen Horng},
+  booktitle={2017 IEEE Conference on Visual Analytics Science and Technology (VAST), Poster},
+  year={2015},
+  organization={IEEE}
+}
 ```
 
 [james]: https://www.cs.rutgers.edu/faculty/james-abello-monedero "James Abello"
 [fred]: http://fredhohman.com "Fred Hohman"
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau"
 
-[17-playground-vis-pdf]: {{ site.url }}/papers/17-playground-vis.pdf
-[17-playground-vis-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
-[17-playground-vis-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
+[17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vis.pdf
+[17-playground-vast-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
+[17-playground-vast-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
+[17-playground-vast]: {{ site.url }}/papers/deeppop
