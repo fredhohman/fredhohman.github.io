@@ -460,7 +460,7 @@ Universe
 
 [cv]: {{ site.url }}/cv.pdf "My CV."
 
-[fred]: http://fredhohman.com
+[fred]: http://fredhohman.com "Fred Hohman"
 
 [17-playground-vis-pdf]: {{ site.url }}/papers/17-playground-vis.pdf
 [17-playground-vis-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
