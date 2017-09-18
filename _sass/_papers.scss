@@ -1,0 +1,59 @@
+.paper h1, .paper h2, .paper h3, .paper h4, .paper h5, .paper h6, .paper p, .paper blockquote, .paper ul, .paper ol, .paper dl, .paper table, .paper time, .paper .message, .paper .highlight, .paper .gist-file, .paper .pagination, hr{
+	max-width: 55rem; //should match .container max-width 
+	// margin-left: 5rem;
+	// margin-right: 5rem;
+}
+
+.paper figcaption {
+	text-align: left !important;
+}
+
+.paper figure figcaption.single {
+    width: 100%;
+    max-width: 55em;
+    // margin-left: auto;
+	// margin-right: auto;
+	font-size: 14px;
+}
+
+.bib .highlight{
+    max-width: none;
+}
+.bib .highlight:hover{
+    background-color: #ececec;
+}
+
+.paper .highlight{
+    max-width: none;
+}
+.paper .highlight:hover{
+    background-color: #ececec;
+}
+
+.paper code {
+	word-break: keep-all;
+    white-space: pre-wrap;
+}
+
+.paper h1 {
+	margin-bottom: 0rem;
+}
+
+.paper h2{
+	margin-top: 1.8rem;
+	margin-bottom: 0.2rem;
+}
+
+.paper a {
+	color: #515151;
+}
+
+.paper a:hover {
+	color: #2196F3;
+	text-decoration: none;
+}
+
+.paper-spacer {
+	margin-top:5px;
+	display:block;
+}
