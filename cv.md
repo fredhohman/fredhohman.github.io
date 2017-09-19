@@ -7,7 +7,7 @@ permalink: cv/
 
 # Fred Hohman
 <span class="cv-subtitle">
-*<span class="cv-ai">AI</span> + <span class="cv-vis">visualization</span> researcher*
+*<span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher*
 </span>
 
 <span class="cv-max-width">
