@@ -26,7 +26,7 @@ We demonstrate our system visualizing data from a mobile sensor study conducted 
 [PDF][17-dashboard-ubicomp-pdf] | [Video][17-dashboard-ubicomp-video] | [Poster][17-dashboard-ubicomp-poster] | [BibTeX][17-dashboard-ubicomp]
 
 ## Citation
-**[mHealth Visual Discovery Dashboard][17-dashboard-ubicomp]**  
+**[mHealth Visual Discovery Dashboard][17-dashboard-ubicomp-pdf]**  
 [Dezhi Fang][andy], [Fred Hohman][fred], [Peter Polack][peter], [Hillol Sarker][hillol], [Minsuk Kahng][brian], [Moushumi Sharmin][moushumi], [Mustafa al'Absi][mustafa], [Duen Horng Chau][polo]  
 *Demo, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UBICOMP). Sept 11-15, 2017. Maui, USA.*  
 <span class="paper-misc">
