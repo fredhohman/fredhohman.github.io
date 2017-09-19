@@ -54,7 +54,7 @@ Mentor: [Scott Davidoff][scott-davidoff], [Arun Viswanathan][arun]
 Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research.  
 </span>
 
-<span class="cv-left-date">Summer 2016</span>**[Pacific Northwest National Laboratory][pnnl]**, Richland, WA  
+<span class="cv-left-date">Summer 2016</span>**[Pacific Northwest National Lab][pnnl]**, Richland, WA  
 *National Security Ph.D. Intern, [Data Sciences & Analytics Group][dsa]*  
 Mentor: [Nathan Hodas][nathan]  
 <span class="cv-description">
