@@ -34,7 +34,6 @@ Built using standard web technologies, ShapeShop allows users to experiment with
 </span>
 
 ## BibTeX
-
 ```
 @inproceedings{hohman2017shapeshop,
   title={ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation},
