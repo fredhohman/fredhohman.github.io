@@ -2,7 +2,7 @@
 layout: paper
 categories: papers
 permalink: papers/dashboard
-Title: Discovery Dashboard
+title: Discovery Dashboard
 ---
 
 # mHealth Visual Discovery Dashboard
