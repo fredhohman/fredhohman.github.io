@@ -160,7 +160,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [James Abello][james], [Fred Hohman][fred], [Duen Horng Chau][polo]  
 *Poster, IEEE Viisual Analytics Science and Technology (VAST). Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
-<span class="cv-website-marker">[Site][17-playground-vast]</span> | [PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo]) | [BibTex][17-playground-vast]
+<span class="cv-website-marker">[Site][17-playground-vast]</span> | [PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo]) | [BibTeX][17-playground-vast]
 </span>
 
 **[A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue][17-got-vis4dh]**  
