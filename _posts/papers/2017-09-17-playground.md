@@ -2,6 +2,7 @@
 layout: paper
 categories: papers
 permalink: papers/playground
+title: Graph Playground
 ---
 
 # 3D Exploration of Graph Layers via Vertex Cloning

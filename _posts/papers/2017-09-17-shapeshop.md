@@ -2,6 +2,7 @@
 layout: paper
 categories: papers
 permalink: papers/shapeshop
+title: ShapeShop
 ---
 
 # ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation
