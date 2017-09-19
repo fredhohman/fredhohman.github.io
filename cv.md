@@ -163,11 +163,11 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 <span class="cv-website-marker">[Site][17-playground-vast]</span> | [PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo])
 </span>
 
-**[A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue][17-got-vis4dh-pdf]**  
+**[A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue][17-got-vis4dh]**  
 [Fred Hohman][fred], [Sandeep Soni][sandeep], [Ian Stewart][ian], [John Stasko][stasko]  
 *2nd Workshop on Visualization for the Digital Humanities at IEEE VIS. Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
-[PDF][17-got-vis4dh-pdf] | [Github][17-got-vis4dh-github] | [Data][17-got-vis4dh-data] | [BibTeX][17-got-vis4dh-bibtex]
+<span class="cv-website-marker">[Site][17-got-vis4dh]</span> | [PDF][17-got-vis4dh-pdf] | [Github][17-got-vis4dh-github] | [Data][17-got-vis4dh-data] | [BibTeX][17-got-vis4dh]
 </span>
 
 **[mHealth Visual Discovery Dashboard][17-dashboard-ubicomp]**  
@@ -478,10 +478,10 @@ Universe
 [17-shapeshop-chi]: {{ site.url }}/papers/shapeshop
 [17-defense-arxiv-pdf]: https://arxiv.org/abs/1705.02900
 [17-defense-arxiv-bibtex]: {{ site.url }}/bibtex/das2017keeping
+[17-got-vis4dh]: {{ site.url }}/papers/got
 [17-got-vis4dh-pdf]: {{ site.url }}/papers/17-got-vis4dh.pdf
 [17-got-vis4dh-github]: https://github.com/fredhohman/a-viz-of-ice-and-fire
 [17-got-vis4dh-data]: https://github.com/fredhohman/a-viz-of-ice-and-fire/tree/master/vis/data
-[17-got-vis4dh-bibtex]: {{ site.url }}/bibtex/hohman2017viz
 [17-vigor-vast-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
 [17-vigor-vast-video]: https://www.youtube.com/watch?v=-jeck0yrT_Q&index=3&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
 [17-vigor-vast-preview]: https://vimeo.com/groups/480818/videos/230830163
