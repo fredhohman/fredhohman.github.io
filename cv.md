@@ -160,7 +160,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [James Abello][james], [Fred Hohman][fred], [Duen Horng Chau][polo]  
 *Poster, IEEE Viisual Analytics Science and Technology (VAST). Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
-<span class="cv-website-marker">[Site][17-playground-vast]</span> | [PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo])
+<span class="cv-website-marker">[Site][17-playground-vast]</span> | [PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo]) | [BibTex][17-playground-vast]
 </span>
 
 **[A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue][17-got-vis4dh]**  
@@ -402,6 +402,8 @@ Universe
 [photos]: {{ site.url }}/photos "Photos."
 [archive]: {{ site.url }}/archive
 
+[cv]: {{ site.url }}/cv.pdf "My CV."
+
 [poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science"
 [gt]: http://gatech.edu "Georgia Tech"
 [cse]: http://cse.gatech.edu "GT Computational Science and Engineering"
@@ -423,6 +425,7 @@ Universe
 [trefoil]: {{ site.url }}/projects/3d-printing-the-trefoil-knot-and-its-pages "3D Printing the Trefoil Knot and its Pages"
 [gg]: {{ site.url }}/projects/materials-informatics-grain-growth "Material Informatics: Grain Growth"
 
+[fred]: http://fredhohman.com "Fred Hohman"
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau"
 [alex]: http://va.gatech.edu/endert/ "Alex Endert"
 [nathan]: https://signatures.pnnl.gov/bios/nathan-hodas "Nathan Hodas"
@@ -458,37 +461,40 @@ Universe
 [caleb]: http://calebrob.com/ "Caleb Robinson"
 [bistra]: http://www.cc.gatech.edu/~bdilkina/ "Bistra Dilkina"
 
-[cv]: {{ site.url }}/cv.pdf "My CV."
-
-[fred]: http://fredhohman.com "Fred Hohman"
-
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vis.pdf
 [17-playground-vast-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
 [17-playground-vast-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
+
 [17-dashboard-ubicomp]: {{ site.url }}/papers/dashboard
 [17-dashboard-ubicomp-pdf]: {{ site.url }}/papers/17-dashboard-ubicomp.pdf
 [17-dashboard-ubicomp-video]: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
 [17-dashboard-ubicomp-poster]: {{ site.url }}/papers/17-dashboard-ubicomp-poster.pdf
+
+[17-shapeshop-chi]: {{ site.url }}/papers/shapeshop
 [17-shapeshop-chi-pdf]: {{ site.url }}/papers/17-shapeshop-chi.pdf
 [17-shapeshop-chi-video-poloclub]: https://www.youtube.com/watch?v=XL3fFwZ1DDQ&feature=youtu.be
 [17-shapeshop-chi-video-chi]: https://www.youtube.com/watch?v=wRX1xEdrD1g
 [17-shapeshop-chi-github]: https://github.com/fredhohman/shapeshop
 [17-shapeshop-chi-poster]: {{ site.url }}/papers/17-shapeshop-chi-poster.pdf
-[17-shapeshop-chi]: {{ site.url }}/papers/shapeshop
+
 [17-defense-arxiv-pdf]: https://arxiv.org/abs/1705.02900
 [17-defense-arxiv-bibtex]: {{ site.url }}/bibtex/das2017keeping
+
 [17-got-vis4dh]: {{ site.url }}/papers/got
 [17-got-vis4dh-pdf]: {{ site.url }}/papers/17-got-vis4dh.pdf
 [17-got-vis4dh-github]: https://github.com/fredhohman/a-viz-of-ice-and-fire
 [17-got-vis4dh-data]: https://github.com/fredhohman/a-viz-of-ice-and-fire/tree/master/vis/data
+
 [17-vigor-vast-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
 [17-vigor-vast-video]: https://www.youtube.com/watch?v=-jeck0yrT_Q&index=3&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
 [17-vigor-vast-preview]: https://vimeo.com/groups/480818/videos/230830163
+
 [17-visage-sigmod-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-sigmod-visage.pdf
 [17-visage-sigmod-video]: https://www.youtube.com/watch?v=l2L7Y5mCh1s&index=2&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
 [17-visage-sigmod-poster]: http://www.cc.gatech.edu/~rpienta3/data/posters/17-sigmod-visage-poster.pdf
 [17-visage-sigmod-bibtex]: {{ site.url }}/bibtex/pienta2017visual
+
 [17-deeppop-arxiv]: {{ site.url }}/papers/deeppop
 [17-deeppop-arxiv-pdf]: https://arxiv.org/abs/1708.09086
 
