@@ -170,11 +170,11 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [PDF][17-got-vis4dh-pdf] | [Github][17-got-vis4dh-github] | [Data][17-got-vis4dh-data] | [BibTeX][17-got-vis4dh-bibtex]
 </span>
 
-**[mHealth Visual Discovery Dashboard][17-dashboard-ubicomp-pdf]**  
+**[mHealth Visual Discovery Dashboard][17-dashboard-ubicomp]**  
 [Dezhi Fang][andy], [Fred Hohman][fred], [Peter Polack][peter], [Hillol Sarker][hillol], [Minsuk Kahng][brian], [Moushumi Sharmin][moushumi], [Mustafa al'Absi][mustafa], [Duen Horng Chau][polo]  
 *Demo, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UBICOMP). Sept 11-15, 2017. Maui, USA.*  
 <span class="paper-misc">
-[PDF][17-dashboard-ubicomp-pdf] | [Video][17-dashboard-ubicomp-video] | [Poster][17-dashboard-ubicomp-poster]
+<span class="cv-website-marker">[Site][17-dashboard-ubicomp]</span> | [PDF][17-dashboard-ubicomp-pdf] | [Video][17-dashboard-ubicomp-video] | [Poster][17-dashboard-ubicomp-poster] | [BibTeX][17-dashboard-ubicomp]
 </span>
 
 **[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-arxiv]**  
@@ -466,6 +466,7 @@ Universe
 [17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vis.pdf
 [17-playground-vast-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
 [17-playground-vast-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
+[17-dashboard-ubicomp]: {{ site.url }}/papers/dashboard
 [17-dashboard-ubicomp-pdf]: {{ site.url }}/papers/17-dashboard-ubicomp.pdf
 [17-dashboard-ubicomp-video]: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
 [17-dashboard-ubicomp-poster]: {{ site.url }}/papers/17-dashboard-ubicomp-poster.pdf
