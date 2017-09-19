@@ -184,11 +184,11 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 <span class="cv-website-marker">[Site][17-deeppop-arxiv]</span> | [PDF][17-deeppop-arxiv-pdf] | Github (coming soon!) | [BibTeX][17-deeppop-arxiv]
 </span>
 
-**[Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression][17-defense-arxiv-pdf]**  
+**[Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression][17-defense-arxiv]**  
 [Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
 *arXiv:1705.02900. May 8, 2017.*  
 <span class="paper-misc">
-[PDF][17-defense-arxiv-pdf] | [BibTeX][17-defense-arxiv-bibtex]
+<span class="cv-website-marker">[Site][17-defense-arxiv]</span> | [PDF][17-defense-arxiv-pdf] | [BibTeX][17-defense-arxiv]
 </span>
 
 **[Visual Graph Query Construction and Refinement][17-visage-sigmod-pdf]**  
@@ -478,8 +478,8 @@ Universe
 [17-shapeshop-chi-github]: https://github.com/fredhohman/shapeshop
 [17-shapeshop-chi-poster]: {{ site.url }}/papers/17-shapeshop-chi-poster.pdf
 
+[17-defense-arxiv]: {{ site.url }}/papers/defense
 [17-defense-arxiv-pdf]: https://arxiv.org/abs/1705.02900
-[17-defense-arxiv-bibtex]: {{ site.url }}/bibtex/das2017keeping
 
 [17-got-vis4dh]: {{ site.url }}/papers/got
 [17-got-vis4dh-pdf]: {{ site.url }}/papers/17-got-vis4dh.pdf
