@@ -158,7 +158,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 **[3D Exploration of Graph Layers via Vertex Cloning][17-playground-vast]**  
 [James Abello][james], [Fred Hohman][fred], [Duen Horng Chau][polo]  
-*Poster, IEEE Viisual Analytics Science and Technology (VAST). Oct 1-6, 2017. Phoenix, USA.*  
+*Poster, IEEE Visual Analytics Science and Technology (VAST). Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
 <span class="cv-website-marker">[Site][17-playground-vast]</span> | [PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo]) | [BibTeX][17-playground-vast]
 </span>
