@@ -29,14 +29,14 @@ This is one of the few instances where 3D visualization enhances graph explorati
 Our approach helps disentangle "hairball" looking embeddings produced by conventional 2D graph drawings.
 
 ## Materials
-[PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo])
+[PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo]) | [Poster][17-playground-vast-poster] | [BibTeX][17-playground-vast]
 
 ## Citation
 **[3D Exploration of Graph Layers via Vertex Cloning][17-playground-vast-pdf]**  
 [James Abello][james], [Fred Hohman][fred], [Duen Horng Chau][polo]  
 *Poster, IEEE Visual Analytics Science and Technology (VAST). Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
-[PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo])
+[PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo]) | [Poster][17-playground-vast-poster] | [BibTeX][17-playground-vast]
 </span>
 
 ## BibTeX
@@ -54,7 +54,8 @@ Our approach helps disentangle "hairball" looking embeddings produced by convent
 [fred]: http://fredhohman.com "Fred Hohman"
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau"
 
-[17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vis.pdf
+[17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vast.pdf
+[17-playground-vast-poster]: {{ site.url }}/papers/17-playground-vast-poster.pdf
 [17-playground-vast-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
 [17-playground-vast-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
 [17-playground-vast]: {{ site.url }}/papers/deeppop

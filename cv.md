@@ -160,7 +160,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [James Abello][james], [Fred Hohman][fred], [Duen Horng Chau][polo]  
 *Poster, IEEE Visual Analytics Science and Technology (VAST). Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
-<span class="cv-website-marker">[Site][17-playground-vast]</span> | [PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo]) | [BibTeX][17-playground-vast]
+<span class="cv-website-marker">[Site][17-playground-vast]</span> | [PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo]) | [Poster][17-playground-vast-poster] | [BibTeX][17-playground-vast]
 </span>
 
 **[A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue][17-got-vis4dh]**  
@@ -462,9 +462,10 @@ Universe
 [bistra]: http://www.cc.gatech.edu/~bdilkina/ "Bistra Dilkina"
 
 [17-playground-vast]: {{ site.url }}/papers/playground
-[17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vis.pdf
+[17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vast.pdf
 [17-playground-vast-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
 [17-playground-vast-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
+[17-playground-vast-poster]: {{ site.url }}/papers/17-playground-vast-poster.pdf
 
 [17-dashboard-ubicomp]: {{ site.url }}/papers/dashboard
 [17-dashboard-ubicomp-pdf]: {{ site.url }}/papers/17-dashboard-ubicomp.pdf
