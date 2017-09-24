@@ -149,11 +149,11 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 ## Publications
 
-**[VIGOR: Interactive Visual Exploration of Graph Query Results][17-vigor-vast-pdf]**  
+**[VIGOR: Interactive Visual Exploration of Graph Query Results][17-vigor-vast]**  
 [Robert Pienta][robert], [Fred Hohman][fred], [Alex Endert][alex], [Acar Tamersoy][acar], [Kevin Roundy][kevin], [Chris Gates][chris], [Shamkant Navathe][navathe], [Duen Horng Chau][polo]  
 *IEEE Transactions on Visualization and Computer Graphics (Proc. VAST'17). Jan 2018. Phoenix, USA.*  
 <span class="paper-misc">
-[PDF][17-vigor-vast-pdf] | [Video][17-vigor-vast-video] | [Preview][17-vigor-vast-preview]
+<span class="cv-website-marker">[Site][17-vigor-vast]</span> | [PDF][17-vigor-vast-pdf] | [Video][17-vigor-vast-video] | [Preview][17-vigor-vast-preview] | [BibTeX][17-vigor-vast]
 </span>
 
 **[3D Exploration of Graph Layers via Vertex Cloning][17-playground-vast]**  
@@ -487,6 +487,7 @@ Universe
 [17-got-vis4dh-github]: https://github.com/fredhohman/a-viz-of-ice-and-fire
 [17-got-vis4dh-data]: https://github.com/fredhohman/a-viz-of-ice-and-fire/tree/master/vis/data
 
+[17-vigor-vast]: {{ site.url }}/papers/vigor
 [17-vigor-vast-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
 [17-vigor-vast-video]: https://www.youtube.com/watch?v=-jeck0yrT_Q&index=3&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
 [17-vigor-vast-preview]: https://vimeo.com/groups/480818/videos/230830163
