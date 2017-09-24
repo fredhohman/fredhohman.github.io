@@ -195,7 +195,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [Robert Pienta][robert], [Fred Hohman][fred], [Acar Tamersoy][acar], [Alex Endert][alex], [Shamkant Navathe][navathe], [Hanghang Tong][hanghang], [Duen Horn Chau][polo]  
 *Demo, ACM International Conference on Management of Data (SIGMOD/PODS). May 14-19, 2017. Chicago, USA.*    
 <span class="paper-misc">
-<span class="cv-website-marker">[Site][17-visage-sigmod]</span> | [PDF][17-visage-sigmod-pdf] | [Video][17-visage-sigmod-video] | [Poster][17-visage-sigmod-video] | [BibTeX][17-visage-sigmod] | *Best Demo, Honorable Mention*
+<span class="cv-website-marker">[Site][17-visage-sigmod]</span> | [PDF][17-visage-sigmod-pdf] | [Video][17-visage-sigmod-video] | [Poster][17-visage-sigmod-video] | [BibTeX][17-visage-sigmod] | <span class="cv-award">*Best Demo, Honorable Mention*</span>
 </span>
 
 **[ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation][17-shapeshop-chi]**  
