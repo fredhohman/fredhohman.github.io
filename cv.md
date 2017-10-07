@@ -96,6 +96,11 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 
 ## Honors and Awards
 
+<span class="cv-left-date">2017</span>Microsoft Azure for Research Award: AI for Earth  
+<span class="cv-description">
+$15,000 for our work on "Deep Learning for Fine-scale Population Maps"
+</span>
+<span class="cv-spacer-award"></span>
 <span class="cv-left-date">2017</span>Best Demo, Honorable Mention at ACM SIGMOD/PODS Conference  
 <span class="cv-description">
 For "Visual Graph Query Construction and Refinement"
@@ -210,6 +215,9 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 *Abstract, American Physical Society Division of Fluid Dynamics. Nov 23-25, 2014. San Francisco, CA, USA.*
 
 ## Presentations
+
+**A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue**  
+<span class="cv-left-date">Oct. 2017</span>2nd Workshop on Visualization for the Digital Humanities at IEEE VIS.
 
 **Constellation: Visualizing Cybersecurity in Real Time**  
 <span class="cv-left-date">Aug. 2017</span>NASA Jet Propulsion Lab (JPL).  
