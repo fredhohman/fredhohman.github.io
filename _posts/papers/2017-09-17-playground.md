@@ -58,4 +58,4 @@ Our approach helps disentangle "hairball" looking embeddings produced by convent
 [17-playground-vast-poster]: {{ site.url }}/papers/17-playground-vast-poster.pdf
 [17-playground-vast-video-youtube]: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
 [17-playground-vast-video-vimeo]: https://vimeo.com/groups/480818/videos/230837562
-[17-playground-vast]: {{ site.url }}/papers/deeppop
+[17-playground-vast]: {{ site.url }}/papers/playground
