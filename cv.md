@@ -24,7 +24,7 @@ My research combines **<span class="cv-ai">data mining and machine learning</spa
 
 <span class="cv-spacer-line"></span>
 
-<a href="https://fredhohman.com/cv.pdf"><img class="social-icon" src="/images/footer/file-pdf-o-color.svg"></a> [CV PDF][cv]  
+<a href="http://fredhohman.com/cv.pdf"><img class="social-icon" src="/images/footer/file-pdf-o-color.svg"></a> [CV PDF][cv]  
 <time datetime="{{ site.time | date: "%B %-d, %Y" }}" class="post-date">Updated: {{ site.time | date: "%B %d, %Y" }}</time>
 
 ***
