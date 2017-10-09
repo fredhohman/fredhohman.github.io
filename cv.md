@@ -172,7 +172,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [Fred Hohman][fred], [Sandeep Soni][sandeep], [Ian Stewart][ian], [John Stasko][stasko]  
 *2nd Workshop on Visualization for the Digital Humanities at IEEE VIS. Oct 1-6, 2017. Phoenix, USA.*  
 <span class="paper-misc">
-<span class="cv-website-marker">[Site][17-got-vis4dh]</span> | [PDF][17-got-vis4dh-pdf] | [Github][17-got-vis4dh-github] | [Data][17-got-vis4dh-data] | [BibTeX][17-got-vis4dh]
+<span class="cv-website-marker">[Site][17-got-vis4dh]</span> | [PDF][17-got-vis4dh-pdf] | [Demo][17-got-vis4dh-demo] | [Github][17-got-vis4dh-github] | [Data][17-got-vis4dh-data] | [BibTeX][17-got-vis4dh]
 </span>
 
 **[mHealth Visual Discovery Dashboard][17-dashboard-ubicomp]**  
@@ -494,6 +494,7 @@ Universe
 [17-got-vis4dh-pdf]: {{ site.url }}/papers/17-got-vis4dh.pdf
 [17-got-vis4dh-github]: https://github.com/fredhohman/a-viz-of-ice-and-fire
 [17-got-vis4dh-data]: https://github.com/fredhohman/a-viz-of-ice-and-fire/tree/master/vis/data
+[17-got-vis4dh-demo]: http://fredhohman.com/a-viz-of-ice-and-fire
 
 [17-vigor-vast]: {{ site.url }}/papers/vigor
 [17-vigor-vast-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
