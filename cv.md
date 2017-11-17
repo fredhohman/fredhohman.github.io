@@ -367,6 +367,12 @@ Georgia Institute of Technology
 Atlanta, GA, USA  
 <span class="cv-blue-link">[va.gatech.edu/endert/][alex]</span>
 
+**[Dr. Scott Davidoff][scott-davidoff]**, Manager  
+Human Interfaces Group  
+NASA Jet Propulsion Lab  
+Pasadena, CA, USA  
+<span class="cv-blue-link">[scottdavidoff.com][scott-davidoff]</span>
+
 **[Dr. Nathan Hodas][nathan]**, Senior Research Scientist  
 Data Sciences and Analytics Group  
 Pacific Northwest National Laboratory  
@@ -379,11 +385,11 @@ University of Georgia
 Athens, GA, USA  
 <span class="cv-blue-link">[euclidlab.org/david-gay/][gay]</span>
 
-**[Dr. Shanon Reckinger][shanon]**, Assistant Teaching Professor  
+<!-- **[Dr. Shanon Reckinger][shanon]**, Assistant Teaching Professor  
 Mechanical and Industrial Engineering Department  
 Montana State University  
 Bozeman, MT, USA  
-<span class="cv-blue-link">[shanonreckinger.com][shanon]</span>
+<span class="cv-blue-link">[shanonreckinger.com][shanon]</span> -->
 
 
 ## Contact
