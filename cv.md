@@ -385,12 +385,6 @@ University of Georgia
 Athens, GA, USA  
 <span class="cv-blue-link">[euclidlab.org/david-gay/][gay]</span>
 
-<!-- **[Dr. Shanon Reckinger][shanon]**, Assistant Teaching Professor  
-Mechanical and Industrial Engineering Department  
-Montana State University  
-Bozeman, MT, USA  
-<span class="cv-blue-link">[shanonreckinger.com][shanon]</span> -->
-
 
 ## Contact
 
