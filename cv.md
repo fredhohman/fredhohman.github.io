@@ -68,7 +68,7 @@ Built visualization tools to generate images from deep neural networks to explor
 <span class="cv-left-date">Aug. 2016</span>*Graduate Research Assistant, [School of Computational Science and Engineering][cse]*  
 Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
 <span class="cv-description">
-Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction (HCI) to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data.
+Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data.
 </span>
 
 <span class="cv-left-date">May 2016 —</span>**[Georgia Institute of Technology][gt]**, Atlanta, GA  
@@ -215,6 +215,9 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 *Abstract, American Physical Society Division of Fluid Dynamics. Nov 23-25, 2014. San Francisco, CA, USA.*
 
 ## Presentations
+
+**Graph Playgrounds: 3D Exploration of Graph Layers via Vertex Cloning**  
+<span class="cv-left-date">Dec. 2017</span>AT&T Research Labs Graduate Student Symposium.
 
 **A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue**  
 <span class="cv-left-date">Oct. 2017</span>2nd Workshop on Visualization for the Digital Humanities at IEEE VIS.
