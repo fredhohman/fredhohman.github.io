@@ -339,7 +339,7 @@ IEEE International Conference on Distributed Computing Systems (**ICDCS**) 2017
 <span class="cv-spacer"></span>
 SIAM International Conference on Data Mining (**SDM**) 2017  
 <span class="cv-spacer"></span>
-ACM Conference on Human Factors in Computing Systems (**CHI**) 2017
+ACM Conference on Human Factors in Computing Systems (**CHI**) 2017, 2018
 
 **Member**  
 <span class="cv-left-date">2016 —</span>Association for Computing Machinery (**ACM**)  
