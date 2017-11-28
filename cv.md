@@ -154,6 +154,13 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 ## Publications
 
+**[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-sigspatial]**  
+[Caleb Robinson][caleb], [Fred Hohman][fred], [Bistra Dilkina][bistra]  
+*1st ACM SIGSPATIAL Workshop on Geospatial Humanities. Nov 7, 2017. Redondo Beach, USA.*  
+<span class="paper-misc">
+<span class="cv-website-marker">[Site][17-deeppop-sigspatial]</span> | [PDF][17-deeppop-sigspatial-pdf] | [BibTeX][17-deeppop-sigspatial]
+</span>
+
 **[VIGOR: Interactive Visual Exploration of Graph Query Results][17-vigor-vast]**  
 [Robert Pienta][robert], [Fred Hohman][fred], [Alex Endert][alex], [Acar Tamersoy][acar], [Kevin Roundy][kevin], [Chris Gates][chris], [Shamkant Navathe][navathe], [Duen Horng Chau][polo]  
 *IEEE Transactions on Visualization and Computer Graphics (Proc. VAST'17). Jan 2018. Phoenix, USA.*  
@@ -180,13 +187,6 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 *Demo, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UBICOMP). Sept 11-15, 2017. Maui, USA.*  
 <span class="paper-misc">
 <span class="cv-website-marker">[Site][17-dashboard-ubicomp]</span> | [PDF][17-dashboard-ubicomp-pdf] | [Video][17-dashboard-ubicomp-video] | [Poster][17-dashboard-ubicomp-poster] | [BibTeX][17-dashboard-ubicomp]
-</span>
-
-**[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-arxiv]**  
-[Caleb Robinson][caleb], [Fred Hohman][fred], [Bistra Dilkina][bistra]  
-*arXiv:1708.09086. August 30, 2017.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-deeppop-arxiv]</span> | [PDF][17-deeppop-arxiv-pdf] | Github (coming soon!) | [BibTeX][17-deeppop-arxiv]
 </span>
 
 **[Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression][17-defense-arxiv]**  
@@ -408,6 +408,7 @@ Local Group
 Universe  
 </span>
 
+
 [stuff-i-use]: {{ site.url }}/stuff-i-use "Stuff I Use."
 [monthly-music]: {{ site.url }}/monthly-music "Monthly Music."
 [photos]: {{ site.url }}/photos "Photos."
@@ -509,8 +510,8 @@ Universe
 [17-visage-sigmod-video]: https://www.youtube.com/watch?v=l2L7Y5mCh1s&index=2&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
 [17-visage-sigmod-poster]: http://www.cc.gatech.edu/~rpienta3/data/posters/17-sigmod-visage-poster.pdf
 
-[17-deeppop-arxiv]: {{ site.url }}/papers/deeppop
-[17-deeppop-arxiv-pdf]: https://arxiv.org/abs/1708.09086
+[17-deeppop-sigspatial]: {{ site.url }}/papers/deeppop
+[17-deeppop-sigspatial-pdf]: {{ site.url }}/papers/17-deeppop-sigspatial.pdf
 
 [sketches-of-topology]: https://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/
 [makerhome-day-311]: http://makerhome.blogspot.com/2014/07/day-311-trefoil-trumpet.html
