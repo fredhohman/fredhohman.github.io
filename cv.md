@@ -510,7 +510,8 @@ Universe
 [17-visage-sigmod-video]: https://www.youtube.com/watch?v=l2L7Y5mCh1s&index=2&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
 [17-visage-sigmod-poster]: http://www.cc.gatech.edu/~rpienta3/data/posters/17-sigmod-visage-poster.pdf
 
-[17-deeppop-sigspatial]: {{ site.url }}/papers/deeppop
+<!-- [17-deeppop-sigspatial]: {{ site.url }}/papers/deeppop -->
+[17-deeppop-sigspatial]: https://deeppop.github.io/
 [17-deeppop-sigspatial-pdf]: {{ site.url }}/papers/17-deeppop-sigspatial.pdf
 
 [sketches-of-topology]: https://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/
