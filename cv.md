@@ -254,6 +254,9 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 
 ## Press
+
+<span class="cv-left-date">Dec. 2017</span>["Georgia Tech Team To Use Microsoft Grant to Study Human Migration Dynamics."][gt-cc-deeppop] Georgia Tech,<br>College of Computing.
+<span class="cv-spacer"></span>
 <span class="cv-left-date">Sept. 2015</span>["Georgia Tech PhD Student Puts Finishing Touches on 3D Printed Trumpety Trefoil."][3dprint-2] 3dprint.com.
 <span class="cv-spacer"></span>
 <span class="cv-left-date">2015</span>["Student Profile: Fred Hohman."][uga-math-profile] 2015 UGA Mathematics Department Newsletter.
@@ -520,6 +523,7 @@ Universe
 [3dprint-2]: https://3dprint.com/95127/3d-printed-trumpety-trefoil/
 [mitgcm]: http://mitgcm.org/2015/02/17/falling-water/
 [uga-math-profile]: http://www.math.uga.edu/news-and-events/math-department-newsletter-spring-2015
+[gt-cc-deeppop]: https://www.cse.gatech.edu/news/599787/georgia-tech-team-use-microsoft-grant-study-human-migration-dynamics
 
 [trophy]: {{ site.url }}/projects/cube-decomposition-trophy "Cube Decomposition Trophy."
 [keychain]: {{ site.url }}/projects/uga-keychain "UGA Keychain."
