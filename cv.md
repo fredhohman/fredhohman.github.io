@@ -158,7 +158,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [Caleb Robinson][caleb], [Fred Hohman][fred], [Bistra Dilkina][bistra]  
 *1st ACM SIGSPATIAL Workshop on Geospatial Humanities. Nov 7, 2017. Redondo Beach, USA.*  
 <span class="paper-misc">
-<span class="cv-website-marker">[Site][17-deeppop-sigspatial]</span> | [PDF][17-deeppop-sigspatial-pdf] | [BibTeX][17-deeppop-sigspatial]
+<span class="cv-website-marker">[Site][17-deeppop-sigspatial]</span> | [PDF][17-deeppop-sigspatial-pdf] | [BibTeX][17-deeppop-sigspatial] | <span class="cv-award">*Microsoft AI for Earth Award*</span>
 </span>
 
 **[VIGOR: Interactive Visual Exploration of Graph Query Results][17-vigor-vast]**  
