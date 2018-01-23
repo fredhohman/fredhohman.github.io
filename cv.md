@@ -154,6 +154,13 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 ## Publications
 
+**[Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers][18-deepvis-arxiv]**  
+[Fred Hohman][fred], [Minsuk Kahng][brian], [Robert Pienta][robert], [Duen Horng Chau][polo]  
+*arXiv:1801.06889. Jan 21, 2018.*  
+<span class="paper-misc">
+<span class="cv-website-marker">[Site][18-deepvis-arxiv]</span> | [PDF][18-deepvis-arxiv-pdf] | [BibTeX][18-deepvis-arxiv]
+</span>
+
 **[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-sigspatial]**  
 [Caleb Robinson][caleb], [Fred Hohman][fred], [Bistra Dilkina][bistra]  
 *1st ACM SIGSPATIAL Workshop on Geospatial Humanities. Nov 7, 2017. Redondo Beach, USA.*  
@@ -516,6 +523,9 @@ Universe
 <!-- [17-deeppop-sigspatial]: {{ site.url }}/papers/deeppop -->
 [17-deeppop-sigspatial]: https://deeppop.github.io/
 [17-deeppop-sigspatial-pdf]: {{ site.url }}/papers/17-deeppop-sigspatial.pdf
+
+[18-deepvis-arxiv]: {{ site.url }}/papers/deepvis
+[18-deepvis-arxiv-pdf]: https://arxiv.org/abs/1801.06889
 
 [sketches-of-topology]: https://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/
 [makerhome-day-311]: http://makerhome.blogspot.com/2014/07/day-311-trefoil-trumpet.html
