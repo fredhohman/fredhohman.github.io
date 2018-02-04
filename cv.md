@@ -38,6 +38,9 @@ Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]
 Minor: "User-Centered Design in Data Science"  
 Overall GPA: 4.00/4.00
 
+<span class="cv-left-date">May 2018</span>**M.S. in Computational Science & Engineering**  
+*[Georgia Institute of Technology][gt], Atlanta, GA*  
+
 <span class="cv-left-date">May 2015 —</span>**B.S. in Mathematics**, Area of Emphasis in Applied Mathematics  
 <span class="cv-left-date">Aug. 2011</span>**B.S. in Physics**  
 *[University of Georgia][uga], Athens, GA*   
@@ -58,7 +61,7 @@ Joint work between NASA JPL, Caltech, and Art Center creating interactive data v
 *National Security Ph.D. Intern, [Data Sciences & Analytics Group][dsa]*  
 Mentor: [Nathan Hodas][nathan]  
 <span class="cv-description">
-Built visualization tools to generate images from deep neural networks to explore image classifiers’ ability to learn semantics.  
+Built visualization tools that generate images from deep neural networks to explain classifier's learned semantics.  
 </span>
 
 
@@ -118,7 +121,7 @@ For "Experimental and Numerical Comparison of Oceanic Overflow"
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2015</span>UGA CURO Research Graduation Distinction  
 <span class="cv-description">
-Awarded to undergraduates who write a thesis, present at the CURO Symposium, and complete 9 hours of research credit
+Awarded to undergraduates who write a thesis, present at the CURO Symposium, and complete 9 research credit hours
 </span>
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2014</span>UGA CURO Research Assistantship  
