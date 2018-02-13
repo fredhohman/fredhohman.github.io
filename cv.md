@@ -345,6 +345,8 @@ Created 3D printed UGA keychain and presentation notes given at Experience UGA: 
 ## Professional Activities
 
 **Reviewer**  
+1st Deep Learning and Security Workshop (**DLS**) at IEEE SP 2018  
+<span class="cv-spacer"></span> 
 Symposium on Visualization in Data Science (**VDS**) at IEEE VIS 2017  
 <span class="cv-spacer"></span> 
 IEEE Visual Analytics Science and Technology (**VAST**) 2017  
