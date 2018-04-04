@@ -4,7 +4,9 @@ title: Monthly Music
 permalink: monthly-music/
 ---
 
-I've been sharing music with friends for as long as I can remember, so I started making monthly public playlists so anyone can tune in. Each playlist contains ten tracks and links to Spotify and Youtube. For fans of indie rock, electronic music, progressive jazz, and related genres.
+I've been sharing music with friends for as long as I can remember, so I started making monthly public playlists for anyone who wants to tune in.
+Each playlist features ten tracks and with an accompanying Spotify playlist.
+For fans of indie rock, electronic music, and related genres.
 
 ***
 
