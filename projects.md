@@ -4,10 +4,12 @@ title: Projects
 permalink: projects/
 ---
 
-Things I do, including research, academic course projects, and miscellaneous stuff.
+Things I do, including research, academic course projects, and miscellaneous interests.
 
 ### Research
-[VIGOR][17-vigor-vast-pdf]  
+[SHIELD][18-shield-arxiv]  
+[Visual Analytics in Deep Learning][18-deepvis-arxiv]  
+[VIGOR][17-vigor-vast]  
 [Graph Playground][17-playground-vast]  
 [A Viz of Ice and Fire][17-got-vis4dh]  
 [Discovery Dashboard][17-dashboard-ubicomp]  
@@ -15,7 +17,6 @@ Things I do, including research, academic course projects, and miscellaneous stu
 [Keeping the Bad Guys Out][17-defense-arxiv]  
 [Visual Graph Query Construction and Refinement][17-visage-sigmod-pdf]  
 [ShapeShop][17-shapeshop-chi]
-
 
 ### Undergraduate Thesis
 [3D Printing the Trefoil Knot and its Pages][trefoil]&nbsp;<small style="color: #c0c0c0">2015</small>
@@ -58,8 +59,10 @@ Things I do, including research, academic course projects, and miscellaneous stu
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-dashboard-ubicomp]: {{ site.url }}/papers/dashboard
 [17-got-vis4dh]: {{ site.url }}/papers/got
-[17-vigor-vast-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
+[17-vigor-vast]: {{ site.url }}/papers/vigor
 [17-defense-arxiv]: {{ site.url }}/papers/defense
 [17-deeppop-arxiv]: {{ site.url }}/papers/deeppop
 [17-visage-sigmod-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-sigmod-visage.pdf
 [17-shapeshop-chi]: {{ site.url }}/papers/shapeshop
+[18-deepvis-arxiv]: {{ site.url }}/papers/deepvis
+[18-shield-arxiv]: {{ site.url }}/papers/shield
