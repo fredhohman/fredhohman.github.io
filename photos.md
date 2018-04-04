@@ -4,7 +4,9 @@ title: Photos
 permalink: photos/
 ---
 
-I'm no professional photographer, but sometimes I take pictures. I shoot with a [Nikon D80][d80], but I always have an [iPhone 6S+][iphone] at my side. You can also find me on [Instagram][insta].
+I'm no professional photographer, but sometimes I take pictures.
+I shoot with a [Nikon D80][d80], but I always have an iPhone at my side.
+You can also find me on [Instagram][insta].
 
 <br/>
 
