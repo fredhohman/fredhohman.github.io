@@ -4,7 +4,7 @@ title: Archive
 permalink: archive/
 ---
 
-The one-stop shop for everything on `fredhohman.com`, including all posts from the Blog, Monthly Music, and Projects. 
+The one-stop shop, including all posts from the Blog, Monthly Music, and Projects.
 
 <dl>
 {% for post in site.posts %}
