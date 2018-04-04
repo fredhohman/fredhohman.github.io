@@ -6,69 +6,107 @@ permalink: stuff-i-use/
 
 <time datetime="{{ site.time | date: "%B %-d, %Y" }}" class="post-date">Updated: {{ site.time | date: "%B %Y" }}</time>
 
-I like finding and using new tools to do things. [The Setup][the-setup] in particular contains great interviews of people in diverse areas discussing their tools. This is my setup: the stuff I use.
+Inspired by projects like [The Setup][the-setup], here is the stuff I use.
 
 * TOC
 {:toc}
 
 ### What's in my Bag
-I carry a custom [Timbuk2 messenger bag][timbuk2] for just about everything. If that isn't enough space, I wear a [Jansport Classic backpack][jansport] for backup.
+I carry a custom [Timbuk2 messenger bag][timbuk2] for just about everything.
+If that isn't enough space, I wear a [Jansport Classic backpack][jansport] for backup.
 
 <!-- <figure>
 	<img class="full" src="/images/stuff-i-use.jpg" alt="Stuff I Use.">
 	<figcaption>Apple Pi. Get it?</figcaption>
 </figure> -->
 
-Ever since I was 10 I've been writing with [PaperMate Clearpoint 0.5mm mechanical pencils][pencil] on blank computer paper (lines get in the way of math!). More recently I've been carrying a single [Moleskin sketchbook][moleskin-sketch] for meetings and research notes. The size is perfect for an all-in-one notebook, and the paper in the sketchbook from the [Art Collection][moleskin-art] is 111lb, which is much thicker than the average Moleskin notebook (it irks me when ink or pencil bleeds through paper). 
+Ever since I was 10 I've been writing with [PaperMate Clearpoint 0.5mm mechanical pencils][pencil] on blank computer paper.
+More recently I've been carrying a single [Moleskin sketchbook][moleskin-sketch] for meeting and research notes.
+The size is great for an all-in-one notebook, and the paper in the sketchbook from the [Art Collection][moleskin-art] is 111lb, which is much thicker than the average Moleskin notebook[^fn-moleskin].
 
-When I am out and about, I carry [Field Notes][fieldnotes] in my back pocket and clip an old [REI carabiner][carabiner] to my belt to hold my keys.
+I also never leave the apartment without a backpocket [Field Notes][fieldnotes] and my [REI carabiner][carabiner] clip to hold my keys.
 
 ### Computer
-I'm using a [2016 15" MacBook Pro][mbp], which replaced a [2011 MacBook Pro][mbp2011], which replaced a [late 2007 iMac][imac].
+I'm using an upgraded [2016 15" MacBook Pro][mbp], which replaced a [2011 15" MacBook Pro][mbp2011], which replaced a [late 2007 20" iMac][imac].
 
-When I'm at my desk at GT or home I connect to the [LG Ultrafine 5K Monitor][monitor] (the single USB-C cable is wonderful!) and use a [Logitech G502 mouse][mouse] and [Code keyboard][keyboard] with Cherry MX Greens. 
+When I'm at my desk I connect to a [LG Ultrafine 5K Monitor][monitor] using a single USB-C cable for power, internet, and peripherals ([Logitech G502 mouse][mouse] and [Code keyboard][keyboard]).
+
+I built my own PC in March 2018 for gaming and deep learning side projects.
+It's a high performing Intel + NVIDIA build with mesmerizing RGB fans packed into an excellent compact metal and glass case.
+
+| Part          |             |
+| ------------- |-------------|
+| CPU           | [Intel Core i7 8700K][cpu] |
+| CPU Cooler    | [Corsair H100i v2 All in One Water Cooler][cpu-cooler] |
+| Motherboard   | [ASRock z370 Tai Chi][motherboard] |
+| Memory        | [G.Skill Trident RGB 32GB (2x16GB) 3000Hz][memory] |
+| Storage (M.2) | [Samsung 960 Evo m.2 PCIe NVMe 1TB][storage-m2] |
+| Storage (HDD) | [Seagate Barracuda 3TB 7200rpm][storage-hdd] |
+| GPU           | [NVIDIA Titan Xp][gpu] |
+| Power Supply  | [EVGA 850W G3][power-supply] |
+| Case          | [Fractal Design Meshify C (Tempered Glass Edition)][case]|
+| Case Fans     | [Corsair LL120mm RGB][case-fans] |
 
 ### Mobile
-I've always had an iPhone for its simplicity, app abundance, and camera. I'm currently carrying a 128GB black [iPhone 7+][iphone] and an old [fourth-gen iPad][ipad].
+I'm currently carrying a 64GB black [iPhone X][iphone], with an old, rarely touched [fourth-gen iPad][ipad] resting on its stand.
 
 <!-- <figure>
 	<img class="iphone" src="/images/iphone.png" alt="My iPhone Homescreen.">
 	<figcaption>My old iPhone 6 Homescreen.</figcaption>
 </figure> -->
 
-On my homepage sits many of the mobile versions of the desktop services I use on OS X, but notable mentions include [Fantastical][fantastical] for calendar and reminders, [Dark Sky][darksky] for down to the minute weather predictions (necessary for taking bike rides on campus), [Inbox][inbox] by Gmail for email, and  the data-centric alarm clock [Sleep Cycle][sleep-cycle].
+On my homescreen sits many of the mobile versions of the desktop services I use on OS X, but notable mentions include [Fantastical][fantastical] for calendar and reminders, [Dark Sky][darksky] for down-to-the-minute weather predictions, [Inbox][inbox] by Gmail for email, the data-centric alarm clock [Sleep Cycle][sleep-cycle], and [Overcast][overcast] for podcasts.
 
-I also wear a space gray [Apple Watch Sport][watch] with the red sport band. Necessary? No. Stylish? A little. Convenient? Certainly. 
+I also wear a gen 1 space gray [Apple Watch Sport][watch] with the red sport band.
+Necessary? No.
+Stylish? Hardly.
+Convenient? Certainly. 
 
-### Services
-If I'm working, driving, or biking, I'm probably listening to music on [Spotify][spotify]. I rely on [Dropbox][dropbox] as my primary digital workspace. For getting things done I use [Trello][trello] to organize coursework, research, and projects while occasionally creating simple lists in [Wunderlist][wunderlist]. I prefer Trello to other GTD services as it can export specific tasks to my calendar while preserving the task’s due date, time, and notes. 
+### Apps
+At any time of day I'm probably listening to music on [Spotify][spotify].
+I rely on [Dropbox][dropbox] and [Google Drive][drive] for file sharing.
+Google Docs, Sheets, and Slides are also frequently used.
+For getting things, I've tried every to-do list and task manager out there, and I haven't really liked any, but I've found that [Trello][trello] is useful for managing different projects; it can also export specific tasks to my calendar while preserving the task’s due date, time, and notes. 
 
-While browsing the internet and Twitter on [Tweetbot][tweetbot], I constantly save things to my [Pocket][pocket] to read whenever I get a few minutes, whereas I typically store long-term articles and ideas in [Evernote][evernote]. I also use [1Password][1password] for saving passwords and [Mint][mint] for tracking money. [Slack][slack] is always open, and [IFTTT][ifttt] can be handy too. 
+While browsing Twitter on [Tweetbot][tweetbot] or Reddit on [AlienBlue][alienblue], I constantly save things to my [Pocket][pocket] to read whenever I get a few minutes.
+I use [1Password][1password] for saving passwords and [Mint][mint] for tracking money.
+[Slack][slack] is always open, and [IFTTT][ifttt] can be handy too. 
 
-I write journal entries in [Day One][day-one] that contain research notes, a days summary, and interesting quotes and pieces I read. I've used Day One off and on for a few years but during the summer of 2015 [I started writing daily entries to log every day of my time as a Ph.D. student][dayone-blog] so that upon graduation I can look back and remember the details, both big and little. I believe daily writing also helps one communicate more effectively and easily.
+I write journal entries in [Day One][day-one] that contain research notes, a days summary, and interesting quotes and pieces I read.
+I've used Day One off and on for a few years, but during the summer of 2015 [I started writing daily entries to log every day of my time as a Ph.D. student][dayone-blog] so that upon graduation I can look back and remember the details, both big and little.
+I believe daily writing also helps one communicate more effectively and easily.
 
 ### Software
-For AI and analytics research, I mostly use [Python][python], and for data visualzation I program mostly for the web (HTML, CSS, JS, and [D3][d3]). For more mathy things, I'll default to [Mathematica][mathematica] for continuous problems and [MATLAB][matlab] for discrete ones.
+For general programming, and specially for deep learning, I use [Python][python] often paired with [Jupyter notebooks][jupyter].
+For data visualization I program mostly for the web (HTML, CSS, JavaScript, and [D3][d3]).
+For more mathy things, I'll default to [Mathematica][mathematica] for continuous problems and [MATLAB][matlab] for discrete ones.
 
-I typeset LaTeX in [TeXShop][texshop], take notes in Markdown with [Mou][mou], and write code in [Sublime Text][sublime].
+I typeset LaTeX in [TeXShop][texshop], take notes in Markdown with [Sublime][sublime], and write code in [Visual Studio Code][vs-code].
 
-For 3D printing I use Mathematica and [OpenSCAD][openscad] to generate models, [Blender][blender] for renders and model/mesh manipulation, and [Makerware][makerware] for print preparation. If you are interested in creating your own models, [Tinkercad][tinkercad] is an easy-to-use, free modeling application that runs in the browser---no downloading required! 
+I use [Keynote][keynote] for slides, [Affinity Designer][affinity-designer] for vector drawing and most digital illustration, with the occasional use of [Pixelmator][pixelmator] for image editing.
 
-I tried [Pixelmator][pixelmator] instead of Adobe’s CC to avoid cost, and it’s been a great tool for visual mock-ups and light photo editing. I also prefer [Alfred][alfred] over OS X’s Spotlight to open files, launch applications, and search the internet, because it’s fast---*really* fast. 
+When I was working in 3D printing, I used Mathematica and [OpenSCAD][openscad] to generate models, [Blender][blender] for renders and mesh manipulation, and [Makerware][makerware] for print preparation.
+[Tinkercad][tinkercad] is also a great, easy-to-use modeling app that runs in the browser.
 
 ### Audio
-As I already said, I spend a majority of my day listening to music. So on both sides of my desk sit [KRK Rokit 5 studio monitors][rokit5] with an accompanying [Rokit 10s subwoofer][rokit10]. I run audio from my computer through a [Presonus Firestudio][firestudio]. 
+On both sides of my desk sit [KRK Rokit 5 studio monitors][rokit5] with an accompanying [Rokit 10s subwoofer][rokit10].
+I run audio from my computer through a [Presonus Firestudio][firestudio]. 
 
-I carry [Shure SE215 isolating headphones/earbuds][shure] with me at all times as they provide excellent sound on the go, block out exterior noise, and most importantly never fall out of my ears. 
+I carry [Shure SE215 isolating headphones/earbuds][shure] with me at all times for sound quality, minor noise cancellation, and most importantly: they never fall out of my ears. 
 
 ### Photography
-As an amateur photographer, I'm shooting with a hand-me-down [Nikon D80][d80], but I always have my iPhone on me to snap a quick picture. A subset of my pictures are macro shots of 3D printed models, so a light tent is my most used accessory. 
+As an amateur photographer, I'm shooting with a hand-me-down [Nikon D80][d80], but I always have my phone on me to snap a quick picture.
+When I was taking macro shots, I'd often set up a homemade light box.
 
 ### Drums
-I received a [Sonor Force 2001 drum set][sonor] when I was 10, and I still play it today. I play [Sabian AA][aa] and [AAX cymbals][aax] and [Evans drumheads][evans]. My drumstick of choice is the [Vic Firth 5A][5a]. For quieter jam sessions, I make less noise on a [Roland electric drum set][roland]. 
+I received a [Sonor Force 2001 drum set][sonor] when I was 10, and I still play it today.
+I play [Sabian AA][aa] and [AAX cymbals][aax] and coated [Evans drumheads][evans].
+My drumstick of choice is the [Vic Firth 5A][5a].
+For quieter jam sessions, I make less noise on a [Roland electric drum set][roland]. 
 
 ### Entertainment
-I found Microsoft's ideas more innovative than Sony's regarding the future of the living room so an [Xbox One][xbox] serves as my main entertainment system to play Halo, watch Netflix, and cheer on the Georgia Bulldogs on gameday. A [Chromecast][chromecast] sticks out of my TV too. 
+Aside from my gaming PC, I have the lovely [Nintendo Switch][switch] and an [Xbox One][xbox] that doesn't do much anymore.
+A [Chromecast][chromecast] sticks out of my TV too. 
 
 When trying to relax, there is no better companion than an [Eno hammock][eno].
 
@@ -83,7 +121,7 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 [keyboard]: https://codekeyboards.com/ "Code Keyboard."
 [mouse]: http://gaming.logitech.com/en-us/product/g502-proteus-spectrum-rgb-gaming-mouse "Logitech g502 Mouse."
 [monitor]: http://www.lg.com/us/monitors/lg-27MD5K-5k-uhd-led-monitor?cmpid=2016HEMonitor-SEM-SF-Generic_US_Google_5K-Resolution_k0649&gclid=Cj0KEQiAzZHEBRD0ivi9_pDzgYMBEiQAtvxt-AxENU7EErIavOrcUuzBKDUQiBAa7myVuTdKixQeSGQaAkZQ8P8HAQ "LG UltraFine 5K Monitor."
-[iphone]: http://www.apple.com/iphone-7/specs/ "iPhone 7+."
+[iphone]: https://www.apple.com/iphone-x/specs/ "iPhone X."
 [ipad]: http://support.apple.com/kb/SP662?viewlocale=en_US&locale=en_US "4th Gen iPad."
 [fantastical]: https://flexibits.com/fantastical-iphone "Fantastical."
 [darksky]: http://darkskyapp.com "Dark Sky."
@@ -131,6 +169,14 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 [moleskin-sketch]: https://store.moleskine.com/usa/notebooks/creativity/sketchbook/p39?lang=en-us&ic=arKvSg%3D%3D "Moleskin Sketchbook."
 [the-setup]: https://usesthis.com "The Setup."
 [fluid]: http://fluidapp.com "Fluid App."
+[overcast]: https://overcast.fm/ "Overcast."
+[alienblue]: https://www.reddit.com/r/AlienBlue/ "Alien Blue"
+[drive]: drive.google.com/drive/ "Google Drive."
+[keynote]: https://www.apple.com/keynote/ "Keynote."
+[affinity-designer]: https://affinity.serif.com/en-us/ "Affinity Designer."
+[jupyter]: http://jupyter.org/ "Jupyter Notebooks."
+[vs-code]: https://code.visualstudio.com/ "Visual Studio Code."
+[switch]: https://www.nintendo.com/switch/ "Nintendo Switch."
 
 [moleskin-art]: http://www.moleskine.com/microsites/artcollection "Moleskin Art Collection."
 
@@ -139,3 +185,17 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 [chromecast]: https://www.google.com/intl/en_us/chromecast/?utm_source=chromecast.com "Chromecast."
 [d3]: https://d3js.org/ "D3."
 [slack]: https://slack.com/ "Slack."
+
+[cpu]: https://www.intel.com/content/www/us/en/products/processors/core/i7-processors/i7-8700k.html "Intel Core i7 8700K."
+[cpu-cooler]: https://www.corsair.com/us/en/Categories/Products/Cooling/Dual-Radiator/Hydro-Series%E2%84%A2-H100i-v2-Extreme-Performance-Liquid-CPU-Cooler/p/CW-9060025-WW 'Corsair H100i v2 All in One Water Cooler.'
+
+[motherboard]: https://www.asrock.com/mb/Intel/Z370%20Taichi/index.asp 'ASRock z370 Tai Chi.'
+[memory]: https://www.gskill.com/en/product/f4-3000c14d-32gtzr 'G.Skill Trident RGB 32GB (2x16GB) 3000Hz.'
+[storage-m2]: https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-960-evo-m-2-1tb-mz-v6e1t0bw/ 'Samsung 960 Evo m.2 PCIe NVMe 1TB.'
+[storage-hdd]: https://www.seagate.com/internal-hard-drives/hdd/barracuda/ 'Seagate Barracuda 3TB 7200rpm.'
+[gpu]: https://www.nvidia.com/en-us/titan/titan-xp/ 'NVIDIA Titan Xp.'
+[power-supply]: https://www.evga.com/products/product.aspx?pn=220-G3-0850-X1 'EVGA 850W G3.'
+[case]: http://www.fractal-design.com/home/product/cases/meshify/meshify-c 'Fractal Design Meshify C (Tempered Glass).'
+[case-fans]: 'Corsair LL120mm RGB.'
+
+[^fn-moleskin]: Sometimes it irks me when ink bleeds through paper. 
