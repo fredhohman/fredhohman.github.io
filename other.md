@@ -7,7 +7,7 @@ permalink: other/
 Everything else.
 
 # [Stuff I Use][stuff-i-use]
-Inspired by projects like [The Setup]the-setup], here is the stuff I use.
+Inspired by projects like [The Setup][the-setup], here is the stuff I use.
 
 # [Monthly Music][mm]
 I've been sharing music with friends for as long as I can remember, so I started making monthly public playlists for anyone who wants to tune in.
