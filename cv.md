@@ -50,7 +50,14 @@ Overall GPA: 3.84/4.00, Magna Cum Laude
 
 ## Industry Research Experience
 
-<span class="cv-left-date">Summer 2017</span>**[NASA Jet Propulsion Lab (JPL)][jpl]**, Pasadena, CA  
+<span class="cv-left-date">Summer 2018</span>**[Microsoft Research][msr]**, Redmond, WA  
+*Research Intern, [Human-Computer Interaction Group][msr-hci]*  
+Mentor: [Steven Drucker][steven-drucker]  
+<span class="cv-description">
+Exploring how visual analytics can help explain and interpret deep learning models.
+</span>
+
+<span class="cv-left-date">Summer 2017</span>**[NASA Jet Propulsion Lab][jpl]**, Pasadena, CA  
 *Creative Computer Scientist, [Human Interfaces Group][hi]*  
 Mentor: [Scott Davidoff][scott-davidoff], [Arun Viswanathan][arun]  
 <span class="cv-description">
@@ -496,6 +503,7 @@ Universe
 [caleb]: http://calebrob.com/ "Caleb Robinson"
 [bistra]: http://www.cc.gatech.edu/~bdilkina/ "Bistra Dilkina"
 [bob]: https://rsli.github.io/ "Siwei Li"
+[steven-drucker]: https://www.microsoft.com/en-us/research/people/sdrucker/ "Steven Drucker."
 
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vast.pdf
@@ -563,6 +571,8 @@ Universe
 [hi]: https://www.hi.jpl.nasa.gov/ "Human Interfaces Group at NASA JPL"
 [pnnl]: https://www.pnnl.gov/ "Pacific Northwest National Laboratory"
 [dsa]: http://www.pnnl.gov/nationalsecurity/technical/capabilities/computing/data_sciences.stm "Data Sciences and Analytics Group at PNNL"
+[msr]: https://www.microsoft.com/en-us/research/ "Microsoft Research."
+[msr-hci]: https://www.microsoft.com/en-us/research/group/human-computer-interaction/ "HCI@MSR."
 
 [twitter]: https:/www.twitter.com/fredhohman
 [github]: https:/www.github.com/fredhohman
