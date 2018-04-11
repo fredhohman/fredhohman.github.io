@@ -21,6 +21,7 @@ My research combines **<span class="cv-ai">data mining and machine learning</spa
 <a href="http://fredhohman.com"><img class="social-icon" src="/images/footer/home-color.svg">fredhohman.com</a>  
 <a href="https://twitter.com/fredhohman"><img class="social-icon" src="/images/footer/twitter-color.svg">@fredhohman</a>  
 <a href="https://github.com/fredhohman"><img class="social-icon" src="/images/footer/github-color.svg">github.com/fredhohman</a>  
+<a href="https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en&oi=ao"><img class="social-icon" src="/images/footer/graduation-color.svg">Google Scholar</a>  
 
 <span class="cv-spacer-line"></span>
 
