@@ -18,6 +18,10 @@ I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [
 My research combines **<span class="cv-ai">data mining and machine learning</span>** techniques with principles from **<span class="cv-vis">human-computer interaction and visualization</span>** to make interactive tools to help people explore large graph data and interpret machine learning models.
 </span>
 
+<!-- <span class="cv-max-width">
+I am supported by the NASA Space Technology Research Fellowship.
+</span> -->
+
 <a href="http://fredhohman.com"><img class="social-icon" src="/images/footer/home-color.svg">fredhohman.com</a>  
 <a href="https://twitter.com/fredhohman"><img class="social-icon" src="/images/footer/twitter-color.svg">@fredhohman</a>  
 <a href="https://github.com/fredhohman"><img class="social-icon" src="/images/footer/github-color.svg">github.com/fredhohman</a>  
@@ -164,6 +168,14 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 
 ## Publications
+
+**Interactive Classification for Deep Learning Interpretation**  
+[Angel Cabrera][angel], [Fred Hohman][fred], [Jason Lin][jason], [Duen Horng Chau][polo]  
+*Demo, Conference on Computer Vision and Pattern Recognition (CVPR). June 18, 2018. Salt Lake City, USA.*  
+<span class="paper-misc">
+<span class="cv-website-marker">
+Materials, code, and live demo coming soon!
+</span>
 
 **[Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression
 ][18-shield-arxiv]**  
@@ -505,6 +517,8 @@ Universe
 [bistra]: http://www.cc.gatech.edu/~bdilkina/ "Bistra Dilkina"
 [bob]: https://rsli.github.io/ "Siwei Li"
 [steven-drucker]: https://www.microsoft.com/en-us/research/people/sdrucker/ "Steven Drucker."
+[angel]: http://cabreraalex.com/ "Alex Cabrera."
+[jason]: http://jlin.xyz/ "Jason Lin."
 
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vast.pdf
