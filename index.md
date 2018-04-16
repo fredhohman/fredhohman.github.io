@@ -12,6 +12,8 @@ I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [
 
 My research combines **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people explore large graph data and interpret machine learning models.
 
+In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
+
 When I’m not at my desk crunching numbers, I enjoy playing music, throwing frisbee, and riding motorcycles.  
 
 <div style="padding-top:15px;" ></div>
@@ -79,3 +81,4 @@ Everything else.
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau."
 [alex]: http://va.gatech.edu/endert/ "Alex Endert."
 [poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science."
+[nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship."

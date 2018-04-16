@@ -18,9 +18,9 @@ I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [
 My research combines **<span class="cv-ai">data mining and machine learning</span>** techniques with principles from **<span class="cv-vis">human-computer interaction and visualization</span>** to make interactive tools to help people explore large graph data and interpret machine learning models.
 </span>
 
-<!-- <span class="cv-max-width">
-I am supported by the NASA Space Technology Research Fellowship.
-</span> -->
+<span class="cv-max-width">
+In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
+</span>
 
 <a href="http://fredhohman.com"><img class="social-icon" src="/images/footer/home-color.svg">fredhohman.com</a>  
 <a href="https://twitter.com/fredhohman"><img class="social-icon" src="/images/footer/twitter-color.svg">@fredhohman</a>  
@@ -591,3 +591,4 @@ Universe
 
 [twitter]: https:/www.twitter.com/fredhohman
 [github]: https:/www.github.com/fredhohman
+[nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship."
