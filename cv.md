@@ -111,6 +111,11 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 
 ## Honors and Awards
 
+<span class="cv-left-date">2018 — 2021</span>NASA Space Technology Research Fellowship  
+<span class="cv-description">
+$75,000/year for my Ph.D. work on "Understanding Deep Neural Networks Through Attribution and Interactive Experimentation"
+</span>
+<span class="cv-spacer-award"></span>
 <span class="cv-left-date">2017</span>Microsoft Azure for Research Award: AI for Earth  
 <span class="cv-description">
 $15,000 for our work on "Deep Learning for Fine-scale Population Maps"
