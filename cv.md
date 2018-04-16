@@ -113,12 +113,12 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 
 <span class="cv-left-date">2018 — 2021</span>NASA Space Technology Research Fellowship  
 <span class="cv-description">
-$75,000/year for my Ph.D. work on "Understanding Deep Neural Networks Through Attribution and Interactive Experimentation"
+For my Ph.D. work on "Understanding Deep Neural Networks Through Attribution and Interactive Experimentation"
 </span>
 <span class="cv-spacer-award"></span>
-<span class="cv-left-date">2017</span>Microsoft Azure for Research Award: AI for Earth  
+<span class="cv-left-date">2017 — 2018</span>Microsoft Azure for Research Award: AI for Earth  
 <span class="cv-description">
-$15,000 for our work on "Deep Learning for Fine-scale Population Maps"
+For our work on "Deep Learning for Fine-scale Population Maps"
 </span>
 <span class="cv-spacer-award"></span>
 <span class="cv-left-date">2017</span>Best Demo, Honorable Mention at ACM SIGMOD/PODS Conference  
@@ -332,6 +332,23 @@ Generated notes for undergraduate mathematics and physics courses for students w
 *[University of Georgia][uga], Athens, GA*  
 <span class="cv-description">
 Specialized in tutoring calculus to undergraduates.
+</span>
+
+
+## Grants and Funding
+
+<span class="cv-left-date">2018 — 2021</span>**[Understanding Deep Neural Networks Through Attribution and Interactive Experimentation][nstrf]**  
+*[NSTRF: NASA Space Technology Research Fellowship][nstrf]*  
+<span class="cv-description">
+Co-PIs: [Duen Horng Chau][polo]  
+Funded $75,000/year, August 2018 — May 2021.
+</span>
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2017 — 2018</span>**[Deep Learning for Fine-scale Population Maps][17-deeppop-sigspatial]**  
+*Microsoft Azure for Research Award: AI for Earth*  
+<span class="cv-description">
+Co-PIs: [Caleb Robinson][caleb], [Bistra Dilkina][bistra]  
+Funded $15,000, August 2017 — August 2018.
 </span>
 
 
