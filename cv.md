@@ -300,6 +300,8 @@ Materials, code, and live demo coming soon!
 
 ## Press
 
+<span class="cv-left-date">Dec. 2017</span>["CSE Ph.D. Students Claim Three Prestigious Fellowships."][gt-cse-fellowship] Georgia Tech, College of Computing.
+<span class="cv-spacer"></span>
 <span class="cv-left-date">Dec. 2017</span>["Georgia Tech Team To Use Microsoft Grant to Study Human Migration Dynamics."][gt-cc-deeppop] Georgia Tech,<br>College of Computing.
 <span class="cv-spacer"></span>
 <span class="cv-left-date">Sept. 2015</span>["Georgia Tech PhD Student Puts Finishing Touches on 3D Printed Trumpety Trefoil."][3dprint-2] 3dprint.com.
@@ -632,6 +634,7 @@ Universe
 [mitgcm]: http://mitgcm.org/2015/02/17/falling-water/
 [uga-math-profile]: http://www.math.uga.edu/news-and-events/math-department-newsletter-spring-2015
 [gt-cc-deeppop]: https://www.cse.gatech.edu/news/599787/georgia-tech-team-use-microsoft-grant-study-human-migration-dynamics
+[gt-cse-fellowship]: https://www.cse.gatech.edu/news/605258/cse-phd-students-claim-three-prestigious-fellowships
 
 [trophy]: {{ site.url }}/projects/cube-decomposition-trophy "Cube Decomposition Trophy."
 [keychain]: {{ site.url }}/projects/uga-keychain "UGA Keychain."
