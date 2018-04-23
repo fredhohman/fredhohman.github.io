@@ -19,7 +19,7 @@ My research combines **<span class="cv-ai">data mining and machine learning</spa
 </span>
 
 <span class="cv-max-width">
-In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
+In 2018 I received the [NASA Space Technology Research Fellowship][nstrf]. 
 </span>
 
 <a href="http://fredhohman.com"><img class="social-icon" src="/images/footer/home-color.svg">fredhohman.com</a>  
@@ -27,7 +27,9 @@ In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
 <a href="https://github.com/fredhohman"><img class="social-icon" src="/images/footer/github-color.svg">github.com/fredhohman</a>  
 <a href="https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en&oi=ao"><img class="social-icon" src="/images/footer/graduation-color.svg">Google Scholar</a>  
 
-<span class="cv-spacer-line"></span>
+<!-- <span class="cv-spacer-line"></span> -->
+
+<hr width="30%">
 
 <a href="http://fredhohman.com/cv.pdf"><img class="social-icon" src="/images/footer/file-pdf-o-color.svg"></a> [CV PDF][cv]  
 <time datetime="{{ site.time | date: "%B %-d, %Y" }}" class="post-date">Updated: {{ site.time | date: "%B %d, %Y" }}</time>
@@ -322,7 +324,7 @@ Materials, code, and live demo coming soon!
 Designed homeworks, held weekly office hours, and mentored student team projects for [Data and Visual Analytics (CSE6242 / CX4242)][cse-6242], a graduate course with 220+ students enrolled.
 </span>
 
-<span class="cv-left-date">2014—2015</span>**Student Notetaker**  
+<span class="cv-left-date">2014 — 2015</span>**Student Notetaker**  
 *[University of Georgia][uga], Athens, GA*  
 <span class="cv-description">
 Generated notes for undergraduate mathematics and physics courses for students with disabilities.
@@ -332,6 +334,29 @@ Generated notes for undergraduate mathematics and physics courses for students w
 *[University of Georgia][uga], Athens, GA*  
 <span class="cv-description">
 Specialized in tutoring calculus to undergraduates.
+</span>
+
+
+## Individual Student Guidance
+
+<span class="cv-left-date">Present —</span>**[Angel Cabrera][angel]**  
+<span class="cv-left-date">Spring 2018</span>*B.S. CS, Georgia Tech*  
+<span class="cv-description">
+Interactive Classification for Deep Learning    
+Now: Software Engineering Intern at [Google][google]
+</span>
+
+<span class="cv-left-date">Spring 2018 —</span>**[Dezhi Fang][andy]**  
+<span class="cv-left-date">Fall 2016</span>*B.S. CS, Georgia Tech*  
+<span class="cv-description">
+Visual Motif Discovery  
+Now: Software Development Engineer at [Airbnb][airbnb]
+</span>
+
+<span class="cv-left-date">Spring 2018 —</span>**[Prasenjeet Biswal][prasenjeet]**  
+<span class="cv-left-date">Fall 2017</span>*M.S. CS, Georgia Tech*  
+<span class="cv-description">
+Deep Learning Attribution  
 </span>
 
 
@@ -550,6 +575,7 @@ Universe
 [steven-drucker]: https://www.microsoft.com/en-us/research/people/sdrucker/ "Steven Drucker."
 [angel]: http://cabreraalex.com/ "Alex Cabrera."
 [jason]: http://jlin.xyz/ "Jason Lin."
+[prasenjeet]: https://www.linkedin.com/in/prasenjeetbiswal/ "Prasenjeet Biswal."
 
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vast.pdf
@@ -623,3 +649,6 @@ Universe
 [twitter]: https:/www.twitter.com/fredhohman
 [github]: https:/www.github.com/fredhohman
 [nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship."
+
+[google]: https://www.google.com/ "Google."
+[airbnb]: https://www.airbnb.com/ "Airbnb."
