@@ -339,7 +339,7 @@ Specialized in tutoring calculus to undergraduates.
 </span>
 
 
-## Individual Student Guidance
+## Mentoring
 
 <span class="cv-left-date">Present —</span>**[Angel Cabrera][angel]**  
 <span class="cv-left-date">Spring 2018</span>*B.S. CS, Georgia Tech*  
