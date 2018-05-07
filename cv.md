@@ -176,20 +176,20 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 ## Publications
 
+**[Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression
+][18-shield-kdd]**  
+[Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Siwei Li][bob], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD). Aug 19, 2018. London, UK.*  
+<span class="paper-misc">
+<span class="cv-website-marker">[Site][18-shield-kdd]</span> | [PDF][18-shield-kdd-pdf] | [Github][18-shield-kdd-code] | [BibTeX][18-shield-kdd]
+</span>
+
 **Interactive Classification for Deep Learning Interpretation**  
 [Angel Cabrera][angel], [Fred Hohman][fred], [Jason Lin][jason], [Duen Horng Chau][polo]  
 *Demo, Conference on Computer Vision and Pattern Recognition (CVPR). June 18, 2018. Salt Lake City, USA.*  
 <span class="paper-misc">
 <span class="cv-website-marker">
 Materials, code, and live demo coming soon!
-</span>
-
-**[Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression
-][18-shield-arxiv]**  
-[Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Siwei Li][bob], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
-*arXiv:1802.06816. Feb 19, 2018.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-shield-arxiv]</span> | [PDF][18-shield-arxiv-pdf] | [Github][18-shield-arxiv-code] | [BibTeX][18-shield-arxiv]
 </span>
 
 **[Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers][18-deepvis-arxiv]**  
@@ -623,9 +623,9 @@ Universe
 [18-deepvis-arxiv]: {{ site.url }}/papers/deepvis
 [18-deepvis-arxiv-pdf]: https://arxiv.org/abs/1801.06889
 
-[18-shield-arxiv]: {{ site.url }}/papers/shield
-[18-shield-arxiv-pdf]: https://arxiv.org/abs/1802.06816
-[18-shield-arxiv-code]: https://github.com/poloclub/jpeg-defense
+[18-shield-kdd]: {{ site.url }}/papers/shield
+[18-shield-kdd-pdf]: https://arxiv.org/abs/1802.06816
+[18-shield-kdd-code]: https://github.com/poloclub/jpeg-defense
 
 [sketches-of-topology]: https://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/
 [makerhome-day-311]: http://makerhome.blogspot.com/2014/07/day-311-trefoil-trumpet.html
