@@ -435,7 +435,7 @@ Created 3D printed UGA keychain and presentation notes given at Experience UGA: 
 <span class="cv-spacer"></span> 
 Symposium on Visualization in Data Science (**VDS**) at IEEE VIS 2017  
 <span class="cv-spacer"></span> 
-IEEE Visual Analytics Science and Technology (**VAST**) 2017  
+IEEE Visual Analytics Science and Technology (**VAST**) 2017, 2018  
 <span class="cv-spacer"></span>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2017  
 <span class="cv-spacer"></span>
