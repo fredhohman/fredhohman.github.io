@@ -27,8 +27,6 @@ In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
 <a href="https://github.com/fredhohman"><img class="social-icon" src="/images/footer/github-color.svg">github.com/fredhohman</a>  
 <a href="https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en&oi=ao"><img class="social-icon" src="/images/footer/graduation-color.svg">Google Scholar</a>  
 
-<!-- <span class="cv-spacer-line"></span> -->
-
 <hr width="30%">
 
 <a href="http://fredhohman.com/cv.pdf"><img class="social-icon" src="/images/footer/file-pdf-o-color.svg"></a> [CV PDF][cv]  
