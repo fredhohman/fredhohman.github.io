@@ -174,6 +174,13 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 ## Publications
 
+**[Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers][18-deepvis-tvcg]**  
+[Fred Hohman][fred], [Minsuk Kahng][brian], [Robert Pienta][robert], [Duen Horng Chau][polo]  
+*IEEE Transactions on Visualization and Computer Graphics (TVCG). 2018.*  
+<span class="paper-misc">
+<span class="cv-website-marker">[Site][18-deepvis-tvcg]</span> | [PDF][18-deepvis-tvcg-pdf] | [BibTeX][18-deepvis-tvcg]
+</span>
+
 **[Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression
 ][18-shield-kdd]**  
 [Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Siwei Li][bob], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
@@ -188,13 +195,6 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 <span class="paper-misc">
 <span class="cv-website-marker">
 Materials, code, and live demo coming soon!
-</span>
-
-**[Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers][18-deepvis-arxiv]**  
-[Fred Hohman][fred], [Minsuk Kahng][brian], [Robert Pienta][robert], [Duen Horng Chau][polo]  
-*arXiv:1801.06889. Jan 21, 2018.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-deepvis-arxiv]</span> | [PDF][18-deepvis-arxiv-pdf] | [BibTeX][18-deepvis-arxiv]
 </span>
 
 **[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-sigspatial]**  
@@ -618,8 +618,8 @@ Universe
 [17-deeppop-sigspatial]: https://deeppop.github.io/
 [17-deeppop-sigspatial-pdf]: {{ site.url }}/papers/17-deeppop-sigspatial.pdf
 
-[18-deepvis-arxiv]: {{ site.url }}/papers/deepvis
-[18-deepvis-arxiv-pdf]: https://arxiv.org/abs/1801.06889
+[18-deepvis-tvcg]: {{ site.url }}/papers/deepvis
+[18-deepvis-tvcg-pdf]: https://arxiv.org/abs/1801.06889
 
 [18-shield-kdd]: {{ site.url }}/papers/shield
 [18-shield-kdd-pdf]: https://arxiv.org/abs/1802.06816
