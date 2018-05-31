@@ -189,12 +189,12 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 <span class="cv-website-marker">[Site][18-shield-kdd]</span> | [PDF][18-shield-kdd-pdf] | [Github][18-shield-kdd-code] | [BibTeX][18-shield-kdd]
 </span>
 
-**Interactive Classification for Deep Learning Interpretation**  
+**[Interactive Classification for Deep Learning Interpretation][18-interactive-cvpr]**  
 [Angel Cabrera][angel], [Fred Hohman][fred], [Jason Lin][jason], [Duen Horng Chau][polo]  
 *Demo, Conference on Computer Vision and Pattern Recognition (CVPR). June 18, 2018. Salt Lake City, USA.*  
 <span class="paper-misc">
 <span class="cv-website-marker">
-Materials, code, and live demo coming soon!
+[Site][18-interactive-cvpr]</span> | [PDF][18-interactive-cvpr-pdf] | [Github][18-interactive-cvpr-code] | [Video][18-interactive-cvpr-video] | [BibTeX][18-interactive-cvpr]
 </span>
 
 **[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-sigspatial]**  
@@ -572,10 +572,10 @@ Universe
 [caleb]: http://calebrob.com/ "Caleb Robinson"
 [bistra]: http://www.cc.gatech.edu/~bdilkina/ "Bistra Dilkina"
 [bob]: https://rsli.github.io/ "Siwei Li"
-[steven-drucker]: https://www.microsoft.com/en-us/research/people/sdrucker/ "Steven Drucker."
-[angel]: http://cabreraalex.com/ "Alex Cabrera."
-[jason]: http://jlin.xyz/ "Jason Lin."
-[prasenjeet]: https://www.linkedin.com/in/prasenjeetbiswal/ "Prasenjeet Biswal."
+[steven-drucker]: https://www.microsoft.com/en-us/research/people/sdrucker/ "Steven Drucker"
+[angel]: http://cabreraalex.com/ "Alex Cabrera"
+[jason]: http://jlin.xyz/ "Jason Lin"
+[prasenjeet]: https://www.linkedin.com/in/prasenjeetbiswal/ "Prasenjeet Biswal"
 
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vast.pdf
@@ -624,6 +624,11 @@ Universe
 [18-shield-kdd]: {{ site.url }}/papers/shield
 [18-shield-kdd-pdf]: https://arxiv.org/abs/1802.06816
 [18-shield-kdd-code]: https://github.com/poloclub/jpeg-defense
+
+[18-interactive-cvpr]: {{ site.url }}/papers/interactive-classification
+[18-interactive-cvpr-pdf]: {{ site.url }}/papers/18-interactive-cvpr.pdf
+[18-interactive-cvpr-code]: https://github.com/poloclub/interactive-classification
+[18-interactive-cvpr-video]: https://youtu.be/llub5GcOF6w
 
 [sketches-of-topology]: https://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/
 [makerhome-day-311]: http://makerhome.blogspot.com/2014/07/day-311-trefoil-trumpet.html
