@@ -7,13 +7,14 @@ permalink: projects/
 Things I do, including research, academic course projects, and miscellaneous interests.
 
 ### Research
-[SHIELD][18-shield-arxiv]  
-[Visual Analytics in Deep Learning][18-deepvis-arxiv]  
+[Visual Analytics in Deep Learning][18-deepvis-tvcg]  
+[SHIELD][18-shield-kdd]  
+[Interactive Classification][18-interactive-cvpr]  
+[Deep Population][17-deeppop-sigspatial]  
 [VIGOR][17-vigor-vast]  
 [Graph Playground][17-playground-vast]  
 [A Viz of Ice and Fire][17-got-vis4dh]  
 [Discovery Dashboard][17-dashboard-ubicomp]  
-[Deep Population][17-deeppop-arxiv]  
 [Keeping the Bad Guys Out][17-defense-arxiv]  
 [Visual Graph Query Construction and Refinement][17-visage-sigmod-pdf]  
 [ShapeShop][17-shapeshop-chi]
@@ -61,8 +62,9 @@ Things I do, including research, academic course projects, and miscellaneous int
 [17-got-vis4dh]: {{ site.url }}/papers/got
 [17-vigor-vast]: {{ site.url }}/papers/vigor
 [17-defense-arxiv]: {{ site.url }}/papers/defense
-[17-deeppop-arxiv]: {{ site.url }}/papers/deeppop
+[17-deeppop-sigspatial]: {{ site.url }}/papers/deeppop
 [17-visage-sigmod-pdf]: https://www.cc.gatech.edu/~dchau/papers/17-sigmod-visage.pdf
 [17-shapeshop-chi]: {{ site.url }}/papers/shapeshop
-[18-deepvis-arxiv]: {{ site.url }}/papers/deepvis
-[18-shield-arxiv]: {{ site.url }}/papers/shield
+[18-interactive-cvpr]: {{ site.url }}/papers/interactive-classification
+[18-shield-kdd]: {{ site.url }}/papers/shield
+[18-deepvis-tvcg]: {{ site.url }}/papers/deepvis
