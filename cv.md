@@ -428,6 +428,9 @@ Created 3D printed UGA keychain and presentation notes given at Experience UGA: 
 
 ## Professional Activities
 
+**Program Commitee**  
+Workshop on Interactive Data Exploration and Analytics (**IDEA**) at KDD 2018
+
 **Reviewer**  
 1st Deep Learning and Security Workshop (**DLS**) at IEEE SP 2018  
 <span class="cv-spacer"></span> 
