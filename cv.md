@@ -298,7 +298,9 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 ## Press
 
-<span class="cv-left-date">Dec. 2017</span>["CSE Ph.D. Students Claim Three Prestigious Fellowships."][gt-cse-fellowship] Georgia Tech, College of Computing.
+<span class="cv-left-date">June 2018</span>["Georgia Tech Teams up with Intel to Protect Artificial Intelligence from Malicious Attacks Using SHIELD."][gt-cse-shield] Georgia Tech, College of Computing.
+<span class="cv-spacer"></span>
+<span class="cv-left-date">Apr. 2018</span>["CSE Ph.D. Students Claim Three Prestigious Fellowships."][gt-cse-fellowship] Georgia Tech, College of Computing.
 <span class="cv-spacer"></span>
 <span class="cv-left-date">Dec. 2017</span>["Georgia Tech Team To Use Microsoft Grant to Study Human Migration Dynamics."][gt-cc-deeppop] Georgia Tech,<br>College of Computing.
 <span class="cv-spacer"></span>
@@ -388,8 +390,8 @@ Funded $1,000, Fall 2014
 
 ## Design
 
-<span class="cv-left-date">2017</span>**[IDEA Workshop Proceedings Cover][idea2017]**  
-*ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (IDEA), Halifax, Canada*  
+<span class="cv-left-date">2017 — 2018</span>**IDEA Workshop Proceedings Cover ([2017][idea2017], [2018][idea2018])**  
+*ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (IDEA)*  
 <span class="cv-description">
 Designed workshop poster and conference proceedings cover.
 </span>  
@@ -641,11 +643,13 @@ Universe
 [uga-math-profile]: http://www.math.uga.edu/news-and-events/math-department-newsletter-spring-2015
 [gt-cc-deeppop]: https://www.cse.gatech.edu/news/599787/georgia-tech-team-use-microsoft-grant-study-human-migration-dynamics
 [gt-cse-fellowship]: https://www.cse.gatech.edu/news/605258/cse-phd-students-claim-three-prestigious-fellowships
+[gt-cse-shield]: https://www.cc.gatech.edu/news/606678/georgia-tech-teams-intel-protect-artificial-intelligence-malicious-attacks-using-shield
 
 [trophy]: {{ site.url }}/projects/cube-decomposition-trophy "Cube Decomposition Trophy."
 [keychain]: {{ site.url }}/projects/uga-keychain "UGA Keychain."
 [brad-myers-tree]: http://fredhohman.com/brad-myers-advisee-tree/ "Brad Myers Academic Tree."
 [idea2017]: http://poloclub.gatech.edu/idea2017/ "IDEA 2017 Workshop."
+[idea2018]: http://poloclub.gatech.edu/idea2018/ "IDEA 2018 Workshop."
 [cse-6242]: http://poloclub.gatech.edu/cse6242/2017spring/ "CSE 6242 Spring 2017."
 
 [jpl]: https://www.jpl.nasa.gov/ "NASA Jet Propulsion Lab"
