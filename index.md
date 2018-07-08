@@ -31,7 +31,7 @@ Here's my [CV][cv].
 
 
 <figure>
-  <img class="full" src="/images/me4.JPG" alt="That's me.">
+  <img class="full" src="/images/me6.jpg" alt="That's me.">
 </figure>
 
 <!-- # [About][about] -->
