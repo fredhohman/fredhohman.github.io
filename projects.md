@@ -19,6 +19,9 @@ Things I do, including research, academic course projects, and miscellaneous int
 [Visual Graph Query Construction and Refinement][17-visage-sigmod-pdf]  
 [ShapeShop][17-shapeshop-chi]
 
+### Writing
+[The Math of Card Shuffling][cards]
+
 ### Undergraduate Thesis
 [3D Printing the Trefoil Knot and its Pages][trefoil]&nbsp;<small style="color: #c0c0c0">2015</small>
 
@@ -55,7 +58,8 @@ Things I do, including research, academic course projects, and miscellaneous int
 [bd]: {{ site.url }}/projects/cse-6730-bobby-dodd-simulation "Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium."
 [got]: {{ site.url }}/projects/cs-7450-a-viz-of-ice-and-fire "A Viz of Ice and Fire."
 [hci]: {{ site.url }}/projects/cs-6750-health-easel "Health Easel"
-[fredhohman.com]: https://github.com/fredhohman/fredhohman.github.io "fredhohman.com on Github"
+[fredhohman.com]: https://github.com/fredhohman/fredhohman.github.io "fredhohman.com on Github."
+[cards]: https://fredhohman.com/card-shuffling/ "The Math of Card Shuffling."
 
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-dashboard-ubicomp]: {{ site.url }}/papers/dashboard
