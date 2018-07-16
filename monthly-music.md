@@ -9,25 +9,25 @@ Each playlist features ten tracks and with an accompanying Spotify playlist.
 For fans of indie rock, electronic music, and related genres.
 
 <div style="text-align: center;">
-{% for post in site.categories.monthly-music %}
+  {% for post in site.categories.monthly-music %}
   {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% if currentyear != year %}
-    {% unless forloop.first %}
-    {% endunless %}
-    <h2 style="text-align: left; max-width: 35rem; margin-left: auto; margin-right: auto;">{{ currentyear }}</h2>
-    {% capture year %}{{ currentyear }}{% endcapture %}
+  {% unless forloop.first %}
+  {% endunless %}
+  <h2 style="text-align: left; max-width: 35rem; margin-left: auto; margin-right: auto;">{{ currentyear }}</h2>
+  {% capture year %}{{ currentyear }}{% endcapture %}
   {% endif %}
   <a href="{{site.url}}/{{post.permalink}}" class="card-link">
     {% assign permalink = post.permalink | split: '-' %}
-  <div class="card">
-  <div class="card-inner {{ permalink | slice: 0 }}">
-    <div class="card-label">{{ permalink | slice: 0 }} jams</div>
-    <div class="card-inner-hole">&nbsp;</div>
-    <div class="card-label-year">{{ permalink | slice: 1 }}</div>
-  </div>
-</div>
-</a>
-{% endfor %}
+    <div class="card">
+      <div class="card-inner {{ permalink | slice: 0 }}">
+        <div class="card-label">{{ permalink | slice: 0 }} jams</div>
+        <div class="card-inner-hole">&nbsp;</div>
+        <div class="card-label-year">{{ permalink | slice: 1 }}</div>
+      </div>
+    </div>
+  </a>
+  {% endfor %}
 </div>
 
 <!-- ***
