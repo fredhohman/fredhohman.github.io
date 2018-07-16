@@ -2,7 +2,7 @@
 layout: post
 title: September 2016 Jams
 categories: monthly-music
-comments: true
+<!-- comments: true -->
 permalink: september-2016-jams/
 ---
 
