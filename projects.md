@@ -7,20 +7,21 @@ permalink: projects/
 Things I do, including research, academic course projects, and miscellaneous interests.
 
 ### Research
-[Visual Analytics in Deep Learning][18-deepvis-tvcg]  
-[SHIELD][18-shield-kdd]  
-[Interactive Classification][18-interactive-cvpr]  
-[Deep Population][17-deeppop-sigspatial]  
-[VIGOR][17-vigor-vast]  
-[Graph Playground][17-playground-vast]  
-[A Viz of Ice and Fire][17-got-vis4dh]  
-[Discovery Dashboard][17-dashboard-ubicomp]  
-[Keeping the Bad Guys Out][17-defense-arxiv]  
-[Visual Graph Query Construction and Refinement][17-visage-sigmod-pdf]  
-[ShapeShop][17-shapeshop-chi]
+[Visual Analytics in Deep Learning][18-deepvis-tvcg]&nbsp;<small style="color: #c0c0c0">2018</small>  
+[SHIELD][18-shield-kdd]&nbsp;<small style="color: #c0c0c0">2018</small>    
+[Interactive Classification][18-interactive-cvpr]&nbsp;<small style="color: #c0c0c0">2018</small>    
+[Deep Population][17-deeppop-sigspatial]&nbsp;<small style="color: #c0c0c0">2017</small>    
+[VIGOR][17-vigor-vast]&nbsp;<small style="color: #c0c0c0">2017</small>    
+[Graph Playground][17-playground-vast]&nbsp;<small style="color: #c0c0c0">2017</small>    
+[A Viz of Ice and Fire][17-got-vis4dh]&nbsp;<small style="color: #c0c0c0">2017</small>    
+[Discovery Dashboard][17-dashboard-ubicomp]&nbsp;<small style="color: #c0c0c0">2017</small>    
+[Keeping the Bad Guys Out][17-defense-arxiv]&nbsp;<small style="color: #c0c0c0">2017</small>    
+[Visual Graph Query Construction and Refinement][17-visage-sigmod-pdf]&nbsp;<small style="color: #c0c0c0">2017</small>    
+[ShapeShop][17-shapeshop-chi]&nbsp;<small style="color: #c0c0c0">2017</small>  
 
 ### Writing
-[The Math of Card Shuffling][cards]
+[The Beginner's Guide to Dimensionality Reduction][dr]&nbsp;<small style="color: #c0c0c0">2018</small>    
+[The Math of Card Shuffling][cards]&nbsp;<small style="color: #c0c0c0">2018</small>  
 
 ### Undergraduate Thesis
 [3D Printing the Trefoil Knot and its Pages][trefoil]&nbsp;<small style="color: #c0c0c0">2015</small>
@@ -60,6 +61,7 @@ Things I do, including research, academic course projects, and miscellaneous int
 [hci]: {{ site.url }}/projects/cs-6750-health-easel "Health Easel"
 [fredhohman.com]: https://github.com/fredhohman/fredhohman.github.io "fredhohman.com on Github."
 [cards]: https://fredhohman.com/card-shuffling/ "The Math of Card Shuffling."
+[dr]: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/ "The Beginner's Guide to Dimensionality Reduction."
 
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-dashboard-ubicomp]: {{ site.url }}/papers/dashboard
