@@ -181,8 +181,14 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 <span class="cv-website-marker">[Site][18-deepvis-tvcg]</span> | [PDF][18-deepvis-tvcg-pdf] | [BibTeX][18-deepvis-tvcg]
 </span>
 
-**[Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression
-][18-shield-kdd]**  
+**[Compression to the Rescue: Defending from Adversarial Attacks Across Modalities][18-compression-kdd]**  
+[Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Siwei Li][bob], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
+*ACM KDD 2018 Project Showcase. Aug 19, 2018. London, UK.*  
+<span class="paper-misc">
+<span class="cv-website-marker">[Site][18-compression-kdd]</span> | [PDF][18-compression-kdd-pdf] | [Github][18-compression-kdd-code] | [BibTeX][18-compression-kdd]
+</span>
+
+**[Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression][18-shield-kdd]**  
 [Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Siwei Li][bob], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD). Aug 19, 2018. London, UK.*  
 <span class="paper-misc">
@@ -629,6 +635,10 @@ Universe
 [18-shield-kdd]: {{ site.url }}/papers/shield
 [18-shield-kdd-pdf]: https://arxiv.org/abs/1802.06816
 [18-shield-kdd-code]: https://github.com/poloclub/jpeg-defense
+
+[18-compression-kdd]: {{ site.url }}/papers/compression
+[18-compression-kdd-pdf]: http://nilakshdas.com/papers/18-compression-kdd.pdf
+[18-compression-kdd-code]: https://github.com/poloclub/jpeg-defense
 
 [18-interactive-cvpr]: {{ site.url }}/papers/interactive-classification
 [18-interactive-cvpr-pdf]: {{ site.url }}/papers/18-interactive-cvpr.pdf
