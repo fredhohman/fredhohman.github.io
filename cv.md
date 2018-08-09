@@ -437,7 +437,10 @@ Created 3D printed UGA keychain and presentation notes given at Experience UGA: 
 ## Professional Activities
 
 **Program Commitee**  
+Symposium on Visualization in Data Science (**VDS**) at IEEE VIS 2018  
+<span class="cv-spacer"></span> 
 Workshop on Visualization for AI Explainability (**VISxAI**) at VIS 2018  
+<span class="cv-spacer"></span> 
 Workshop on Interactive Data Exploration and Analytics (**IDEA**) at KDD 2018
 
 **Reviewer**  
