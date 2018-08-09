@@ -59,7 +59,7 @@ Overall GPA: 3.84/4.00, Magna Cum Laude
 *Research Intern, [Human-Computer Interaction Group][msr-hci]*  
 Mentor: [Steven Drucker][steven-drucker]  
 <span class="cv-description">
-Exploring how visual analytics can help explain and interpret deep learning models.
+Exploring how visual analytics can help users explain and interpret machine learning models.
 </span>
 
 <span class="cv-left-date">Summer 2017</span>**[NASA Jet Propulsion Lab][jpl]**, Pasadena, CA  
