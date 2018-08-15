@@ -181,6 +181,13 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 <span class="cv-website-marker">[Site][18-deepvis-tvcg]</span> | [PDF][18-deepvis-tvcg-pdf] | [BibTeX][18-deepvis-tvcg]
 </span>
 
+**[The Beginner's Guide to Dimensionality Reduction][18-dr-visxai]**  
+[Matthew Conlen][matt], [Fred Hohman][fred]  
+*Workshop on Visualization for AI Explainability at IEEE VIS. Oct 22, 2018. Berlin, Germany*  
+<span class="paper-misc">
+<span class="cv-website-marker">[Site][18-dr-visxai]</span> | [Github][18-dr-visxai-github] | [BibTeX][18-dr-visxai]
+</span>
+
 **[Compression to the Rescue: Defending from Adversarial Attacks Across Modalities][18-compression-kdd]**  
 [Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Siwei Li][bob], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
 *ACM KDD 2018 Project Showcase. Aug 19, 2018. London, UK.*  
@@ -599,6 +606,7 @@ Universe
 [jason]: http://jlin.xyz/ "Jason Lin"
 [prasenjeet]: https://www.linkedin.com/in/prasenjeetbiswal/ "Prasenjeet Biswal"
 [varun]: https://www.linkedin.com/in/varun-bezzam/ "Varun Bezzam"
+[matt]: https://mathisonian.com/ "Matthew Conlen"
 
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vast.pdf
@@ -657,6 +665,12 @@ Universe
 [18-interactive-cvpr-code]: https://github.com/poloclub/interactive-classification
 [18-interactive-cvpr-video]: https://youtu.be/llub5GcOF6w
 
+[18-playground-arxiv]: {{ site.url }}/papers/graph-playground
+[18-playground-arxiv-pdf]: https://arxiv.org/pdf/1808.04414.pdf
+
+[18-dr-visxai]: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/
+[18-dr-visxai-github]: https://github.com/mathisonian/dimensionality-reduction
+
 [sketches-of-topology]: https://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/
 [makerhome-day-311]: http://makerhome.blogspot.com/2014/07/day-311-trefoil-trumpet.html
 [3dprint-1]: https://3dprint.com/28780/math-3d-printed-trefoil-knot/
@@ -666,9 +680,6 @@ Universe
 [gt-cc-deeppop]: https://www.cse.gatech.edu/news/599787/georgia-tech-team-use-microsoft-grant-study-human-migration-dynamics
 [gt-cse-fellowship]: https://www.cse.gatech.edu/news/605258/cse-phd-students-claim-three-prestigious-fellowships
 [gt-cse-shield]: https://www.cc.gatech.edu/news/606678/georgia-tech-teams-intel-protect-artificial-intelligence-malicious-attacks-using-shield
-
-[18-playground-arxiv]: {{ site.url }}/papers/graph-playground
-[18-playground-arxiv-pdf]: https://arxiv.org/pdf/1808.04414.pdf
 
 [trophy]: {{ site.url }}/projects/cube-decomposition-trophy "Cube Decomposition Trophy."
 [keychain]: {{ site.url }}/projects/uga-keychain "UGA Keychain."
