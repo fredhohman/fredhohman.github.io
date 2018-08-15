@@ -195,6 +195,13 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 <span class="cv-website-marker">[Site][18-shield-kdd]</span> | [PDF][18-shield-kdd-pdf] | [Github][18-shield-kdd-code] | [BibTeX][18-shield-kdd]
 </span>
 
+**[Large Graph Exploration via Subgraph Discovery and Decomposition][18-playground-arxiv]**  
+[James Abello][james], [Fred Hohman][fred], [Varun Bezzam][varun], [Duen Horng Chau][polo]    
+*arXiv:1808.04414. Aug 13, 2018.*  
+<span class="paper-misc">
+<span class="cv-website-marker">[Site][18-playground-arxiv]</span> | [PDF][18-playground-arxiv-pdf] | [BibTeX][18-playground-arxiv]
+</span>
+
 **[Interactive Classification for Deep Learning Interpretation][18-interactive-cvpr]**  
 [Angel Cabrera][angel], [Fred Hohman][fred], [Jason Lin][jason], [Duen Horng Chau][polo]  
 *Demo, Conference on Computer Vision and Pattern Recognition (CVPR). June 18, 2018. Salt Lake City, USA.*  
@@ -591,6 +598,7 @@ Universe
 [angel]: http://cabreraalex.com/ "Alex Cabrera"
 [jason]: http://jlin.xyz/ "Jason Lin"
 [prasenjeet]: https://www.linkedin.com/in/prasenjeetbiswal/ "Prasenjeet Biswal"
+[varun]: https://www.linkedin.com/in/varun-bezzam/ "Varun Bezzam"
 
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vast.pdf
@@ -658,6 +666,9 @@ Universe
 [gt-cc-deeppop]: https://www.cse.gatech.edu/news/599787/georgia-tech-team-use-microsoft-grant-study-human-migration-dynamics
 [gt-cse-fellowship]: https://www.cse.gatech.edu/news/605258/cse-phd-students-claim-three-prestigious-fellowships
 [gt-cse-shield]: https://www.cc.gatech.edu/news/606678/georgia-tech-teams-intel-protect-artificial-intelligence-malicious-attacks-using-shield
+
+[18-playground-arxiv]: {{ site.url }}/papers/graph-playground
+[18-playground-arxiv-pdf]: https://arxiv.org/pdf/1808.04414.pdf
 
 [trophy]: {{ site.url }}/projects/cube-decomposition-trophy "Cube Decomposition Trophy."
 [keychain]: {{ site.url }}/projects/uga-keychain "UGA Keychain."
