@@ -116,6 +116,11 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 For my Ph.D. work on "Understanding Deep Neural Networks Through Attribution and Interactive Experimentation"
 </span>
 <span class="cv-spacer-award"></span>
+<span class="cv-left-date">2018</span>Audience Appreciation Award, Runner Up at ACM SIGKDD Conference  
+<span class="cv-description">
+For "Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression"
+</span>
+<span class="cv-spacer-award"></span>
 <span class="cv-left-date">2017 — 2018</span>Microsoft Azure for Research Award: AI for Earth  
 <span class="cv-description">
 For our work on "Deep Learning for Fine-scale Population Maps"
@@ -199,7 +204,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Siwei Li][bob], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD). Aug 19, 2018. London, UK.*  
 <span class="paper-misc">
-<span class="cv-website-marker">[Site][18-shield-kdd]</span> | [PDF][18-shield-kdd-pdf] | [Github][18-shield-kdd-code] | [BibTeX][18-shield-kdd]
+<span class="cv-website-marker">[Site][18-shield-kdd]</span> | [PDF][18-shield-kdd-pdf] | [Github][18-shield-kdd-code] | [BibTeX][18-shield-kdd] | <span class="cv-award">*Audience Appreciation Award, Runner Up*</span>
 </span>
 
 **[Large Graph Exploration via Subgraph Discovery and Decomposition][18-playground-arxiv]**  
