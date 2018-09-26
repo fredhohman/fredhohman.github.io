@@ -183,7 +183,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [Fred Hohman][fred], [Minsuk Kahng][brian], [Robert Pienta][robert], [Duen Horng Chau][polo]  
 *IEEE Transactions on Visualization and Computer Graphics (TVCG). 2018.*  
 <span class="paper-misc">
-<span class="cv-website-marker">[Site][18-deepvis-tvcg]</span> | [PDF][18-deepvis-tvcg-pdf] | [BibTeX][18-deepvis-tvcg]
+<span class="cv-website-marker">[Site][18-deepvis-tvcg]</span> | [PDF][18-deepvis-tvcg-pdf] | Video ([Polo Club][18-deepvis-tvcg-video-poloclub], [TVCG][18-deepvis-tvcg-video-tvcg]) | [Github][18-deepvis-tvcg-code] | [BibTeX][18-deepvis-tvcg]
 </span>
 
 **[The Beginner's Guide to Dimensionality Reduction][18-dr-visxai]**  
@@ -204,7 +204,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Siwei Li][bob], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD). Aug 19, 2018. London, UK.*  
 <span class="paper-misc">
-<span class="cv-website-marker">[Site][18-shield-kdd]</span> | [PDF][18-shield-kdd-pdf] | [Github][18-shield-kdd-code] | [BibTeX][18-shield-kdd] | <span class="cv-award">*Audience Appreciation Award, Runner Up*</span>
+<span class="cv-website-marker">[Site][18-shield-kdd]</span> | [PDF][18-shield-kdd-pdf] | [Video][18-shield-kdd-video] | [Github][18-shield-kdd-code] | [BibTeX][18-shield-kdd] | <span class="cv-award">*Audience Appreciation Award, Runner Up*</span>
 </span>
 
 **[Large Graph Exploration via Subgraph Discovery and Decomposition][18-playground-arxiv]**  
@@ -219,7 +219,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 *Demo, Conference on Computer Vision and Pattern Recognition (CVPR). June 18, 2018. Salt Lake City, USA.*  
 <span class="paper-misc">
 <span class="cv-website-marker">
-[Site][18-interactive-cvpr]</span> | [PDF][18-interactive-cvpr-pdf] | [Github][18-interactive-cvpr-code] | [Video][18-interactive-cvpr-video] | [BibTeX][18-interactive-cvpr]
+[Site][18-interactive-cvpr]</span> | [PDF][18-interactive-cvpr-pdf] | [Video][18-interactive-cvpr-video] | [Github][18-interactive-cvpr-code] | [BibTeX][18-interactive-cvpr]
 </span>
 
 **[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-sigspatial]**  
@@ -654,12 +654,17 @@ Universe
 [17-deeppop-sigspatial]: https://deeppop.github.io/
 [17-deeppop-sigspatial-pdf]: {{ site.url }}/papers/17-deeppop-sigspatial.pdf
 
-[18-deepvis-tvcg]: {{ site.url }}/papers/deepvis
+[18-deepvis-tvcg]: https://fredhohman.com/visual-analytics-in-deep-learning/
 [18-deepvis-tvcg-pdf]: https://arxiv.org/abs/1801.06889
+[18-deepvis-tvcg-code]: https://github.com/fredhohman/visual-analytics-in-deep-learning
+[18-deepvis-tvcg-video-poloclub]: https://youtu.be/TI_sXHt2d8s
+[18-deepvis-tvcg-video-tvcg]: https://vimeo.com/groups/vis18previews/videos/289789596
+
 
 [18-shield-kdd]: {{ site.url }}/papers/shield
 [18-shield-kdd-pdf]: https://arxiv.org/abs/1802.06816
 [18-shield-kdd-code]: https://github.com/poloclub/jpeg-defense
+[18-shield-kdd-video]: https://www.youtube.com/watch?v=zUB2-i7rSb4
 
 [18-compression-kdd]: {{ site.url }}/papers/compression
 [18-compression-kdd-pdf]: http://nilakshdas.com/papers/18-compression-kdd.pdf
