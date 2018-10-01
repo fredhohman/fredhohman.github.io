@@ -387,6 +387,7 @@ Now: Software Development Engineer at [Airbnb][airbnb]
 <span class="cv-left-date">Fall 2017</span>*M.S. CS, Georgia Tech*  
 <span class="cv-description">
 Deep Learning Attribution  
+Now: Software Development Engineer at [Oath][oath]
 </span>
 
 
@@ -714,3 +715,4 @@ Universe
 
 [google]: https://www.google.com/ "Google."
 [airbnb]: https://www.airbnb.com/ "Airbnb."
+[airbnboath]: https://www.oath.com/ "Oath."
