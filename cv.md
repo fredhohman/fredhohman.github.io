@@ -284,6 +284,9 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 ## Presentations
 
+**Comparing Interactive Local and Global Explanation Paradigms for Human-assisted Machine Learning Tasks**  
+<span class="cv-left-date">July 2018</span>Microsoft Research.
+
 **Graph Playgrounds: 3D Exploration of Graph Layers via Vertex Cloning**  
 <span class="cv-left-date">Dec. 2017</span>AT&T Research Labs Graduate Student Symposium.
 
