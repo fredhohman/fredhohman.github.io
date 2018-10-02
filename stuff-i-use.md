@@ -90,9 +90,11 @@ When I was working in 3D printing, I used Mathematica and [OpenSCAD][openscad] t
 
 ### Audio
 On both sides of my desk sit [KRK Rokit 5 studio monitors][rokit5] with an accompanying [Rokit 10s subwoofer][rokit10].
-I run audio from my computer through a [Presonus Firestudio][firestudio]. 
+I run audio from my computer through a now old [Presonus Firestudio][firestudio]. 
+For less serious recording, I use a [Blue Yeticaster][yeti] microphone for video calling and voice overs.
 
-I carry [Shure SE215 isolating headphones/earbuds][shure] with me at all times for sound quality, minor noise cancellation, and most importantly: they never fall out of my ears. 
+I carry [Shure SE215 isolating headphones/earbuds][shure] with me at all times for sound quality, minor noise cancellation, and most importantly: they never fall out of my ears.
+I also carry a pair of the renowned [Audio Technica ATH-m50x][m50x] headphones for their excellent sound quality and portability.
 
 ### Photography
 As an amateur photographer, I'm shooting with a hand-me-down [Nikon D80][d80], but I always have my phone on me to snap a quick picture.
@@ -151,6 +153,8 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 [rokit10]: http://www.krksys.com/krk-subwoofers/10s.html "Rokit 10s."
 [firestudio]: http://www.presonus.com/products/FireStudio "Presonus Firestudio."
 [shure]: http://www.shure.com/americas/products/earphones-headphones/se-earphones/se215-sound-isolating-earphones "Shure SE215 Earbuds."
+[m50x]: https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html "Audio Technica ATH-M50x."
+[yeti]: https://www.bluedesigns.com/products/yeticaster/ "Blue Yeticaster."
 [d80]: http://www.nikonusa.com/en/Nikon-Products/Product-Archive/dslr-cameras/D80.html "Nikon D80."
 [sonor]: http://us.sonor.com "Sonor Drums."
 [aa]: http://sabian.com/cymbals/index/series:aa/language:en "Sabian AA."
