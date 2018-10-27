@@ -111,6 +111,11 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 
 ## Honors and Awards
 
+<span class="cv-spacer-award"></span>
+<span class="cv-left-date">2018</span>Best Paper, Honorable Mention at VISxAI Workshop at IEEE VIS  
+<span class="cv-description">
+For "The Beginner's Guide to Dimensionality Reduction"  
+</span>
 <span class="cv-left-date">2018 — 2021</span>NASA Space Technology Research Fellowship  
 <span class="cv-description">
 For my Ph.D. work on "Understanding Deep Neural Networks Through Attribution and Interactive Experimentation"
@@ -190,7 +195,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 [Matthew Conlen][matt], [Fred Hohman][fred]  
 *Workshop on Visualization for AI Explainability at IEEE VIS. Oct 22, 2018. Berlin, Germany*  
 <span class="paper-misc">
-<span class="cv-website-marker">[Site][18-dr-visxai]</span> | [Github][18-dr-visxai-github] | [BibTeX][18-dr-visxai]
+<span class="cv-website-marker">[Site][18-dr-visxai]</span> | [Github][18-dr-visxai-github] | [BibTeX][18-dr-visxai] | <span class="cv-award">*Best Paper, Honorable Mention*</span>
 </span>
 
 **[Compression to the Rescue: Defending from Adversarial Attacks Across Modalities][18-compression-kdd]**  
