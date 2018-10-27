@@ -284,6 +284,12 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 ## Presentations
 
+**Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers**  
+<span class="cv-left-date">Oct. 2018</span>IEEE VIS.
+
+**The Beginner's Guide to Dimensionality Reduction**  
+<span class="cv-left-date">Oct. 2018</span>VISxAI Workshop at IEEE VIS.
+
 **Comparing Interactive Local and Global Explanation Paradigms for Human-assisted Machine Learning Tasks**  
 <span class="cv-left-date">July 2018</span>Microsoft Research.
 
@@ -302,7 +308,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 <span class="cv-left-date">Nov. 2016</span>Georgia Tech. Ph.D. Qualifying Oral Exam.
 
 **Drawing Semantics with Deep Learning**  
-<span class="cv-left-date">July 2016</span>Pacific Northwest National Laboratory. National Security Internship Program Research Symposium.
+<span class="cv-left-date">July 2016</span>Pacific Northwest National Laboratory.
 
 **3D Printing The Trefoil Knot And Its Pages**  
 <span class="cv-left-date">Mar. 2015</span>UGA Center for Undergraduate Research Symposium. Hands on demo.
