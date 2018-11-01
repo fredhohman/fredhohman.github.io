@@ -428,6 +428,27 @@ Funded $1,000, Fall 2014
 </span>
 
 
+## Explorable Explanations
+
+<span class="cv-left-date">2018</span>**[Blueberry Pancakes][pancakes]**  
+[Caleb Robinson][caleb], [Fred Hohman][fred]  
+<span class="paper-misc">
+A toy algorithms problem
+</span>
+
+<span class="cv-left-date">2018</span>**[The Beginner's Guide to Dimensionality Reduction][18-dr-visxai]**  
+[Matthew Conlen][matt], [Fred Hohman][fred]  
+<span class="paper-misc">
+Explore the methods that data scientists use to visualize high-dimensional data
+</span>
+
+<span class="cv-left-date">2018</span>**[The Math of Card Shuffling][card-shuffling]**  
+[Fred Hohman][fred]  
+<span class="paper-misc">
+Riffling from factory order to complete randomness
+</span>
+
+
 ## Design
 
 <span class="cv-left-date">2017 — 2018</span>**IDEA Workshop Proceedings Cover ([2017][idea2017], [2018][idea2018])**  
@@ -727,3 +748,7 @@ Universe
 [google]: https://www.google.com/ "Google."
 [airbnb]: https://www.airbnb.com/ "Airbnb."
 [oath]: https://www.oath.com/ "Oath."
+
+[card-shuffling]: https://fredhohman.com/card-shuffling/ "The Math of Card Shuffling."
+[dr]: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/ "The Beginner's Guide to Dimensionality Reduction."
+[pancakes]: https://idyll.pub/post/blueberry-pancakes-28b1a2e1a8986c44ac091f08/ "Blueberry Pancakes."
