@@ -20,6 +20,7 @@ Things I do, including research, academic course projects, and miscellaneous int
 [ShapeShop][17-shapeshop-chi]&nbsp;<small style="color: #c0c0c0">2017</small>  
 
 ### Writing
+[Blueberry Pancakes][pancakes]&nbsp;<small style="color: #c0c0c0">2018</small>    
 [The Beginner's Guide to Dimensionality Reduction][dr]&nbsp;<small style="color: #c0c0c0">2018</small>    
 [The Math of Card Shuffling][cards]&nbsp;<small style="color: #c0c0c0">2018</small>  
 
@@ -62,6 +63,7 @@ Things I do, including research, academic course projects, and miscellaneous int
 [fredhohman.com]: https://github.com/fredhohman/fredhohman.github.io "fredhohman.com on Github."
 [cards]: https://fredhohman.com/card-shuffling/ "The Math of Card Shuffling."
 [dr]: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/ "The Beginner's Guide to Dimensionality Reduction."
+[pancakes]: https://idyll.pub/post/blueberry-pancakes-28b1a2e1a8986c44ac091f08/ "Blueberry Pancakes."
 
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-dashboard-ubicomp]: {{ site.url }}/papers/dashboard
