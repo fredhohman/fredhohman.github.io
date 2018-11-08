@@ -290,6 +290,8 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 ## Presentations
 
 **Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers**  
+<span class="cv-left-date">Oct. 2018</span>University of Georgia.  
+<span class="cv-spacer"></span>
 <span class="cv-left-date">Oct. 2018</span>IEEE VIS.
 
 **The Beginner's Guide to Dimensionality Reduction**  
@@ -439,13 +441,13 @@ A toy algorithms problem
 <span class="cv-left-date">2018</span>**[The Beginner's Guide to Dimensionality Reduction][18-dr-visxai]**  
 [Matthew Conlen][matt], [Fred Hohman][fred]  
 <span class="paper-misc">
-Explore the methods that data scientists use to visualize high-dimensional data
+Explore the methods that data scientists use to visualize high-dimensional data, <span class="cv-award">*VISxAI Best Paper, Honorable Mention*</span>
 </span>
 
 <span class="cv-left-date">2018</span>**[The Math of Card Shuffling][card-shuffling]**  
 [Fred Hohman][fred]  
 <span class="paper-misc">
-Riffling from factory order to complete randomness
+Riffling from factory order to complete randomness, <span class="cv-award">*Top of Hacker News*</span>
 </span>
 
 
