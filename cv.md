@@ -313,7 +313,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 **Constellation: Visualizing Cybersecurity in Real Time**  
 <span class="cv-left-date">Aug. 2017</span>NASA Jet Propulsion Lab (JPL).  
-<span class="cv-spacer"></span>
+<!-- <span class="cv-spacer"></span> -->
 <span class="cv-left-date">Aug. 2017</span>California Institute of Technology.
 
 **Visualizing Learned Semantics with Deep Learning**  
