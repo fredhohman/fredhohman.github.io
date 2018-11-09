@@ -296,7 +296,7 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 **Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers**  
 <span class="cv-left-date">Oct. 2018</span>University of Georgia.  
-<span class="cv-spacer"></span>
+<!-- <span class="cv-spacer"></span> -->
 <span class="cv-left-date">Oct. 2018</span>IEEE VIS.
 
 **The Beginner's Guide to Dimensionality Reduction**  
@@ -327,15 +327,15 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 **Experimental and Numerical Studies of Oceanic Overflow**  
 <span class="cv-left-date">June 2015</span>American Meteorological Society’s 20th Conference on Atmospheric and Oceanic Fluid Dynamics.  
-<span class="cv-spacer"></span>
+<!-- <span class="cv-spacer"></span> -->
 <span class="cv-left-date">Jan. 2015</span>Joint Mathematics Meeting. Outstanding Poster at Student Poster Session in Computational Math.  
-<span class="cv-spacer"></span>
-<span class="cv-left-date">Nov. 2014</span>American Physical Society Division of Fluid Dynamics.
-<span class="cv-spacer"></span>
+<!-- <span class="cv-spacer"></span> -->
+<span class="cv-left-date">Nov. 2014</span>American Physical Society Division of Fluid Dynamics.  
+<!-- <span class="cv-spacer"></span> -->
 <span class="cv-left-date">Aug. 2014</span>Invited and presented on behalf at Brown University, Los Alamos National Lab.   
-<span class="cv-spacer"></span>
+<!-- <span class="cv-spacer"></span> -->
 <span class="cv-left-date">July 2014</span>Northeast REU Mini-Conference at Yale University.  
-<span class="cv-spacer"></span>
+<!-- <span class="cv-spacer"></span> -->
 <span class="cv-left-date">July 2014</span>University of Rhode Island Bay Campus.
 
 **3D Printing in Topology**  
