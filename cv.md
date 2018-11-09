@@ -15,8 +15,13 @@ I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [
 </span>
 
 <span class="cv-max-width">
-My research combines **<span class="cv-ai">data mining and machine learning</span>** techniques with principles from **<span class="cv-vis">human-computer interaction and visualization</span>** to make interactive tools to help people explore large graph data and interpret machine learning models.
+My research applies a human-centered approach to designing and developing interactive interfaces that help people understand and explain **<span class="cv-ai">machine learning models</span>**.
+I also write, design, and build explorable explanations, dynamic expositions, and **<span class="cv-vis">interactive data visualizations</span>** that illustrate complex ideas simply and tangibly.
 </span>
+
+ <!-- via **<span class="cv-vis">data visualization</span>**. -->
+
+<!-- <span class="cv-vis"> -->
 
 <span class="cv-max-width">
 In 2018 I received the [NASA Space Technology Research Fellowship][nstrf]. 
@@ -494,6 +499,8 @@ Created 3D printed UGA keychain and presentation notes given at Experience UGA: 
 ## Professional Activities
 
 **Program Commitee**  
+ACM International Conference on Intelligent User Interfaces (**IUI**) 2019  
+<span class="cv-spacer"></span> 
 Symposium on Visualization in Data Science (**VDS**) at IEEE VIS 2018  
 <span class="cv-spacer"></span> 
 Workshop on Visualization for AI Explainability (**VISxAI**) at VIS 2018  
@@ -501,19 +508,19 @@ Workshop on Visualization for AI Explainability (**VISxAI**) at VIS 2018
 Workshop on Interactive Data Exploration and Analytics (**IDEA**) at KDD 2018
 
 **Reviewer**  
+ACM Conference on Human Factors in Computing Systems (**CHI**) 2017, 2018, 2019
+<span class="cv-spacer"></span> 
+IEEE Visual Analytics Science and Technology (**VAST**) 2017, 2018  
+<span class="cv-spacer"></span> 
 1st Deep Learning and Security Workshop (**DLS**) at IEEE SP 2018  
 <span class="cv-spacer"></span> 
 Symposium on Visualization in Data Science (**VDS**) at IEEE VIS 2017  
-<span class="cv-spacer"></span> 
-IEEE Visual Analytics Science and Technology (**VAST**) 2017, 2018  
 <span class="cv-spacer"></span>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2017  
 <span class="cv-spacer"></span>
 IEEE International Conference on Distributed Computing Systems (**ICDCS**) 2017  
 <span class="cv-spacer"></span>
 SIAM International Conference on Data Mining (**SDM**) 2017  
-<span class="cv-spacer"></span>
-ACM Conference on Human Factors in Computing Systems (**CHI**) 2017, 2018
 
 **Member**  
 <span class="cv-left-date">2016 —</span>Association for Computing Machinery (**ACM**)  
