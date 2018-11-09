@@ -10,7 +10,8 @@ title: Home
 
 I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex]. 
 
-My research combines **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people explore large graph data and interpret machine learning models.
+My research applies a human-centered approach to designing and developing interactive interfaces that help people understand and explain **machine learning models**.
+I also write, design, and build explorable explanations, dynamic expositions, and **interactive data visualizations** that illustrate complex ideas simply and tangibly.
 
 In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
 

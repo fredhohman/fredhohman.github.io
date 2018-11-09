@@ -19,7 +19,7 @@ Things I do, including research, academic course projects, and miscellaneous int
 [Visual Graph Query Construction and Refinement][17-visage-sigmod-pdf]&nbsp;<small style="color: #c0c0c0">2017</small>    
 [ShapeShop][17-shapeshop-chi]&nbsp;<small style="color: #c0c0c0">2017</small>  
 
-### Writing
+### Explorable Explanations
 [Blueberry Pancakes][pancakes]&nbsp;<small style="color: #c0c0c0">2018</small>    
 [The Beginner's Guide to Dimensionality Reduction][dr]&nbsp;<small style="color: #c0c0c0">2018</small>    
 [The Math of Card Shuffling][cards]&nbsp;<small style="color: #c0c0c0">2018</small>  
