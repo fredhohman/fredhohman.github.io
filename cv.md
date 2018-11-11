@@ -188,6 +188,12 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 
 ## Publications
+**[Scalable K-Core Decomposition for Static Graphs Using a Dynamic Graph Data Structure][18-kcore-bigdata]**  
+[Alok Tripathy][alok], [Fred Hohman][fred], [Duen Horng Chau][polo], [Oded Green][oded]  
+*IEEE International Conference on Big Data (Big Data). Seattle, USA. Dec. 10-13, 2018.*  
+<span class="paper-misc">
+<span class="cv-website-marker">[Site][18-kcore-bigdata]</span> | [PDF][18-kcore-bigdata-pdf] | [BibTeX][18-kcore-bigdata]
+</span>
 
 **[Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers][18-deepvis-tvcg]**  
 [Fred Hohman][fred], [Minsuk Kahng][brian], [Robert Pienta][robert], [Duen Horng Chau][polo]  
@@ -657,6 +663,9 @@ Universe
 [prasenjeet]: https://www.linkedin.com/in/prasenjeetbiswal/ "Prasenjeet Biswal"
 [varun]: https://www.linkedin.com/in/varun-bezzam/ "Varun Bezzam"
 [matt]: https://mathisonian.com/ "Matthew Conlen"
+[alok]: http://www.aloktripathy.me/ "Alok Tripathy"
+[oded]: https://www.linkedin.com/in/oded-green-2a179a19/ "ODed Green"
+
 
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-playground-vast-pdf]: {{ site.url }}/papers/17-playground-vast.pdf
@@ -725,6 +734,9 @@ Universe
 
 [18-dr-visxai]: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/
 [18-dr-visxai-github]: https://github.com/mathisonian/dimensionality-reduction
+
+[18-kcore-bigdata]: {{ site.url }}/papers/kcore
+[18-kcore-bigdata-pdf]: https://www.researchgate.net/publication/328874544_Scalable_K-Core_Decomposition_for_Static_Graphs_Using_a_Dynamic_Graph_Data_Structure
 
 [sketches-of-topology]: https://sketchesoftopology.wordpress.com/2014/04/25/mathematics-with-3d-printing/
 [makerhome-day-311]: http://makerhome.blogspot.com/2014/07/day-311-trefoil-trumpet.html

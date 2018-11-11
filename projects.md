@@ -7,6 +7,7 @@ permalink: projects/
 Things I do, including research, academic course projects, and miscellaneous interests.
 
 ### Research
+[Scalable k-Core Decomposition][18-kcore-bigdata]&nbsp;<small style="color: #c0c0c0">2018</small>  
 [Visual Analytics in Deep Learning][18-deepvis-tvcg]&nbsp;<small style="color: #c0c0c0">2018</small>  
 [SHIELD][18-shield-kdd]&nbsp;<small style="color: #c0c0c0">2018</small>    
 [Interactive Classification][18-interactive-cvpr]&nbsp;<small style="color: #c0c0c0">2018</small>    
@@ -76,3 +77,4 @@ Things I do, including research, academic course projects, and miscellaneous int
 [18-interactive-cvpr]: {{ site.url }}/papers/interactive-classification
 [18-shield-kdd]: {{ site.url }}/papers/shield
 [18-deepvis-tvcg]: {{ site.url }}/papers/deepvis
+[18-kcore-bigdata]: {{ site.url }}/papers/kcore
