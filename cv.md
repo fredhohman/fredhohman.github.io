@@ -542,7 +542,7 @@ SIAM International Conference on Data Mining (**SDM**) 2017
 
 ## References
 
-**[Dr. Polo Chau][polo]**, Assistant Professor  
+**[Dr. Polo Chau][polo]**, Associate Professor  
 School of Computational Science and Engineering  
 Georgia Institute of Technology  
 Atlanta, GA, USA  
@@ -560,17 +560,17 @@ NASA Jet Propulsion Lab
 Pasadena, CA, USA  
 <span class="cv-blue-link">[scottdavidoff.com][scott-davidoff]</span>
 
+**[Dr. Steven Drucker][steven-drucker]**, Principal Researcher  
+Visualization and Interactive Data Analysis Group  
+Microsoft Research  
+Redmond, WA, USA  
+<span class="cv-blue-link">[	microsoft.com/en-us/research/people/sdrucker/][gay]</span>
+
 **[Dr. Nathan Hodas][nathan]**, Senior Research Scientist  
 Data Sciences and Analytics Group  
 Pacific Northwest National Laboratory  
 Richland, WA, USA  
 <span class="cv-blue-link">[signatures.pnnl.gov/bios/nathan-hodas][nathan]</span>
-
-**[Dr. David Gay][gay]**, Associate Professor  
-Department of Mathematics  
-University of Georgia  
-Athens, GA, USA  
-<span class="cv-blue-link">[euclidlab.org/david-gay/][gay]</span>
 
 
 ## Contact
