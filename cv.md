@@ -14,6 +14,15 @@ permalink: cv/
 I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex].
 </span>
 
+<!-- <div style="background-color:#cccccc; display: flex">
+	<div style="flex: 2">asdf</div>
+	<div style="flex: 1">
+		<figure>
+		  <img class="full" src="/images/me6.jpg" alt="That's me.">
+		</figure>
+	</div>
+</div> -->
+
 <span class="cv-max-width">
 My research applies a human-centered approach to designing and developing interactive interfaces that help people understand and explain **<span class="cv-ai">machine learning models</span>**.
 I also write, design, and build explorable explanations, dynamic expositions, and **<span class="cv-vis">interactive data visualizations</span>** that illustrate complex ideas simply and tangibly.
@@ -39,13 +48,44 @@ In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
 
 ***
 
+<!-- <div class="cover-wrapper">
+{% for paper in site.data.papers %}
+<div class="cover">
+    <div class="cover-top">
+    <a href="{{ paper.paper-home }}" target="_blank">
+        <div class="cover-title">
+            {{ paper.brand }}
+        </div>
+        </a>
+        <div class="cover-subtitle">
+            {{ paper.tagline }}
+        </div>
+    </div>
+    <div class="cover-authors">
+        {{ paper.authors }}
+    </div>
+
+    <div class="cover-footer-wrapper">
+        <div class="cover-venue">
+            {{ paper.venue-shorthand }}
+        </div>
+        <div class="cover-year">
+            {{ paper.year }}
+        </div>
+    </div>
+
+</div>
+{% endfor %}
+</div>	 -->
+
+
 
 ## Education
 
 <span class="cv-left-date">Present —</span>**Ph.D. in Computational Science & Engineering**  
 <span class="cv-left-date">Aug. 2015</span>*[Georgia Institute of Technology][gt], Atlanta, GA*  
 Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
-Minor: "User-Centered Design in Data Science"  
+<!-- Minor: "User-Centered Design in Data Science"   -->
 Overall GPA: 4.00/4.00
 
 <span class="cv-left-date">May 2018</span>**M.S. in Computational Science & Engineering**  
@@ -188,115 +228,11 @@ Highest achievement attainable in the Boy Scouts of America, only 4% of scouts g
 
 
 ## Publications
-**[Scalable K-Core Decomposition for Static Graphs Using a Dynamic Graph Data Structure][18-kcore-bigdata]**  
-[Alok Tripathy][alok], [Fred Hohman][fred], [Duen Horng Chau][polo], [Oded Green][oded]  
-*IEEE International Conference on Big Data (Big Data). Seattle, USA. Dec. 10-13, 2018.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-kcore-bigdata]</span> | [PDF][18-kcore-bigdata-pdf] | [BibTeX][18-kcore-bigdata]
-</span>
 
-**[Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers][18-deepvis-tvcg]**  
-[Fred Hohman][fred], [Minsuk Kahng][brian], [Robert Pienta][robert], [Duen Horng Chau][polo]  
-*IEEE Transactions on Visualization and Computer Graphics (TVCG). 2018.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-deepvis-tvcg]</span> | [PDF][18-deepvis-tvcg-pdf] | Video ([Polo Club][18-deepvis-tvcg-video-poloclub], [TVCG][18-deepvis-tvcg-video-tvcg]) | [Github][18-deepvis-tvcg-code] | [BibTeX][18-deepvis-tvcg]
-</span>
+{% for pub in site.data.publications %}
+{% include publication.html pub=pub %}
+{% endfor %}
 
-**[The Beginner's Guide to Dimensionality Reduction][18-dr-visxai]**  
-[Matthew Conlen][matt], [Fred Hohman][fred]  
-*Workshop on Visualization for AI Explainability at IEEE VIS. Oct 22, 2018. Berlin, Germany*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-dr-visxai]</span> | [Github][18-dr-visxai-github] | [BibTeX][18-dr-visxai] | <span class="cv-award">*Best Paper, Honorable Mention*</span>
-</span>
-
-**[Compression to the Rescue: Defending from Adversarial Attacks Across Modalities][18-compression-kdd]**  
-[Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Siwei Li][bob], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
-*ACM KDD 2018 Project Showcase. Aug 19, 2018. London, UK.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-compression-kdd]</span> | [PDF][18-compression-kdd-pdf] | [Github][18-compression-kdd-code] | [BibTeX][18-compression-kdd]
-</span>
-
-**[Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression][18-shield-kdd]**  
-[Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Siwei Li][bob], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD). Aug 19, 2018. London, UK.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-shield-kdd]</span> | [PDF][18-shield-kdd-pdf] | [Video][18-shield-kdd-video] | [Github][18-shield-kdd-code] | [BibTeX][18-shield-kdd] | <span class="cv-award">*Audience Appreciation Award, Runner Up*</span>
-</span>
-
-**[Large Graph Exploration via Subgraph Discovery and Decomposition][18-playground-arxiv]**  
-[James Abello][james], [Fred Hohman][fred], [Varun Bezzam][varun], [Duen Horng Chau][polo]    
-*arXiv:1808.04414. Aug 13, 2018.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][18-playground-arxiv]</span> | [PDF][18-playground-arxiv-pdf] | [BibTeX][18-playground-arxiv]
-</span>
-
-**[Interactive Classification for Deep Learning Interpretation][18-interactive-cvpr]**  
-[Angel Cabrera][angel], [Fred Hohman][fred], [Jason Lin][jason], [Duen Horng Chau][polo]  
-*Demo, Conference on Computer Vision and Pattern Recognition (CVPR). June 18, 2018. Salt Lake City, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">
-[Site][18-interactive-cvpr]</span> | [PDF][18-interactive-cvpr-pdf] | [Video][18-interactive-cvpr-video] | [Github][18-interactive-cvpr-code] | [BibTeX][18-interactive-cvpr]
-</span>
-
-**[A Deep Learning Approach for Population Estimation from Satellite Imagery][17-deeppop-sigspatial]**  
-[Caleb Robinson][caleb], [Fred Hohman][fred], [Bistra Dilkina][bistra]  
-*1st ACM SIGSPATIAL Workshop on Geospatial Humanities. Nov 7, 2017. Redondo Beach, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-deeppop-sigspatial]</span> | [PDF][17-deeppop-sigspatial-pdf] | [BibTeX][17-deeppop-sigspatial] | <span class="cv-award">*Microsoft AI for Earth Award*</span>
-</span>
-
-**[VIGOR: Interactive Visual Exploration of Graph Query Results][17-vigor-vast]**  
-[Robert Pienta][robert], [Fred Hohman][fred], [Alex Endert][alex], [Acar Tamersoy][acar], [Kevin Roundy][kevin], [Chris Gates][chris], [Shamkant Navathe][navathe], [Duen Horng Chau][polo]  
-*IEEE Transactions on Visualization and Computer Graphics (Proc. VAST'17). Jan 2018. Phoenix, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-vigor-vast]</span> | [PDF][17-vigor-vast-pdf] | [Video][17-vigor-vast-video] | [Preview][17-vigor-vast-preview] | [BibTeX][17-vigor-vast]
-</span>
-
-**[3D Exploration of Graph Layers via Vertex Cloning][17-playground-vast]**  
-[James Abello][james], [Fred Hohman][fred], [Duen Horng Chau][polo]  
-*Poster, IEEE Visual Analytics Science and Technology (VAST). Oct 1-6, 2017. Phoenix, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-playground-vast]</span> | [PDF][17-playground-vast-pdf] | Video ([Youtube][17-playground-vast-video-youtube], [Vimeo][17-playground-vast-video-vimeo]) | [Poster][17-playground-vast-poster] | [BibTeX][17-playground-vast]
-</span>
-
-**[A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue][17-got-vis4dh]**  
-[Fred Hohman][fred], [Sandeep Soni][sandeep], [Ian Stewart][ian], [John Stasko][stasko]  
-*2nd Workshop on Visualization for the Digital Humanities at IEEE VIS. Oct 1-6, 2017. Phoenix, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-got-vis4dh]</span> | [PDF][17-got-vis4dh-pdf] | [Demo][17-got-vis4dh-demo] | [Github][17-got-vis4dh-github] | [Data][17-got-vis4dh-data] | [BibTeX][17-got-vis4dh]
-</span>
-
-**[mHealth Visual Discovery Dashboard][17-dashboard-ubicomp]**  
-[Dezhi Fang][andy], [Fred Hohman][fred], [Peter Polack][peter], [Hillol Sarker][hillol], [Minsuk Kahng][brian], [Moushumi Sharmin][moushumi], [Mustafa al'Absi][mustafa], [Duen Horng Chau][polo]  
-*Demo, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UBICOMP). Sept 11-15, 2017. Maui, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-dashboard-ubicomp]</span> | [PDF][17-dashboard-ubicomp-pdf] | [Video][17-dashboard-ubicomp-video] | [Poster][17-dashboard-ubicomp-poster] | [BibTeX][17-dashboard-ubicomp]
-</span>
-
-**[Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression][17-defense-arxiv]**  
-[Nilaksh Das][nilaksh], [Madhuri Shanbhogue][madhuri], [Shang-Tse Chen][shang], [Fred Hohman][fred], [Li Chen][li], [Michael E. Kounavis][michael], [Duen Horng Chau][polo]  
-*arXiv:1705.02900. May 8, 2017.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-defense-arxiv]</span> | [PDF][17-defense-arxiv-pdf] | [BibTeX][17-defense-arxiv]
-</span>
-
-**[Visual Graph Query Construction and Refinement][17-visage-sigmod]**  
-[Robert Pienta][robert], [Fred Hohman][fred], [Acar Tamersoy][acar], [Alex Endert][alex], [Shamkant Navathe][navathe], [Hanghang Tong][hanghang], [Duen Horn Chau][polo]  
-*Demo, ACM International Conference on Management of Data (SIGMOD/PODS). May 14-19, 2017. Chicago, USA.*    
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-visage-sigmod]</span> | [PDF][17-visage-sigmod-pdf] | [Video][17-visage-sigmod-video] | [Poster][17-visage-sigmod-video] | [BibTeX][17-visage-sigmod] | <span class="cv-award">*Best Demo, Honorable Mention*</span>
-</span>
-
-**[ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation][17-shapeshop-chi]**  
-[Fred Hohman][fred], [Nathan Hodas][nathan], [Duen Horng Chau][polo]  
-*Late-Breaking Work, ACM Conference on Human Factors in Computing Systems (CHI). May 6-11, 2017. Denver, CO, USA.*  
-<span class="paper-misc">
-<span class="cv-website-marker">[Site][17-shapeshop-chi]</span> | [PDF][17-shapeshop-chi-pdf] | Video ([Polo Club][17-shapeshop-chi-video-poloclub], [CHI][17-shapeshop-chi-video-chi]) | [Github][17-shapeshop-chi-github] | [Poster][17-shapeshop-chi-poster] | [BibTeX][17-shapeshop-chi]
-</span>
-
-**Experimental and Numerical Comparison of Oceanic Overflow**  
-[Thomas Gibson][thomas], [Fred Hohman][fred], [Theresa Morrison][theresa], [Shanon Reckinger][shanon], [Scott Reckinger][scott-reckinger]  
-*Abstract, American Physical Society Division of Fluid Dynamics. Nov 23-25, 2014. San Francisco, CA, USA.*
 
 ## Presentations
 

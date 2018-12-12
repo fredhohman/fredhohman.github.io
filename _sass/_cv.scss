@@ -5,6 +5,7 @@
 
 .cv-award {
 	color: #FBC02D;
+	font-weight: 600;
 }
 
 #cv p, #cv .post-date {
@@ -15,7 +16,7 @@
 	color: #515151;
 }
 
-#cv a:hover {
+#cv a:hover, #cv a strong:hover {
 	color: #2196F3;
 	text-decoration: none;
 }
@@ -23,11 +24,13 @@
 #cv .paper-misc {
 	color: #9a9a9a;
 	// color: #2196F3;
+	font-size: 14px;
 }
 
 #cv .paper-misc a {
-	color: #9a9a9a;
-	// color: #2196F3;
+	// color: #9a9a9a;
+	color: #2196F3;
+	margin-right: 1em;
 }
 
 #cv .paper-misc a:hover {
@@ -56,7 +59,7 @@
 	// margin-right: auto;
 }
 
-#cv strong a {
+#cv strong a, #cv a strong {
 	color: #303030;
 }
 

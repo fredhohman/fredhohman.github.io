@@ -1,0 +1,303 @@
+- id: kcore
+  title: "Scalable K-Core Decomposition for Static Graphs Using a Dynamic Graph Data Structure"
+  authors:
+    - Alok Tripathy
+    - Fred Hohman
+    - Duen Horng (Polo) Chau
+    - Oded Green
+  venue: IEEE International Conference on Big Data
+  venue-shorthand: Big Data
+  location: Seattle, WA, USA
+  year: 2018
+  link: "/papers/kcore"
+  pdf: "https://www.researchgate.net/publication/328874544_Scalable_K-Core_Decomposition_for_Static_Graphs_Using_a_Dynamic_Graph_Data_Structure"
+
+- id: deepvis
+  title: "Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
+  authors:
+    - Fred Hohman
+    - Minsuk Kahng
+    - Robert Pienta
+    - Duen Horng (Polo) Chau
+  venue: IEEE Transactions on Visualization and Computer Graphics
+  venue-shorthand: TVCG
+  location: Berlin, Germany
+  year: 2018
+  link: https://fredhohman.com/visual-analytics-in-deep-learning
+  pdf: https://arxiv.org/abs/1801.06889
+  code: https://github.com/fredhohman/visual-analytics-in-deep-learning
+  video: https://youtu.be/TI_sXHt2d8s
+
+  bibtex: |
+    @article{hohman2018visual,
+      title={Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers},
+      author={Hohman, Fred and Kahng, Minsuk and Pienta, Robert and Chau, Duen Horng},      
+      journal={IEEE Transactions on Visualization and Computer Graphics},
+      year={2018},
+      publisher={IEEE}
+    }
+  icon: deepvis.png
+  tagline: An Interrogative Survey for the Next Frontiers
+  highlight: true
+
+- id: dr
+  title: "The Beginner's Guide to Dimensionality Reduction"
+  authors: 
+    - Matthew Conlen
+    - Fred Hohman
+  venue: Workshop on Visualization for AI Explainability at IEEE VIS
+  venue-shorthand: VISxAI
+  location: Berlin, Germany
+  year: 2018  
+  link: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/
+  code: https://github.com/mathisonian/dimensionality-reduction
+  award: Best Paper, Honorable Mention
+
+- id: compression
+  title: "Compression to the Rescue: Defending from Adversarial Attacks Across Modalities"
+  authors:
+    - Nilaksh Das
+    - Madhuri Shanbhogue
+    - Shang-Tse Chen
+    - Fred Hohman
+    - Siwei Li
+    - Li Chen
+    - Michael E. Kounavis
+    - Duen Horng (Polo) Chau
+  venue: ACM KDD 2018 Project Showcase
+  location: London, UK
+  year: 2018
+  link: /papers/compression
+  pdf: http://nilakshdas.com/papers/18-compression-kdd.pdf
+  code: https://github.com/poloclub/jpeg-defense
+
+- id: shield
+  title: "Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression"
+  authors: 
+    - Nilaksh Das
+    - Madhuri Shanbhogue
+    - Shang-Tse Chen
+    - Fred Hohman
+    - Siwei Li
+    - Li Chen
+    - Michael E. Kounavis
+    - Duen Horng (Polo) Chau
+  venue: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  venue-shorthand: KDD
+  location: London, UK
+  year: 2018
+  link: /papers/shield
+  pdf: https://arxiv.org/abs/1802.06816
+  code: https://github.com/poloclub/jpeg-defense
+  video: https://www.youtube.com/watch?v=zUB2-i7rSb4
+  award: Audience Appreciation Award, Runner Up
+
+- id: graph-playground
+  title: Large Graph Exploration via Subgraph Discovery and Decomposition
+  authors:
+    - James Abello
+    - Fred Hohman
+    - Varun Bezzam
+    - Duen Horng (Polo) Chau
+  venue: arXiv:1808.04414
+  year: 2018
+  link: /papers/graph-playground 
+  pdf: https://arxiv.org/pdf/1808.04414.pdf
+
+- id: ie
+  title: Interactive Classification for Deep Learning Interpretation
+  authors:
+    - Angel Cabrera
+    - Fred Hohman
+    - Jason Lin
+    - Duen Horng (Polo) Chau
+  venue: Demo, Conference on Computer Vision and Pattern Recognition
+  venue-shorthand: CVPR
+  location: Salt Lake City, UT, USA
+  year: 2018
+  link: /papers/interactive-classification
+  pdf: /papers/18-interactive-cvpr.pdf
+  video: https://youtu.be/llub5GcOF6w
+  code: https://github.com/poloclub/interactive-classification
+
+- id: deeppop
+  title: A Deep Learning Approach for Population Estimation from Satellite Imagery
+  authors:
+    - Caleb Robinson
+    - Fred Hohman
+    - Bistra Dilkina
+  venue: 1st ACM SIGSPATIAL Workshop on Geospatial Humanities
+  location: Redondo Beach, CA, USA
+  year: 2017
+  link: https://deeppop.github.io
+  pdf: /papers/17-deeppop-sigspatial.pdf
+  code: https://github.com/deeppop/
+  award: Microsoft AI for Earth Award
+
+- id: vigor
+  title: "VIGOR: Interactive Visual Exploration of Graph Query Results"
+  authors: 
+    - Robert Pienta
+    - Fred Hohman
+    - Alex Endert
+    - Acar Tamersoy
+    - Kevin Roundy
+    - Chris Gates
+    - Shamkant Navathe
+    - Duen Horng (Polo) Chau
+  venue: IEEE Transactions on Visualization and Computer Graphics
+  venue-shorthand: Proc. VAST
+  location: Phoenix, AZ, USA
+  year: 2018
+  link: /papers/vigor
+  pdf: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
+  video: https://www.youtube.com/watch?v=-jeck0yrT_Q&index=3&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
+  preview: https://vimeo.com/groups/480818/videos/230830163
+
+- id: graph-playground
+  title: "3D Exploration of Graph Layers via Vertex Cloning"
+  authors:
+    - James Abello
+    - Fred Hohman
+    - Duen Horng (Polo) Chau
+  venue: IEEE Conference on Visual Analytics Science and Technology
+  venue-shorthand: VAST
+  location: Phoenix, AZ, USA
+  year: 2017
+  link: https://fredhohman.com/papers/playground
+  pdf: https://fredhohman.com/papers/17-playground-vast.pdf
+  video: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
+  poster: https://fredhohman.com/papers/17-playground-vast-poster.pdf
+  bibtex: |
+    @inproceedings{hohman2017playground,
+      title={3D Exploration of Graph Layers via Vertex Cloning},
+      author={Abello, James and Hohman, Fred and Chau, Duen Horng},
+      booktitle={2017 IEEE Conference on Visual Analytics Science and Technology (VAST), Poster},
+      year={2015},
+      organization={IEEE}
+    }
+
+- id: got
+  title: "A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue"
+  authors:
+    - Fred Hohman
+    - Sandeep Soni
+    - Ian Stewart
+    - John Stasko
+  venue: 2nd Workshop on Visualization for the Digital Humanities at IEEE VIS
+  venue-shorthand: VIS4DH
+  location: Phoenix, AZ, USA
+  year: 2017
+  link: https://fredhohman.com/a-viz-of-ice-and-fire/
+  pdf: /papers/17-got-vis4dh.pdf
+  code: https://github.com/fredhohman/a-viz-of-ice-and-fire
+  data: https://github.com/fredhohman/a-viz-of-ice-and-fire/tree/master/vis/data
+
+- id: mhealth
+  title: mHealth Visual Discovery Dashboard
+  authors:
+    - Dezhi Fang
+    - Fred Hohman
+    - Peter Polack
+    - Hillol Sarker
+    - Minsuk Kahng
+    - Moushumi Sharmin
+    - Mustafa al'Absi
+    - Duen Horng (Polo) Chau
+  venue: Demo, ACM International Joint Conference on Pervasive and Ubiquitous Computing
+  venue-shorthand: Ubicomp
+  location: Maui, HI, USA
+  year: 2017
+  link: /papers/dashboard
+  pdf: /papers/17-dashboard-ubicomp.pdf
+  video: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
+  poster: https://fredhohman.com/papers/17-dashboard-ubicomp-poster.pdf
+  bibtex: |
+    @inproceedings{fang2017mhealth,
+      title={mHealth visual discovery dashboard},
+      author={Fang, Dezhi and Hohman, Fred and Polack, Peter and Sarker, Hillol and Kahng, Minsuk and Sharmin, Moushumi and al'Absi, Mustafa and Chau, Duen Horng},
+      booktitle={Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers},
+      pages={237--240},
+      year={2017},
+      organization={ACM}
+    }
+
+- id: jpeg
+  title: "Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression"
+  authors:
+    - Nilaksh Das
+    - Madhuri Shanbhogue
+    - Shang-Tse Chen
+    - Fred Hohman
+    - Li Chen
+    - Michael E. Kounavis
+    - Duen Horng (Polo) Chau
+  venue: arXiv:1705.02900
+  year: 2017
+  link: /papers/defense
+  pdf: https://arxiv.org/abs/1705.02900
+  code: https://github.com/poloclub/jpeg-defense
+
+- id: visage
+  title: Visual Graph Query Construction and Refinement
+  authors:
+    - Robert Pienta
+    - Fred Hohman
+    - Acar Tamersoy
+    - Alex Endert
+    - Shamkant Navathe
+    - Hanghang Tong
+    - Duen Horng (Polo) Chau
+  venue: Demo, ACM International Conference on Management of Data
+  venue-shorthand: "SIGMOD/PODS"
+  location: Chicago, IL, USA
+  year: 2017
+  link: /papers/visage
+  pdf: https://www.cc.gatech.edu/~dchau/papers/17-sigmod-visage.pdf
+  video: https://www.youtube.com/watch?v=l2L7Y5mCh1s&index=2&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
+  poster: http://www.cc.gatech.edu/~rpienta3/data/posters/17-sigmod-visage-poster.pdf
+  award: Best Demo, Honorable Mention
+
+- id: shapeshop
+  title: "ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation"
+  authors:
+    - Fred Hohman
+    - Nathan Hodas
+    - Duen Horng (Polo) Chau
+  venue: "Extended Abstracts on ACM Human Factors in Computing Systems"
+  venue-shorthand: CHI
+  location: Denver, CO, USA
+  year: 2017
+  icon: shapeshop.png
+  tagline: Understanding Deep Learning Representations via Interactive Experimentation
+  pdf: "https://fredhohman.com/papers/17-shapeshop-chi.pdf"
+  acm: "https://dl.acm.org/citation.cfm?id=3027063.3053103"
+  link: "https://fredhohman.com/papers/shapeshop"
+  video: "https://www.youtube.com/watch?v=wRX1xEdrD1g"
+  code: "https://www.github.com/fredhohman/shapeshop"
+  poster: "https://fredhohman.com/papers/17-shapeshop-chi-poster.pdf"
+  collaboration: PNNL
+  bibtex: |
+    @inproceedings{hohman2017shapeshop,
+      title={ShapeShop: Towards Understanding Deep Learning Representations via Interactive Experimentation},
+      author={Hohman, Fred and Hodas, Nathan and Chau, Duen Horng},
+      booktitle={Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems},
+      pages={1694--1699},
+      year={2017},
+      organization={ACM}
+    }
+
+- id: reu
+  title: Experimental and Numerical Comparison of Oceanic Overflow
+  authors: 
+    - Thomas Gibson
+    - Fred Hohman
+    - Theresa Morrison
+    - Shanon Reckinger
+    - Scott Reckinger
+  venue: Abstract, American Physical Society Division of Fluid Dynamics
+  venue-shorthand: APS DFD
+  location: San Francisco, CA, USA
+  year: 2014
+  link: /projects/mathematics-&-computational-science-reu
+  poster: /assets/reu_poster.pdf
