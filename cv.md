@@ -156,75 +156,9 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 
 ## Honors and Awards
 
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2018</span>Best Paper, Honorable Mention at VISxAI Workshop at IEEE VIS  
-<span class="cv-description">
-For "The Beginner's Guide to Dimensionality Reduction"  
-</span>
-<span class="cv-left-date">2018 — 2021</span>NASA Space Technology Research Fellowship  
-<span class="cv-description">
-For my Ph.D. work on "Understanding Deep Neural Networks Through Attribution and Interactive Experimentation"
-</span>
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2018</span>Audience Appreciation Award, Runner Up at ACM SIGKDD Conference  
-<span class="cv-description">
-For "Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression"
-</span>
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2017 — 2018</span>Microsoft Azure for Research Award: AI for Earth  
-<span class="cv-description">
-For our work on "Deep Learning for Fine-scale Population Maps"
-</span>
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2017</span>Best Demo, Honorable Mention at ACM SIGMOD/PODS Conference  
-<span class="cv-description">
-For "Visual Graph Query Construction and Refinement"
-</span>
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2015 — 2019</span>President's Fellowship at Georgia Institute of Technology  
-<span class="cv-description">
-Select number of 1st year doctoral students who bring exemplary levels of scholarship and innovation to their academic departments
-</span>
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2015</span>Outstanding Poster at JMM Undergraduate Poster Session in Computational Math  
-<span class="cv-description">
-For "Experimental and Numerical Comparison of Oceanic Overflow"
-</span>
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2015</span>UGA CURO Research Graduation Distinction  
-<span class="cv-description">
-Awarded to undergraduates who write a thesis, present at the CURO Symposium, and complete 9 research credit hours
-</span>
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2014</span>UGA CURO Research Assistantship  
-<span class="cv-description">
-Stipend awarded to outstanding undergraduates that actively participate in faculty-mentored research
-</span>
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2013</span>Presidential Scholar  
-<span class="cv-description">
-Achieved a 4.0 GPA during a semester with minimum 14 credit hours
-</span>
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2011 — 2015</span>Dean's List  
-<span class="cv-description">
-Achieved at least a 3.5 GPA during a semester with minimum 14 credit hours
-</span>
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2011 — 2015</span>Georgia HOPE Scholarship  
-<span class="cv-description">
-Merit-based award to Georgia residents providing tuition assistance for their undergraduate degree
-</span>
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2011</span>Mission of Blessed Trinity: Artistic Sensibility  
-<span class="cv-description">
-One of two students to receive the Mission Statement award upon high-school graduation
-</span>
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2009</span>Eagle Scout Award  
-<span class="cv-description">
-Highest achievement attainable in the Boy Scouts of America, only 4% of scouts granted this rank
-</span>
+{% for award in site.data.awards %}
+{% include award.html award=award %}
+{% endfor %}
 
 
 ## Publications
