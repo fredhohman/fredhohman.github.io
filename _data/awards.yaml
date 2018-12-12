@@ -1,0 +1,55 @@
+- name: Best Paper, Honorable Mention at VISxAI Workshop at IEEE VIS
+  description: For "The Beginner's Guide to Dimensionality Reduction"
+  year: 2018
+
+- name: NASA Space Technology Research Fellowship
+  description: For my Ph.D. work on "Understanding Deep Neural Networks Through Attribution and Interactive Experimentation"
+  year: "2018 — 2021"
+
+- name: Audience Appreciation Award, Runner Up at ACM SIGKDD Conference
+  description: 'For "Shield: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression"'
+  year: 2018
+
+- name: "Microsoft Azure for Research Award: AI for Earth"
+  description: For our work on "Deep Learning for Fine-scale Population Maps"
+  year: "2017 — 2018"
+
+- name: "Best Demo, Honorable Mention at ACM SIGMOD/PODS Conference"
+  description: For "Visual Graph Query Construction and Refinement"
+  year: 2017
+
+- name: "President's Fellowship at Georgia Institute of Technology"
+  description: Select number of 1st year doctoral students who bring exemplary levels of scholarship and innovation to their academic departments
+  year: "2015 — 2019"
+
+- name: Outstanding Poster at JMM Undergraduate Poster Session in Computational Math
+  description: For "Experimental and Numerical Comparison of Oceanic Overflow"
+  year: 2015
+
+- name: UGA CURO Research Graduation Distinction  
+  description: Awarded to undergraduates who write a thesis, present at the CURO Symposium, and complete 9 research credit hours
+  year: 2015
+
+- name: UGA CURO Research Assistantship
+  description: Stipend awarded to outstanding undergraduates that actively participate in faculty-mentored research
+  year: 2014
+
+- name: Presidential Scholar  
+  description: "Achieved a 4.0 GPA during a semester with minimum 14 credit hours"
+  year: 2013
+
+- name: Dean's List  
+  description: Achieved at least a 3.5 GPA during a semester with minimum 14 credit hours
+  year: 2011 — 2015
+
+- name: Georgia HOPE Scholarship  
+  descri9tion: "Merit-based award to Georgia residents providing tuition assistance for their undergraduate degree"
+  year: "2011 — 2015"
+
+- name: "Mission of Blessed Trinity: Artistic Sensibility"
+  description: One of two students to receive the Mission Statement award upon high-school graduation
+  year: 2011
+
+- name: Eagle Scout Award
+  description: "Highest achievement attainable in the Boy Scouts of America, only 4% of scouts granted this rank"
+  year: 2009
