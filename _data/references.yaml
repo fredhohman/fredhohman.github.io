@@ -1,0 +1,44 @@
+- name: Polo Chau
+  position: Associate Professor
+  group: School of Computational Science and Engineering
+  institution: Georgia Institute of Technology
+  location: Atlanta, GA, USA
+  phd: true
+  website: "cc.gatech.edu/~dchau/"
+  url: "https://cc.gatech.edu/~dchau/"
+
+- name: Alex Endert
+  position: Assistant Professor
+  group: School of Interactive Computing
+  institution: Georgia Institute of Technology
+  location: Atlanta, GA, USA
+  phd: true
+  website: "va.gatech.edu/endert"
+  url: "https://va.gatech.edu/endert"
+
+- name: Scott Davidoff
+  position: Manager
+  group: Human Interfaces Group
+  institution: NASA Jet Propulsion Lab
+  location: Pasadena, CA, USA
+  phd: true
+  website: "scottdavidoff.com"
+  url: "http://scottdavidoff.com/research"
+
+- name: Steven Drucker
+  position: Principal Researcher
+  group: Visualization and Interactive Data Analysis Group
+  institution: Microsoft Research
+  location: Redmond, WA, USA
+  phd: true
+  website: "microsoft.com/en-us/research/people/sdrucker"
+  url: "https://www.microsoft.com/en-us/research/people/sdrucker/"
+
+- name: Nathan Hodas
+  position: Senior Research Scientist
+  group: Data Sciences and Analytics Group
+  institution: Pacific Northwest National Laboratory
+  location: Richland, WA, USA
+  phd: true
+  website: "signatures.pnnl.gov/bios/nathan-hodas"
+  url: "https://signatures.pnnl.gov/bios/nathan-hodas"
