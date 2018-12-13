@@ -1,0 +1,8 @@
+<p style="margin-bottom: 1rem">
+<strong>{{ title.name }}</strong>
+<br>
+{% for talk in title.items %}
+<span class="cv-left-date">{{ talk.month }} {{ talk.year }}</span>{{ talk.location }}
+<br>
+{% endfor %}
+</p>
