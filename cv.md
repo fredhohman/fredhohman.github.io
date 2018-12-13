@@ -168,7 +168,7 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 {% endfor %}
 
 
-## Presentations
+## Talks
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
