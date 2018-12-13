@@ -170,52 +170,10 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 
 ## Presentations
 
-**Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers**  
-<span class="cv-left-date">Oct. 2018</span>University of Georgia.  
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">Oct. 2018</span>IEEE VIS.
-
-**The Beginner's Guide to Dimensionality Reduction**  
-<span class="cv-left-date">Oct. 2018</span>VISxAI Workshop at IEEE VIS.
-
-**Comparing Interactive Local and Global Explanation Paradigms for Human-assisted Machine Learning Tasks**  
-<span class="cv-left-date">July 2018</span>Microsoft Research.
-
-**Graph Playgrounds: 3D Exploration of Graph Layers via Vertex Cloning**  
-<span class="cv-left-date">Dec. 2017</span>AT&T Research Labs Graduate Student Symposium.
-
-**A Viz of Ice and Fire: Exploring Entertainment Video Using Color and Dialogue**  
-<span class="cv-left-date">Oct. 2017</span>2nd Workshop on Visualization for the Digital Humanities at IEEE VIS.
-
-**Constellation: Visualizing Cybersecurity in Real Time**  
-<span class="cv-left-date">Aug. 2017</span>NASA Jet Propulsion Lab (JPL).  
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">Aug. 2017</span>California Institute of Technology.
-
-**Visualizing Learned Semantics with Deep Learning**  
-<span class="cv-left-date">Nov. 2016</span>Georgia Tech. Ph.D. Qualifying Oral Exam.
-
-**Drawing Semantics with Deep Learning**  
-<span class="cv-left-date">July 2016</span>Pacific Northwest National Laboratory.
-
-**3D Printing The Trefoil Knot And Its Pages**  
-<span class="cv-left-date">Mar. 2015</span>UGA Center for Undergraduate Research Symposium. Hands on demo.
-
-**Experimental and Numerical Studies of Oceanic Overflow**  
-<span class="cv-left-date">June 2015</span>American Meteorological Society’s 20th Conference on Atmospheric and Oceanic Fluid Dynamics.  
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">Jan. 2015</span>Joint Mathematics Meeting. Outstanding Poster at Student Poster Session in Computational Math.  
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">Nov. 2014</span>American Physical Society Division of Fluid Dynamics.  
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">Aug. 2014</span>Invited and presented on behalf at Brown University, Los Alamos National Lab.   
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">July 2014</span>Northeast REU Mini-Conference at Yale University.  
-<!-- <span class="cv-spacer"></span> -->
-<span class="cv-left-date">July 2014</span>University of Rhode Island Bay Campus.
-
-**3D Printing in Topology**  
-<span class="cv-left-date">Mar. 2014</span>UGA Center for Undergraduate Research Symposium. Hands on demo.
+{% assign talktitles = site.data.talks | group_by:"title" %}
+{% for title in talktitles %}
+{% include talk.html talk=title %}
+{% endfor %}
 
 
 ## Press
