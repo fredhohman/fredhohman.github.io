@@ -178,23 +178,9 @@ Directly compared numerical solutions derived from the Navier-Stokes equations t
 
 ## Press
 
-<span class="cv-left-date">June 2018</span>["Georgia Tech Teams up with Intel to Protect Artificial Intelligence from Malicious Attacks Using SHIELD."][gt-cse-shield] Georgia Tech, College of Computing.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">Apr. 2018</span>["CSE Ph.D. Students Claim Three Prestigious Fellowships."][gt-cse-fellowship] Georgia Tech, College of Computing.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">Dec. 2017</span>["Georgia Tech Team To Use Microsoft Grant to Study Human Migration Dynamics."][gt-cc-deeppop] Georgia Tech,<br>College of Computing.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">Sept. 2015</span>["Georgia Tech PhD Student Puts Finishing Touches on 3D Printed Trumpety Trefoil."][3dprint-2] 3dprint.com.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2015</span>["Student Profile: Fred Hohman."][uga-math-profile] 2015 UGA Mathematics Department Newsletter.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">Feb. 2015</span>["Falling Water."][mitgcm] MITgcm.org.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">Dec. 2014</span>["Mathematics/Physics Student Creates 3D Printed Puzzle of Trefoil Knot, Catches Mathematical Community's Interest."][3dprint-1] 3dprint.com.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">July 2014</span>["Day 311 - Trefoil Trumpet."][makerhome-day-311] Makerhome.com.
-<span class="cv-spacer"></span>
-<span class="cv-left-date">Apr. 2014</span>["Mathematics with 3D Printing."][sketches-of-topology] Sketches of Topology.
+{% for article in site.data.press %}
+{% include article.html article=article %}
+{% endfor %}
 
 
 ## Teaching
