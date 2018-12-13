@@ -365,7 +365,6 @@ SIAM International Conference on Data Mining (**SDM**) 2017
 
 Fred Hohman  
 `fredhohman@gatech.edu`  
-Data Analytics & Simulation Lab  
 Klaus Advanced Computing Building  
 Georgia Tech  
 266 Ferst Dr NW  
