@@ -356,35 +356,9 @@ SIAM International Conference on Data Mining (**SDM**) 2017
 
 ## References
 
-**[Dr. Polo Chau][polo]**, Associate Professor  
-School of Computational Science and Engineering  
-Georgia Institute of Technology  
-Atlanta, GA, USA  
-<span class="cv-blue-link">[cc.gatech.edu/~dchau/][polo]</span>
-
-**[Dr. Alex Endert][alex]**, Assistant Professor  
-School of Interactive Computing  
-Georgia Institute of Technology  
-Atlanta, GA, USA  
-<span class="cv-blue-link">[va.gatech.edu/endert/][alex]</span>
-
-**[Dr. Scott Davidoff][scott-davidoff]**, Manager  
-Human Interfaces Group  
-NASA Jet Propulsion Lab  
-Pasadena, CA, USA  
-<span class="cv-blue-link">[scottdavidoff.com][scott-davidoff]</span>
-
-**[Dr. Steven Drucker][steven-drucker]**, Principal Researcher  
-Visualization and Interactive Data Analysis Group  
-Microsoft Research  
-Redmond, WA, USA  
-<span class="cv-blue-link">[	microsoft.com/en-us/research/people/sdrucker/][gay]</span>
-
-**[Dr. Nathan Hodas][nathan]**, Senior Research Scientist  
-Data Sciences and Analytics Group  
-Pacific Northwest National Laboratory  
-Richland, WA, USA  
-<span class="cv-blue-link">[signatures.pnnl.gov/bios/nathan-hodas][nathan]</span>
+{% for reference in site.data.references %}
+{% include reference.html reference=reference %}
+{% endfor %}
 
 
 ## Contact
