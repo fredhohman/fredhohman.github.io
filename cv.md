@@ -152,26 +152,9 @@ Overall GPA: 3.84/4.00, Magna Cum Laude
 
 ## Mentoring
 
-<span class="cv-left-date">Present —</span>**[Angel Cabrera][angel]**  
-<span class="cv-left-date">Spring 2018</span>*B.S. CS, Georgia Tech*  
-<span class="cv-description">
-Interactive Classification for Deep Learning    
-Now: Software Engineering Intern at [Google][google]
-</span>
-
-<span class="cv-left-date">Spring 2018 —</span>**[Dezhi Fang][andy]**  
-<span class="cv-left-date">Fall 2016</span>*B.S. CS, Georgia Tech*  
-<span class="cv-description">
-Visual Motif Discovery  
-Now: Software Development Engineer at [Airbnb][airbnb]
-</span>
-
-<span class="cv-left-date">Spring 2018 —</span>**[Prasenjeet Biswal][prasenjeet]**  
-<span class="cv-left-date">Fall 2017</span>*M.S. CS, Georgia Tech*  
-<span class="cv-description">
-Deep Learning Attribution  
-Now: Software Development Engineer at [Oath][oath]
-</span>
+{% for mentee in site.data.mentoring %}
+{% include mentee.html mentee=mentee %}
+{% endfor %}
 
 
 ## Grants and Funding

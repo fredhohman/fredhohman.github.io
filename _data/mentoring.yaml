@@ -1,0 +1,29 @@
+- name: Angel Cabrera
+  year: "Present —"
+  year-extra: Spring 2018
+  degree: "B.S. in Computer Science, Georgia Institute of Technology"
+  description: "Visualization for machine learning fairness, interactive classification for deep learning"
+  now-position: Software Engineering Intern
+  now-institution: Google
+  now-institution-url: https://www.google.com
+  url: http://cabreraalex.com/
+
+- name: Dezhi Fang
+  year: "Spring 2018 —"
+  year-extra: Fall 2016
+  degree: "B.S. in Computer Science, Georgia Institute of Technology"
+  description: Visual motif discovery
+  now-position: Software Development Engineer
+  now-institution: Airbnb
+  now-institution-url: https://www.airbnb.com
+  url: https://cv.andyfang.me/
+
+- name: Prasenjeet Biswal
+  year: "Spring 2018 —"
+  year-extra: Fall 2017
+  degree: "M.S. in Computer Science, Georgia Institute of Technology"
+  description: Deep learning attribution
+  now-position: Software Development Engineer
+  now-institution: Oath
+  now-institution-url: https://www.oath.com
+  url: https://www.linkedin.com/in/prasenjeetbiswal/
