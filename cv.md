@@ -100,26 +100,9 @@ Overall GPA: 3.84/4.00, Magna Cum Laude
 
 ## Industry Research Experience
 
-<span class="cv-left-date">Summer 2018</span>**[Microsoft Research][msr]**, Redmond, WA  
-*Research Intern, [Human-Computer Interaction Group][msr-hci]*  
-Mentor: [Steven Drucker][steven-drucker]  
-<span class="cv-description">
-Exploring how visual analytics can help users explain and interpret machine learning models.
-</span>
-
-<span class="cv-left-date">Summer 2017</span>**[NASA Jet Propulsion Lab][jpl]**, Pasadena, CA  
-*Creative Computer Scientist, [Human Interfaces Group][hi]*  
-Mentor: [Scott Davidoff][scott-davidoff], [Arun Viswanathan][arun]  
-<span class="cv-description">
-Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research.  
-</span>
-
-<span class="cv-left-date">Summer 2016</span>**[Pacific Northwest National Lab][pnnl]**, Richland, WA  
-*National Security Ph.D. Intern, [Data Sciences & Analytics Group][dsa]*  
-Mentor: [Nathan Hodas][nathan]  
-<span class="cv-description">
-Built visualization tools that generate images from deep neural networks to explain classifier's learned semantics.  
-</span>
+{% for experience in site.data.experiences %}
+{% include experience.html experience=experience %}
+{% endfor %}
 
 
 ## Academic Research Experience
