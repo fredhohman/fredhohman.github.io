@@ -1,0 +1,43 @@
+- name: OS
+  items:
+    - Mac OS X
+    - Ubuntu
+    - Unix Command Line
+    - Windows
+
+- name: Programming
+  items:
+    - Python
+    - Matlab
+    - Mathematica
+    - C
+
+- name: Web and Writing
+  items: 
+    - HTML
+    - CSS
+    - JavaScript
+    - D3
+    - SQL
+    - Bootstrap
+    - LaTeX
+    - Markdown
+    - Jekyll
+    - Git
+- name: Graphics
+  items: 
+  - Affinity Designer
+  - Pixelmator
+  - Matplotlib
+  - Blender
+  - Keynote
+  - Meshlab
+  - MakerBot Desktop  
+
+- name: HCI
+  items:
+  - Contextual Inquiry
+  - Think-Alouds
+  - User Personas
+  - Rapid Paper Prototyping
+  - Affinity Diagraming

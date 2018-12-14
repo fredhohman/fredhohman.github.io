@@ -170,15 +170,9 @@ In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
 
 ## Technology Skills
 
-**OS:** Mac OS X, Ubuntu, Unix Command Line, Windows  
-<span class="cv-spacer"></span>
-**Programming:** Python, Matlab, Mathematica, C  
-<span class="cv-spacer"></span>
-**Web:** HTML, CSS, JavaScript, D3, SQL, Bootstrap, LaTeX, Markdown, Jekyll, Git  
-<span class="cv-spacer"></span>
-**Graphics:** Affinity Designer, Pixelmator, Matplotlib, Blender, Keynote, Meshlab, MakerBot Desktop  
-<span class="cv-spacer"></span>
-**HCI:** Contextual Inquiry, Think-Alouds, User Personas, Rapid Paper Prototyping, Affinity Diagraming
+{% for skill in site.data.skills %}
+{% include skill.html skill=skill %}
+{% endfor %}
 
 
 ## Service
