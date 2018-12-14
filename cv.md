@@ -44,7 +44,7 @@ In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
 
 ***
 
-<div class="cover-wrapper">
+<!-- <div class="cover-wrapper">
 {% for paper in site.data.publications %}
 {% if paper.featured == true %}
 <div class="cover">
@@ -74,7 +74,7 @@ In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
 </div>
 {% endif %}
 {% endfor %}
-</div>	
+</div>	 -->
 
 
 
