@@ -257,23 +257,9 @@ Funded $1,000, Fall 2014
 
 ## Explorable Explanations
 
-<span class="cv-left-date">2018</span>**[Blueberry Pancakes][pancakes]**  
-[Caleb Robinson][caleb], [Fred Hohman][fred]  
-<span class="paper-misc">
-A toy algorithms problem
-</span>
-
-<span class="cv-left-date">2018</span>**[The Beginner's Guide to Dimensionality Reduction][18-dr-visxai]**  
-[Matthew Conlen][matt], [Fred Hohman][fred]  
-<span class="paper-misc">
-Explore the methods that data scientists use to visualize high-dimensional data, <span class="cv-award">*VISxAI Best Paper, Honorable Mention*</span>
-</span>
-
-<span class="cv-left-date">2018</span>**[The Math of Card Shuffling][card-shuffling]**  
-[Fred Hohman][fred]  
-<span class="paper-misc">
-Riffling from factory order to complete randomness, <span class="cv-award">*Top of Hacker News*</span>
-</span>
+{% for explorable in site.data.explorables %}
+{% include explorable.html explorable=explorable %}
+{% endfor %}
 
 
 ## Design

@@ -1,0 +1,17 @@
+<p>
+	<span class="cv-left-date">{{ explorable.month }} {{ explorable.year }}</span><a href="{{ explorable.url }}"><strong>{{ explorable.title }}</strong></a>
+	<br>
+	{% if explorable.authors %}
+	{% for person in explorable.authors %}
+	{% if forloop.last == false %}
+		{% include person.html person=person %},	
+	{% else if forloop.last == true %}
+		{% include person.html person=person %}
+	{% endif %}
+	{% endfor %}
+	<br>
+	{% endif %}
+	<span class="cv-description">
+		{{ explorable.description }}{% if explorable.award %}, <span class="cv-award"><i class="fas fa-star" aria-hidden="true"></i> {{ explorable.award }}</span>{% endif %}
+	</span>
+</p>
