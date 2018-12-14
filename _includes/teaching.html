@@ -1,0 +1,19 @@
+<p>
+	<span class="cv-left-date">{{ teach.year }}</span>{% if teach.class-url %}<a href="{{ teach.class-url }}"><strong>{{ teach.position }}</strong></a>{% else %}<strong>{{ teach.position }}</strong>{% endif %}
+	<br>
+	<i><a href="{{ teach.institution-url }}">{{ teach.institution }}</a>, {{ teach.location }}</i>
+	<br>
+	{% if teach.ta == true%}
+	<a href="{{ teach.class-url }}">{{ teach.class }}</a>,
+	Instructor: 
+	{% for person in teach.instructor %}
+	{% if forloop.last == false %}
+		{% include person.html person=person %},	
+	{% else if forloop.last == true %}
+		{% include person.html person=person %}
+	{% endif %}
+	{% endfor %}
+	<br>
+	{% endif %}
+	<span class="cv-description">{{ teach.description }}</span>
+</p>

@@ -145,24 +145,9 @@ Overall GPA: 3.84/4.00, Magna Cum Laude
 
 ## Teaching
 
-<span class="cv-left-date">Spring 2017</span>**[Graduate Teaching Assistant][cse-6242]**  
-*[Georgia Institute of Technology][gt], Atlanta, GA*  
-[Data and Visual Analytics (CSE6242 / CX4242)][cse-6242], Instructor: [Polo Chau][polo]  
-<span class="cv-description">
-Designed homeworks, held weekly office hours, and mentored student team projects for [Data and Visual Analytics (CSE6242 / CX4242)][cse-6242], a graduate course with 220+ students enrolled.
-</span>
-
-<span class="cv-left-date">2014 — 2015</span>**Student Notetaker**  
-*[University of Georgia][uga], Athens, GA*  
-<span class="cv-description">
-Generated notes for undergraduate mathematics and physics courses for students with disabilities.
-</span>
-
-<span class="cv-left-date">2012</span>**Tutor**  
-*[University of Georgia][uga], Athens, GA*  
-<span class="cv-description">
-Specialized in tutoring calculus to undergraduates.
-</span>
+{% for teach in site.data.teaching %}
+{% include teaching.html teach=teach %}
+{% endfor %}
 
 
 ## Mentoring
