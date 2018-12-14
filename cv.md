@@ -316,42 +316,22 @@ Created 3D printed UGA keychain and presentation notes given at Experience UGA: 
 **HCI:** Contextual Inquiry, Think-Alouds, User Personas, Rapid Paper Prototyping, Affinity Diagraming
 
 
-## Professional Activities
+## Service
 
-**Program Commitee**  
-ACM International Conference on Intelligent User Interfaces (**IUI**) 2019  
-<span class="cv-spacer"></span> 
-Symposium on Visualization in Data Science (**VDS**) at IEEE VIS 2018  
-<span class="cv-spacer"></span> 
-Workshop on Visualization for AI Explainability (**VISxAI**) at VIS 2018  
-<span class="cv-spacer"></span> 
-Workshop on Interactive Data Exploration and Analytics (**IDEA**) at KDD 2018
+<p style="margin-bottom: 0rem"><strong>Program Commitee</strong></p>
+{% for venue in site.data.pc %}
+{% include venue.html venue=venue %}
+{% endfor %}
 
-**Reviewer**  
-ACM Conference on Human Factors in Computing Systems (**CHI**) 2017, 2018, 2019
-<span class="cv-spacer"></span> 
-IEEE Visual Analytics Science and Technology (**VAST**) 2017, 2018  
-<span class="cv-spacer"></span> 
-1st Deep Learning and Security Workshop (**DLS**) at IEEE SP 2018  
-<span class="cv-spacer"></span> 
-Symposium on Visualization in Data Science (**VDS**) at IEEE VIS 2017  
-<span class="cv-spacer"></span>
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2017  
-<span class="cv-spacer"></span>
-IEEE International Conference on Distributed Computing Systems (**ICDCS**) 2017  
-<span class="cv-spacer"></span>
-SIAM International Conference on Data Mining (**SDM**) 2017  
+<p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Reviewer</strong></p>
+{% for venue in site.data.reviewer %}
+{% include venue.html venue=venue %}
+{% endfor %}
 
-**Member**  
-<span class="cv-left-date">2016 —</span>Association for Computing Machinery (**ACM**)  
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2016 —</span>Institute of Electrical and Electronics Engineers (**IEEE**)  
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2012 — 2015</span>UGA Mathematics Club  
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2012 — 2013</span>Society of Physics Students, UGA Chapter (**SPS**)  
-<span class="cv-spacer"></span>
-<span class="cv-left-date">2011 — 2015</span>National Society of Collegiate Scholars (**NSCS**)
+<p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Member</strong></p>
+{% for member in site.data.memberships %}
+{% include member.html member=member %}
+{% endfor %}
 
 
 ## References

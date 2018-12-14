@@ -1,0 +1,49 @@
+- venue: ACM Conference on Human Factors in Computing Systems
+  venue-shorthand: CHI
+  years:
+    - year: 2019
+      url: https://chi2019.acm.org
+    - year: 2018
+      url: https://chi2018.acm.org/
+    - year: 2017
+      url: https://chi2017.acm.org/
+
+- venue: IEEE Visual Analytics Science and Technology
+  venue-shorthand: VAST
+  years: 
+    - year: 2017
+      url: http://ieeevis.org/year/2017/welcome
+    - year: 2018
+      url: http://ieeevis.org/year/2018/welcome
+
+- venue: 1st Deep Learning and Security Workshop
+  venue-shorthand: DLS
+  venue-at: IEEE SP
+  years:
+    - year: 2018
+      url: https://www.ieee-security.org/TC/SPW2018/DLS/
+
+- venue: Symposium on Visualization in Data Science
+  venue-shorthand: VDS
+  venue-at: IEEE VIS
+  years:
+    - year: 2017  
+      url: http://www.visualdatascience.org/2017/
+
+- venue: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  venue-shorthand: KDD
+  years: 
+    - year: 2017
+      url: https://www.kdd.org/kdd2017/
+
+- venue: IEEE International Conference on Distributed Computing Systems
+  venue-shorthand: ICDCS
+  years: 
+    - year: 2017  
+      url: http://icdcs2017.gatech.edu/
+
+- venue: SIAM International Conference on Data Mining
+  venue-shorthand: SDM
+  years:
+    - year: 2017
+      url: https://archive.siam.org/meetings/sdm17/
