@@ -1,0 +1,27 @@
+- title: Understanding Deep Neural Networks Through Attribution and Interactive Experimentation
+  years: "2018 — 2021"
+  name: "NSTRF: NASA Space Technology Research Fellowship"
+  co-pis:
+    - Duen Horng (Polo) Chau
+  amount: "$75,000/year"
+  title-url: https://www.nasa.gov/strg/nstrf
+  name-url: https://www.nasa.gov/strg/nstrf
+
+- title: Deep Learning for Fine-scale Population Maps
+  years: "2017 — 2018"
+  name: "Microsoft Azure for Research Award: AI for Earth"
+  co-pis:
+    - Caleb Robinson
+    - Bistra Dilkina
+  amount: "$15,000"
+  title-url: https://deeppop.github.io
+  name-url: https://www.microsoft.com/en-us/ai-for-earth
+
+- title: 3D Printing the Trefoil Knot and its Pages
+  years: "Fall 2014"
+  name: UGA CURO Research Assistantship
+  co-pis:
+    - David Gay
+  amount: "$1,000"
+  title-url: /projects/3d-printing-the-trefoil-knot-and-its-pages
+  name-url: https://curo.uga.edu/students/curo_research_assistantship.html
