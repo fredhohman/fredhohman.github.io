@@ -219,11 +219,6 @@ Universe
 </span>
 
 
-[stuff-i-use]: {{ site.url }}/stuff-i-use "Stuff I Use."
-[monthly-music]: {{ site.url }}/monthly-music "Monthly Music."
-[photos]: {{ site.url }}/photos "Photos."
-[archive]: {{ site.url }}/archive
-
 [cv]: {{ site.url }}/cv.pdf "My CV."
 
 [poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science"
@@ -357,9 +352,6 @@ Universe
 
 [18-playground-arxiv]: {{ site.url }}/papers/graph-playground
 [18-playground-arxiv-pdf]: https://arxiv.org/pdf/1808.04414.pdf
-
-[18-dr-visxai]: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/
-[18-dr-visxai-github]: https://github.com/mathisonian/dimensionality-reduction
 
 [18-kcore-bigdata]: {{ site.url }}/papers/kcore
 [18-kcore-bigdata-pdf]: https://www.researchgate.net/publication/328874544_Scalable_K-Core_Decomposition_for_Static_Graphs_Using_a_Dynamic_Graph_Data_Structure
