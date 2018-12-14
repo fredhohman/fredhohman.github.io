@@ -80,20 +80,10 @@ In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
 
 ## Education
 
-<span class="cv-left-date">Present —</span>**Ph.D. in Computational Science & Engineering**  
-<span class="cv-left-date">Aug. 2015</span>*[Georgia Institute of Technology][gt], Atlanta, GA*  
-Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
-<!-- Minor: "User-Centered Design in Data Science"   -->
-Overall GPA: 4.00/4.00
 
-<span class="cv-left-date">May 2018</span>**M.S. in Computational Science & Engineering**  
-*[Georgia Institute of Technology][gt], Atlanta, GA*  
-
-<span class="cv-left-date">May 2015 —</span>**B.S. in Mathematics**, Area of Emphasis in Applied Mathematics  
-<span class="cv-left-date">Aug. 2011</span>**B.S. in Physics**  
-*[University of Georgia][uga], Athens, GA*   
-Thesis: ["3D Printing the Trefoil Knot and its Pages"][trefoil]  
-Overall GPA: 3.84/4.00, Magna Cum Laude
+{% for degree in site.data.education %}
+{% include degree.html degree=degree %}
+{% endfor %}
 
 
 ## Industry Research Experience

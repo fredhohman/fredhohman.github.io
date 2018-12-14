@@ -1,0 +1,11 @@
+<p>
+	<span class="cv-left-date">{{ degree.years }}</span><strong>{{ degree.degree }}</strong>
+	<br>
+	<span class="cv-left-date">{{ degree.years-extra }}</span><a href="{{ degree.institution-url }}">{{ degree.institution }}</a>, {{ degree.location }}
+	<br>
+	{% if degree.advisor %}Advisor: {% include person.html person=degree.advisor %}{% endif %}{% if degree.co-advisor %}, Co-advisor: {% include person.html person=degree.co-advisor %}<br>{% endif %}
+	{% for item in degree.description %}
+	{{ item }}
+	<br>
+	{% endfor %}
+</p>
