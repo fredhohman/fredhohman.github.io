@@ -159,28 +159,9 @@ Overall GPA: 3.84/4.00, Magna Cum Laude
 
 ## Grants and Funding
 
-<span class="cv-left-date">2018 — 2021</span>**[Understanding Deep Neural Networks Through Attribution and Interactive Experimentation][nstrf]**  
-*[NSTRF: NASA Space Technology Research Fellowship][nstrf]*  
-<span class="cv-description">
-Co-PIs: [Duen Horng Chau][polo]  
-Funded $75,000/year, August 2018 — May 2021
-</span>
-
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2017 — 2018</span>**[Deep Learning for Fine-scale Population Maps][17-deeppop-sigspatial]**  
-*Microsoft Azure for Research Award: AI for Earth*  
-<span class="cv-description">
-Co-PIs: [Caleb Robinson][caleb], [Bistra Dilkina][bistra]  
-Funded $15,000, August 2017 — August 2018
-</span>
-
-<span class="cv-spacer-award"></span>
-<span class="cv-left-date">2014</span>**[3D Printing the Trefoil Knot and its Pages][trefoil]**  
-*UGA CURO Research Assistantship*  
-<span class="cv-description">
-Co-PIs: [David Gay][gay]  
-Funded $1,000, Fall 2014
-</span>
+{% for fund in site.data.funding %}
+{% include fund.html fund=fund %}
+{% endfor %}
 
 
 ## Explorable Explanations
