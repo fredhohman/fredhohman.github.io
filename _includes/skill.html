@@ -1,0 +1,6 @@
+<p style="margin-bottom: 0.3rem">
+	<strong>{{ skill.name }}:</strong>
+	{% for item in skill.items %}
+	{{ item }}{% if forloop.last == false %},{% endif %}
+	{% endfor %}
+</p>
