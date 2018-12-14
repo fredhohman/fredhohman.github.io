@@ -1,3 +1,16 @@
+# - id: atlas
+#   title: "Atlas: Local Graph Exploration in a Global Context"
+#   authors:
+#     - James Abello
+#     - Fred Hohman
+#     - Varun Bezzam
+#     - Duen Horng (Polo) Chau
+#   venue: ACM Conference on Intelligent User Interfaces
+#   venue-shorthand: IUI
+#   location: Los Angeles, CA, USA
+#   year: 2019
+#   coming-soon: true
+
 - id: kcore
   title: "Scalable K-Core Decomposition for Static Graphs Using a Dynamic Graph Data Structure"
   authors:
