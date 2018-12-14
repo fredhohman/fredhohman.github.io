@@ -1,0 +1,26 @@
+- venue: ACM International Conference on Intelligent User Interfaces
+  venue-shorthand: IUI
+  years:
+    - year: 2019
+      url: http://iui.acm.org/2019/
+
+- venue: Symposium on Visualization in Data Science 
+  venue-shorthand: VDS
+  venue-at: IEEE VIS
+  years:
+    - year: 2018
+      url: http://www.visualdatascience.org/2018/index.html
+
+- venue: Workshop on Visualization for AI Explainability
+  venue-shorthand: VISxAI
+  venue-at: IEEE VIS
+  years:
+    - year: 2018
+      url: http://visxai.io/
+
+- venue: Workshop on Interactive Data Exploration and Analytics
+  venue-shorthand: IDEA
+  venue-at: KDD
+  years:
+    - year: 2018
+      url: http://poloclub.gatech.edu/idea2018/
