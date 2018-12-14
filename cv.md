@@ -28,10 +28,6 @@ My research applies a human-centered approach to designing and developing intera
 I also write, design, and build explorable explanations, dynamic expositions, and **<span class="cv-vis">interactive data visualizations</span>** that illustrate complex ideas simply and tangibly.
 </span>
 
- <!-- via **<span class="cv-vis">data visualization</span>**. -->
-
-<!-- <span class="cv-vis"> -->
-
 <span class="cv-max-width">
 In 2018 I received the [NASA Space Technology Research Fellowship][nstrf]. 
 </span>
@@ -48,17 +44,18 @@ In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
 
 ***
 
-<!-- <div class="cover-wrapper">
-{% for paper in site.data.papers %}
+<div class="cover-wrapper">
+{% for paper in site.data.publications %}
+{% if paper.featured == true %}
 <div class="cover">
     <div class="cover-top">
-    <a href="{{ paper.paper-home }}" target="_blank">
+    <a href="{{ paper.url }}" target="_blank">
         <div class="cover-title">
-            {{ paper.brand }}
+            {{ paper.id }}
         </div>
         </a>
         <div class="cover-subtitle">
-            {{ paper.tagline }}
+            {{ paper.title }}
         </div>
     </div>
     <div class="cover-authors">
@@ -75,8 +72,9 @@ In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
     </div>
 
 </div>
+{% endif %}
 {% endfor %}
-</div>	 -->
+</div>	
 
 
 
@@ -101,40 +99,19 @@ Overall GPA: 3.84/4.00, Magna Cum Laude
 ## Industry Research Experience
 
 {% for experience in site.data.experiences %}
+{% if experience.type == 'industry' %}
 {% include experience.html experience=experience %}
+{% endif %}
 {% endfor %}
 
 
 ## Academic Research Experience
 
-<span class="cv-left-date">Present —</span>**[Georgia Institute of Technology][gt]**, Atlanta, GA  
-<span class="cv-left-date">Aug. 2016</span>*Graduate Research Assistant, [School of Computational Science and Engineering][cse]*  
-Advisor: [Polo Chau][polo], Co-advisor: [Alex Endert][alex]  
-<span class="cv-description">
-Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data.
-</span>
-
-<span class="cv-left-date">May 2016 —</span>**[Georgia Institute of Technology][gt]**, Atlanta, GA  
-<span class="cv-left-date">Aug. 2015</span>*Graduate Research Assistant, [School of Computational Science and Engineering][cse]*  
-Mentor: [Surya Kalidindi][sk]  
-<span class="cv-description">
-Conducted research in physical data science and material informatics by creating property-structure linkages using machine learning to predict material properties.
-Contributed to direction and code of PyMKS: Materials Knowledge Systems in Python.  
-</span>
-
-<span class="cv-left-date">May 2015 —</span>**[University of Georgia][uga]**, Athens, GA  
-<span class="cv-left-date">Jan. 2013</span>*Undergraduate Research Assistant, [Department of Mathematics][ugamath]*  
-Advisor: [David Gay][gay]  
-<span class="cv-description">
-Explored 3D printing and mathematical exposition in topology. Programmed, designed, and 3D printed 34-piece, color-coordinated, and magnetized 3D puzzle of the trefoil knot fibration. Led 3D printing research and education in mathematics department.  
-</span>
-
-<span class="cv-left-date">Summer 2014</span>**[REU in Mathematics and Computational Science][fairfield]**  
-*[Fairfield University][fairfield], Department of Mathematics, Fairfield, CT*  
-Mentor: [Shanon Reckinger][sr]  
-<span class="cv-description">
-Directly compared numerical solutions derived from the Navier-Stokes equations to designed experiments performed at the lab-scale to model specific ocean phoneme. Configured MIT General Circulation Model on a linux computer cluster to run parallel computational fluid dynamics simulations.
-</span>
+{% for experience in site.data.experiences %}
+{% if experience.type == 'academic' %}
+{% include experience.html experience=experience %}
+{% endif %}
+{% endfor %}
 
 
 ## Honors and Awards

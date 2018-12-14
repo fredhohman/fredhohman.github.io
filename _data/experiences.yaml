@@ -5,9 +5,10 @@
   year: Summer 2018
   mentors:
     - Steven Drucker
-  description: Exploring how visual analytics can help users explain and interpret machine learning models
+  description: "Exploring how visual analytics can help users explain and interpret machine learning models."
   institution-url: https://www.microsoft.com/en-us/research
   group-url: https://www.microsoft.com/en-us/research/group/human-computer-interaction
+  type: industry
 
 - institution: NASA Jet Propulsion Lab
   location: "Pasadena, CA"
@@ -17,9 +18,10 @@
   mentors:
     - Scott Davidoff
     - Arun Viswanathan
-  description: "Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research"
+  description: "Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research."
   institution-url: https://www.jpl.nasa.gov
   group-url: https://www.hi.jpl.nasa.gov
+  type: industry
 
 - institution: Pacific Northwest National Lab
   location: "Richland, WA"
@@ -28,6 +30,61 @@
   year: Summer 2016
   mentors:
     - Nathan Hodas
-  description: Built interactive visualization tools that generate images from deep neural networks to explain classifier's learned semantics
+  description: "Built interactive visualization tools that generate images from deep neural networks to explain classifier's learned semantics."
   institution-url: https://www.pnnl.gov
   group-url: http://www.pnnl.gov/nationalsecurity/technical/capabilities/computing/data_sciences.stm
+  type: industry
+
+- institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  position: Graduate Research Assistant
+  group: School of Computational Science and Engineering
+  year: "Present —"
+  year-extra: "Aug. 2016"
+  mentors: 
+    - Duen Horng (Polo) Chau
+    - Alex Endert
+  advisor: true
+  description: "Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data."
+  institution-url: http://gatech.edu
+  group-url: http://cse.gatech.edu
+  type: academic
+
+- institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  position: Graduate Research Assistant
+  group: School of Computational Science and Engineering
+  year: "May 2016 —"
+  year-extra: "Aug. 2015"
+  mentors:
+    - Surya Kalidindi
+  description: "Conducted research in physical data science and material informatics by creating property-structure linkages using machine learning to predict material properties. Contributed to direction and code of PyMKS: Materials Knowledge Systems in Python."
+  institution-url: http://gatech.edu
+  group-url: http://cse.gatech.edu
+  type: academic
+
+- institution: University of Georgia
+  location: "Athens, GA"
+  position: Undergraduate Research Assistant
+  group: Department of Mathematics
+  year: "May 2015 —"
+  year-extra: "Jan. 2013"
+  mentors:
+    - David Gay
+  advisor: true
+  description: "Explored 3D printing and mathematical exposition in topology. Programmed, designed, and 3D printed 34-piece, color-coordinated, and magnetized 3D puzzle of the trefoil knot fibration. Led 3D printing research and education in mathematics department."
+  institution-url: http://www.uga.edu
+  group-url: http://math.uga.edu
+  type: academic
+
+- institution: REU in Mathematics and Computational Science
+  location: "Fairfield, CT"
+  position: Fairfield University
+  group: Department of Mathematics
+  year: Summer 2014
+  mentors:
+    - Shanon Reckinger
+  description: "Directly compared numerical solutions derived from the Navier-Stokes equations to designed experiments performed at the lab-scale to model specific ocean phoneme. Configured MIT General Circulation Model on a linux computer cluster to run parallel computational fluid dynamics simulations."
+  institution-url: http://faculty.fairfield.edu/srafalski/reu/
+  group-url: https://www.fairfield.edu/undergraduate/academics/schools-and-colleges/college-of-arts-and-sciences/programs/mathematics/
+  type: academic

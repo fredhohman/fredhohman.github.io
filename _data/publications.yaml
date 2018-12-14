@@ -38,7 +38,7 @@
     }
   icon: deepvis.png
   tagline: An Interrogative Survey for the Next Frontiers
-  highlight: true
+  featured: true
 
 - id: dr
   title: "The Beginner's Guide to Dimensionality Reduction"
@@ -91,6 +91,7 @@
   code: https://github.com/poloclub/jpeg-defense
   video: https://www.youtube.com/watch?v=zUB2-i7rSb4
   award: Audience Appreciation Award, Runner Up
+  featured: true
 
 - id: graph-playground
   title: Large Graph Exploration via Subgraph Discovery and Decomposition
@@ -133,6 +134,7 @@
   pdf: /papers/17-deeppop-sigspatial.pdf
   code: https://github.com/deeppop/
   award: Microsoft AI for Earth Award
+  featured: true
 
 - id: vigor
   title: "VIGOR: Interactive Visual Exploration of Graph Query Results"
@@ -286,6 +288,7 @@
       year={2017},
       organization={ACM}
     }
+  featured: true
 
 - id: reu
   title: Experimental and Numerical Comparison of Oceanic Overflow
