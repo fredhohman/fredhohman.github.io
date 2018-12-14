@@ -1,0 +1,43 @@
+- title: The Parametric Press
+  description: "An experimental, born-digital magazine dedicated to showcasing the expository power that’s possible when the audio, visual, and interactive capabilities of dynamic media are effectively combined"
+  year: "2018 —"
+  url: https://parametric.press/
+
+- title: Blueberry Pancakes
+  authors:
+    - Caleb Robinson
+    - Fred Hohman
+  description: A toy algorithms problem
+  month: "Nov."
+  year: 2018
+  url: https://idyll.pub/post/blueberry-pancakes-28b1a2e1a8986c44ac091f08
+
+- title: "The Beginner's Guide to Dimensionality Reduction"
+  authors: 
+    - Matthew Conlen
+    - Fred Hohman
+  description: "Explore the methods that data scientists use to visualize high-dimensional data"
+  month: July
+  year: 2018
+  url: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d
+  award: VISxAI Best Paper, Honorable Mention
+
+- title: The Math of Card Shuffling
+  authors:
+    - Fred Hohman
+  description: "Riffling from factory order to complete randomness"
+  month: June
+  year: 2018
+  url: https://fredhohman.com/card-shuffling 
+  award: Top of Hacker News
+
+- title: A Viz of Ice and Fire
+  authors:
+    - Fred Hohman
+    - Sandeep Soni
+    - Ian Stewart
+    - John Stasko
+  description: "Exploring and visualizing Game of Thrones using color and dialogue"
+  month: "Oct."
+  year: 2017
+  url: https://fredhohman.com/a-viz-of-ice-and-fire/
