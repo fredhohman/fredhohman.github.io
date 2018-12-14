@@ -173,29 +173,9 @@ Overall GPA: 3.84/4.00, Magna Cum Laude
 
 ## Design
 
-<span class="cv-left-date">2017 — 2018</span>**IDEA Workshop Proceedings Cover ([2017][idea2017], [2018][idea2018])**  
-*ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (IDEA)*  
-<span class="cv-description">
-Designed workshop poster and conference proceedings cover.
-</span>  
-
-<span class="cv-left-date">2017</span>**[Brad Myers Advisee Tree][brad-myers-tree]**  
-*ACM Conference on Human Factors in Computing Systems (CHI), Denver, USA*  
-<span class="cv-description">
-Designed and implemented an interactive visualization of Brad Myers's advisee tree shown during his CHI 2017 Lifetime Research Award talk. Designed accompanying ribbon worn by attendees at the conference.
-</span>  
-
-<span class="cv-left-date">Aug. 2014</span>**[3D Printed Cube Decomposition Trophy][trophy]**  
-*University of Georgia Mathematics Department, Athens, USA*  
-<span class="cv-description">
-Designed, modeled, and 3D printed cube decomposition trophy for annual UGA High School Math Tournament that was given to the top scoring teams and participants.
-</span>  
-
-<span class="cv-left-date">Aug. 2014</span>**[3D Printed UGA Keychain][keychain]**  
-*University of Georgia Lamar Dodd School of Art, Athens, USA*  
-<span class="cv-description">
-Created 3D printed UGA keychain and presentation notes given at Experience UGA: a interdisciplinary event that exposes middle-school and high-school students to hands-on learning activities.
-</span>  
+{% for design in site.data.designs %}
+{% include design.html design=design %}
+{% endfor %}
 
 
 ## Technology Skills
