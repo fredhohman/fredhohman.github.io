@@ -1,0 +1,24 @@
+- institution: Georgia Institute of Technology
+  position: Graduate Teaching Assistant
+  location: "Atlanta, GA"
+  year: Spring 2017
+  class: "Data and Visual Analytics (CSE6242 / CX4242)"
+  instructor: Duen Horng (Polo) Chau
+  description: "Designed homeworks, held weekly office hours, and mentored student team projects for Data and Visual Analytics (CSE6242 / CX4242), a graduate course with 225+ students enrolled."
+  institution-url: http://gatech.edu
+  class-url: http://poloclub.gatech.edu/cse6242/2017spring
+  ta: true
+
+- institution: University of Georgia
+  position: Student Notetaker
+  location: "Athens, GA"
+  year: "2014 — 2015"
+  description: "Generated notes for undergraduate mathematics and physics courses for students with disabilities."
+  ta: false
+
+- institution: University of Georgia
+  position: Tutor
+  location: "Athens, GA"
+  year: "2012"
+  description: "Specialized in tutoring calculus to undergraduates."
+  ta: false
