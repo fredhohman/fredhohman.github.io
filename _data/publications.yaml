@@ -13,6 +13,7 @@
   feature-title: Atlas
   feature-description: Local graph exploration in a global context
   image: /images/featured/atlas.png
+  feature-order: 1
   featured: true
 
 - id: kcore
@@ -58,6 +59,7 @@
   image: /images/featured/deepvis.png
   feature-title: Visual Analytics in Deep Learning
   feature-description: An interrogative survey for the next frontiers
+  feature-order: 2
   featured: true
 
 - id: dr
@@ -114,6 +116,7 @@
   image: /images/featured/shield.png
   feature-title: Shield
   feature-description: "Fast, practical defense and vaccination for deep learning using JPEG compression"
+  feature-order: 3
   featured: true
 
 - id: graph-playground
@@ -160,7 +163,8 @@
   award: Microsoft AI for Earth Award
   image: /images/featured/deeppop-3.png
   feature-title: Deep Population
-  feature-description: A deep learning approach for population sstimation from satellite imagery
+  feature-description: A deep learning approach for population estimation from satellite imagery
+  feature-order: 4
   featured: true
 
 - id: vigor
