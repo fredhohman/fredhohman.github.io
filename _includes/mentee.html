@@ -1,7 +1,7 @@
 <p>
-	<span class="cv-left-date">{{ mentee.year }}</span><a href="{{ mentee.url }}"><strong>{{ mentee.name }}</strong></a>
+	<span class="cv-left-date">{{ mentee.year }}</span>{% if mentee.year-extra %}<span class="cv-left-date-mobile">{{ mentee.year-extra }}</span>{% endif %}<a href="{{ mentee.url }}"><strong>{{ mentee.name }}</strong></a>
 	<br>
-	<span class="cv-left-date">{{ mentee.year-extra }}</span><i>{{ mentee.degree }}</i>
+	<span class="cv-left-date-extra">{{ mentee.year-extra }}</span><i>{{ mentee.degree }}</i>
 	<br>
 	<span class="cv-description">{{ mentee.description }}</span>
 	<br>

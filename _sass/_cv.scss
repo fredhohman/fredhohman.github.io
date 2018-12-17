@@ -71,7 +71,7 @@
 	color: #2196F3;
 }
 
-#cv .cv-left-date {
+#cv .cv-left-date, #cv .cv-left-date-extra, #cv .cv-left-date-mobile {
 	margin-left: -5rem;
 	// text-align: right;
 	width: 5rem;
@@ -81,6 +81,10 @@
 	margin-bottom:0;
 	margin-right:0;
 	padding:0;
+}
+
+#cv .cv-left-date-mobile {
+	display: none;
 }
 
 .cv-spacer {
@@ -162,6 +166,34 @@
 	border-radius: 4px;
 }
 
+@media screen and (max-width: $on-laptop) {
+
+}
+
+@media screen and (max-width: $on-phone) {
+#cv h1, #cv h2, #cv h3, #cv h4, #cv h5, #cv h6, #cv p, #cv blockquote, #cv ul, #cv ol, #cv dl, #cv table, #cv time, #cv .message, #cv .highlight, #cv .gist-file, #cv .pagination, hr{
+	margin-left: 0;
+}
+#cv .cv-left-date {
+	margin-left: 0;
+	display: block;
+	width: 100%;
+}
+
+#cv .cv-left-date-extra {
+	margin-left: 0;
+	display: block;
+	width: 100%;
+	display: none;
+}
+
+#cv .cv-left-date-mobile {
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+
+}
 
 ////////////////////////////////////////////
 // experiement with centering title of cv //

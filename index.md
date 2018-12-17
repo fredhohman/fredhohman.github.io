@@ -3,53 +3,118 @@ layout: home
 title: Home
 ---
 
-# Hello, I'm Frederick.
-*But you can call me Fred. Nice to meet you.*
+<h1 class="intro-title">Hello, I'm Fred Hohman.</h1>
+<!-- *But you can call me Fred. Nice to meet you.* -->
 
 <!-- {% include nav.html %} -->
 
-I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex]. 
+<div class="intro">
+	
+	<div class="intro-text">
+		<p markdown="1">
+		I’m a Ph.D. student in the [College of Computing][coc] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex]. 
+		</p>
+		<p markdown="1">
+		My research applies a human-centered approach to designing and developing interactive interfaces that help people understand and explain **machine learning models**.
+		I also write, design, and build explorable explanations, dynamic expositions, and **interactive data visualizations** that illustrate complex ideas simply and tangibly.
+		</p>
+		<p markdown="1">
+		I have worked at Microsoft Research, NASA Jet Propulsion Laboratory, and Pacific Northwest National Laboratory.
+		</p>
+		<p markdown="1">
+		<!-- <img style="display:inline; width:25px; vertical-align: middle" src="/images/nasa.png"> -->
+		I am a 2018 [NASA Space Technology Research Fellow][nstrf].
+		</p>
+	</div>
 
-My research applies a human-centered approach to designing and developing interactive interfaces that help people understand and explain **machine learning models**.
-I also write, design, and build explorable explanations, dynamic expositions, and **interactive data visualizations** that illustrate complex ideas simply and tangibly.
+	<div class="intro-image">
+	  <img src="/images/me7.jpg" style="border-radius: 2px;">
+	  <p style="padding-left: 10px; padding-right: 10px; padding-top: 10px">
+		<a style="color: #515151 !important" href="https://twitter.com/fredhohman"><img class="social-icon" src="/images/footer/twitter-color.svg">@fredhohman</a>
+		<br>
+		<a style="color: #515151 !important" href="https://github.com/fredhohman"><img class="social-icon" src="/images/footer/github-color.svg">github.com/fredhohman</a>
+		<br>
+		<a style="color: #515151 !important" href="https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en&oi=ao"><img class="social-icon" src="/images/footer/graduation-color.svg">Google Scholar</a>
+	  </p>
 
-In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
+	<!-- <hr style="margin-left:0; margin-top: 15px; margin-bottom: 15px"> -->
 
-When I’m not at my desk crunching numbers, I enjoy playing music, throwing frisbee, and riding motorcycles.  
+	
+		<div class="intro-cv-wrapper">
+		<span class="intro-cv" markdown="1">
+		Here's my [CV][cv].
+		</span>
+		</div>
+	
+
+	</div>
+
+</div>
 
 <div style="padding-top:15px;" ></div>
 
-<span class="message">
+<!-- <span class="message">
 Here's my [CV][cv].
-</span>
-
-<!-- <span>
-	<button><a href="{{ site.baseful }}/cv">CV</a></button>
-	<button><a href="{{ site.baseful }}/projects">Projects</a></button>
-	<button><a href="{{ site.baseful }}/blog">Blog</a></button>
-	<button><a href="{{ site.baseful }}/other">Other</a></button>
 </span> -->
 
 
-<figure>
-  <img class="full" src="/images/me6.jpg" alt="That's me.">
-</figure>
 
-<!-- # [About][about] -->
-<!-- I'm an [INTJ][intj] born on the coast in Melbourne, Florida but currently live in Midtown in Atlanta, Georgia.  -->
-<!-- I’m interested in the combination of math + art, or more specifically, the intersection of **data science** (machine learning, deep learning, and big data analytics) and **visualization** (visual analytics, information visualization, and digital design). -->
+<!-- <div class="cover-wrapper-double"> -->
 
-<!-- Considered by my family and peers to be a resident techie, I enjoy staying current with consumer technology and computer UI/UX design. -->
-<!-- When I’m not at my desk crunching numbers, I enjoy playing and discovering music, throwing frisbee, and riding motorcycles. -->
 
-# [Projects][projects]
+<!-- <div class="cover-warpper-with-title"> -->
+<!-- <hr class="hr-text" data-content="Featured Publications"> -->
+
+<h2 style="margin-left:20px;">Featured Publications</h2>
+<div class="cover-wrapper">
+<!-- 	<div class="cover-side">
+		<strong>Feature Research Publications</strong>
+	</div> -->
+{% assign sortedPublications = site.data.publications | sort: 'feature-order' %}
+{% for feature in sortedPublications %}
+{% if feature.featured == true %}
+
+{% include feature.html feature=feature %}
+
+{% endif %}
+{% endfor %}
+</div>	
+
+<!-- </div> -->
+
+<!-- <div style="border-left:1px solid #cccccc;height:750px;"></div> -->
+
+
+<!-- <div class="cover-warpper-with-title"> -->
+<!-- <hr class="hr-text" data-content="Featured Explorable Explanations"> -->
+<h2 style="margin-left:20px;">Featured Explorable Explanations</h2>
+
+<div class="cover-wrapper">
+{% assign sortedExplorables = site.data.explorables | sort: 'feature-order' %}
+{% for feature in sortedExplorables %}
+{% if feature.featured == true %}
+
+{% include feature.html feature=feature %}
+
+{% endif %}
+{% endfor %}
+<!-- </div> -->
+</div>
+
+
+<!-- </div> -->
+
+
+
+
+<!-- # [Projects][projects]
 Things I do, including research, academic course projects, and miscellaneous interests.
 
 # [Blog][blog]
 Things I think about, read, and write.
 
 # [Other][other]
-Everything else.
+Everything else. -->
 
 <!-- {% for page in site.pages %}
 <article class="post" style="margin-bottom:1em;">
