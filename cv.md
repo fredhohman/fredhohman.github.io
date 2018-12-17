@@ -4,7 +4,6 @@ title: CV
 permalink: cv/
 ---
 
-
 # Fred Hohman
 <span class="cv-subtitle">
 *<span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher*
@@ -43,39 +42,6 @@ In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
 <time datetime="{{ site.time | date: "%B %-d, %Y" }}" class="post-date">Updated: {{ site.time | date: "%B %d, %Y" }}</time>
 
 ***
-
-<!-- <div class="cover-wrapper">
-{% for paper in site.data.publications %}
-{% if paper.featured == true %}
-<div class="cover">
-    <div class="cover-top">
-    <a href="{{ paper.url }}" target="_blank">
-        <div class="cover-title">
-            {{ paper.id }}
-        </div>
-        </a>
-        <div class="cover-subtitle">
-            {{ paper.title }}
-        </div>
-    </div>
-    <div class="cover-authors">
-        {{ paper.authors }}
-    </div>
-
-    <div class="cover-footer-wrapper">
-        <div class="cover-venue">
-            {{ paper.venue-shorthand }}
-        </div>
-        <div class="cover-year">
-            {{ paper.year }}
-        </div>
-    </div>
-
-</div>
-{% endif %}
-{% endfor %}
-</div>	 -->
-
 
 
 ## Education
