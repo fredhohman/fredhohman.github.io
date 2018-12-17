@@ -3,6 +3,10 @@
   year: "Present —"
   year-extra: "Dec. 2018"
   url: https://parametric.press/
+  image: /images/featured/parametric-press.png
+  feature-title: Parametric Press
+  feature-description: "A born-digital magazine showcasing the expository power of the web"
+  featured: true
 
 - title: Blueberry Pancakes
   authors:
@@ -12,6 +16,11 @@
   month: "Nov."
   year: 2018
   url: https://idyll.pub/post/blueberry-pancakes-28b1a2e1a8986c44ac091f08
+  image: /images/featured/blueberry-pancakes.png
+  feature-title: Blueberry Pancakes
+  feature-description: A breakfast-themed toy algorithms problem
+  code: https://github.com/fredhohman/blueberry-pancakes
+  featured: true
 
 - title: "The Beginner's Guide to Dimensionality Reduction"
   authors: 
@@ -22,6 +31,11 @@
   year: 2018
   url: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d
   award: VISxAI Best Paper, Honorable Mention
+  image: /images/featured/dimensionality-reduction.png
+  feature-title: Dimensionality Reduction
+  feature-description: "Explore the methods that data scientists use to visualize high-dimensional data"
+  code: https://github.com/mathisonian/dimensionality-reduction
+  featured: true
 
 - title: The Math of Card Shuffling
   authors:
@@ -31,6 +45,11 @@
   year: 2018
   url: https://fredhohman.com/card-shuffling 
   award: Top of Hacker News
+  image: /images/featured/card-shuffling.png
+  feature-title: The Math of Card Shuffling
+  feature-description: Riffling from factory order to complete randomness
+  code: https://github.com/fredhohman/card-shuffling
+  featured: true
 
 - title: A Viz of Ice and Fire
   authors:
@@ -42,3 +61,4 @@
   month: "Oct."
   year: 2017
   url: https://fredhohman.com/a-viz-of-ice-and-fire/
+  code: https://github.com/fredhohman/a-viz-of-ice-and-fire

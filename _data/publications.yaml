@@ -1,15 +1,19 @@
-# - id: atlas
-#   title: "Atlas: Local Graph Exploration in a Global Context"
-#   authors:
-#     - James Abello
-#     - Fred Hohman
-#     - Varun Bezzam
-#     - Duen Horng (Polo) Chau
-#   venue: ACM Conference on Intelligent User Interfaces
-#   venue-shorthand: IUI
-#   location: Los Angeles, CA, USA
-#   year: 2019
-#   coming-soon: true
+- id: atlas
+  title: "Atlas: Local Graph Exploration in a Global Context"
+  authors:
+    - James Abello
+    - Fred Hohman
+    - Varun Bezzam
+    - Duen Horng (Polo) Chau
+  venue: ACM Conference on Intelligent User Interfaces
+  venue-shorthand: IUI
+  location: Los Angeles, CA, USA
+  year: 2019
+  coming-soon: true
+  feature-title: Atlas
+  feature-description: Local graph exploration in a global context
+  image: /images/featured/atlas.png
+  featured: true
 
 - id: kcore
   title: "Scalable K-Core Decomposition for Static Graphs Using a Dynamic Graph Data Structure"
@@ -22,7 +26,7 @@
   venue-shorthand: Big Data
   location: Seattle, WA, USA
   year: 2018
-  link: "/papers/kcore"
+  url: "/papers/kcore"
   pdf: "https://www.researchgate.net/publication/328874544_Scalable_K-Core_Decomposition_for_Static_Graphs_Using_a_Dynamic_Graph_Data_Structure"
 
 - id: deepvis
@@ -36,7 +40,7 @@
   venue-shorthand: TVCG
   location: Berlin, Germany
   year: 2018
-  link: https://fredhohman.com/visual-analytics-in-deep-learning
+  url: https://fredhohman.com/visual-analytics-in-deep-learning
   pdf: https://arxiv.org/abs/1801.06889
   code: https://github.com/fredhohman/visual-analytics-in-deep-learning
   video: https://youtu.be/TI_sXHt2d8s
@@ -51,6 +55,9 @@
     }
   icon: deepvis.png
   tagline: An Interrogative Survey for the Next Frontiers
+  image: /images/featured/deepvis.png
+  feature-title: Visual Analytics in Deep Learning
+  feature-description: An interrogative survey for the next frontiers
   featured: true
 
 - id: dr
@@ -62,7 +69,7 @@
   venue-shorthand: VISxAI
   location: Berlin, Germany
   year: 2018  
-  link: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/
+  url: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/
   code: https://github.com/mathisonian/dimensionality-reduction
   award: Best Paper, Honorable Mention
 
@@ -80,7 +87,7 @@
   venue: ACM KDD 2018 Project Showcase
   location: London, UK
   year: 2018
-  link: /papers/compression
+  url: /papers/compression
   pdf: http://nilakshdas.com/papers/18-compression-kdd.pdf
   code: https://github.com/poloclub/jpeg-defense
 
@@ -99,11 +106,14 @@
   venue-shorthand: KDD
   location: London, UK
   year: 2018
-  link: /papers/shield
+  url: /papers/shield
   pdf: https://arxiv.org/abs/1802.06816
   code: https://github.com/poloclub/jpeg-defense
   video: https://www.youtube.com/watch?v=zUB2-i7rSb4
   award: Audience Appreciation Award, Runner Up
+  image: /images/featured/shield.png
+  feature-title: Shield
+  feature-description: "Fast, practical defense and vaccination for deep learning using JPEG compression"
   featured: true
 
 - id: graph-playground
@@ -115,7 +125,7 @@
     - Duen Horng (Polo) Chau
   venue: arXiv:1808.04414
   year: 2018
-  link: /papers/graph-playground 
+  url: /papers/graph-playground 
   pdf: https://arxiv.org/pdf/1808.04414.pdf
 
 - id: ie
@@ -129,7 +139,7 @@
   venue-shorthand: CVPR
   location: Salt Lake City, UT, USA
   year: 2018
-  link: /papers/interactive-classification
+  url: /papers/interactive-classification
   pdf: /papers/18-interactive-cvpr.pdf
   video: https://youtu.be/llub5GcOF6w
   code: https://github.com/poloclub/interactive-classification
@@ -141,12 +151,16 @@
     - Fred Hohman
     - Bistra Dilkina
   venue: 1st ACM SIGSPATIAL Workshop on Geospatial Humanities
+  venue-shorthand: GeoHum.
   location: Redondo Beach, CA, USA
   year: 2017
-  link: https://deeppop.github.io
+  url: https://deeppop.github.io
   pdf: /papers/17-deeppop-sigspatial.pdf
   code: https://github.com/deeppop/
   award: Microsoft AI for Earth Award
+  image: /images/featured/deeppop-3.png
+  feature-title: Deep Population
+  feature-description: A deep learning approach for population sstimation from satellite imagery
   featured: true
 
 - id: vigor
@@ -164,7 +178,7 @@
   venue-shorthand: Proc. VAST
   location: Phoenix, AZ, USA
   year: 2018
-  link: /papers/vigor
+  url: /papers/vigor
   pdf: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
   video: https://www.youtube.com/watch?v=-jeck0yrT_Q&index=3&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
   preview: https://vimeo.com/groups/480818/videos/230830163
@@ -179,7 +193,7 @@
   venue-shorthand: VAST
   location: Phoenix, AZ, USA
   year: 2017
-  link: https://fredhohman.com/papers/playground
+  url: https://fredhohman.com/papers/playground
   pdf: https://fredhohman.com/papers/17-playground-vast.pdf
   video: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
   poster: https://fredhohman.com/papers/17-playground-vast-poster.pdf
@@ -203,7 +217,7 @@
   venue-shorthand: VIS4DH
   location: Phoenix, AZ, USA
   year: 2017
-  link: https://fredhohman.com/a-viz-of-ice-and-fire/
+  url: https://fredhohman.com/a-viz-of-ice-and-fire/
   pdf: /papers/17-got-vis4dh.pdf
   code: https://github.com/fredhohman/a-viz-of-ice-and-fire
   data: https://github.com/fredhohman/a-viz-of-ice-and-fire/tree/master/vis/data
@@ -223,7 +237,7 @@
   venue-shorthand: Ubicomp
   location: Maui, HI, USA
   year: 2017
-  link: /papers/dashboard
+  url: /papers/dashboard
   pdf: /papers/17-dashboard-ubicomp.pdf
   video: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
   poster: https://fredhohman.com/papers/17-dashboard-ubicomp-poster.pdf
@@ -249,7 +263,7 @@
     - Duen Horng (Polo) Chau
   venue: arXiv:1705.02900
   year: 2017
-  link: /papers/defense
+  url: /papers/defense
   pdf: https://arxiv.org/abs/1705.02900
   code: https://github.com/poloclub/jpeg-defense
 
@@ -267,7 +281,7 @@
   venue-shorthand: "SIGMOD/PODS"
   location: Chicago, IL, USA
   year: 2017
-  link: /papers/visage
+  url: /papers/visage
   pdf: https://www.cc.gatech.edu/~dchau/papers/17-sigmod-visage.pdf
   video: https://www.youtube.com/watch?v=l2L7Y5mCh1s&index=2&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
   poster: http://www.cc.gatech.edu/~rpienta3/data/posters/17-sigmod-visage-poster.pdf
@@ -287,7 +301,7 @@
   tagline: Understanding Deep Learning Representations via Interactive Experimentation
   pdf: "https://fredhohman.com/papers/17-shapeshop-chi.pdf"
   acm: "https://dl.acm.org/citation.cfm?id=3027063.3053103"
-  link: "https://fredhohman.com/papers/shapeshop"
+  url: "https://fredhohman.com/papers/shapeshop"
   video: "https://www.youtube.com/watch?v=wRX1xEdrD1g"
   code: "https://www.github.com/fredhohman/shapeshop"
   poster: "https://fredhohman.com/papers/17-shapeshop-chi-poster.pdf"
@@ -301,7 +315,7 @@
       year={2017},
       organization={ACM}
     }
-  featured: true
+  image: /images/featured/test.png
 
 - id: reu
   title: Experimental and Numerical Comparison of Oceanic Overflow
@@ -315,5 +329,5 @@
   venue-shorthand: APS DFD
   location: San Francisco, CA, USA
   year: 2014
-  link: /projects/mathematics-&-computational-science-reu
+  url: /projects/mathematics-&-computational-science-reu
   poster: /assets/reu_poster.pdf
