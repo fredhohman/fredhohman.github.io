@@ -6,6 +6,7 @@
   image: /images/featured/parametric-press.png
   feature-title: Parametric Press
   feature-description: "A born-digital magazine showcasing the expository power of the web"
+  feature-order: 1
   featured: true
 
 - title: Blueberry Pancakes
@@ -20,6 +21,7 @@
   feature-title: Blueberry Pancakes
   feature-description: A breakfast-themed toy algorithms problem
   code: https://github.com/fredhohman/blueberry-pancakes
+  feature-order: 4
   featured: true
 
 - title: "The Beginner's Guide to Dimensionality Reduction"
@@ -35,6 +37,7 @@
   feature-title: Dimensionality Reduction
   feature-description: "Explore the methods that data scientists use to visualize high-dimensional data"
   code: https://github.com/mathisonian/dimensionality-reduction
+  feature-order: 2
   featured: true
 
 - title: The Math of Card Shuffling
@@ -49,6 +52,7 @@
   feature-title: The Math of Card Shuffling
   feature-description: Riffling from factory order to complete randomness
   code: https://github.com/fredhohman/card-shuffling
+  feature-order: 3
   featured: true
 
 - title: A Viz of Ice and Fire
