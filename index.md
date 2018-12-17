@@ -36,9 +36,6 @@ title: Home
 		<br>
 		<a style="color: #515151 !important" href="https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en&oi=ao"><img class="social-icon" src="/images/footer/graduation-color.svg">Google Scholar</a>
 	  </p>
-
-	<!-- <hr style="margin-left:0; margin-top: 15px; margin-bottom: 15px"> -->
-
 	
 		<div class="intro-cv-wrapper">
 		<span class="intro-cv" markdown="1">
@@ -52,18 +49,6 @@ title: Home
 </div>
 
 <div style="padding-top:15px;" ></div>
-
-<!-- <span class="message">
-Here's my [CV][cv].
-</span> -->
-
-
-
-<!-- <div class="cover-wrapper-double"> -->
-
-
-<!-- <div class="cover-warpper-with-title"> -->
-<!-- <hr class="hr-text" data-content="Featured Publications"> -->
 
 <h2 style="margin-left:20px;">Featured Publications</h2>
 <div class="cover-wrapper">
@@ -80,16 +65,11 @@ Here's my [CV][cv].
 {% endfor %}
 </div>	
 
-<!-- </div> -->
-
-<!-- <div style="border-left:1px solid #cccccc;height:750px;"></div> -->
-
-
-<!-- <div class="cover-warpper-with-title"> -->
-<!-- <hr class="hr-text" data-content="Featured Explorable Explanations"> -->
 <h2 style="margin-left:20px;">Featured Explorable Explanations</h2>
-
 <div class="cover-wrapper">
+<!-- 	<div class="cover-side">
+	<strong>Feature Explorable Explainations</strong>
+</div> -->
 {% assign sortedExplorables = site.data.explorables | sort: 'feature-order' %}
 {% for feature in sortedExplorables %}
 {% if feature.featured == true %}
@@ -98,14 +78,7 @@ Here's my [CV][cv].
 
 {% endif %}
 {% endfor %}
-<!-- </div> -->
 </div>
-
-
-<!-- </div> -->
-
-
-
 
 <!-- # [Projects][projects]
 Things I do, including research, academic course projects, and miscellaneous interests.
@@ -116,19 +89,6 @@ Things I think about, read, and write.
 # [Other][other]
 Everything else. -->
 
-<!-- {% for page in site.pages %}
-<article class="post" style="margin-bottom:1em;">
-<h2 class="post-title">
-  <a href="{{ site.baseurl }}{{ post.url }}">
-    {{ post.title }}
-  </a>
-</h2>
-
-<time datetime="{{ post.date | date: "%B %-d, %Y" }}" class="post-date">
-  {{ post.date | date: "%B %-d, %Y" }}
-</time>
-</article>
-{% endfor %} -->
 
 [about]: {{ site.url }}/about
 [projects]: {{ site.url }}/projects
@@ -141,7 +101,6 @@ Everything else. -->
 [gt]: http://www.gatech.edu "Georgia Tech."
 [cse]: http://cse.gatech.edu "GT Computational Science and Engineering."
 [coc]: http://www.cc.gatech.edu "GT College of Computing."
-[intj]: http://en.wikipedia.org/wiki/INTJ "INTJ."
 
 [cv]: {{ site.url }}/cv
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau."
