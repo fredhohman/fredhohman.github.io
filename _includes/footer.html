@@ -1,24 +1,30 @@
-<footer>
-	
+<footer>	
 	<div class="footer">
 
-		<div class="social">
-		  	<a href="http://www.twitter.com/fredhohman"><img class="social-icon" src="/images/footer/twitter.svg"></a>
-		  	<a href="http://www.linkedin.com/in/fredhohman"><img class="social-icon" src="/images/footer/linkedin.svg"></a>
-		  	<a href="https://github.com/fredhohman"><img class="social-icon" src="/images/footer/github.svg"></a>
-		  	<!-- <a href="https://plus.google.com/u/0/+FredHohman/posts"><img class="social-icon" src="/images/footer/google+.svg"></a> -->
-		  	<a href="https://www.instagram.com/fredhohman"><img class="social-icon" src="/images/footer/instagram.svg"></a>
-		  	<a href="https://open.spotify.com/user/fred.hohman"><img class="social-icon" src="/images/footer/spotify.svg"></a>
-		  	<!-- <a href="https://www.youtube.com/user/fredhohman/playlists"><img class="social-icon" src="/images/footer/youtube.svg"></a> -->
-	  	</div>
+		<div class="footer-half-l">
+			<div>
+						<a href="mailto:fredhohman@gatech.edu"><i style="margin-right: 0.75rem; color: #e6e6e6;" class="fa-lg fa fa-envelope" aria-hidden="true"></i></a>
+			<a href="http://www.twitter.com/fredhohman"><i style="margin-right: 0.75rem; color: #e6e6e6;" class="fa-lg fab fa-twitter" aria-hidden="true"></i></a>
+			<a href="http://www.linkedin.com/in/fredhohman"><i style="margin-right: 0.75rem; color: #e6e6e6;" class="fa-lg fab fa-linkedin-in" aria-hidden="true"></i></a>
+			<a href="https://github.com/fredhohman"><i style="margin-right: 0.75rem; color: #e6e6e6;" class="fa-lg fab fa-github" aria-hidden="true"></i></a>
+			<a href="https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en"><i style="margin-right: 0.75rem; color: #e6e6e6;" class="fa-lg fa fa-graduation-cap" aria-hidden="true"></i></a>
+			<br>
+			<br>
+			&copy; <time datetime="{{ site.time | date: "%B %-d, %Y" }}">{{ site.time | date: '%Y' }}</time> Fred Hohman.
+</div>
 
-		<strong>&copy; <time datetime="{{ site.time | date: "%B %-d, %Y" }}">{{ site.time | date: '%Y' }}</time> Fred Hohman. All rights reserved.</strong>
-		<br/>
-		{% for page in site.nav_list %}
-			<a href="{{ page[1] }}">{{ page[0] }}</a>
-			&nbsp;&nbsp;&nbsp;&nbsp;
-		{% endfor %}
-		<br/>
-		Contact me at <code>fredhohman@gatech.edu</code>
+		</div>
+
+		<div class="footer-half-r">
+<!-- 			&copy; <time datetime="{{ site.time | date: "%B %-d, %Y" }}">{{ site.time | date: '%Y' }}</time> Fred Hohman. All rights reserved.
+			<br/>
+			{% for page in site.nav_list %}
+				<a href="{{ page[1] }}">{{ page[0] }}</a>
+				&nbsp;&nbsp;&nbsp;&nbsp;
+			{% endfor %} -->
+
+			Fred Hohman is a Ph.D. student in the College of Computing at Georgia Tech researching the intersection of data visualization and machine learning.
+		</div>
+		
 	</div>
 </footer>
