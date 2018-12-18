@@ -22,7 +22,6 @@ title: Home
 		I have worked at <img class="intro-logo" style="width: 18px;" src="/images/microsoft.png"> Microsoft Research, <img class="intro-logo" src="/images/nasa.png"> NASA Jet Propulsion Laboratory, and <img class="intro-logo" src="/images/pnnl.png"> Pacific Northwest National Laboratory.
 		</p>
 		<p markdown="1">
-		<!-- <img style="display:inline; width:25px; vertical-align: middle" src="/images/nasa.png"> -->
 		I am a 2018 [NASA Space Technology Research Fellow][nstrf].
 		</p>
 	</div>
