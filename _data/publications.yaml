@@ -50,6 +50,7 @@
   video: https://youtu.be/TI_sXHt2d8s
 
   bibtex: |
+
     @article{hohman2018visual,
       title={Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers},
       author={Hohman, Fred and Kahng, Minsuk and Pienta, Robert and Chau, Duen Horng},      
