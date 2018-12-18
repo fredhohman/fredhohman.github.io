@@ -1,5 +1,8 @@
-
-// 
+.icon {
+	// margin-right: 15px;
+	color: #515151;
+	font-size: 1.25em
+}
 
 .intro {
 	display: flex;
@@ -19,12 +22,24 @@
 
 .intro-image {
 	flex: 0 0 220px;
-	font-size: 14px;
 	margin: 0 auto;
+}
+
+.intro-image-links-color {
+	color: #515151;
+}
+
+.intro-image-links{
+	// padding-left: 8px;
+	// padding-right: 8px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	font-size: 14px;
 }
 
 .intro-cv-wrapper {
 	text-align: center;
+	font-size: 14px;
 }
 
 .intro-cv {
@@ -33,7 +48,6 @@
 	text-align: center;
 	border-radius: 5px;
 }
-
 
 @media screen and (max-width: $on-laptop) {
 	.intro {
