@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<h1 class="intro-title">Hello, I'm Fred Hohman.</h1>
+<h1 class="intro-title">Hello, I'm Fred Hohman</h1>
 <!-- *But you can call me Fred. Nice to meet you.* -->
 
 <!-- {% include nav.html %} -->
@@ -31,13 +31,11 @@ title: Home
 	  <img src="/images/me7.jpg" style="border-radius: 2px;">
 
 	  <div class="intro-image-links">
-
 		{% for link in site.data.social-links %}
 		{% if link.on-homepage == true %}
 		{% include social-link.html link=link %}
 		{% endif %}
 		{% endfor %}
-
 	</div>
 	
 	<div class="intro-cv-wrapper">
@@ -46,7 +44,6 @@ title: Home
 		</span>
 	</div>
 	
-
 	</div>
 
 </div>
