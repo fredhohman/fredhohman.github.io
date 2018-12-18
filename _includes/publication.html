@@ -9,15 +9,15 @@
 
 {% for person in pub.authors %}
 	{% if forloop.last == false %}
-		{% include person.html person=person %},	
+		{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if {{person}} == p %}*{% endif %}{% endfor %},
 	{% else if forloop.last == true %}
-		{% include person.html person=person %}
+		{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if {{person}} == p %}*{% endif %}{% endfor %}
 	{% endif %}
 {% endfor %}
 
 <br>
 
-<i>{{ pub.venue }}{% if pub.venue-shorthand%} ({{ pub.venue-shorthand }}){% endif %}. {% if pub.location %}{{ pub.location }},{% endif %} {{ pub.year }}.</i>
+<i>{{ pub.venue }}{% if pub.venue-shorthand %} ({{ pub.venue-shorthand }}){% endif %}. {% if pub.location %}{{ pub.location }},{% endif %} {{ pub.year }}.</i>
 
 <br>
 
@@ -70,6 +70,9 @@
 	{% endif %}
 	{% if pub.award %}
 	    <span class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> {{ pub.award }}</span>
+	{% endif %}
+	{% if pub.equal-contribution %}
+	    <span style="color: #9a9a9a"><!-- <i class="fas fa-asterisk" aria-hidden="true"></i> --> * Authors contributed equally</span>
 	{% endif %}
 	</span>
 {% endif %}

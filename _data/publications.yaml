@@ -5,6 +5,9 @@
     - Fred Hohman
     - Varun Bezzam
     - Duen Horng (Polo) Chau
+  equal-contribution:
+    - James Abello
+    - Fred Hohman
   venue: ACM Conference on Intelligent User Interfaces
   venue-shorthand: IUI
   location: Los Angeles, CA, USA
@@ -193,6 +196,9 @@
     - James Abello
     - Fred Hohman
     - Duen Horng (Polo) Chau
+  equal-contribution:
+    - James Abello
+    - Fred Hohman
   venue: IEEE Conference on Visual Analytics Science and Technology
   venue-shorthand: VAST
   location: Phoenix, AZ, USA
