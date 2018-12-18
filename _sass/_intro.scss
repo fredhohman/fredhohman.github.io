@@ -49,6 +49,12 @@
 	border-radius: 5px;
 }
 
+.intro-logo {
+	display:inline;
+	width:21px;
+	vertical-align: middle;
+}
+
 @media screen and (max-width: $on-laptop) {
 	.intro {
 		margin-left: 1rem;
