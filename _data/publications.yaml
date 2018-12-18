@@ -117,7 +117,7 @@
   feature-title: Shield
   feature-description: "Fast, practical defense and vaccination for deep learning using JPEG compression"
   feature-order: 3
-  featured: true
+  featured: false
 
 - id: graph-playground
   title: Large Graph Exploration via Subgraph Discovery and Decomposition

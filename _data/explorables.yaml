@@ -22,7 +22,7 @@
   feature-description: A breakfast-themed toy algorithms problem
   code: https://github.com/fredhohman/blueberry-pancakes
   feature-order: 4
-  featured: true
+  featured: false
 
 - title: "The Beginner's Guide to Dimensionality Reduction"
   authors: 

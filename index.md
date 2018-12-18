@@ -29,32 +29,38 @@ title: Home
 
 	<div class="intro-image">
 	  <img src="/images/me7.jpg" style="border-radius: 2px;">
-	  <p style="padding-left: 10px; padding-right: 10px; padding-top: 10px">
-		<a style="color: #515151 !important" href="https://twitter.com/fredhohman"><img class="social-icon" src="/images/footer/twitter-color.svg">@fredhohman</a>
-		<br>
-		<a style="color: #515151 !important" href="https://github.com/fredhohman"><img class="social-icon" src="/images/footer/github-color.svg">github.com/fredhohman</a>
-		<br>
-		<a style="color: #515151 !important" href="https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en&oi=ao"><img class="social-icon" src="/images/footer/graduation-color.svg">Google Scholar</a>
-	  </p>
+
+	  <div class="intro-image-links">
+
+		{% for link in site.data.social-links %}
+		{% if link.on-homepage == true %}
+		{% include social-link.html link=link %}
+		{% endif %}
+		{% endfor %}
+
+	</div>
 	
-		<div class="intro-cv-wrapper">
+	<div class="intro-cv-wrapper">
 		<span class="intro-cv" markdown="1">
 		Here's my [CV][cv].
 		</span>
-		</div>
+	</div>
 	
 
 	</div>
 
 </div>
 
-<div style="padding-top:15px;" ></div>
+<!-- <div style="padding-top:15px;"></div> -->
 
-<h2 style="margin-left:20px;">Featured Publications</h2>
+
+
+<!-- <h2 style="margin-left:20px; text-align: center">Featured Research Publications</h2> -->
+<hr style="margin-left: 0;">
 <div class="cover-wrapper">
-<!-- 	<div class="cover-side">
-		<strong>Feature Research Publications</strong>
-	</div> -->
+	<div class="cover-side">
+		Featured <strong>Research Publications</strong>
+	</div>
 {% assign sortedPublications = site.data.publications | sort: 'feature-order' %}
 {% for feature in sortedPublications %}
 {% if feature.featured == true %}
@@ -65,11 +71,14 @@ title: Home
 {% endfor %}
 </div>	
 
-<h2 style="margin-left:20px;">Featured Explorable Explanations</h2>
+<!-- <hr> -->
+
+<!-- <h2 style="margin-left:20px; text-align: center">Featured Explorable Explanations</h2> -->
+<!-- <hr> -->
 <div class="cover-wrapper">
-<!-- 	<div class="cover-side">
-	<strong>Feature Explorable Explainations</strong>
-</div> -->
+	<div class="cover-side">
+	Featured <strong>Explorable Explainations</strong>
+</div>
 {% assign sortedExplorables = site.data.explorables | sort: 'feature-order' %}
 {% for feature in sortedExplorables %}
 {% if feature.featured == true %}

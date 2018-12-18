@@ -1,0 +1,53 @@
+- id: home
+  description: "fredhohman.com"
+  color: "#515151"
+  class: "fas fa-home icon"
+  url: "https://fredhohman.com"
+  on-homepage: false
+  on-cv: true
+  cv-group: 1
+
+- id: email
+  description: "fredhohman@gatech.edu"
+  color: "#515151"
+  class: "fas fa-envelope icon"
+  url: "mailto:fredhohman@gatech.edu"
+  on-homepage: true
+  on-cv: true
+  cv-group: 1
+
+- id: twitter
+  description: "@fredhohman"
+  color: "#1da1f2"
+  class: "fab fa-twitter icon"
+  url: https://twitter.com/fredhohman
+  on-homepage: true
+  on-cv: true
+  cv-group: 2
+
+- id: github
+  description: "github.com/fredhohman"
+  color: "#6e5494"
+  class: "fab fa-github icon"
+  url: "https://github.com/fredhohman"
+  on-homepage: true
+  on-cv: true
+  cv-group: 2
+
+- id: scholar
+  description: "Google Scholar"
+  color: "#515151"
+  class: "fa fa-graduation-cap icon"
+  url: "https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en"
+  on-homepage: true
+  on-cv: true
+  cv-group: 2
+
+- id: cv
+  description: CV PDF
+  color: "#ba2818"
+  class: "far fa-file-pdf icon"
+  url: "https://fredhohman.com/cv.pdf"
+  on-homepage: false
+  on-cv: false
+  cv-group: 1
