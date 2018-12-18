@@ -49,9 +49,6 @@ title: Home
 
 <!-- <div style="padding-top:15px;"></div> -->
 
-
-
-<!-- <h2 style="margin-left:20px; text-align: center">Featured Research Publications</h2> -->
 <hr style="margin-left: 0;">
 <div class="cover-wrapper">
 	<div class="cover-side">
@@ -67,10 +64,8 @@ title: Home
 {% endfor %}
 </div>	
 
-<hr>
+<!-- <hr style="margin-left: 0;"> -->
 
-<!-- <h2 style="margin-left:20px; text-align: center">Featured Explorable Explanations</h2> -->
-<!-- <hr> -->
 <div class="cover-wrapper">
 	<div class="cover-side">
 	Featured <strong>Explorable Explainations</strong>
