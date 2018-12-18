@@ -26,10 +26,11 @@
   }
 
   a:hover{
-	color: #505050;  /* Fallback: assume this color ON TOP of image */
-	background: url(images/title.jpg) no-repeat;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    text-decoration: none;
+	// color: #505050;  /* Fallback: assume this color ON TOP of image */
+	// background: url(images/title.jpg) no-repeat;
+ //    -webkit-background-clip: text;
+ //    -webkit-text-fill-color: transparent;
   }
 
   small {
