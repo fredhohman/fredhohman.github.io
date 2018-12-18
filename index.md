@@ -19,7 +19,7 @@ title: Home
 		I also write, design, and build explorable explanations, dynamic expositions, and **interactive data visualizations** that illustrate complex ideas simply and tangibly.
 		</p>
 		<p markdown="1">
-		I have worked at Microsoft Research, NASA Jet Propulsion Laboratory, and Pacific Northwest National Laboratory.
+		I have worked at <img class="intro-logo" style="width: 18px;" src="/images/microsoft.png"> Microsoft Research, <img class="intro-logo" src="/images/nasa.png"> NASA Jet Propulsion Laboratory, and <img class="intro-logo" src="/images/pnnl.png"> Pacific Northwest National Laboratory.
 		</p>
 		<p markdown="1">
 		<!-- <img style="display:inline; width:25px; vertical-align: middle" src="/images/nasa.png"> -->
@@ -68,7 +68,7 @@ title: Home
 {% endfor %}
 </div>	
 
-<!-- <hr> -->
+<hr>
 
 <!-- <h2 style="margin-left:20px; text-align: center">Featured Explorable Explanations</h2> -->
 <!-- <hr> -->
