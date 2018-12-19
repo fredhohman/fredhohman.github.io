@@ -55,6 +55,12 @@
 	vertical-align: middle;
 }
 
+.everything-else {
+	margin-left: 5rem;
+	margin-right: 5rem;
+	max-width: 45rem;
+}
+
 @media screen and (max-width: $on-laptop) {
 	.intro {
 		margin-left: 1rem;
@@ -62,6 +68,10 @@
 	}
 	.intro-title {
 		margin-left: 1rem
+	}
+	.everything-else{
+		margin-left: 1rem;
+		margin-right: 1rem;
 	}
 }
 
@@ -79,3 +89,4 @@
 		padding-bottom: 20px;
 	}
 }
+
