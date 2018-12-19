@@ -52,7 +52,7 @@ title: Home
 <hr style="margin-left: 0;">
 <div class="cover-wrapper">
 	<div class="cover-side">
-		Featured <strong>Research Publications</strong>
+		Featured <a href="/cv#publications" style="color: #303030"><strong>Research Publications</strong></a>
 	</div>
 {% assign sortedPublications = site.data.publications | sort: 'feature-order' %}
 {% for feature in sortedPublications %}
@@ -68,7 +68,7 @@ title: Home
 
 <div class="cover-wrapper">
 	<div class="cover-side">
-	Featured <strong>Explorable Explainations</strong>
+	Featured <a href="/cv#explorable-explanations" style="color: #303030"><strong>Explorable Explainations</strong></a>
 </div>
 {% assign sortedExplorables = site.data.explorables | sort: 'feature-order' %}
 {% for feature in sortedExplorables %}
@@ -80,30 +80,28 @@ title: Home
 {% endfor %}
 </div>
 
-<!-- # [Projects][projects]
-Things I do, including research, academic course projects, and miscellaneous interests.
+<hr style="margin-left: 0;">
 
-# [Blog][blog]
-Things I think about, read, and write.
-
-# [Other][other]
-Everything else. -->
-
+<h2 class="everything-else" markdown="1"><a href="/everything-else" style="color: #303030">Everything Else</a></h2>
+<p class="everything-else" markdown="1">
+Including a list of [projects][projects], the [blog][blog], [monthly music playlists][monthly-music], [stuff I use][stuff-i-use], and the [archive][archive].
+</p>
 
 [about]: {{ site.url }}/about
 [projects]: {{ site.url }}/projects
 [blog]: {{ site.url }}/blog
-[other]: {{ site.url }}/other
+[ee]: {{ site.url }}/everything-else
 [stuff-i-use]: {{ site.url }}/stuff-i-use
-[photos]: {{ site.url }}/photos
+<!-- [photos]: {{ site.url }}/photos -->
+[archive]: {{ site.url }}/archive "Archive."
 [monthly-music]: {{ site.url }}/monthly-music
 
-[gt]: http://www.gatech.edu "Georgia Tech."
-[cse]: http://cse.gatech.edu "GT Computational Science and Engineering."
-[coc]: http://www.cc.gatech.edu "GT College of Computing."
+[gt]: http://www.gatech.edu "Georgia Tech"
+[cse]: http://cse.gatech.edu "Georgia Tech Computational Science and Engineering"
+[coc]: http://www.cc.gatech.edu "Georgia Tech College of Computing"
 
 [cv]: {{ site.url }}/cv
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau."
-[alex]: http://va.gatech.edu/endert/ "Alex Endert."
-[poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science."
+[alex]: http://va.gatech.edu/endert/ "Alex Endert"
+[poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science"
 [nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship."

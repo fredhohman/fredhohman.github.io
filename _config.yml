@@ -31,11 +31,11 @@ github:
   repo:              https://fredhohman/fredhohman.github.io
 
 nav_list:
-  # About: '/about'
+  Home: '/'
   CV: '/cv'
-  Projects: '/projects'
-  Blog: '/blog'
-  Other: '/other'
+  # Projects: '/projects'
+  # Blog: '/blog'
+  Everything Else: '/everything-else'
 
 # paginate_path: "blog/page:num/"
 
