@@ -38,9 +38,10 @@ title: Home
 	</div>
 	
 	<div class="intro-cv-wrapper">
-		<span class="intro-cv" markdown="1">
-		Here's my [CV][cv].
-		</span>
+		<a href="/cv" style="color: #515151">
+		<span class="intro-cv">
+		Here's my CV.
+		</span></a>
 	</div>
 	
 	</div>
