@@ -68,11 +68,11 @@
 	    <i class="fas fa-database" aria-hidden="true"></i> Data
 	  </a>
 	{% endif %}
-<!-- 	{% if pub.bibtex %}
-	  <a class="cv-bibtex-icon" href="#_{{ pub.id }}">
-	    <i class="fas fa-anchor" aria-hidden="true"></i> BibTeX
+	{% if pub.bibtex %}
+	  <a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_{{ pub.id }}')">
+	    <i class="fas fa-book" aria-hidden="true"></i> BibTeX
 	  </a>
-	{% endif %} -->
+	{% endif %}
 	{% if pub.award %}
 	    <span class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> {{ pub.award }}</span>
 	{% endif %}
@@ -82,14 +82,14 @@
 	</span>
 {% endif %}
 
-<!-- {% if pub.bibtex %}
-<div class="highlighter-rouge cv-bibtex" id="_{{ pub.id }}">
+{% if pub.bibtex %}
+<div class="highlighter-rouge bibtex" style="display:block" id="_{{ pub.id }}">
 	<div class="highlight">
-		<pre class="highlight">
-		{{ pub.bibtex }}
+		<pre>
+			{{ pub.bibtex }}
 		</pre>
 	</div>
 </div>
-{% endif %} -->
+{% endif %}
 
 </p>

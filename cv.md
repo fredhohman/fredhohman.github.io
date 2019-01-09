@@ -2,6 +2,8 @@
 layout: cv
 title: CV
 permalink: cv/
+jsarr:
+- js/scripts.js
 ---
 
 <h1><a style="color: #313131" href="https://fredhohman.com">Fred Hohman</a></h1>

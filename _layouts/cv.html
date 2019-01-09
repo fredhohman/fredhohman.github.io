@@ -18,5 +18,12 @@
 
     </div>
 
+    {% if page.jsarr %}
+      {% for js in page.jsarr %}
+      <script>
+        {% include {{ js }} %}
+      </script>
+      {% endfor %}
+    {% endif %}
   </body>
 </html>
