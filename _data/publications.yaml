@@ -208,7 +208,8 @@
   pdf: https://fredhohman.com/papers/17-playground-vast.pdf
   video: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
   poster: https://fredhohman.com/papers/17-playground-vast-poster.pdf
-  bibtex: |
+  bibtex: |-
+
     @inproceedings{hohman2017playground,
       title={3D Exploration of Graph Layers via Vertex Cloning},
       author={Abello, James and Hohman, Fred and Chau, Duen Horng},
@@ -252,7 +253,8 @@
   pdf: /papers/17-dashboard-ubicomp.pdf
   video: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
   poster: https://fredhohman.com/papers/17-dashboard-ubicomp-poster.pdf
-  bibtex: |
+  bibtex: |-
+
     @inproceedings{fang2017mhealth,
       title={mHealth visual discovery dashboard},
       author={Fang, Dezhi and Hohman, Fred and Polack, Peter and Sarker, Hillol and Kahng, Minsuk and Sharmin, Moushumi and al'Absi, Mustafa and Chau, Duen Horng},
