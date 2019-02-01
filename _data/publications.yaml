@@ -1,3 +1,23 @@
+- id: gamut
+  title: "Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models"
+  authors: 
+    - Fred Hohman
+    - Andrew Head
+    - Rich Caruana
+    - Rob DeLine
+    - Steven Drucker
+  venue: ACM Conference on Human Factors in Computing Systems
+  venue-shorthand: CHI
+  location: Glasgow, UK
+  year: 2019
+  coming-soon: true
+  feature-title: Gamut
+  feature-description: A design probe to understand how data scientists understand machine learning models
+  image: /images/featured/gamut.png
+  feature-order: 1
+  featured: true
+
+
 - id: atlas
   title: "Atlas: Local Graph Exploration in a Global Context"
   authors:
@@ -16,7 +36,7 @@
   feature-title: Atlas
   feature-description: Local graph exploration in a global context
   image: /images/featured/atlas.png
-  feature-order: 1
+  feature-order: 2
   featured: true
 
 - id: kcore
@@ -73,7 +93,7 @@
   image: /images/featured/deepvis.png
   feature-title: Visual Analytics in Deep Learning
   feature-description: An interrogative survey for the next frontiers
-  feature-order: 2
+  feature-order: 3
   featured: true
 
 - id: dr
@@ -227,7 +247,7 @@
   feature-title: Deep Population
   feature-description: A deep learning approach for population estimation from satellite imagery
   feature-order: 4
-  featured: true
+  featured: false
   bibtex: |-
 
     @inproceedings{robinson2017deep,
