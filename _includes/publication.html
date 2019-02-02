@@ -9,9 +9,9 @@
 
 {% for person in pub.authors %}
 	{% if forloop.last == false %}
-		{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if {{person}} == p %}*{% endif %}{% endfor %},
+		{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %},
 	{% else if forloop.last == true %}
-		{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if {{person}} == p %}*{% endif %}{% endfor %}
+		{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %}
 	{% endif %}
 {% endfor %}
 
