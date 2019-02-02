@@ -16,15 +16,6 @@ jsarr:
 I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex].
 </span>
 
-<!-- <div style="background-color:#cccccc; display: flex">
-	<div style="flex: 2">asdf</div>
-	<div style="flex: 1">
-		<figure>
-		  <img class="full" src="/images/me6.jpg" alt="That's me.">
-		</figure>
-	</div>
-</div> -->
-
 <span class="cv-max-width">
 My research applies a human-centered approach to designing and developing interactive interfaces that help people understand and explain **<span class="cv-ai">machine learning models</span>**.
 I also write, design, and build explorable explanations, dynamic expositions, and **<span class="cv-vis">interactive data visualizations</span>** that illustrate complex ideas simply and tangibly.
@@ -40,21 +31,20 @@ In 2018 I received the [NASA Space Technology Research Fellowship][nstrf].
 
 
 <div class="cv-image-links-wrapper" style="font-size: 16px; padding-bottom: 0;">
-		<div class="cv-image-links">
-			{% for link in site.data.social-links %}
-{% if link.cv-group == 1 %}
-{% include social-link.html link=link %}
-{% endif %}
-{% endfor %}
-		</div>
-
 	<div class="cv-image-links">
-	{% for link in site.data.social-links %}
-{% if link.cv-group == 2 %}
-{% include social-link.html link=link %}
-{% endif %}
-{% endfor %}</div>
-
+		{% for link in site.data.social-links %}
+			{% if link.cv-group == 1 %}
+				{% include social-link.html link=link %}
+			{% endif %}
+		{% endfor %}
+	</div>
+	<div class="cv-image-links">
+		{% for link in site.data.social-links %}
+			{% if link.cv-group == 2 %}
+				{% include social-link.html link=link %}
+			{% endif %}
+		{% endfor %}
+	</div>
 </div>
 
 <!-- <a href="http://fredhohman.com"><img class="social-icon" src="/images/footer/home-color.svg">fredhohman.com</a>  
