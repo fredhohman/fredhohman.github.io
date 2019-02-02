@@ -11,6 +11,7 @@
 	{% endfor %}
 	<br>
 	{% endif %}
-	{% if explorable.year-extra %}<span class="cv-left-date-extra">{{ explorable.year-extra }}</span>{% endif %}<span class="cv-description">{{ explorable.description }}{% if explorable.award %}, <span class="cv-award"><i class="fas fa-star" aria-hidden="true"></i> {{ explorable.award }}</span>{% endif %}
+	<!-- {% if explorable.year-extra %}<span class="cv-left-date-extra">{{ explorable.year-extra }}</span>{% endif %} -->
+	<span class="cv-description">{{ explorable.description }}{% if explorable.award %}, <span class="cv-award"><i class="fas fa-star" aria-hidden="true"></i> {{ explorable.award }}</span>{% endif %}
 	</span>
 </p>
