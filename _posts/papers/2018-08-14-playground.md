@@ -1,13 +1,25 @@
 ---
 layout: paper
 categories: papers
+key: graph-playground
 permalink: papers/graph-playground
 title: Large Graph Exploration via Subgraph Discovery and Decomposition
 ---
 
-# Large Graph Exploration via Subgraph Discovery and Decomposition
-[James Abello][james], [Fred Hohman][fred], [Varun Bezzam][varun] , [Duen Horng Chau][polo]    
+{% assign pub = site.data.publications | where:"id", page.key | first %}
 
+# {{ page.title }}
+<p>
+{% for person in pub.authors %}
+  {% if forloop.last == false %}
+    {% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %},
+  {% else if forloop.last == true %}
+    {% include person.html person=person %}{% for p in pub.equal-contribution %}{% if  person  == p %}*{% endif %}{% endfor %}
+  {% endif %}
+{% endfor %}
+</p>
+
+  
 <figure>
     <img class="single" src="/images/papers/18-playground-arxiv.png">
     <figcaption class="single">
@@ -26,25 +38,22 @@ Graph Playground offers a fast and scalable edge decomposition algorithm, based 
 Graph Playground introduces a novel graph exploration approach and a 3D representation framework that simultaneously reveals (1) peculiar subgraph structure discovered through the decomposition's layers, (e.g., quasi-cliques), and (2) possible vertex roles in linking such subgraph patterns across layers.
 
 
-## Materials
-[PDF][18-playground-arxiv-pdf] | [BibTeX][18-playground-arxiv]
+<!-- ## Materials -->
+<!-- [PDF][18-playground-arxiv-pdf] | [BibTeX][18-playground-arxiv] -->
 
 ## Citation
-**[Large Graph Exploration via Subgraph Discovery and Decomposition][18-playground-arxiv]**  
+{% include publication.html pub=pub %}
+
+<!-- **[Large Graph Exploration via Subgraph Discovery and Decomposition][18-playground-arxiv]**  
 [James Abello][james], [Fred Hohman][fred], [Varun Bezzam][varun], [Duen Horng Chau][polo]    
 *arXiv:1808.04414. Aug 13, 2018.*  
 <span class="paper-misc">
 <span class="cv-website-marker">[Site][18-playground-arxiv]</span> | [PDF][18-playground-arxiv-pdf] | [BibTeX][18-playground-arxiv]
-</span>
+</span> -->
 
 ## BibTeX
 ```
-@article{hohman2018playground,
-  title={Large Graph Exploration via Subgraph Discovery and Decomposition},
-  author={Abello, James and Hohman, Fred and Bezzam, Varun and Chau, Duen Horng},
-  journal={arXiv preprint arXiv:1808.04414},
-  year={2018}
-}
+<!-- {{ pub.bibtex }} -->
 ```
 
 [fred]: http://fredhohman.com "Fred Hohman"

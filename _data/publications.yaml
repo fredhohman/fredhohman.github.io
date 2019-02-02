@@ -10,12 +10,24 @@
   venue-shorthand: CHI
   location: Glasgow, UK
   year: 2019
-  coming-soon: true
+  url: papers/gamut
+  pdf: papers/19-gamut-chi.pdf
+  video: https://youtu.be/R-amW_yNX6I
+  preview: https://youtu.be/7Usb6b3ykPU
   feature-title: Gamut
   feature-description: A design probe to understand how data scientists understand machine learning models
   image: /images/featured/gamut.png
   feature-order: 1
   featured: true
+  bibtex: |-
+
+    @inproceedings{hohman2019gamut,
+      title={Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models},
+      author={Hohman, Fred and Head, Andrew and Caruana, Rich and DeLine, Rob and Drucker, Steven M.},
+      booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+      year={2019},
+      organization={ACM}
+    }
 
 - id: atlas
   title: "Atlas: Local Graph Exploration in a Global Context"
