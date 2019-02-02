@@ -17,7 +17,6 @@
   feature-order: 1
   featured: true
 
-
 - id: atlas
   title: "Atlas: Local Graph Exploration in a Global Context"
   authors:
@@ -32,12 +31,24 @@
   venue-shorthand: IUI
   location: Los Angeles, CA, USA
   year: 2019
-  coming-soon: true
+  url: /papers/atlas
+  pdf: /papers/19-atlas-iui.pdf
+  code: https://github.com/fredhohman/atlas
+  video: https://youtu.be/38CMmvXNTiE
   feature-title: Atlas
   feature-description: Local graph exploration in a global context
   image: /images/featured/atlas.png
   feature-order: 2
   featured: true
+  bibtex: |-
+
+    @inproceedings{hohman2019atlas,
+      title={Atlas: Local Graph Exploration in a Global Context},
+      author={Abello, James and Hohman, Fred and Bezzam, Varun and Chau, Duen Horng},
+      booktitle={Proceedings of the International Conference on Intelligent User Interfaces},
+      year={2019},
+      organization={ACM}
+    }
 
 - id: kcore
   title: "Scalable K-Core Decomposition for Static Graphs Using a Dynamic Graph Data Structure"
@@ -190,6 +201,9 @@
     - Fred Hohman
     - Varun Bezzam
     - Duen Horng (Polo) Chau
+  # equal-contribution:
+    # - James Abello
+    # - Fred Hohman
   venue: arXiv:1808.04414
   year: 2018
   url: /papers/graph-playground 
@@ -294,9 +308,9 @@
     - James Abello
     - Fred Hohman
     - Duen Horng (Polo) Chau
-  equal-contribution:
-    - James Abello
-    - Fred Hohman
+  # equal-contribution:
+    # - James Abello
+    # - Fred Hohman
   venue: Poster, IEEE Conference on Visual Analytics Science and Technology
   venue-shorthand: VAST
   location: Phoenix, AZ, USA
