@@ -29,28 +29,28 @@
       organization={ACM}
     }
 
-# - id: gather
-#   title: "Managing Messes in Computational Notebooks"
-#   authors: 
-#     - Andrew Head
-#     - Fred Hohman
-#     - Titus Barik
-#     - Steven Drucker
-#     - Rob DeLine
-#   venue: ACM Conference on Human Factors in Computing Systems
-#   venue-shorthand: CHI
-#   location: Glasgow, UK
-#   year: 2019
-#   coming-soon: true
-#   bibtex: |-
+- id: gather
+  title: "Managing Messes in Computational Notebooks"
+  authors: 
+    - Andrew Head
+    - Fred Hohman
+    - Titus Barik
+    - Steven Drucker
+    - Rob DeLine
+  venue: ACM Conference on Human Factors in Computing Systems
+  venue-shorthand: CHI
+  location: Glasgow, UK
+  year: 2019
+  coming-soon: true
+  bibtex: |-
 
-#     @inproceedings{head2019managing,
-#       title={Managing},
-#       author={Head, Andrew and Hohman, Fred and Barik, Titus and Drucker, Steven M. and DeLine, Rob},
-#       booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
-#       year={2019},
-#       organization={ACM}
-#     }
+    @inproceedings{head2019managing,
+      title={Managing},
+      author={Head, Andrew and Hohman, Fred and Barik, Titus and Drucker, Steven M. and DeLine, Rob},
+      booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+      year={2019},
+      organization={ACM}
+    }
 
 - id: atlas
   title: "Atlas: Local Graph Exploration in a Global Context"
