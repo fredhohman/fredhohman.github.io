@@ -1,0 +1,202 @@
+- id: gamut
+  figure: /images/papers/19-gamut-chi.png
+  caption: |
+    Interacting with \system's multiple coordinated views together.
+    (A) Selecting the OverallQual feature from the sorted Feature Sidebar displays its shape curve in the Shape Curve View.
+    (B) Brushing over either explanation for Instance 550 or Instance 798 shows the contribution of the Ove
+  abstract: |
+    Without good models and the right tools to interpret them, data scientists risk making decisions based on hidden biases, spurious correlations, and false generalizations.
+    This has led to a rallying cry for model interpretability.
+    Yet the concept of interpretability remains nebulous, such that researchers and tool designers lack actionable guidelines for how to incorporate interpretability into models and accompanying tools. 
+    Through an iterative design process with expert machine learning researchers and practitioners, we designed a visual analytics system, Gamut, to explore how interactive interfaces could better support model interpretation.
+    Using Gamut as a probe, we investigated why and how professional data scientists interpret models, and how interface affordances can support data scientists in answering questions about model interpretability.
+    Our investigation showed that interpretability is not a monolithic concept: data scientists have different reasons to interpret models and tailor explanations for specific audiences, often balancing competing concerns of simplicity and completeness.
+    Participants also asked to use Gamut in their work, highlighting its potential to help data scientists understand their own data.
+
+- id: atlas
+  figure: /images/papers/19-atlas-iui.png
+  caption: |
+    Atlas adapts scalable edge decomposition to provide novel modes of large graph exploration, through three coordinated views.
+    A. Our user Don first explores the edge decomposition of a word embedding graph in the Overview by decomposing a graph into 3D graph layers.
+    B. Don then inspects the Ribbon for a summary of the layers.
+    C. From the word "dismayed," in layer 8, Don performs cross-layer exploration, to reach layer 5.
+    Using the Layer view's interactive node-link diagrams, Don discovers a component in the word embedding describing one's surprise, where neutral words (e.g., "surpised" and "surprising") bridge multiple quasi-cliques that describe more positive (e.g., "remarkable" and "astounding") and negative (e.g., "irked" and "incensed") surprise words.
+    Blue perspective planes, and red and green ellipses are illustrative annotations.
+  abstract: |
+    Graphs are everywhere, growing increasingly complex, and still lack scalable, interactive tools to support sensemaking.
+    To address this problem, we present Atlas, an interactive graph exploration system that adapts scalable edge decomposition to enable a new paradigm for large graph exploration, generating explorable multi-layered representations.
+    Atlas simultaneously reveals peculiar subgraph structures, (e.g., quasi-cliques) and possible vertex roles in connecting such subgraph patterns.
+    Atlas decomposes million-edge graphs in seconds, scaling to graphs with up to 117 million edges.
+    We present the results from a think-aloud user study with three graph experts and highlight discoveries made possible by Atlas when applied to graphs from multiple domains, including suspicious yelp reviews, insider trading, and word embeddings.
+    Atlas runs in-browser and is open-sourced. 
+
+- id: kcore
+  abstract: |
+    We are developing an interactive graph exploration system called Graph Playground for making sense of large graphs.
+    Graph Playground offers a fast and scalable edge decomposition algorithm, based on iterative vertex-edge peeling, to decompose million-edge graphs in seconds.
+    Graph Playground introduces a novel graph exploration approach and a 3D representation framework that simultaneously reveals (1) peculiar subgraph structure discovered through the decomposition's layers, (e.g., quasi-cliques), and (2) possible vertex roles in linking such subgraph patterns across layers.
+
+- id: compression
+  figure: /images/papers/18-compression-kdd.png
+  caption: |
+    Screenshot of Adagio with an example usage scenario.
+    (1) Jane uploads an audio file that is transcribed by DeepSpeech (an ASR model); then she performs an adversarial attack on the audio in real time by entering a target transcription after selecting the attack option from the dropdown menu.
+    (2) Jane decides to perturb the audio to change the last word of the sentence from "joanna" to "marissa"; she can listen to the original audio and see the transcription by clicking on the "Original" badge.
+    (3) Jane applies MP3 compression to recover the original, correct transcription from the manipulated audio;
+    clicking on a waveform plays back the  audio from the selected position.
+    (4) Jane can experiment with multiple audio samples by adding more cards.
+  abstract: |
+    Research in the upcoming field of adversarial ML has revealed that machine learning, especially deep learning, is highly vulnerable to imperceptible adversarial perturbations, both in the domain of vision as well as speech.
+    This has induced an urgent need to devise fast and practical approaches to secure deep learning models from adversarial attacks, so that they can be safely deployed in real-world applications. 
+    In this showcase, we put forth the idea of compression as a viable solution to defend against adversarial attacks across modalities. 
+    Since most of these attacks depend on the gradient of the model to craft an adversarial instance, compression, which is usually non-differentiable, denies a useful gradient to the attacker. 
+    In the vision domain we have JPEG compression, and in the audio domain we have MP3 compression and AMR encoding -- all widely adopted techniques that have very fast implementations on most platforms, and can be feasibly leveraged as defenses. 
+    We will show the effectiveness of these techniques against adversarial attacks through live demonstrations, both for vision as well as speech.
+    These demonstrations would include real-time computation of adversarial perturbations for images and audio, as well as interactive application of compression for defense. 
+    We would invite and encourage the audience to experiment with their own images and audio samples during the demonstrations. 
+    This work was undertaken jointly by researchers from Georgia Institute of Technology and Intel Corporation.
+
+- id: shield
+  figure: /images/papers/18-shield-kdd.png
+  caption: |
+    Shield Framework Overview. Shield combats adversarial images (in red), by removing perturbation in real time using Stochastic Local Quantization (SLQ) and an ensemble of vaccinated models robust to compression transformation for both adversarial and benign images.
+    Our approach eliminates up to 94% of black-box attacks and 98% of gray-box attacks delivered by some of the most recent, strongest attacks, such as Carlini-Wagner’s L2 and DeepFool.
+  abstract: |
+    The rapidly growing body of research in adversarial machine learning has demonstrated that deep neural networks (DNNs) are highly vulnerable to adversarially generated images.
+    This underscores the urgent need for practical defense that can be readily deployed to combat attacks in real-time.
+    Observing that many attack strategies aim to perturb image pixels in ways that are visually imperceptible, we place JPEG compression at the core of our proposed Shield defense framework, utilizing its capability to effectively "compress away" such pixel manipulation.
+    To immunize a DNN model from artifacts introduced by compression, Shield "vaccinates" a model by re-training it with compressed images, where different compression levels are applied to generate multiple vaccinated models that are ultimately used together in an ensemble defense.
+    On top of that, Shield adds an additional layer of protection by employing randomization at test time that compresses different regions of an image using random compression levels, making it harder for an adversary to estimate the transformation performed.
+    This novel combination of vaccination, ensembling, and randomization makes Shield a fortified multi-pronged protection.
+    We conducted extensive, large-scale experiments using the ImageNet dataset, and show that our approaches eliminate up to 94% of black-box attacks and 98% of gray-box attacks delivered by the recent, strongest attacks, such as Carlini-Wagner's L2 and DeepFool.
+    Our approaches are fast and work without requiring knowledge about the model.
+
+- id: graph-playground
+  figure: /images/papers/18-playground-arxiv.png
+  caption: |
+    The Graph Playground user interface.
+    Graph Playground is composed of three main views: the 3D Overview (left), the Graph Ribbon (middle), and the Layers view (right).
+    The Graph Ribbon that splits the display can be dragged left and right to adjust the visible screen real estate that either the Overview or Layers view shows.
+    In the figure, the vertex "caeciliidae" is selected, coloring it blue in both the Overview and Layers view.
+    Here we see "caeciliidae" (a worm-like amphibian) in layer 30 bridges two quasi-cliques (families of birds and families of sea snails) together, while its clone in layer 25 participates in another single quasi-clique (families of land creatures).
+  abstract: |
+    We are developing an interactive graph exploration system called Graph Playground for making sense of large graphs.
+    Graph Playground offers a fast and scalable edge decomposition algorithm, based on iterative vertex-edge peeling, to decompose million-edge graphs in seconds.
+    Graph Playground introduces a novel graph exploration approach and a 3D representation framework that simultaneously reveals (1) peculiar subgraph structure discovered through the decomposition's layers, (e.g., quasi-cliques), and (2) possible vertex roles in linking such subgraph patterns across layers.
+
+- id: ie
+  figure: /images/papers/18-interactive-cvpr.png
+  caption: |
+    The modified image (left), originally classified as <i>dock</i> is misclassified as <i>ocean liner</i> when the masts of a couple boats are removed from the original image (right).
+    The top five classification scores are tabulated underneath each image.
+  abstract: |
+    We present an interactive system enabling users to manipulate images to explore the robustness and sensitivity of deep learning image classifiers. 
+    Using modern web technologies to run in-browser inference, users can remove image features using inpainting algorithms to obtain new classifications in real time.
+    This system allows users to compare and contrast what image regions humans and machine learning models use for classification.
+
+- id: vigor
+  figure: /images/papers/17-vigor-vast.png
+  caption: |
+    A screenshot of VIGOR showing an analyst exploring a DBLP co-authorship network, looking for researchers who have co-authored papers at the VAST and KDD conferences.
+    (A) The Exemplar View visualizes the query, and (B) the Fusion Graph shows the induced graph formed by joining all query matches. 
+    Picking constant node values (e.g., Shixia) in the Exemplar View filters the Fusion Graph.
+    (C) Hovering over a node shows its details.
+    (D) The Subgraph Embedding embeds each match as a point in lower-dimensional space and clusters them to allow analysts to see patterns and outliers.
+    (E) The Feature Explorer summarizes each cluster’s feature distributions.
+  abstract: |
+    Finding patterns in graphs has become a vital challenge in many domains from biological systems, network security, to finance (e.g., finding money laundering rings of bankers and business owners).
+    While there is significant interest in graph databases and querying techniques, less research has focused on helping analysts make sense of underlying patterns within a group of subgraph results.
+    Visualizing graph query results is challenging, requiring effective summarization of a large number of subgraphs, each having potentially shared node-values, rich node features, and flexible structure across queries.
+    We present VIGOR, a novel interactive visual analytics system, for exploring and making sense of query results.
+    VIGOR uses multiple coordinated views, leveraging different data representations and organizations to streamline analysts sensemaking process.
+    VIGOR contributes: (1) an exemplar-based interaction technique, where an analyst starts with a specific result and relaxes constraints to find other similar results or starts with only the structure (i.e., without node value constraints), and adds constraints to narrow in on specific results; and (2) a novel feature-aware subgraph result summarization.
+    Through a collaboration with Symantec, we demonstrate how VIGOR helps tackle real-world problems through the discovery of security blindspots in a cybersecurity dataset with over 11,000 incidents.
+    We also evaluate VIGOR with a within-subjects study, demonstrating VIGOR’s ease of use over a leading graph database management system, and its ability to help analysts understand their results at higher speed and make fewer errors.
+
+- id: playground
+  figure: /images/papers/17-playground-vast.png
+  caption: |
+    (A) The Les Miserables co-occurrence network of the novel’s characters, visualized using standard force-directed layout.
+    (B) A graph playground created by applying fixed-point edge decomposition, producing cloned vertices that appear in multiple layers.
+    The character Valjean appears in six layers; his clones are connected using a vertical black line, and his egonet is highlighted in every layer.
+    (C) The graph playground layers separated and individually redrawn using force-directed layout in 2D, with Valjean’s colored egonet still shown. Our method reveals interesting subgraph structures and distributes them into layers, e.g., stars in layer 1 (blue), and a clique in layer 6 (brown).
+    Valjean’s vertex is colored black in every layer he exists in (all layers except layer 9), highlighting his central role in the novel and his diverse participation in different graph patterns.
+  abstract: |
+    We use an iterative edge decomposition approach, derived from the popular iterative vertex peeling strategy, to globally split each vertex egonet (subgraph induced by a vertex and its neighbors) into a collection of edge-disjoint layers. 
+    Each layer is an edge maximal induced subgraph of minimum degree k that determines the layer density.
+    This edge decomposition is derived completely from the overall network topology, and since each vertex can appear in multiple layers, we can associate to each vertex a vector profile that can be used to identify its different "roles" across the network.
+    This allows us to explore a network’s topology at different levels of granularity, e.g., per layer and across layers.
+    This is only feasible by mapping simultaneously a vertex to a set of 3D coordinates (x, y, and z) where the third coordinate encodes the different layers a vertex belongs to.
+    This is one of the few instances where 3D visualization enhances graph exploration and navigation in an arguably "natural" way: a graph now becomes a 3D graph playground where a vertex plays a certain "role" per layer that is determined by the overall network topology.
+    Our approach helps disentangle "hairball" looking embeddings produced by conventional 2D graph drawings.
+
+- id: got
+  figure: /images/papers/17-got-vis4dh.png
+  caption: |
+    The interactive visualization, displaying the show's Season 2, Episode 9: "Blackwater."
+    The Color Representation plot (A) shows the palettes extracted for the entire series, each season, and each episode as labelled stacked columns, e.g. S2E9 corresponds to Season 2, Episode 9.
+    The dialogue plot (B) shows how much of each textual category is present in the dialogue at a given time.
+    Notice that the bottom color plot in (A) shares the horizontal time axis with the bubbles directly below in (B).
+    Metadata for each season and episode is displayed in (C).
+    The frames view (D) and dialogue view (E) display the video frames and spoken dialogue for the current time slice and update as users interact with the data in (A) and (B).
+    The word frequency histogram (F) displays the top words spoken in the episode.
+  abstract: |
+    Films and television shows provide a rich source of cultural data and form an integral part of modern life. 
+    However, the video medium remains difficult to analyze at scale effectively and its study has generally attracted limited research attention. 
+    We propose a method of summarizing the audio and visual aspects of entertainment videos, through the automatic extraction of dominant colors from video frames and textual categories from dialogue. 
+    The colors and dialogue are displayed in a visualization that allows the user to explore the video, highlighting both high-level and low-level patterns from the data. 
+    Focusing on the hit television series *Game of Thrones*, we show how our visualization supports the detection of scene changes and plot points, providing a new perspective for both scholars and casual viewers.
+
+- id: mhealth
+  figure: /images/papers/17-dashboard-ubicomp.png
+  caption: |
+    The Discovery Dashboard interface showing data from a mobile sensor study. Each row corresponds to one participant's data. 
+    A user-defined motif (for participant 6012) is selected, and the system automatically finds similar motifs across all participants and highlights them in yellow.
+    This particular motif is a recurring pattern for participant 6012, often found near smoking lapses (vertical red dotted lines).
+  abstract: |
+    We present Discovery Dashboard, a visual analytics system for exploring large volumes of time series data from mobile medical field studies. 
+    Discovery Dashboard offers interactive exploration tools and a data mining motif discovery algorithm to help researchers formulate hypotheses, discover trends and patterns, and ultimately gain a deeper understanding of their data.
+    Discovery Dashboard emphasizes user freedom and flexibility during the data exploration process and enables researchers to do things previously challenging or impossible to do --- in the web-browser and in real time.
+    We demonstrate our system visualizing data from a mobile sensor study conducted at the University of Minnesota that included 52 participants who were trying to quit smoking.
+
+
+- id: jpeg
+  figure: /images/papers/17-defense-arxiv.png
+  caption: |
+    A comparison of the classification results of an exemplar image from the German Traffic Sign Recognition Benchmark (GTSRB) dataset.
+    A benign image (left) is originally classified as a <i>stop sign</i>, but after the addition of an adversarial perturbation to the image (middle) the resulting image is classified as a <i>max speed 100</i> sign.
+    Using JPEG compression on the adversarial image (right), we recover the original classification of <i>stop sign</i>.
+  abstract: |
+    Deep neural networks (DNNs) have achieved great success in solving a variety of machine learning (ML) problems, especially in the domain of image recognition. 
+    However, recent research showed that DNNs can be highly vulnerable to adversarially generated instances, which look seemingly normal to human observers, but completely confuse DNNs. 
+    These adversarial samples are crafted by adding small perturbations to normal, benign images. 
+    Such perturbations, while imperceptible to the human eye, are picked up by DNNs and cause them to misclassify the manipulated instances with high confidence. 
+    In this work, we explore and demonstrate 
+    how systematic JPEG compression can work as an effective pre-processing step in the classification pipeline to  counter adversarial attacks and dramatically reduce their effects (e.g., Fast Gradient Sign Method, DeepFool). 
+    An important component of JPEG compression is its ability to remove high frequency signal components, inside square blocks of an image. 
+    Such an operation is equivalent to selective blurring of the image, helping remove additive perturbations.
+    Further, we propose an ensemble-based technique that can be constructed quickly from a given well-performing DNN, and empirically show how such an ensemble that leverages JPEG compression can protect a model from multiple types of adversarial attacks, without requiring knowledge about the model.
+
+- id: visage
+  figure: /images/papers/17-visage-sigmod.png
+  caption: |
+    The interface for our demonstration shows a basic query for a film with at least one actor and one director; results are shown on the right in real time.
+    Queries are constructed in the open space (1) by placing nodes and edges.
+    The query results are shown in a list in (2). When a node-result is clicked, a summary of feature conditions (2.1) is shown with a summary of that node’s attributes (2.2).
+    In this example the film must have a critics’ score of “Well-rated”.
+  abstract: |
+    Locating and extracting subgraphs from large network datasets is a challenge in many domains, one that often requires learning new querying languages.
+    We will present the first demonstration of Visage, an interactive visual graph querying approach that empowers analysts to construct expressive queries, without writing complex code. Visage guides the construction of graph queries using a data-driven approach, enabling analysts to specify queries with varying levels of specificity, by sampling matches to a query during the analyst’s interaction.
+    We will demonstrate and invite the audience to try Visage on a popular film-actor-director graph from Rotten Tomatoes.
+
+- id: shapeshop
+  figure: /images/papers/17-shapeshop-chi.png
+  caption: |
+    The ShapeShop system user interface is divided into two main sections.
+    The Model Builder (top) contains the training data, model, and hyperparameter selection options where a user follows enumerated steps, concluding with the system building and training an N-image classifier, where each training image selected corresponds to one class.
+    In the Experiment Results section (bottom), each time the "Train and Visualize" button is clicked a new set of results appears including the class activation maximization of each class.
+  abstract: |
+    Deep learning is the driving force behind many recent technologies; however, deep neural networks are often viewed as "black-boxes" due to their internal complexity that is hard to understand.
+    Little research focuses on helping people explore and understand the relationship between a user's data and the learned representations in deep learning models.
+    We present our ongoing work, ShapeShop, an interactive system for visualizing and understanding what semantics a neural network model has learned.
+    Built using standard web technologies, ShapeShop allows users to experiment with and compare deep learning models to help explore the robustness of image classifiers.   
