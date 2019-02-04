@@ -236,9 +236,9 @@
     - Fred Hohman
     - Varun Bezzam
     - Duen Horng (Polo) Chau
-  # equal-contribution:
-    # - James Abello
-    # - Fred Hohman
+  equal-contribution:
+    - James Abello
+    - Fred Hohman
   venue: arXiv:1808.04414
   year: 2018
   url: /papers/graph-playground 
@@ -343,9 +343,9 @@
     - James Abello
     - Fred Hohman
     - Duen Horng (Polo) Chau
-  # equal-contribution:
-    # - James Abello
-    # - Fred Hohman
+  equal-contribution:
+    - James Abello
+    - Fred Hohman
   venue: Poster, IEEE Conference on Visual Analytics Science and Technology
   venue-shorthand: VAST
   location: Phoenix, AZ, USA
