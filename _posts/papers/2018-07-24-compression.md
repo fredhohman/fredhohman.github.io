@@ -3,7 +3,6 @@ layout: paper
 categories: papers
 key: compression
 permalink: papers/compression
-title: Defending from Adversarial Attacks Across Modalities
 ---
 
 {% assign pub = site.data.publications | where:"id", page.key | first %}

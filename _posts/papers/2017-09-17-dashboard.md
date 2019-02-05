@@ -3,7 +3,6 @@ layout: paper
 categories: papers
 key: mhealth
 permalink: papers/dashboard
-title: mHealth Visual Discovery Dashboard
 ---
 
 {% assign pub = site.data.publications | where:"id", page.key | first %}
