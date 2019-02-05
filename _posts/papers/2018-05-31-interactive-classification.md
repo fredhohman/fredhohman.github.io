@@ -3,7 +3,6 @@ layout: paper
 categories: papers
 key: ie
 permalink: papers/interactive-classification
-title: Interactive Classification
 ---
 
 {% assign pub = site.data.publications | where:"id", page.key | first %}
