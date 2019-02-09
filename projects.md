@@ -7,6 +7,8 @@ permalink: projects/
 Things I do, including research, academic course projects, and miscellaneous interests.
 
 ### Research
+[Gamut][19-gamut-chi]&nbsp;<small style="color: #c0c0c0">2019</small>  
+[Atlas][19-atlas-iui]&nbsp;<small style="color: #c0c0c0">2019</small>  
 [Scalable k-Core Decomposition][18-kcore-bigdata]&nbsp;<small style="color: #c0c0c0">2018</small>  
 [Visual Analytics in Deep Learning][18-deepvis-tvcg]&nbsp;<small style="color: #c0c0c0">2018</small>  
 [SHIELD][18-shield-kdd]&nbsp;<small style="color: #c0c0c0">2018</small>    
@@ -21,8 +23,9 @@ Things I do, including research, academic course projects, and miscellaneous int
 [ShapeShop][17-shapeshop-chi]&nbsp;<small style="color: #c0c0c0">2017</small>  
 
 ### Explorable Explanations
-[Blueberry Pancakes][pancakes]&nbsp;<small style="color: #c0c0c0">2018</small>    
-[The Beginner's Guide to Dimensionality Reduction][dr]&nbsp;<small style="color: #c0c0c0">2018</small>    
+[The Parametric Press][parametric]&nbsp;<small style="color: #c0c0c0">2019</small>  
+[Blueberry Pancakes][pancakes]&nbsp;<small style="color: #c0c0c0">2018</small>  
+[The Beginner's Guide to Dimensionality Reduction][dr]&nbsp;<small style="color: #c0c0c0">2018</small>  
 [The Math of Card Shuffling][cards]&nbsp;<small style="color: #c0c0c0">2018</small>  
 
 ### Undergraduate Thesis
@@ -65,7 +68,7 @@ Things I do, including research, academic course projects, and miscellaneous int
 [cards]: https://fredhohman.com/card-shuffling/ "The Math of Card Shuffling."
 [dr]: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/ "The Beginner's Guide to Dimensionality Reduction."
 [pancakes]: https://idyll.pub/post/blueberry-pancakes-28b1a2e1a8986c44ac091f08/ "Blueberry Pancakes."
-
+[parametric]: https://parametric.press "The Parametric Press."
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-dashboard-ubicomp]: {{ site.url }}/papers/dashboard
 [17-got-vis4dh]: {{ site.url }}/papers/got
@@ -78,3 +81,5 @@ Things I do, including research, academic course projects, and miscellaneous int
 [18-shield-kdd]: {{ site.url }}/papers/shield
 [18-deepvis-tvcg]: {{ site.url }}/papers/deepvis
 [18-kcore-bigdata]: {{ site.url }}/papers/kcore
+[19-atlas-iui]: {{ site.url }}/papers/atlas
+[19-gamut-chi]: {{ site.url }}/papers/gamut
