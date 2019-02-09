@@ -1,7 +1,7 @@
 - id: gamut
   figure: /images/papers/19-gamut-chi.png
   caption: |
-    Interacting with \system's multiple coordinated views together.
+    Interacting with Gamut's multiple coordinated views together.
     (A) Selecting the OverallQual feature from the sorted Feature Sidebar displays its shape curve in the Shape Curve View.
     (B) Brushing over either explanation for Instance 550 or Instance 798 shows the contribution of the Ove
   abstract: |
