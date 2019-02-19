@@ -40,7 +40,8 @@ It's a high performing Intel + NVIDIA build with mesmerizing RGB fans packed int
 | CPU Cooler    | [Corsair H100i v2 All in One Water Cooler][cpu-cooler] |
 | Motherboard   | [ASRock z370 Tai Chi][motherboard] |
 | Memory        | [G.Skill Trident RGB 32GB (2x16GB) 3000Hz][memory] |
-| Storage (M.2) | [Samsung 960 Evo m.2 PCIe NVMe 1TB][storage-m2] |
+| Storage (M.2) | [Samsung 970 Evo Plus m.2 PCIe NVMe 1TB][storage-m2-1] |
+| Storage (M.2) | [Samsung 960 Evo m.2 PCIe NVMe 1TB][storage-m2-2] |
 | Storage (HDD) | [Seagate Barracuda 3TB 7200rpm][storage-hdd] |
 | GPU           | [NVIDIA Titan Xp][gpu] |
 | Power Supply  | [EVGA 850W G3][power-supply] |
@@ -195,7 +196,8 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 
 [motherboard]: https://www.asrock.com/mb/Intel/Z370%20Taichi/index.asp 'ASRock z370 Tai Chi.'
 [memory]: https://www.gskill.com/en/product/f4-3000c14d-32gtzr 'G.Skill Trident RGB 32GB (2x16GB) 3000Hz.'
-[storage-m2]: https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-960-evo-m-2-1tb-mz-v6e1t0bw/ 'Samsung 960 Evo m.2 PCIe NVMe 1TB.'
+[storage-m2-1]: https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1-tb-mz-v7s1t0b-am/ 'Samsung 970 Evo Plus m.2 PCIe NVMe 1TB.' 
+[storage-m2-2]: https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-960-evo-m-2-1tb-mz-v6e1t0bw/ 'Samsung 960 Evo m.2 PCIe NVMe 1TB.'
 [storage-hdd]: https://www.seagate.com/internal-hard-drives/hdd/barracuda/ 'Seagate Barracuda 3TB 7200rpm.'
 [gpu]: https://www.nvidia.com/en-us/titan/titan-xp/ 'NVIDIA Titan Xp.'
 [power-supply]: https://www.evga.com/products/product.aspx?pn=220-G3-0850-X1 'EVGA 850W G3.'
