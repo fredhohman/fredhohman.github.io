@@ -8,6 +8,12 @@
     - year: 2017
       url: https://chi2017.acm.org/
 
+- venue: Human-Centered Machine Learning Perspectives Workshop
+  venue-shorthand: HCMLP
+  years:
+    - year: 2019
+      url: https://gonzoramos.github.io/hcmlperspectives/
+
 - venue: IEEE Visual Analytics Science and Technology
   venue-shorthand: VAST
   years: 
