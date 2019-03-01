@@ -38,6 +38,11 @@
 	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
 	  </a>
 	{% endif %}
+	{% if pub.blog %}
+	  <a href="{{ pub.blog }}">
+	    <i class="fas fa-newspaper" aria-hidden="true"></i> Blog
+	  </a>
+	{% endif %}
 	{% if pub.video %}
 	  <a href="{{ pub.video }}">
 	    <i class="fas fa-film" aria-hidden="true"></i> Video
