@@ -50,6 +50,12 @@
 					</a>
 					{% endif %}
 
+					{% if feature.blog %}
+					<a href="{{ feature.pdf }}">
+						<i class="fas fa-newspaper" aria-hidden="true"></i> Blog
+					</a>
+					{% endif %}
+
 					{% if feature.video %}
 					<a href="{{ feature.video }}">
 						<i class="fas fa-film" aria-hidden="true"></i> Video
