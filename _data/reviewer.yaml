@@ -39,6 +39,8 @@
 - venue: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
   venue-shorthand: KDD
   years: 
+    - year: 2019
+      url: https://www.kdd.org/kdd2019/
     - year: 2017
       url: https://www.kdd.org/kdd2017/
 
