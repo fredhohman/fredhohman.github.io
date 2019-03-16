@@ -1,3 +1,18 @@
+- title: Explaining Machine Learning Models Using Interactive Visualization
+  location: "Symantec Research Labs"
+  month: "Mar."
+  year: 2019
+
+- title: Explaining Machine Learning Models Using Interactive Visualization
+  location: "NASA Jet Propulsion Laboratory"
+  month: "Mar."
+  year: 2019
+
+- title: "Atlas: Local Graph Exploration in a Global Context"
+  location: "ACM Intelligent User Interfaces"
+  month: "Mar."
+  year: 2019
+
 - title: "Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
   location: Carnegie Mellon University
   month: "Jan."
@@ -12,6 +27,11 @@
   location: IEEE Visualization
   month: "Oct."
   year: 2018
+
+# - title: "VISxAI Workshop at IEEE Visulization (Panelist)"
+  # location: VISxAI Workshop at IEEE Visulization
+  # month: "Oct."
+  # year: 2018
 
 - title: "The Beginner's Guide to Dimensionality Reduction"
   location: VISxAI Workshop at IEEE Visulization
@@ -34,7 +54,7 @@
   year: 2017
 
 - title: "Constellation: Visualizing Cybersecurity in Real Time"
-  location: "NASA Jet Propulsion Lab (JPL)"
+  location: "NASA Jet Propulsion Laboratory"
   month: "Aug."
   year: 2017
 
