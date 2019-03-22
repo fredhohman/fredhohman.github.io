@@ -41,7 +41,11 @@
   venue-shorthand: CHI
   location: Glasgow, UK
   year: 2019
-  coming-soon: true
+  url: https://microsoft.github.io/gather/
+  pdf: https://andrewhead.github.io/assets/pdf/notebook-gathering.pdf
+  video: https://youtu.be/cpADNWjNvkU
+  preview: https://www.youtube.com/watch?v=_wjP9moppX0
+  award: Best Paper
   bibtex: |-
 
     @inproceedings{head2019managing,
