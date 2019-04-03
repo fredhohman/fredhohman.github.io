@@ -89,7 +89,7 @@
       year={2019},
       organization={ACM}
     }
-
+  
 - id: kcore
   title: "Scalable K-Core Decomposition for Static Graphs Using a Dynamic Graph Data Structure"
   authors:
@@ -508,6 +508,33 @@
     }
   image: /images/featured/test.png
 
+- id: overflow
+  title: "The Effect of Numerical Parameters on Eddies in Oceanic Overflows: A Laboratory and Numerical Study"
+  authors: 
+    - Shanon Reckinger
+    - Thomas Gibson
+    - Fred Hohman
+    - Theresa Morrison
+    - Scott Reckinger
+    - Mateus Carvalho
+  venue: International Journal of Computational Methods and Experimental Measurements
+  venue-shorthand: CMEM
+  year: 2019
+  url: /projects/mathematics-&-computational-science-reu
+  pdf: https://www.witpress.com/Secure/ejournals/papers/CMEM070205f.pdf
+  bibtex: |-
+
+    @article{reckinger2019effect,
+      title={The effect of numerical parameters on eddies in oceanic overflows: A laboratory and numerical study},
+      author={Reckinger, Shanon M and Gibson, Thomas H and Hohman, Fred M and Morrison, Theresa J and Reckinger, Scott J and Carvalho, Mateus},
+      journal={International Journal of Computational Methods and Experimental Measurements},
+      volume={7},
+      number={2},
+      pages={142--153},
+      year={2019},
+      publisher={WIT Press}
+    }
+    
 - id: reu
   title: Experimental and Numerical Comparison of Oceanic Overflow
   authors: 
