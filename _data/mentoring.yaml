@@ -1,11 +1,23 @@
-- name: Angel Cabrera
+- name: Will Epperson
   year: "Present —"
+  year-extra: Spring 2019
+  degree: "B.S. in Computer Science, Georgia Institute of Technology"
+  description: "Visualization for machine learning fairness"
+  awards:
+    - "Stamps President's Scholar"
+  url: http://www.willepperson.com/
+
+- name: Angel Alexander Cabrera
+  year: "Spring 2019 —"
   year-extra: Spring 2018
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for machine learning fairness, interactive classification for deep learning"
-  now-position: Software Engineering Intern
-  now-institution: Google
-  now-institution-url: https://www.google.com
+  awards:
+    - "Love Family Foundation Scholarship (most outstanding graduating senior), Georgia Institute of Technology"
+    - "Stamps President's Scholar"
+  now-position: PhD Student (HCI)
+  now-institution: Carnegie Mellon University
+  now-institution-url: https://hcii.cmu.edu/
   url: http://cabreraalex.com/
 
 - name: Dezhi Fang
@@ -13,6 +25,10 @@
   year-extra: Fall 2016
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: Visual motif discovery
+  awards:
+    - "Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology"
+    - "Faculty Materials, Supplies, and Travel Grants for Undergraduate Research"
+    - "Awarded President's Undergraduate Research Travel Award"
   now-position: Software Development Engineer
   now-institution: Airbnb
   now-institution-url: https://www.airbnb.com

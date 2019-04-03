@@ -5,5 +5,13 @@
 	<br>
 	<span class="cv-description">{{ mentee.description }}</span>
 	<br>
+	{% if mentee.awards %}
+		{% for award in mentee.awards %}
+			<span class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> {{ award }}</span>
+			<br>
+		{% endfor %}
+	{% endif %}
+	{% if mentee.now-position %}
 	<span class="cv-description">Now: {{ mentee.now-position }} at <a href="{{ mentee.now-institution-url }}">{{ mentee.now-institution }}</a></span>
+	{% endif %}
 </p>
