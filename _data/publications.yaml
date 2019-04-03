@@ -387,6 +387,7 @@
   pdf: /papers/17-got-vis4dh.pdf
   code: https://github.com/fredhohman/a-viz-of-ice-and-fire
   data: https://github.com/fredhohman/a-viz-of-ice-and-fire/tree/master/vis/data
+  slides: /slides/17-got-vis4dh-slides.pdf
   bibtex: |-
 
     @article{hohman2017got,
