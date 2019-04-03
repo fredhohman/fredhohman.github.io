@@ -33,15 +33,16 @@
   authors: 
     - Matthew Conlen
     - Fred Hohman
-  description: "Explore the methods that data scientists use to visualize high-dimensional data"
+  description: "Explore the methods data scientists use to visualize high-dimensional data"
   month: July
   year: 2018
   url: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d
   award: VISxAI Best Paper, Honorable Mention
   image: /images/featured/dimensionality-reduction.png
   feature-title: Dimensionality Reduction
-  feature-description: "Explore the methods that data scientists use to visualize high-dimensional data"
+  feature-description: "Explore the methods data scientists use to visualize high-dimensional data"
   code: https://github.com/mathisonian/dimensionality-reduction
+  slides: /slides/18-dr-visxai-slides.pdf
   feature-order: 2
   featured: true
 
