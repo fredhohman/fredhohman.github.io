@@ -73,6 +73,11 @@
 	    <i class="fas fa-database" aria-hidden="true"></i> Data
 	  </a>
 	{% endif %}
+	{% if feature.slides %}
+	<a href="{{ feature.slides }}">
+		<i class="fas fa-window-maximize" aria-hidden="true"></i> Slides
+	</a>
+	{% endif %}
 	{% if pub.bibtex %}
 	  <a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_{{ pub.id }}')">
 	    <i class="fas fa-book" aria-hidden="true"></i> BibTeX
