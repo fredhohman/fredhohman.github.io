@@ -33,6 +33,11 @@
 	    <i class="fas fa-link" aria-hidden="true"></i> Project
 	  </a>
 	{% endif %}
+	{% if pub.demo %}
+	<a href="{{ pub.demo }}">
+		<i class="fas fa-play" aria-hidden="true"></i> Demo
+	</a>
+	{% endif %}
 	{% if pub.pdf %}
 	  <a href="{{ pub.pdf }}">
 	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
