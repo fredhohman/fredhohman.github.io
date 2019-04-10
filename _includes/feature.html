@@ -44,6 +44,12 @@
 					</a>
 					{% endif %}
 
+					{% if pub.demo %}
+					<a href="{{ pub.demo }}">
+						<i class="fas fa-play" aria-hidden="true"></i> Demo
+					</a>
+					{% endif %}
+
 					{% if feature.pdf %}
 					<a href="{{ feature.pdf }}">
 						<i class="fas fa-file-pdf" aria-hidden="true"></i> PDF
