@@ -13,6 +13,42 @@
     Our investigation showed that interpretability is not a monolithic concept: data scientists have different reasons to interpret models and tailor explanations for specific audiences, often balancing competing concerns of simplicity and completeness.
     Participants also asked to use Gamut in their work, highlighting its potential to help data scientists understand their own data.
 
+- id: summit
+  figure: /images/papers/19-summit-arxiv.png
+  caption: |
+    With Summit, users can scalably summarize and interactively interpret deep neural networks by visualizing <i>what</i> features a network detects and <i>how</i> they are related.
+    In this example, InceptionV1 accurately classifies images of <strong><i>tench</i></strong> (yellow-brown fish).
+    However, Summit reveals surprising associations in the network (e.g., using parts of people) that contribute to its final outcome: the "tench" prediction is dependent on an intermediate "hands holding fish" feature (right callout), which is influenced by lower-level features like <i>"scales,"</i> <i>"person,"</i> and <i>"fish"</i>. 
+    <strong>A. The Embedding View</strong> summarizes all classes' aggregated activations using dimensionality reduction.
+    <strong>The Class Sidebar</strong> enables users to search, sort, and compare all classes within a model.
+    <strong>C. The Attribution Graph View</strong> visualizes highly activated neurons as vertices ("scales" "fish") and their most influential connections as edges (dashed purple edges).
+  abstract: |
+    Deep learning is increasingly used in decision-making tasks.
+    However, understanding how neural networks produce final predictions remains a fundamental challenge.
+    Existing work on interpreting neural network predictions for images often focuses on explaining predictions for single images or neurons.
+    As predictions are often computed based off of millions of weights that are optimized over millions of images, such explanations can easily miss a bigger picture.
+    We present Summit, the first interactive system that scalably and systematically summarizes and visualizes what features a deep learning model has learned and how those features interact to make predictions.
+    Summit introduces two new scalable summarization techniques: (1) activation aggregation discovers important neurons, and (2) neuron-influence aggregation identifies relationships among such neurons.
+    Summit combines these techniques to create the novel attribution graph that reveals and summarizes crucial neuron associations and substructures that contribute to a model's outcomes.
+    Summit scales to large data, such as the ImageNet dataset with 1.2M images, and leverages neural network feature visualization and dataset examples to help users distill large, complex neural network models into compact, interactive visualizations.
+    We present neural network exploration scenarios where Summit helps us discover multiple surprising insights into a state-of-the-art image classifier's learned representations and informs future neural network architecture design.
+    The Summit visualization runs in modern web browsers and is open-sourced.
+
+- id: fairvis
+  figure: /images/papers/19-farivis-arxiv.png
+  caption: |
+    Interacting with Gamut's multiple coordinated views together.
+    (A) Selecting the OverallQual feature from the sorted Feature Sidebar displays its shape curve in the Shape Curve View.
+    (B) Brushing over either explanation for Instance 550 or Instance 798 shows the contribution of the Ove
+  abstract: |
+    Without good models and the right tools to interpret them, data scientists risk making decisions based on hidden biases, spurious correlations, and false generalizations.
+    This has led to a rallying cry for model interpretability.
+    Yet the concept of interpretability remains nebulous, such that researchers and tool designers lack actionable guidelines for how to incorporate interpretability into models and accompanying tools. 
+    Through an iterative design process with expert machine learning researchers and practitioners, we designed a visual analytics system, Gamut, to explore how interactive interfaces could better support model interpretation.
+    Using Gamut as a probe, we investigated why and how professional data scientists interpret models, and how interface affordances can support data scientists in answering questions about model interpretability.
+    Our investigation showed that interpretability is not a monolithic concept: data scientists have different reasons to interpret models and tailor explanations for specific audiences, often balancing competing concerns of simplicity and completeness.
+    Participants also asked to use Gamut in their work, highlighting its potential to help data scientists understand their own data.
+
 - id: atlas
   figure: /images/papers/19-atlas-iui.png
   caption: |
