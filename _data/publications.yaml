@@ -336,6 +336,35 @@
       url={https://github.com/poloclub/interactive-classification}
     }
 
+- id: vigor
+  title: "VIGOR: Interactive Visual Exploration of Graph Query Results"
+  authors: 
+    - Robert Pienta
+    - Fred Hohman
+    - Alex Endert
+    - Acar Tamersoy
+    - Kevin Roundy
+    - Chris Gates
+    - Shamkant Navathe
+    - Duen Horng (Polo) Chau
+  venue: IEEE Transactions on Visualization and Computer Graphics
+  venue-shorthand: Proc. VAST
+  location: Phoenix, AZ, USA
+  year: 2018
+  url: /papers/vigor
+  pdf: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
+  video: https://www.youtube.com/watch?v=-jeck0yrT_Q&index=3&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
+  preview: https://vimeo.com/groups/480818/videos/230830163
+  bibtex: |-
+
+    @article{pienta2018vigor,
+      title={VIGOR: Interactive Visual Exploration of Graph Query Results},
+      author={Pienta, Robert and Hohman, Fred and Endert, Alex and Tamersoy, Acar and Roundy, Kevin and Gates, Chris and Navathe, Shamkant and Chau, Duen Horng},
+      journal={IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+      year={2018},
+      publisher={IEEE}
+    }
+    
 - id: deeppop
   title: A Deep Learning Approach for Population Estimation from Satellite Imagery
   authors:
@@ -364,35 +393,6 @@
       year={2017},
       publisher={ACM},
       url={https://deeppop.github.io}
-    }
-
-- id: vigor
-  title: "VIGOR: Interactive Visual Exploration of Graph Query Results"
-  authors: 
-    - Robert Pienta
-    - Fred Hohman
-    - Alex Endert
-    - Acar Tamersoy
-    - Kevin Roundy
-    - Chris Gates
-    - Shamkant Navathe
-    - Duen Horng (Polo) Chau
-  venue: IEEE Transactions on Visualization and Computer Graphics
-  venue-shorthand: Proc. VAST
-  location: Phoenix, AZ, USA
-  year: 2018
-  url: /papers/vigor
-  pdf: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
-  video: https://www.youtube.com/watch?v=-jeck0yrT_Q&index=3&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
-  preview: https://vimeo.com/groups/480818/videos/230830163
-  bibtex: |-
-
-    @article{pienta2018vigor,
-      title={VIGOR: Interactive Visual Exploration of Graph Query Results},
-      author={Pienta, Robert and Hohman, Fred and Endert, Alex and Tamersoy, Acar and Roundy, Kevin and Gates, Chris and Navathe, Shamkant and Chau, Duen Horng},
-      journal={IEEE Transactions on Visualization and Computer Graphics (TVCG)},
-      year={2018},
-      publisher={IEEE}
     }
 
 - id: playground
