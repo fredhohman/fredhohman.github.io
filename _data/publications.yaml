@@ -53,57 +53,82 @@
       author={Head, Andrew and Hohman, Fred and Barik, Titus and Drucker, Steven M. and DeLine, Rob},
       booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
       year={2019},
-      organization={ACM}
+      organization={ACM},
+      url={https://microsoft.github.io/gather/}
     }
 
-# - id: summit
-#   title: "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
-#   authors: 
-#     - Fred Hohman
-#     - Haekyu Park
-#     - Caleb Robinson
-#     - Duen Horng (Polo) Chau
-#   venue: arXiv:1904.02323
-#   year: 2019
-#   url: /papers/summit
-#   demo: https://fredhohman.com/summit/
-#   pdf: https://arxiv.org/pdf/1904.02323
-#   video: https://www.youtube.com/watch?v=J4GMLvoH1ZU&feature=youtu.be
-#   code: https://github.com/fredhohman/summit/
-#   feature-title: Summit
-#   feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
-#   image: /images/featured/summit.png
-#   featured: true
-#   bibtex: |-
+- id: summit
+  title: "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+  authors: 
+    - Fred Hohman
+    - Haekyu Park
+    - Caleb Robinson
+    - Duen Horng (Polo) Chau
+  venue: arXiv:1904.02323
+  year: 2019
+  url: /papers/summit
+  demo: https://fredhohman.com/summit/
+  pdf: https://arxiv.org/pdf/1904.02323
+  video: https://www.youtube.com/watch?v=J4GMLvoH1ZU&feature=youtu.be
+  code: https://github.com/fredhohman/summit/
+  feature-title: Summit
+  feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+  image: /images/featured/summit.png
+  featured: true
+  bibtex: |-
 
-#     @article{hohman2019summit,
-#       title={Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations},
-#       author={Hohman, Fred and Park, Haekyu and Robinson, Caleb and Chau, Duen Horng},
-#       journal={arXiv preprint arXiv:1808.04414},
-#       year={2019}
-#     }
+    @article{hohman2019summit,
+      title={Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations},
+      author={Hohman, Fred and Park, Haekyu and Robinson, Caleb and Chau, Duen Horng},
+      journal={arXiv preprint arXiv:1808.04414},
+      year={2019},
+      url={https://fredhohman.com/summit/}
+    }
 
-# - id: neuraldivergence
-#   title: "NeuralDivergence: Exploring and Understanding Neural Networks by Comparing Activation Distributions"
-#   authors: 
-#     - Haekyu Park
-#     - Fred Hohman
-#     - Duen Horng (Polo) Chau
-#   venue: Poster, IEEE Pacific Visualization Symposium
-#   venue-shorthand: PacificVis
-#   location: Bangkok, Thailand 
-#   year: 2019
-#   url: http://haekyu.com/neural-divergence/
-#   pdf: TK
-#   bibtex: |-
+- id: fairvis
+  title: "FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning"
+  authors: 
+    - Angel Cabrera
+    - Will Epperson	
+    - Fred Hohman
+    - Minsuk Kahng
+    - Jamie Morgenstern	
+    - Duen Horng (Polo) Chau
+  venue: arXiv:1904.05419
+  year: 2019
+  url: /papers/fairvis
+  pdf: https://arxiv.org/abs/1904.05419
+  bibtex: |-
 
-#     @inproceedings{park2019neuraldivergence,
-#       title={3D Exploration of Graph Layers via Vertex Cloning},
-#       author={Park, Haekyu and Hohman, Fred and Chau, Duen Horng},
-#       booktitle={Poster, Pacific Visualization Symposium (PacificVis)},
-#       year={2019},
-#       publisher={IEEE}
-#     }
+    @article{cabrera2019fairvis,
+      title={FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning},
+      author={Cabrera, {\'A}ngel and Epperson, Will, and Hohman, Fred and Kahng, Minsuk and Morgenstern, Jamie and Chau, Duen Horng},
+      journal={arXiv preprint arXiv:1904.05419},
+      year={2019},
+
+- id: neuraldivergence
+  title: "NeuralDivergence: Exploring and Understanding Neural Networks by Comparing Activation Distributions"
+  authors: 
+    - Haekyu Park
+    - Fred Hohman
+    - Duen Horng (Polo) Chau
+  venue: Poster, IEEE Pacific Visualization Symposium
+  venue-shorthand: PacificVis
+  location: Bangkok, Thailand 
+  year: 2019
+  url: http://haekyu.com/neural-divergence/
+  pdf: http://haekyu.com/neural-divergence/assets/19_pacificvis_neural_divergence.pdf
+  demo: http://haekyu.com/neural-divergence/
+  bibtex: |-
+
+    @inproceedings{park2019neuraldivergence,
+      title={NeuralDivergence: Exploring and Understanding Neural Networks by Comparing Activation Distributions},
+      author={Park, Haekyu and Hohman, Fred and Chau, Duen Horng},
+      booktitle={Poster, Pacific Visualization Symposium (PacificVis)},
+      year={2019},
+      publisher={IEEE},
+      url={http://haekyu.com/neural-divergence/}
+    }
     
 - id: atlas
   title: "Atlas: Local Graph Exploration in a Global Context"
@@ -281,8 +306,7 @@
       title={SHIELD: Fast, Practical Defense and Vaccination for Deep Learning Using JPEG Compression},
       booktitle={Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining (KDD)},
       year={2018},
-      publisher={ACM},
-      url={http://doi.acm.org/10.1145/3219819.3219910}
+      publisher={ACM}
     } 
 
 
@@ -332,8 +356,7 @@
       author={Cabrera, {\'A}ngel and Hohman, Fred and Lin, Jason and Chau, Duen Horng},
       journal={Demo, IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
       year={2018},
-      publisher={IEEE},
-      url={https://github.com/poloclub/interactive-classification}
+      publisher={IEEE}
     }
 
 - id: vigor
@@ -364,7 +387,7 @@
       year={2018},
       publisher={IEEE}
     }
-    
+
 - id: deeppop
   title: A Deep Learning Approach for Population Estimation from Satellite Imagery
   authors:

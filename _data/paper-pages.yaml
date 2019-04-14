@@ -35,19 +35,26 @@
     The Summit visualization runs in modern web browsers and is open-sourced.
 
 - id: fairvis
-  figure: /images/papers/19-farivis-arxiv.png
+  figure: /images/papers/19-fairvis-arxiv.png
   caption: |
-    Interacting with Gamut's multiple coordinated views together.
-    (A) Selecting the OverallQual feature from the sorted Feature Sidebar displays its shape curve in the Shape Curve View.
-    (B) Brushing over either explanation for Instance 550 or Instance 798 shows the contribution of the Ove
+    FairVis integrates multiple coordinated views for discovering intersectional bias. 
+    Above, our user investigates the intersectional subgroups of <i>sex</i> and <i>race</i>. 
+    A. The Feature Distribution View allows users to visualize each feature's distribution and generate subgroups.
+    B. The Subgroup Overview lets users select various fairness metrics to see the global average per metric and compare subgroups to one another, e.g., pinned Caucasian Males versus hovered African-American Males.
+    The plots for <i>Recall</i> and <i>False Positive Rate</i> show that for African-American Males, the model has relatively high recall but also the highest false positive rate out of all subgroups of sex and race. 
+    C. The Detailed Comparison View lets users compare the details of two groups and investigate their class balances.
+    Since the difference in False Positive Rates between Caucasian Males and African-American Males is far larger than their difference in base rates, a user suspects this part of the model merits further inquiry. 
+    D. The Suggested and Similar Subgroup View shows suggested subgroups ranked by the worst performance in a given metric. 
   abstract: |
-    Without good models and the right tools to interpret them, data scientists risk making decisions based on hidden biases, spurious correlations, and false generalizations.
-    This has led to a rallying cry for model interpretability.
-    Yet the concept of interpretability remains nebulous, such that researchers and tool designers lack actionable guidelines for how to incorporate interpretability into models and accompanying tools. 
-    Through an iterative design process with expert machine learning researchers and practitioners, we designed a visual analytics system, Gamut, to explore how interactive interfaces could better support model interpretation.
-    Using Gamut as a probe, we investigated why and how professional data scientists interpret models, and how interface affordances can support data scientists in answering questions about model interpretability.
-    Our investigation showed that interpretability is not a monolithic concept: data scientists have different reasons to interpret models and tailor explanations for specific audiences, often balancing competing concerns of simplicity and completeness.
-    Participants also asked to use Gamut in their work, highlighting its potential to help data scientists understand their own data.
+    The growing capability and accessibility of machine learning has led to its application to many real-world domains and data about people.
+    Despite the benefits algorithmic systems may bring, models can reflect, inject, or exacerbate implicit and explicit societal biases into their outputs, disadvantaging certain demographic subgroups.
+    Discovering which biases a machine learning model has introduced is a great challenge, due to the numerous definitions of fairness and the large number of potentially impacted subgroups.
+    We present FairVis, a mixed-initiative visual analytics system that integrates a novel subgroup discovery technique for users to audit the fairness of machine learning models.
+    Through FairVis, users can apply domain knowledge to generate and investigate known subgroups, and explore suggested and similar subgroups.
+    FairVis' coordinated views enable users to explore a high-level overview of subgroup performance and subsequently drill down into detailed investigation of specific subgroups.
+    We show how FairVis helps to discover biases in two real datasets used in predicting income and recidivism.
+    As a visual analytics system devoted to discovering bias in machine learning, FairVis demonstrates how interactive visualization may help data scientists and the general public in understanding and creating more equitable algorithmic systems.
+
 
 - id: atlas
   figure: /images/papers/19-atlas-iui.png
