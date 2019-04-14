@@ -74,7 +74,7 @@
   feature-title: Summit
   feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
   image: /images/featured/summit.png
-  featured: true
+  featured: false
   bibtex: |-
 
     @article{hohman2019summit,
