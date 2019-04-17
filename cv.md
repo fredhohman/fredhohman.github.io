@@ -22,7 +22,7 @@ I also write, design, and build explorable explanations, dynamic expositions, an
 </span>
 
 <span class="cv-max-width">
-I have worked at Apple, Microsoft Research, NASA Jet Propulsion Laboratory, and Pacific Northwest National Laboratory.
+I have worked at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
 </span>
 
 <span class="cv-max-width">

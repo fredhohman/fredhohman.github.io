@@ -1,3 +1,16 @@
+- institution: Apple
+  location: "Seattle, WA"
+  position: Research Intern
+  group: "Turi (HCI + ML) Group"
+  year: Summer 2019
+  mentors:
+    - Kanit Wongsuphasawat
+    - Kayur Patel
+  description: "Designing and developing interactive tools at the intersection of human-computer interaction and machine learning."
+  institution-url: https://apple.com
+  group-url: https://apple.com
+  type: industry
+
 - institution: Microsoft Research
   location: "Redmond, WA"
   position: Research Intern
