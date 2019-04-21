@@ -55,6 +55,17 @@
     We show how FairVis helps to discover biases in two real datasets used in predicting income and recidivism.
     As a visual analytics system devoted to discovering bias in machine learning, FairVis demonstrates how interactive visualization may help data scientists and the general public in understanding and creating more equitable algorithmic systems.
 
+- id: subgroup
+  figure: /images/papers/19-subgroup-debugml.png
+  caption: |
+    Using our technique on the UCI Adult Dataset we (A) Cluster instances into subgroups, then (B) Calculate subgroup feature entropy to find dominant features, and lastly (C) Investigate similar subgroups to discover value and performance differences.
+  abstract: |
+    As machine learning is applied to data about people, it is crucial to understand how learned models treat different demographic groups.
+    Many factors, including what training data and class of models are used, can encode biased behavior into learned outcomes.
+    These biases are often small when considering a single feature (e.g., sex or race) in isolation, but appear more blatantly at the intersection of multiple features.
+    We present our ongoing work of designing automatic techniques and interactive tools to help users discover subgroups of data instances on which a model underperforms.
+    Using a bottom-up clustering technique for subgroup generation, users can quickly find areas of a dataset in which their models are encoding bias.
+    Our work presents some of the first user-focused, interactive methods for discovering bias in machine learning models.
 
 - id: atlas
   figure: /images/papers/19-atlas-iui.png
