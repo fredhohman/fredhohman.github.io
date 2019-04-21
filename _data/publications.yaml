@@ -104,7 +104,31 @@
       title={FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning},
       author={Cabrera, {\'A}ngel and Epperson, Will, and Hohman, Fred and Kahng, Minsuk and Morgenstern, Jamie and Chau, Duen Horng},
       journal={arXiv preprint arXiv:1904.05419},
-      year={2019},
+      year={2019}
+    }
+
+- id: subgroup
+  title: "Discovery of Intersectional Bias in Machine Learning Using Automatic Subgroup Generation"
+  authors: 
+    - Angel Cabrera
+    - Minsuk Kahng
+    - Fred Hohman
+    - Jamie Morgenstern 
+    - Duen Horng (Polo) Chau
+  venue: Debugging Machine Learning Models Workshop at ICLR
+  venue-shorthand: Debug ML
+  location: New Orleans, Louisiana, USA
+  year: 2019
+  url: /papers/subgroup
+  pdf: http://cabreraalex.com/subgroup.pdf
+  bibtex: |-
+
+    @article{cabrera2019fdiscovery,
+      title={Discovery of Intersectional Bias in Machine Learning Using Automatic Subgroup Generation},
+      author={Cabrera, {\'A}ngel and Kahng, Minsuk and Hohman, Fred and Morgenstern, Jamie and Chau, Duen Horng},
+      journal={Debugging Machine Learning Models Workshop (Debug ML) at ICLR},
+      year={2019}
+    }
 
 - id: neuraldivergence
   title: "NeuralDivergence: Exploring and Understanding Neural Networks by Comparing Activation Distributions"
@@ -308,7 +332,6 @@
       year={2018},
       publisher={ACM}
     } 
-
 
 - id: graph-playground
   title: Large Graph Exploration via Subgraph Discovery and Decomposition
