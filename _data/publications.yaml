@@ -143,6 +143,8 @@
   url: http://haekyu.com/neural-divergence/
   pdf: http://haekyu.com/neural-divergence/assets/19_pacificvis_neural_divergence.pdf
   demo: http://haekyu.com/neural-divergence/
+  poster: http://haekyu.com/neural-divergence/assets/19-neural-divergence-poster.pdf
+  slides: http://haekyu.com/neural-divergence/assets/neural-divergence-presentation.pdf
   bibtex: |-
 
     @inproceedings{park2019neuraldivergence,
