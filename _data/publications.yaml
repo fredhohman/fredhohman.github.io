@@ -14,6 +14,7 @@
   pdf: /papers/19-gamut-chi.pdf
   video: https://youtu.be/R-amW_yNX6I
   preview: https://youtu.be/7Usb6b3ykPU
+  blog: https://medium.com/@fredhohman/understanding-how-data-scientists-understand-machine-learning-models-5afe7bc2b270
   feature-title: Gamut
   feature-description: A design probe to understand how data scientists understand machine learning models
   image: /images/featured/gamut.png
@@ -49,7 +50,7 @@
   bibtex: |-
 
     @inproceedings{head2019managing,
-      title={Managing},
+      title={Managing Messes in Computational Notebooks},
       author={Head, Andrew and Hohman, Fred and Barik, Titus and Drucker, Steven M. and DeLine, Rob},
       booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
       year={2019},
