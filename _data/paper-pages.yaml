@@ -20,7 +20,7 @@
     In this example, InceptionV1 accurately classifies images of <strong><i>tench</i></strong> (yellow-brown fish).
     However, Summit reveals surprising associations in the network (e.g., using parts of people) that contribute to its final outcome: the "tench" prediction is dependent on an intermediate "hands holding fish" feature (right callout), which is influenced by lower-level features like <i>"scales,"</i> <i>"person,"</i> and <i>"fish"</i>. 
     <strong>A. The Embedding View</strong> summarizes all classes' aggregated activations using dimensionality reduction.
-    <strong>The Class Sidebar</strong> enables users to search, sort, and compare all classes within a model.
+    <strong>B. The Class Sidebar</strong> enables users to search, sort, and compare all classes within a model.
     <strong>C. The Attribution Graph View</strong> visualizes highly activated neurons as vertices ("scales" "fish") and their most influential connections as edges (dashed purple edges).
   abstract: |
     Deep learning is increasingly used in decision-making tasks.
