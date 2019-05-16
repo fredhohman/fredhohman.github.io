@@ -1,3 +1,8 @@
+- venue: ACM Conference on Computer Supported Cooperative Work and Social Computing
+  venue-shorthand: CSCW
+  years:
+    - year: 2019
+
 - venue: ACM Conference on Human Factors in Computing Systems
   venue-shorthand: CHI
   years:
