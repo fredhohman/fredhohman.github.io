@@ -1,3 +1,5 @@
+# feature-parametric-order: 1000 = inf
+
 - title: Parametric Press
   authors:
     - Matthew Conlen
@@ -15,6 +17,8 @@
   feature-description: "A born-digital magazine showcasing the expository power of the web"
   feature-order: 1
   featured: true
+  parametric: false
+  feature-parametric-order: 1000
 
 - title: The Myth of the Impartial Machine
   authors:
@@ -28,13 +32,15 @@
   year: 2019
   url: https://parametric.press/issue-01/the-myth-of-the-impartial-machine/
   award: Top of Hacker News
-  image: /images/featured/
+  image: /images/featured/parametric-ml.png
   feature-title: The Myth of the Impartial Machine
-  feature-description: Wide-ranging applications of data science bring utopian proposals of a world free from bias, but in reality, machine learning models reproduce the inequalities that shape the data they’re fed. Can programmers free their models from prejudice?
+  feature-description: Can we free machine learning models from bias and prejudice?
   code: https://github.com/ParametricPress/01-the-myth-of-the-impartial-machine
   feature-order: 0
+  feature-parametric-order: 1
   featured: false
   parametric: true
+  parametric-featured: true
   parametric-title: Parametric Press
   parametric-url: https://parametric.press/issue-01/
 
@@ -47,13 +53,15 @@
   month: "May"
   year: 2019
   url: https://parametric.press/issue-01/on-particle-physics/
-  image: /images/featured/
+  image: /images/featured/parametric-physics.png
   feature-title: On Particle Physics
-  feature-description: A CERN particle physicist walks through the history and science of particle physics, and why you should care about it—even outside of the laboratory
+  feature-description: A CERN particle physicist walks us through the history and science of particle physics
   code: https://github.com/ParametricPress/01-on-particle-physics
   feature-order: 0
+  feature-parametric-order: 2
   featured: false
   parametric: true
+  parametric-featured: true
   parametric-title: Parametric Press
   parametric-url: https://parametric.press/issue-01/
 
@@ -67,13 +75,15 @@
   month: "May"
   year: 2019
   url: https://parametric.press/issue-01/data-science-for-fair-housing/
-  image: /images/featured/
+  image: /images/featured/parametric-housing.png
   feature-title: Data Science for Fair Housing
-  feature-description: Cities across America covertly exclude racial minorities from majority-white residential neighborhoods, while gentrification drives people of color out of their homes. In Atlanta, a new nonprofit seeks to resist displacement by supporting the city’s most vulnerable residents—but how effective is their project?
+  feature-description: In Atlanta, a nonprofit seeks to resist housing displacement—but how effective is the project?
   code: https://github.com/ParametricPress/01-data-science-for-fair-housing
   feature-order: 0
+  feature-parametric-order: 3
   featured: false
   parametric: true
+  parametric-featured: true
   parametric-title: Parametric Press
   parametric-url: https://parametric.press/issue-01/
 
@@ -91,6 +101,8 @@
   code: https://github.com/fredhohman/blueberry-pancakes
   feature-order: 4
   featured: false
+  parametric: false
+  feature-parametric-order: 1000
 
 - title: "The Beginner's Guide to Dimensionality Reduction"
   authors: 
@@ -108,6 +120,8 @@
   slides: /slides/18-dr-visxai-slides.pdf
   feature-order: 2
   featured: true
+  parametric: false
+  feature-parametric-order: 1000
 
 - title: The Math of Card Shuffling
   authors:
@@ -123,6 +137,8 @@
   code: https://github.com/fredhohman/card-shuffling
   feature-order: 3
   featured: true
+  parametric: false
+  feature-parametric-order: 1000
 
 - title: A Viz of Ice and Fire
   authors:
@@ -135,3 +151,5 @@
   year: 2017
   url: https://fredhohman.com/a-viz-of-ice-and-fire/
   code: https://github.com/fredhohman/a-viz-of-ice-and-fire
+  parametric: false
+  feature-parametric-order: 1000
