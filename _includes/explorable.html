@@ -1,5 +1,5 @@
 <p>
-	<span class="cv-left-date">{{ explorable.month }} {{ explorable.year }}</span>{% if explorable.year-extra %}<span class="cv-left-date-mobile">{{ explorable.year-extra }}</span>{% endif %}<a href="{{ explorable.url }}"><strong>{{ explorable.title }}</strong></a>
+	<span class="cv-left-date">{{ explorable.month }} {{ explorable.year }}</span>{% if explorable.year-extra %}<span class="cv-left-date-mobile">{{ explorable.year-extra }}</span>{% endif %}<a href="{{ explorable.url }}"><strong>{{ explorable.title }}</strong></a>{% if explorable.parametric %}<span class="parametric-press"> on <a href="{{ explorable.parametric-url }}">{{ explorable.parametric-title }}</a></span>{% endif %}
 	<br>
 	{% if explorable.authors %}
 	{% for person in explorable.authors %}
