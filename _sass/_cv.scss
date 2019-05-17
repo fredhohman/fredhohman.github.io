@@ -182,6 +182,16 @@
 	margin-left: 0px !important;
 }
 
+#cv .parametric-press, #cv .parametric-press a {
+	// color: #9a9a9a !important;
+	font-size: 13px;
+	font-weight: 400;
+}
+
+#cv .parametric-press a:hover {
+	color: #2196F3 !important;
+}
+
 @media screen and (max-width: $on-laptop) {
 
 }

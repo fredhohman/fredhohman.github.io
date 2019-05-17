@@ -1,9 +1,10 @@
-- title: The Parametric Press
+- title: Parametric Press
   authors:
     - Matthew Conlen
     - Fred Hohman
     - Sara Stalla
     - Victoria Uren
+    - Andrew Sass
   description: "An experimental, born-digital magazine dedicated to showcasing the expository power that’s possible when the audio, visual, and interactive capabilities of dynamic media are effectively combined"
   year: "Present —"
   year-extra: "Dec. 2018"
@@ -14,6 +15,67 @@
   feature-description: "A born-digital magazine showcasing the expository power of the web"
   feature-order: 1
   featured: true
+
+- title: The Myth of the Impartial Machine
+  authors:
+    - Alice Feng
+    - Shuyan Wu
+    - Fred Hohman
+    - Matthew Conlen
+    - Victoria Uren
+  description: Wide-ranging applications of data science bring utopian proposals of a world free from bias, but in reality, machine learning models reproduce the inequalities that shape the data they’re fed. Can programmers free their models from prejudice?
+  month: "May"
+  year: 2019
+  url: https://parametric.press/issue-01/the-myth-of-the-impartial-machine/
+  award: Top of Hacker News
+  image: /images/featured/
+  feature-title: The Myth of the Impartial Machine
+  feature-description: Wide-ranging applications of data science bring utopian proposals of a world free from bias, but in reality, machine learning models reproduce the inequalities that shape the data they’re fed. Can programmers free their models from prejudice?
+  code: https://github.com/ParametricPress/01-the-myth-of-the-impartial-machine
+  feature-order: 0
+  featured: false
+  parametric: true
+  parametric-title: Parametric Press
+  parametric-url: https://parametric.press/issue-01/
+
+- title: On Particle Physics
+  authors:
+    - Riccardo Maria Bianchi
+    - Fred Hohman
+    - Matthew Conlen
+  description: A CERN particle physicist walks through the history and science of particle physics, and why you should care about it—even outside of the laboratory
+  month: "May"
+  year: 2019
+  url: https://parametric.press/issue-01/on-particle-physics/
+  image: /images/featured/
+  feature-title: On Particle Physics
+  feature-description: A CERN particle physicist walks through the history and science of particle physics, and why you should care about it—even outside of the laboratory
+  code: https://github.com/ParametricPress/01-on-particle-physics
+  feature-order: 0
+  featured: false
+  parametric: true
+  parametric-title: Parametric Press
+  parametric-url: https://parametric.press/issue-01/
+
+- title: Data Science for Fair Housing
+  authors:
+    - Alyson Powell Key
+    - Fred Hohman
+    - Matthew Conlen
+    - Sara Stalla
+  description: Cities across America covertly exclude racial minorities from majority-white residential neighborhoods, while gentrification drives people of color out of their homes. In Atlanta, a new nonprofit seeks to resist displacement by supporting the city’s most vulnerable residents—but how effective is their project?
+  month: "May"
+  year: 2019
+  url: https://parametric.press/issue-01/data-science-for-fair-housing/
+  image: /images/featured/
+  feature-title: Data Science for Fair Housing
+  feature-description: Cities across America covertly exclude racial minorities from majority-white residential neighborhoods, while gentrification drives people of color out of their homes. In Atlanta, a new nonprofit seeks to resist displacement by supporting the city’s most vulnerable residents—but how effective is their project?
+  code: https://github.com/ParametricPress/01-data-science-for-fair-housing
+  feature-order: 0
+  featured: false
+  parametric: true
+  parametric-title: Parametric Press
+  parametric-url: https://parametric.press/issue-01/
 
 - title: Blueberry Pancakes
   authors:
