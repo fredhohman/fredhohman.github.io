@@ -4,12 +4,22 @@
   <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
   <link href="https://fonts.googleapis.com/css?family=Gaegu:300,400,700" rel="stylesheet">
 
-  <!-- Enable responsiveness on mobile devices-->
+  <!-- Enable responsiveness on mobile devices -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Share card -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@fredhohman" />
+  <meta name="twitter:creator" content="@fredhohman" />
+  <meta property="og:url" content="https://fredhohman.com/" />
+  <meta property="og:title" content="Fred Hohman" />
+  <meta property="og:description" content="Fred Hohman is a Ph.D. student in the College of Computing at Georgia Tech researching the intersection of data visualization and machine learning." />
+  <!-- <meta property="og:image" content="http://fredhohman.com/share.png" /> -->
+
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
