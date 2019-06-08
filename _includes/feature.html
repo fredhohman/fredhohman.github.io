@@ -74,6 +74,12 @@
 					</a>
 					{% endif %}
 
+					{% if feature.talk %}
+					  <a href="{{ feature.talk }}">
+					    <i class="fas fa-video" aria-hidden="true"></i> Talk
+					  </a>
+					{% endif %}
+
 					{% if feature.code %}
 					<a href="{{ feature.code }}">
 						<i class="fas fa-code" aria-hidden="true"></i> Code
