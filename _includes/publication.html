@@ -58,6 +58,11 @@
 	    <i class="fas fa-eye" aria-hidden="true"></i> Preview
 	  </a>
 	{% endif %}
+	{% if pub.talk %}
+	  <a href="{{ pub.talk }}">
+	    <i class="fas fa-video" aria-hidden="true"></i> Talk
+	  </a>
+	{% endif %}
 	{% if pub.slides %}
 	  <a href="{{ pub.slides }}">
 	    <i class="fas fa-window-maximize" aria-hidden="true"></i> Slides
