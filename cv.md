@@ -69,7 +69,6 @@ My research is funded by the [NASA Space Technology Research Fellowship][nstrf].
 
 ## Education
 
-
 {% for degree in site.data.education %}
 {% include degree.html degree=degree %}
 {% endfor %}
