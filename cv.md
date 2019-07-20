@@ -47,22 +47,6 @@ My research is funded by the [NASA Space Technology Research Fellowship][nstrf].
 	</div>
 </div>
 
-<!-- <a href="http://fredhohman.com"><img class="social-icon" src="/images/footer/home-color.svg">fredhohman.com</a>  
-<a href="https://twitter.com/fredhohman"><img class="social-icon" src="/images/footer/twitter-color.svg">@fredhohman</a>  
-<a href="https://github.com/fredhohman"><img class="social-icon" src="/images/footer/github-color.svg">github.com/fredhohman</a>  
-<a href="https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en&oi=ao"><img class="social-icon" src="/images/footer/graduation-color.svg">Google Scholar</a> -->
-
-<!-- <hr width="30%"> -->
-
-<!-- <a href="http://fredhohman.com/cv.pdf"><img class="social-icon" src="/images/footer/file-pdf-o-color.svg"></a> [CV PDF][cv]   -->
-<!-- <div class="intro-image-links" style="font-size: 16px; padding-top: 0;">
-{% for link in site.data.social-links %}
-{% if link.id == 'cv' %}
-{% include social-link.html link=link %}
-{% endif %}
-{% endfor %}
-</div> -->
-<!-- <time datetime="{{ site.time | date: "%B %-d, %Y" }}" class="post-date">Updated: {{ site.time | date: "%B %d, %Y" }}</time> -->
 
 ***
 
@@ -165,7 +149,12 @@ My research is funded by the [NASA Space Technology Research Fellowship][nstrf].
 
 ## Service
 
-<p style="margin-bottom: 0rem"><strong>Program Commitee</strong></p>
+<p style="margin-bottom: 0rem"><strong>Organizer</strong></p>
+{% for venue in site.data.organizer %}
+{% include venue.html venue=venue %}
+{% endfor %}
+
+<p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Program Commitee</strong></p>
 {% for venue in site.data.pc %}
 {% include venue.html venue=venue %}
 {% endfor %}
