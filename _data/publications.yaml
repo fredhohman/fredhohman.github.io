@@ -1,3 +1,110 @@
+- id: summit
+  title: "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+  authors: 
+    - Fred Hohman
+    - Haekyu Park
+    - Caleb Robinson
+    - Duen Horng (Polo) Chau
+  venue: IEEE Transactions on Visualization and Computer Graphics
+  venue-shorthand: TVCG
+  location: Vancouver, Canada
+  year: 2020
+  url: /papers/summit
+  demo: https://fredhohman.com/summit/
+  pdf: /papers/19-summit-vast.pdf
+  video: https://www.youtube.com/watch?v=J4GMLvoH1ZU&feature=youtu.be
+  code: https://github.com/fredhohman/summit/
+  feature-title: Summit
+  feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+  image: /images/featured/summit.png
+  featured: true
+  bibtex: |-
+
+    @article{hohman2020summit,
+      title={Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations},
+      author={Hohman, Fred and Park, Haekyu and Robinson, Caleb and Chau, Duen Horng},
+      journal={IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+      year={2020},
+      publisher={IEEE}
+      url={https://fredhohman.com/summit/}
+    }
+
+- id: fairvis
+  title: "FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning"
+  authors: 
+    - Angel Cabrera
+    - Will Epperson 
+    - Fred Hohman
+    - Minsuk Kahng
+    - Jamie Morgenstern 
+    - Duen Horng (Polo) Chau
+  venue: IEEE Conference on Visual Analytics Science and Technology
+  venue-shorthand: VAST
+  location: Vancouver, Canada
+  year: 2019
+  url: /papers/fairvis
+  demo: https://poloclub.github.io/FairVis/
+  pdf: https://arxiv.org/abs/1904.05419
+  bibtex: |-
+
+    @article{cabrera2019fairvis,
+      title={FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning},
+      author={Cabrera, {\'A}ngel and Epperson, Will, and Hohman, Fred and Kahng, Minsuk and Morgenstern, Jamie and Chau, Duen Horng},
+      journal={IEEE Conference on Visual Analytics Science and Technology (VAST)},
+      year={2019},
+      publisher={IEEE}
+      url={https://poloclub.github.io/FairVis/}
+    }
+
+- id: telegam
+  title: "TeleGam: Combining Visualization and Verbalization for Interpretable Machine Learning"
+  authors: 
+    - Fred Hohman
+    - Arjun Srinivasan
+    - Steven Drucker
+  venue: IEEE Visualization Conference
+  venue-shorthand: VIS
+  location: Vancouver, Canada
+  year: 2019
+  url: /papers/telegam
+  pdf: /papers/19-telegam-vis.pdf
+  demo: https://poloclub.github.io/telegam/
+  bibtex: |-
+
+    @article{hohman2019telegam,
+      title={TeleGam: Combining Visualization and Verbalization for Interpretable Machine Learning,
+      author={Hohman, Fred and Srinivasan, Arjun and Drucker, Steven M.},
+      journal={IEEE Visualization Conference (VIS)},
+      year={2019},
+      url={https://poloclub.github.io/telegam/}
+    }
+
+- id: electrolens
+  title: "ElectroLens: Understanding Atomistic Simulations through Spatially-resolved Visualization of High-dimensional Features"
+  authors: 
+    - Xiangyun Lei
+    - Fred Hohman
+    - Duen Horng (Polo) Chau
+    - Andrew Medford
+  venue: IEEE Visualization Conference
+  venue-shorthand: VIS
+  location: Vancouver, Canada
+  year: 2019
+  url: /papers/electrolens
+  pdf: /papers/19-electrolens-vis.pdf
+  feature-title: ElectroLens
+  feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+  image: /images/featured/electrolens.png
+  featured: false
+  bibtex: |-
+
+    @article{lei2019electrolens,
+      title={Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations},
+      author={Lei, Xiangyun and Hohman, Fred and Chau, Duen Horng (Polo) and Medford, Andrew},
+      journal={IEEE Visualization Conference (VIS)},
+      year={2019}
+    }
+
 - id: gamut
   title: "Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models"
   authors: 
@@ -59,56 +166,6 @@
       year={2019},
       organization={ACM},
       url={https://microsoft.github.io/gather/}
-    }
-
-- id: summit
-  title: "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
-  authors: 
-    - Fred Hohman
-    - Haekyu Park
-    - Caleb Robinson
-    - Duen Horng (Polo) Chau
-  venue: arXiv:1904.02323
-  year: 2019
-  url: /papers/summit
-  demo: https://fredhohman.com/summit/
-  pdf: https://arxiv.org/pdf/1904.02323
-  video: https://www.youtube.com/watch?v=J4GMLvoH1ZU&feature=youtu.be
-  code: https://github.com/fredhohman/summit/
-  feature-title: Summit
-  feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
-  image: /images/featured/summit.png
-  featured: false
-  bibtex: |-
-
-    @article{hohman2019summit,
-      title={Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations},
-      author={Hohman, Fred and Park, Haekyu and Robinson, Caleb and Chau, Duen Horng},
-      journal={arXiv preprint arXiv:1808.04414},
-      year={2019},
-      url={https://fredhohman.com/summit/}
-    }
-
-- id: fairvis
-  title: "FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning"
-  authors: 
-    - Angel Cabrera
-    - Will Epperson	
-    - Fred Hohman
-    - Minsuk Kahng
-    - Jamie Morgenstern	
-    - Duen Horng (Polo) Chau
-  venue: arXiv:1904.05419
-  year: 2019
-  url: /papers/fairvis
-  pdf: https://arxiv.org/abs/1904.05419
-  bibtex: |-
-
-    @article{cabrera2019fairvis,
-      title={FairVis: Visual Analytics for Discovering Intersectional Bias in Machine Learning},
-      author={Cabrera, {\'A}ngel and Epperson, Will, and Hohman, Fred and Kahng, Minsuk and Morgenstern, Jamie and Chau, Duen Horng},
-      journal={arXiv preprint arXiv:1904.05419},
-      year={2019}
     }
 
 - id: subgroup
@@ -184,7 +241,7 @@
   feature-description: Local graph exploration in a global context
   image: /images/featured/atlas.png
   feature-order: 2
-  featured: true
+  featured: false
   bibtex: |-
 
     @inproceedings{hohman2019atlas,
@@ -401,7 +458,7 @@
     - Shamkant Navathe
     - Duen Horng (Polo) Chau
   venue: IEEE Transactions on Visualization and Computer Graphics
-  venue-shorthand: Proc. VAST
+  venue-shorthand: TVCG
   location: Phoenix, AZ, USA
   year: 2018
   url: /papers/vigor
