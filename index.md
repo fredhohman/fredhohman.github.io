@@ -65,7 +65,7 @@ title: Home
 {% endfor %}
 </div>	
 
-<!-- <hr style="margin-left: 0;"> -->
+<hr style="margin-left: 0;">
 
 <div class="cover-wrapper">
 	<div class="cover-side">
@@ -81,9 +81,19 @@ title: Home
 {% endfor %}
 </div>
 
-<!-- <hr style="margin-left: 0;"> -->
+<hr style="margin-left: 0;">
 
-
+<div class="cover-wrapper">
+	<div class="cover-side">
+	Featured <a href="/cv#explorable-explanations" style="color: #303030"><strong>Parametric Press Articles</strong></a>
+</div>
+{% assign sortedParametric = site.data.explorables | sort: 'feature-parametric-order' %}
+{% for feature in sortedParametric %}
+{% if feature.parametric-featured == true %}
+{% include feature.html feature=feature %}
+{% endif %}
+{% endfor %}
+</div>
 
 <hr style="margin-left: 0;">
 
