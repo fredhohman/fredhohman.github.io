@@ -76,6 +76,7 @@
       author={Hohman, Fred and Srinivasan, Arjun and Drucker, Steven M.},
       journal={IEEE Visualization Conference (VIS)},
       year={2019},
+      publisher={IEEE},
       url={https://poloclub.github.io/telegam/}
     }
 
@@ -99,10 +100,11 @@
   bibtex: |-
 
     @article{lei2019electrolens,
-      title={Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations},
+      title={ElectroLens: Understanding Atomistic Simulations through Spatially-resolved Visualization of High-dimensional Features},
       author={Lei, Xiangyun and Hohman, Fred and Chau, Duen Horng (Polo) and Medford, Andrew},
       journal={IEEE Visualization Conference (VIS)},
-      year={2019}
+      year={2019},
+      publisher={IEEE}
     }
 
 - id: gamut

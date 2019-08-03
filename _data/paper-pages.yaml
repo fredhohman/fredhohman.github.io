@@ -1,41 +1,26 @@
-- id: gamut
-  figure: /images/papers/19-gamut-chi.png
-  caption: |
-    Interacting with Gamut's multiple coordinated views together.
-    (A) Selecting the OverallQual feature from the sorted Feature Sidebar displays its shape curve in the Shape Curve View.
-    (B) Brushing over either explanation for Instance 550 or Instance 798 shows the contribution of the Ove
-  abstract: |
-    Without good models and the right tools to interpret them, data scientists risk making decisions based on hidden biases, spurious correlations, and false generalizations.
-    This has led to a rallying cry for model interpretability.
-    Yet the concept of interpretability remains nebulous, such that researchers and tool designers lack actionable guidelines for how to incorporate interpretability into models and accompanying tools. 
-    Through an iterative design process with expert machine learning researchers and practitioners, we designed a visual analytics system, Gamut, to explore how interactive interfaces could better support model interpretation.
-    Using Gamut as a probe, we investigated why and how professional data scientists interpret models, and how interface affordances can support data scientists in answering questions about model interpretability.
-    Our investigation showed that interpretability is not a monolithic concept: data scientists have different reasons to interpret models and tailor explanations for specific audiences, often balancing competing concerns of simplicity and completeness.
-    Participants also asked to use Gamut in their work, highlighting its potential to help data scientists understand their own data.
-
 - id: summit
-  figure: /images/papers/19-summit-arxiv.png
+  figure: /images/papers/19-summit-vast.png
   caption: |
     With Summit, users can scalably summarize and interactively interpret deep neural networks by visualizing <i>what</i> features a network detects and <i>how</i> they are related.
-    In this example, InceptionV1 accurately classifies images of <strong><i>tench</i></strong> (yellow-brown fish).
+    In this example, InceptionV1 accurately classifies images of <i>tench</i> (yellow-brown fish).
     However, Summit reveals surprising associations in the network (e.g., using parts of people) that contribute to its final outcome: the "tench" prediction is dependent on an intermediate "hands holding fish" feature (right callout), which is influenced by lower-level features like <i>"scales,"</i> <i>"person,"</i> and <i>"fish"</i>. 
-    <strong>A. The Embedding View</strong> summarizes all classes' aggregated activations using dimensionality reduction.
-    <strong>B. The Class Sidebar</strong> enables users to search, sort, and compare all classes within a model.
-    <strong>C. The Attribution Graph View</strong> visualizes highly activated neurons as vertices ("scales" "fish") and their most influential connections as edges (dashed purple edges).
+    A. The Embedding View summarizes all classes' aggregated activations using dimensionality reduction.
+    B. The Class Sidebar enables users to search, sort, and compare all classes within a model.
+    C. The Attribution Graph View visualizes highly activated neurons as vertices ("scales" "fish") and their most influential connections as edges (dashed purple edges).
   abstract: |
     Deep learning is increasingly used in decision-making tasks.
     However, understanding how neural networks produce final predictions remains a fundamental challenge.
     Existing work on interpreting neural network predictions for images often focuses on explaining predictions for single images or neurons.
-    As predictions are often computed based off of millions of weights that are optimized over millions of images, such explanations can easily miss a bigger picture.
-    We present Summit, the first interactive system that scalably and systematically summarizes and visualizes what features a deep learning model has learned and how those features interact to make predictions.
-    Summit introduces two new scalable summarization techniques: (1) activation aggregation discovers important neurons, and (2) neuron-influence aggregation identifies relationships among such neurons.
+    As predictions are often computed from millions of weights that are optimized over millions of images, such explanations can easily miss a bigger picture.
+    We present Summit, an interactive system that scalably and systematically summarizes and visualizes what features a deep learning model has learned and how those features interact to make predictions.
+    Summit introduces two new scalable summarization techniques: (1) activation aggregation discovers important neurons, and (2) neuron-influence aggregation identifies relationships among such neurons. 
     Summit combines these techniques to create the novel attribution graph that reveals and summarizes crucial neuron associations and substructures that contribute to a model's outcomes.
     Summit scales to large data, such as the ImageNet dataset with 1.2M images, and leverages neural network feature visualization and dataset examples to help users distill large, complex neural network models into compact, interactive visualizations.
-    We present neural network exploration scenarios where Summit helps us discover multiple surprising insights into a state-of-the-art image classifier's learned representations and informs future neural network architecture design.
+    We present neural network exploration scenarios where Summit helps us discover multiple surprising insights into a prevalent, large-scale image classifier's learned representations and informs future neural network architecture design.
     The Summit visualization runs in modern web browsers and is open-sourced.
 
 - id: fairvis
-  figure: /images/papers/19-fairvis-arxiv.png
+  figure: /images/papers/19-fairvis-vast.png
   caption: |
     FairVis integrates multiple coordinated views for discovering intersectional bias. 
     Above, our user investigates the intersectional subgroups of <i>sex</i> and <i>race</i>. 
@@ -53,7 +38,65 @@
     Through FairVis, users can apply domain knowledge to generate and investigate known subgroups, and explore suggested and similar subgroups.
     FairVis' coordinated views enable users to explore a high-level overview of subgroup performance and subsequently drill down into detailed investigation of specific subgroups.
     We show how FairVis helps to discover biases in two real datasets used in predicting income and recidivism.
-    As a visual analytics system devoted to discovering bias in machine learning, FairVis demonstrates how interactive visualization may help data scientists and the general public in understanding and creating more equitable algorithmic systems.
+    As a visual analytics system devoted to discovering bias in machine learning, FairVis demonstrates how interactive visualization may help data scientists and the general public understand and create more equitable algorithmic systems.
+
+
+- id: telegam
+  figure: /images/papers/19-telegam-vis.png
+  caption: |
+    The TeleGam user interface contains (A) a model selector and parameters for the visualizations and verbalizations.
+    (B) The Global Model View displays model feature-level verbalizations of GAM shape function charts that describe a feature's overall impact on model predictions.
+    (C) The Local Instance View displays two data instance's waterfall charts, an explanatory visualization that shows the cumulative sum of the contribution each feature has on the final prediction.
+    Alongside are instance-level verbalizations that, when brushed, highlight in orange the corresponding marks of the visualization that the verbalization refers to.
+    (D) Settings to interactively tune verbalization generation thresholds.
+    
+  abstract: |
+    While machine learning (ML) continues to find success in solving previously-thought hard problems, interpreting and exploring ML models remains challenging.
+    Recent work has shown that visualizations are a powerful tool to aid debugging, analyzing, and interpreting ML models.
+    However, depending on the complexity of the model (e.g., number of features), interpreting these visualizations can be difficult and may require additional expertise.
+    Alternatively, textual descriptions, or verbalizations, can be a simple, yet effective way to communicate or summarize key aspects about a model, such as the overall trend in a model's predictions or comparisons between pairs of data instances.
+    With the potential benefits of visualizations and verbalizations in mind, we explore how the two can be combined to aid ML interpretability. 
+    Specifically, we present a prototype system, TeleGam, that demonstrates how visualizations and verbalizations can collectively support interactive exploration of ML models, for example, generalized additive models (GAMs).
+    We describe TeleGam's interface and underlying heuristics to generate the verbalizations.
+    We conclude by discussing how TeleGam can serve as a platform to conduct future studies for understanding user expectations and designing novel interfaces for interpretable ML.
+
+- id: electrolens
+  figure: /images/papers/19-electrolens-vis.png
+  caption: |
+    The ElectroLens user interface (UI) visualizing the electron cloud of CH_3NO_2 molecule. 
+    The UI has two main parts: 3D viewer(s) on the left, and 2D plots on the right with option boxes in each view for customization. 
+    (a) The 3D viewer for Cartesian space.
+    ElectroLens uses a "point cloud" to mimic the electron cloud, where the density of points corresponds to the density of electron cloud, and the color corresponds to energy density in this case.
+    ElectroLens utilizes the ball-and-stick model to visualize atoms, where different atom types are denoted by white (hydrogen), grey (carbon), blue (nitrogen), and red (oxygen) spheres.
+    (B) 2D plots for exploring and plotting additional features.
+    The upper plot is the correlation plot used to identify the potentially interesting combinations of features.
+    The plot below is a scatter plot of two features (in log-scale), where the color codes the number of data points represented.
+    (C) Selecting parts on the scatter plot causes the corresponding points in 3D viewer and other scatter plots to be highlighted.
+    This case illustrates the connection between the features (right) and the chemical concept of a C-N bond (left).
+    
+  abstract: |
+    In recent years, machine learning (ML) has gained significant popularity in the field of chemical informatics and electronic structure theory.
+    These techniques often require researchers to engineer abstract "features" that encode chemical concepts into a mathematical form compatible with the input to machine-learning models.
+    However, there is no existing tool to connect these abstract features back to the actual chemical system, making it difficult to diagnose failures and to build intuition about the meaning of the features.
+    We present ElectroLens, a new visualization tool for high-dimensional spatially-resolved features to tackle this problem.
+    The tool visualizes high-dimensional data sets for atomistic and electron environment features by a series of linked 3D views and 2D plots.
+    The tool is able to connect different derived features and their corresponding regions in 3D via interactive selection.
+    It is built to be scalable, and integrate with existing infrastructure.
+
+- id: gamut
+  figure: /images/papers/19-gamut-chi.png
+  caption: |
+    Interacting with Gamut's multiple coordinated views together.
+    (A) Selecting the OverallQual feature from the sorted Feature Sidebar displays its shape curve in the Shape Curve View.
+    (B) Brushing over either explanation for Instance 550 or Instance 798 shows the contribution of the Ove
+  abstract: |
+    Without good models and the right tools to interpret them, data scientists risk making decisions based on hidden biases, spurious correlations, and false generalizations.
+    This has led to a rallying cry for model interpretability.
+    Yet the concept of interpretability remains nebulous, such that researchers and tool designers lack actionable guidelines for how to incorporate interpretability into models and accompanying tools. 
+    Through an iterative design process with expert machine learning researchers and practitioners, we designed a visual analytics system, Gamut, to explore how interactive interfaces could better support model interpretation.
+    Using Gamut as a probe, we investigated why and how professional data scientists interpret models, and how interface affordances can support data scientists in answering questions about model interpretability.
+    Our investigation showed that interpretability is not a monolithic concept: data scientists have different reasons to interpret models and tailor explanations for specific audiences, often balancing competing concerns of simplicity and completeness.
+    Participants also asked to use Gamut in their work, highlighting its potential to help data scientists understand their own data.
 
 - id: subgroup
   figure: /images/papers/19-subgroup-debugml.png
