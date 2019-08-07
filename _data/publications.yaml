@@ -62,6 +62,9 @@
     - Fred Hohman
     - Arjun Srinivasan
     - Steven Drucker
+  equal-contribution:
+    - Fred Hohman
+    - Arjun Srinivasan
   venue: IEEE Visualization Conference
   venue-shorthand: VIS
   location: Vancouver, Canada
