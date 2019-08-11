@@ -72,6 +72,8 @@
   url: /papers/telegam
   pdf: /papers/19-telegam-vis.pdf
   demo: https://poloclub.github.io/telegam/
+  preview: https://youtu.be/DKeyhVIABlQ
+  code: https://github.com/poloclub/telegam
   bibtex: |-
 
     @article{hohman2019telegam,
