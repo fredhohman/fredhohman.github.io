@@ -97,7 +97,7 @@
   location: Vancouver, Canada
   year: 2019
   url: /papers/electrolens
-  pdf: /papers/19-electrolens-vis.pdf
+  pdf: https://arxiv.org/abs/1908.08381
   feature-title: ElectroLens
   feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
   image: /images/featured/electrolens.png
