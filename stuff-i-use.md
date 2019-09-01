@@ -94,8 +94,9 @@ On both sides of my desk sit [KRK Rokit 5 studio monitors][rokit5] with an accom
 I run audio from my computer through a now old [Presonus Firestudio][firestudio]. 
 For less serious recording, I use a [Blue Yeticaster][yeti] microphone for video calling and voice overs.
 
-I carry [Shure SE215 isolating headphones/earbuds][shure] with me at all times for sound quality, minor noise cancellation, and most importantly: they never fall out of my ears.
-I also carry a pair of the renowned [Audio Technica ATH-m50x][m50x] headphones for their excellent sound quality and portability.
+I carry [Shure SE846 isolating headphones/earbuds][shure215] with me at all times for excellent sound quality (portable bass!), noise cancellation, and most importantly: they never fall out of my ears.
+I have a number of other IEMs, including my older [Shure SE215s][shure215] and the cheap but surprinsgly fantastic [Tin Audio T2s][tint2].
+I also carry a pair of the renowned [Audio Technica ATH-m50x][m50x] headphones for sound quality and portability.
 
 ### Photography
 As an amateur photographer, I'm shooting with a hand-me-down [Nikon D80][d80], but I always have my phone on me to snap a quick picture.
@@ -153,7 +154,9 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 [rokit5]: http://www.krksys.com/krk-studio-monitor-speakers/rokit/rokit-5.html "Rokit 5."
 [rokit10]: http://www.krksys.com/krk-subwoofers/10s.html "Rokit 10s."
 [firestudio]: http://www.presonus.com/products/FireStudio "Presonus Firestudio."
-[shure]: http://www.shure.com/americas/products/earphones-headphones/se-earphones/se215-sound-isolating-earphones "Shure SE215 Earbuds."
+[shure846]: https://www.shure.com/en-US/products/earphones/se846 "Shure SE215 Earbuds."
+[shure215]: http://www.shure.com/americas/products/earphones-headphones/se-earphones/se215-sound-isolating-earphones "Shure SE846 Earbuds."
+[tint2]: https://drop.com/buy/tin-t2-iem "Tin Audio T2 Earbuds."
 [m50x]: https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html "Audio Technica ATH-M50x."
 [yeti]: https://www.bluedesigns.com/products/yeticaster/ "Blue Yeticaster."
 [d80]: http://www.nikonusa.com/en/Nikon-Products/Product-Archive/dslr-cameras/D80.html "Nikon D80."
