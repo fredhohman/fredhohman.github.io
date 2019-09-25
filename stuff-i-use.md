@@ -205,6 +205,6 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 [gpu]: https://www.nvidia.com/en-us/titan/titan-xp/ 'NVIDIA Titan Xp.'
 [power-supply]: https://www.evga.com/products/product.aspx?pn=220-G3-0850-X1 'EVGA 850W G3.'
 [case]: http://www.fractal-design.com/home/product/cases/meshify/meshify-c 'Fractal Design Meshify C (Tempered Glass).'
-[case-fans]: 'Corsair LL120mm RGB.'
+[case-fans]: https://www.corsair.com/us/en/Categories/Products/Fans/ml-config/p/CO-9050072-WW 'Corsair LL120mm RGB.'
 
 [^fn-moleskin]: Sometimes it irks me when ink bleeds through paper. 
