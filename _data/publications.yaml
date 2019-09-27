@@ -77,7 +77,7 @@
   bibtex: |-
 
     @article{hohman2019telegam,
-      title={TeleGam: Combining Visualization and Verbalization for Interpretable Machine Learning,
+      title={TeleGam: Combining Visualization and Verbalization for Interpretable Machine Learning},
       author={Hohman, Fred and Srinivasan, Arjun and Drucker, Steven M.},
       journal={IEEE Visualization Conference (VIS)},
       year={2019},
@@ -110,6 +110,28 @@
       journal={IEEE Visualization Conference (VIS)},
       year={2019},
       publisher={IEEE}
+    }
+
+- id: parametric
+  title: "Launching the Parametric Press"
+  authors:
+    - Matthew Conlen 
+    - Fred Hohman
+  venue: Visualization for Communication at IEEE VIS
+  venue-shorthand: VisComm
+  location: Vancouver, Canada
+  year: 2019
+  url: https://parametric.press
+  pdf: /papers/19-parametric-viscomm.pdf
+  code: https://github.com/ParametricPress
+  bibtex: |-
+
+    @article{conlen2019launching,
+      title={Launching the Parametric Press},
+      author={Conlen, Matthew and Hohman, Fred},
+      journal={Visualization for Communication (VisComm) at IEEE VIS},
+      year={2019},
+      url={https://parametric.press}
     }
 
 - id: gamut
