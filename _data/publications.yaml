@@ -356,7 +356,7 @@
   bibtex: |-
 
     @article{conlen2018dr,
-      title={Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers},
+      title={The Beginner's Guide to Dimensionality Reduction},
       author={Conlen, Matthew and Hohman, Fred},
       journal={Workshop on Visualization for AI Explainability (VISxAI) at IEEE VIS},
       year={2018},
