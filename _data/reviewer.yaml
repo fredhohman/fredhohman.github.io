@@ -1,7 +1,14 @@
+- venue: Distill Research Journal
+  venue-shorthand: Distill
+  years:
+    - year: 2019
+      url: https://distill.pub
+
 - venue: ACM Conference on Computer Supported Cooperative Work and Social Computing
   venue-shorthand: CSCW
   years:
     - year: 2019
+      url: https://cscw.acm.org/2019/
 
 - venue: ACM Conference on Human Factors in Computing Systems
   venue-shorthand: CHI
