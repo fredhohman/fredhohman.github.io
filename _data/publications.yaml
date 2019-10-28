@@ -12,6 +12,7 @@
   url: /papers/summit
   demo: https://fredhohman.com/summit/
   pdf: /papers/19-summit-vast.pdf
+  slides: /slides/19-summit-vast-slides.pdf
   video: https://www.youtube.com/watch?v=J4GMLvoH1ZU&feature=youtu.be
   code: https://github.com/fredhohman/summit/
   feature-title: Summit
@@ -45,6 +46,9 @@
   url: /papers/fairvis
   demo: https://poloclub.github.io/FairVis/
   pdf: https://arxiv.org/abs/1904.05419
+  slides: https://cabreraalex.com/fairvis/index.html
+  code: https://github.com/poloclub/FairVis
+  blog: https://medium.com/@cabreraalex/fairvis-discovering-bias-in-machine-learning-using-visual-analytics-acbd362a3e2f
   bibtex: |-
 
     @article{cabrera2019fairvis,
@@ -98,6 +102,7 @@
   year: 2019
   url: /papers/electrolens
   pdf: https://arxiv.org/abs/1908.08381
+  code: https://github.com/ray38/ElectroLens
   feature-title: ElectroLens
   feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
   image: /images/featured/electrolens.png
