@@ -1,3 +1,13 @@
+- title: "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+  location: "IEEE Visualization"
+  month: "Oct."
+  year: 2019
+
+- title: "TeleGam: Combining Visualization and Verbalization for Interpretable Machine Learning"
+  location: "IEEE Visualization"
+  month: "Oct."
+  year: 2019
+
 - title: "Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models"
   location: "Microsoft Machine Learning and Data Science Summit"
   month: "June"
