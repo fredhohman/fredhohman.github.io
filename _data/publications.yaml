@@ -14,6 +14,7 @@
   pdf: /papers/19-summit-vast.pdf
   slides: /slides/19-summit-vast-slides.pdf
   video: https://www.youtube.com/watch?v=J4GMLvoH1ZU&feature=youtu.be
+  recording: https://vimeo.com/368704428
   code: https://github.com/fredhohman/summit/
   feature-title: Summit
   feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
@@ -47,6 +48,7 @@
   demo: https://poloclub.github.io/FairVis/
   pdf: https://arxiv.org/abs/1904.05419
   slides: https://cabreraalex.com/fairvis/index.html
+  recording: https://vimeo.com/368702211
   code: https://github.com/poloclub/FairVis
   blog: https://medium.com/@cabreraalex/fairvis-discovering-bias-in-machine-learning-using-visual-analytics-acbd362a3e2f
   bibtex: |-
