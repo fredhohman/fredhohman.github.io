@@ -68,6 +68,12 @@
 					</a>
 					{% endif %}
 
+					{% if feature.recording %}
+					<a href="{{ feature.recording }}">
+						<i class="fas fa-video" aria-hidden="true"></i> Recording
+					</a>
+					{% endif %}
+
 					{% if feature.preview %}
 					<a href="{{ feature.preview }}">
 						<i class="fas fa-eye" aria-hidden="true"></i> Preview
