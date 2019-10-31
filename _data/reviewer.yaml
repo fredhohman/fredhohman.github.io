@@ -13,12 +13,14 @@
 - venue: ACM Conference on Human Factors in Computing Systems
   venue-shorthand: CHI
   years:
+    - year: 2020
+      url: https://chi2020.acm.org
     - year: 2019
       url: https://chi2019.acm.org
     - year: 2018
-      url: https://chi2018.acm.org/
+      url: https://chi2018.acm.org
     - year: 2017
-      url: https://chi2017.acm.org/
+      url: https://chi2017.acm.org
 
 - venue: Human-Centered Machine Learning Perspectives Workshop
   venue-shorthand: HCMLP
