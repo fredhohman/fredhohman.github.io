@@ -5,9 +5,9 @@
   co-advisor: Alex Endert
   years: "Present —"
   years-extra: "Aug. 2015"
-  description:
-    - "Overall GPA: 4.00/4.00"
-    # - "Minor: User-Centered Design in Data Science"
+  # description:
+    # - "<i>Thesis: Interactive Scalable Interfaces for Machine Learning Interpretability</i>"
+    # - "Committee: Polo Chau, Alex Endert, Chao Zhang, Nathan Hodas, Scott Davidoff, Steve Drucker" 
   institution-url: https://www.gatech.edu/
 
 - degree: "M.S. in Computational Science & Engineering"
@@ -15,6 +15,8 @@
   location: "Atlanta, GA"
   years: May 2018
   institution-url: https://www.gatech.edu/
+  description:
+    - "GPA: 4.00/4.00"
 
 - degree: "B.S. in Mathematics, B.S. in Physics"
   years: "May 2015 —"
@@ -22,6 +24,6 @@
   institution: University of Georgia
   location: "Athens, GA"
   description: 
-    - 'Thesis: "3D Printing the Trefoil Knot and its Pages"'
+    - '<i>Thesis: 3D Printing the Trefoil Knot and its Pages</i>'
     - "Overall GPA: 3.84/4.00, Magna Cum Laude, Area of Emphasis in Applied Mathematics"
   institution-url: https://www.uga.edu/
