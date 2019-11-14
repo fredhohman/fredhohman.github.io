@@ -7,7 +7,11 @@ permalink: projects/
 Things I do, including research, academic course projects, and miscellaneous interests.
 
 ### Research
+[Summit][19-summit-vast]&nbsp;<small style="color: #c0c0c0">2019</small>  
+[FairVis][19-fairvis-vast]&nbsp;<small style="color: #c0c0c0">2019</small>  
+[TeleGam][19-telegam-vis]&nbsp;<small style="color: #c0c0c0">2019</small>  
 [Gamut][19-gamut-chi]&nbsp;<small style="color: #c0c0c0">2019</small>  
+[Code Gathering][19-gather-chi]&nbsp;<small style="color: #c0c0c0">2019</small>  
 [Atlas][19-atlas-iui]&nbsp;<small style="color: #c0c0c0">2019</small>  
 [Scalable k-Core Decomposition][18-kcore-bigdata]&nbsp;<small style="color: #c0c0c0">2018</small>  
 [Visual Analytics in Deep Learning][18-deepvis-tvcg]&nbsp;<small style="color: #c0c0c0">2018</small>  
@@ -83,3 +87,7 @@ Things I do, including research, academic course projects, and miscellaneous int
 [18-kcore-bigdata]: {{ site.url }}/papers/kcore
 [19-atlas-iui]: {{ site.url }}/papers/atlas
 [19-gamut-chi]: {{ site.url }}/papers/gamut
+[19-gather-chi]: https://microsoft.github.io/gather/
+[19-telegam-vis]: {{ site.url }}/papers/telegam
+[19-fairvis-vast]: {{ site.url }}/papers/fairvis
+[19-summit-vast]: {{ site.url }}/papers/summit
