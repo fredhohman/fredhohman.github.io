@@ -69,7 +69,7 @@ title: Home
 
 <div class="cover-wrapper">
 	<div class="cover-side">
-	Featured <a href="/cv#explorable-explanations" style="color: #303030"><strong>Explorable Explainations</strong></a>
+	Featured <a href="/cv#explorable-explanations" style="color: #303030"><strong>Interactive Articles</strong></a>
 </div>
 {% assign sortedExplorables = site.data.explorables | sort: 'feature-order' %}
 {% for feature in sortedExplorables %}
