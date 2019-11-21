@@ -126,7 +126,7 @@ My research is funded by a [NASA Space Technology Research Fellowship][nstrf].
 {% endfor %}
 
 
-## Interactive Articles and Explorable Explanations
+## Interactive Articles
 
 {% for explorable in site.data.explorables %}
 {% include explorable.html explorable=explorable %}
