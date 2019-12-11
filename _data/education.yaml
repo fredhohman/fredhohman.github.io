@@ -5,9 +5,15 @@
   co-advisor: Alex Endert
   years: "Present —"
   years-extra: "Aug. 2015"
-  description:
-    - "<i>Thesis: Interactive Scalable Interfaces for Machine Learning Interpretability</i>"
-    - "Committee: Polo Chau, Alex Endert, Chao Zhang, Nathan Hodas, Scott Davidoff, Steven Drucker" 
+  thesis: "Interactive Scalable Interfaces for Machine Learning Interpretability"
+  # description:
+  committee:
+    - Duen Horng (Polo) Chau
+    - Alex Endert
+    - Chao Zhang
+    - Nathan Hodas
+    - Scott Davidoff
+    - Steven Drucker
   institution-url: https://www.gatech.edu/
 
 - degree: "M.S. in Computational Science & Engineering"
@@ -23,7 +29,7 @@
   years-extra: "Aug. 2011"
   institution: University of Georgia
   location: "Athens, GA"
+  thesis: "3D Printing the Trefoil Knot and its Pages"
   description: 
-    - '<i>Thesis: 3D Printing the Trefoil Knot and its Pages</i>'
     - "Overall GPA: 3.84/4.00, Magna Cum Laude, Area of Emphasis in Applied Mathematics"
   institution-url: https://www.uga.edu/
