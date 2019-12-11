@@ -12,11 +12,11 @@ title: Home
 	
 	<div class="intro-text">
 		<p markdown="1">
-		I’m a Ph.D. student in the [College of Computing][coc] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex]. 
+		I’m a Ph.D. candidate in the [College of Computing][coc] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex]. 
 		</p>
 		<p markdown="1">
-		My research applies a human-centered approach to designing and developing interactive interfaces that help people understand and explain **machine learning models**.
-		I also write, design, and build explorable explanations and **interactive data visualizations** that communicate complex ideas simply and tangibly.
+		My research applies a human-centered approach to designing and developing interactive scalable interfaces that help people understand and explain **machine learning models**.
+		I also write, design, and build explorable explanations and **interactive data visualizations** to simply communicate complex ideas.
 		</p>
 		<p markdown="1">
 		I have worked at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/apple.svg"> Apple, <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft Research, <img class="intro-logo" style="width: 24px" src="/images/nasa.svg"> NASA Jet Propulsion Lab, and <img class="intro-logo" style="width: 24px;" src="/images/pnnl.svg"> Pacific Northwest National Lab.
