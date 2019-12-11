@@ -13,12 +13,12 @@ jsarr:
 </span>
 
 <span class="cv-max-width">
-I’m a Ph.D. student studying [Computational Science and Engineering][cse] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex].
+I’m a Ph.D. candidate in the [College of Computing][coc] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex].
 </span>
 
 <span class="cv-max-width">
 My research applies a human-centered approach to designing and developing interactive interfaces that help people understand and explain **<span class="cv-ai">machine learning models</span>**.
-I also write, design, and build explorable explanations and **<span class="cv-vis">interactive data visualizations</span>** that communicate complex ideas simply and tangibly.
+I also write, design, and build explorable explanations and **<span class="cv-vis">interactive data visualizations</span>** to simply communicate complex ideas.
 </span>
 
 <span class="cv-max-width">
