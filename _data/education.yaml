@@ -5,9 +5,9 @@
   co-advisor: Alex Endert
   years: "Present —"
   years-extra: "Aug. 2015"
-  # description:
-    # - "<i>Thesis: Interactive Scalable Interfaces for Machine Learning Interpretability</i>"
-    # - "Committee: Polo Chau, Alex Endert, Chao Zhang, Nathan Hodas, Scott Davidoff, Steve Drucker" 
+  description:
+    - "<i>Thesis: Interactive Scalable Interfaces for Machine Learning Interpretability</i>"
+    - "Committee: Polo Chau, Alex Endert, Chao Zhang, Nathan Hodas, Scott Davidoff, Steven Drucker" 
   institution-url: https://www.gatech.edu/
 
 - degree: "M.S. in Computational Science & Engineering"
