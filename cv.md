@@ -85,10 +85,19 @@ My research is funded by a [NASA Space Technology Research Fellowship][nstrf].
 
 ## Publications
 
+### Selected: Latest & Greatest
+
+{% for pub in site.data.publications %}
+{% if pub.selected %}
+{% include publication.html pub=pub %}
+{% endif %}
+{% endfor %}
+
+### All Publications
+
 {% for pub in site.data.publications %}
 {% include publication.html pub=pub %}
 {% endfor %}
-
 
 ## Talks
 

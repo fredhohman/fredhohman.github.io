@@ -20,6 +20,8 @@
   feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
   image: /images/featured/summit.png
   featured: true
+  selected: true
+  type: journal
   bibtex: |-
 
     @article{hohman2020summit,
@@ -51,6 +53,8 @@
   recording: https://vimeo.com/368702211
   code: https://github.com/poloclub/FairVis
   blog: https://medium.com/@cabreraalex/fairvis-discovering-bias-in-machine-learning-using-visual-analytics-acbd362a3e2f
+  selected: true
+  type: conference
   bibtex: |-
 
     @article{cabrera2019fairvis,
@@ -82,6 +86,8 @@
   slides: /slides/19-telegam-vis-slides.pdf
   recording: https://vimeo.com/374187072
   code: https://github.com/poloclub/telegam
+  selected: true
+  type: conference
   bibtex: |-
 
     @article{hohman2019telegam,
@@ -111,6 +117,7 @@
   feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
   image: /images/featured/electrolens.png
   featured: false
+  type: conference
   bibtex: |-
 
     @article{lei2019electrolens,
@@ -133,6 +140,7 @@
   url: https://parametric.press
   pdf: /papers/19-parametric-viscomm.pdf
   code: https://github.com/ParametricPress
+  type: workshop
   bibtex: |-
 
     @article{conlen2019launching,
@@ -166,6 +174,8 @@
   image: /images/featured/gamut.png
   feature-order: 1
   featured: true
+  selected: true
+  type: conference
   bibtex: |-
 
     @inproceedings{hohman2019gamut,
@@ -195,6 +205,7 @@
   slides: https://andrewhead.info/assets/pdf/notebook-gathering-slides.pdf
   code: https://github.com/microsoft/gather
   award: Best Paper
+  type: conference
   bibtex: |-
 
     @inproceedings{head2019managing,
@@ -220,6 +231,7 @@
   year: 2019
   url: /papers/subgroup
   pdf: http://cabreraalex.com/subgroup.pdf
+  type: workshop
   bibtex: |-
 
     @article{cabrera2019fdiscovery,
@@ -244,6 +256,7 @@
   demo: http://haekyu.com/neural-divergence/
   poster: http://haekyu.com/neural-divergence/assets/19-neural-divergence-poster.pdf
   slides: http://haekyu.com/neural-divergence/assets/neural-divergence-presentation.pdf
+  type: poster
   bibtex: |-
 
     @inproceedings{park2019neuraldivergence,
@@ -280,6 +293,7 @@
   image: /images/featured/atlas.png
   feature-order: 2
   featured: false
+  type: conference
   bibtex: |-
 
     @inproceedings{hohman2019atlas,
@@ -303,6 +317,7 @@
   year: 2018
   url: "/papers/kcore"
   pdf: "https://www.researchgate.net/publication/328874544_Scalable_K-Core_Decomposition_for_Static_Graphs_Using_a_Dynamic_Graph_Data_Structure"
+  type: conference
   bibtex: |-
 
     @inproceedings{tripathy2018scalable,
@@ -330,7 +345,8 @@
   video: https://youtu.be/TI_sXHt2d8s
   blog: https://medium.com/multiple-views-visualization-research-explained/visualization-in-deep-learning-b29f0ec4f136
   slides: /slides/18-deepvis-tvcg-slides.pdf
-
+  selected: true
+  type: journal
   bibtex: |-
 
     @article{hohman2018visual,
@@ -362,6 +378,7 @@
   code: https://github.com/mathisonian/dimensionality-reduction
   slides: /slides/18-dr-visxai-slides.pdf
   award: Best Paper, Honorable Mention
+  type: workshop
   bibtex: |-
 
     @article{conlen2018dr,
@@ -390,6 +407,7 @@
   url: /papers/compression
   pdf: http://nilakshdas.com/papers/18-compression-kdd.pdf
   code: https://github.com/poloclub/jpeg-defense
+  type: workshop
   bibtex: |-
 
     @inproceedings{das2018compression,
@@ -425,6 +443,7 @@
   feature-description: "Fast, practical defense and vaccination for deep learning using JPEG compression"
   feature-order: 3
   featured: false
+  type: conference
   bibtex: |-
 
     @inproceedings{das2018shield,
@@ -449,6 +468,7 @@
   year: 2018
   url: /papers/graph-playground 
   pdf: https://arxiv.org/pdf/1808.04414.pdf
+  type: poster
   bibtex: |-
 
     @article{abello2018large,
@@ -474,6 +494,7 @@
   pdf: /papers/18-interactive-cvpr.pdf
   video: https://youtu.be/llub5GcOF6w
   code: https://github.com/poloclub/interactive-classification
+  type: demo
   bibtex: |-
 
     @article{cabrera2018interactive,
@@ -503,6 +524,7 @@
   pdf: https://www.cc.gatech.edu/~dchau/papers/17-vast-vigor.pdf
   video: https://www.youtube.com/watch?v=-jeck0yrT_Q&index=3&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
   preview: https://vimeo.com/groups/480818/videos/230830163
+  type: journal
   bibtex: |-
 
     @article{pienta2018vigor,
@@ -532,6 +554,7 @@
   feature-description: A deep learning approach for population estimation from satellite imagery
   feature-order: 4
   featured: false
+  type: workshop
   bibtex: |-
 
     @inproceedings{robinson2017deep,
@@ -560,6 +583,7 @@
   pdf: https://fredhohman.com/papers/17-playground-vast.pdf
   video: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
   poster: https://fredhohman.com/papers/17-playground-vast-poster.pdf
+  type: poster
   bibtex: |-
 
     @inproceedings{hohman2017playground,
@@ -586,6 +610,7 @@
   code: https://github.com/fredhohman/a-viz-of-ice-and-fire
   data: https://github.com/fredhohman/a-viz-of-ice-and-fire/tree/master/vis/data
   slides: /slides/17-got-vis4dh-slides.pdf
+  type: workshop
   bibtex: |-
 
     @article{hohman2017got,
@@ -616,6 +641,7 @@
   pdf: /papers/17-dashboard-ubicomp.pdf
   video: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
   poster: https://fredhohman.com/papers/17-dashboard-ubicomp-poster.pdf
+  type: demo
   bibtex: |-
 
     @inproceedings{fang2017mhealth,
@@ -641,6 +667,7 @@
   url: /papers/defense
   pdf: https://arxiv.org/abs/1705.02900
   code: https://github.com/poloclub/jpeg-defense
+  type: arxiv
   bibtex: |-
 
     @article{das2017keeping,
@@ -669,6 +696,7 @@
   video: https://www.youtube.com/watch?v=l2L7Y5mCh1s&index=2&list=PLM5RAudXfaumbXG2vOk1eFMHY3rkPCRNR
   poster: http://www.cc.gatech.edu/~rpienta3/data/posters/17-sigmod-visage-poster.pdf
   award: Best Demo, Honorable Mention
+  type: demo
   bibtex: |-
 
     @inproceedings{pienta2017visual,
@@ -698,6 +726,7 @@
   code: "https://www.github.com/fredhohman/shapeshop"
   poster: "https://fredhohman.com/papers/17-shapeshop-chi-poster.pdf"
   collaboration: PNNL
+  type: poster
   bibtex: |-
 
     @inproceedings{hohman2017shapeshop,
@@ -707,7 +736,6 @@
       year={2017},
       publisher={ACM}
     }
-  image: /images/featured/test.png
 
 - id: overflow
   title: "The Effect of Numerical Parameters on Eddies in Oceanic Overflows: A Laboratory and Numerical Study"
@@ -723,6 +751,7 @@
   year: 2019
   url: /projects/mathematics-&-computational-science-reu
   pdf: https://www.witpress.com/Secure/ejournals/papers/CMEM070205f.pdf
+  type: journal
   bibtex: |-
 
     @article{reckinger2019effect,
@@ -750,3 +779,4 @@
   year: 2014
   url: /projects/mathematics-&-computational-science-reu
   poster: /assets/reu_poster.pdf
+  type: poster
