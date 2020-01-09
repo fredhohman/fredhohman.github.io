@@ -1,3 +1,28 @@
+- id: cnn101
+  title: "CNN 101: Interactive Visual Learning for Convolutional Neural Networks"
+  authors: 
+    - Zijie J. Wang
+    - Robert Turko
+    - Omar Shaikh 
+    - Haekyu Park
+    - Nilaksh Das
+    - Fred Hohman
+    - Minsuk Kahng
+    - Duen Horng (Polo) Chau
+  venue: arXiv:2001.02004
+  year: 2020
+  url: /papers/cnn101
+  pdf: https://arxiv.org/abs/2001.02004
+  type: arxiv
+  bibtex: |-
+
+   @article{abello2018large,
+      title={CNN 101: Interactive Visual Learning for Convolutional Neural Networks},
+      author={Wang, Zijie J. and Turko, Robert and Shaikh, Omar and Park, Haekyu and Das, Nilaksh and Hohman, Fred and Kahng, Minsuk and Chau, Duen Horng (Polo)},
+      journal={arXiv preprint arXiv:1808.04414},
+      year={2018}
+    }
+
 - id: summit
   title: "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
   authors: 
