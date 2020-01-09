@@ -7,6 +7,7 @@ permalink: projects/
 Things I do, including research, academic course projects, and miscellaneous interests.
 
 ### Research
+[CNN 101][20-cnn101-arxiv]&nbsp;<small style="color: #c0c0c0">2020</small>  
 [Summit][19-summit-vast]&nbsp;<small style="color: #c0c0c0">2019</small>  
 [FairVis][19-fairvis-vast]&nbsp;<small style="color: #c0c0c0">2019</small>  
 [TeleGam][19-telegam-vis]&nbsp;<small style="color: #c0c0c0">2019</small>  
@@ -91,3 +92,4 @@ Things I do, including research, academic course projects, and miscellaneous int
 [19-telegam-vis]: {{ site.url }}/papers/telegam
 [19-fairvis-vast]: {{ site.url }}/papers/fairvis
 [19-summit-vast]: {{ site.url }}/papers/summit
+[20-cnn101-arxiv]: {{ site.url }}/papers/cnn101
