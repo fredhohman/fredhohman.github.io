@@ -99,6 +99,7 @@ My research is funded by a [NASA Space Technology Research Fellowship][nstrf].
 {% include publication.html pub=pub %}
 {% endfor %}
 
+
 ## Talks
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
