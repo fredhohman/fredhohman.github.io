@@ -26,7 +26,7 @@ I have worked at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific
 </span>
 
 <span class="cv-max-width">
-My research is funded by a [NASA Space Technology Research Fellowship][nstrf].
+My research is supported by a [NASA Space Technology Research Fellowship][nstrf].
 </span>
 
 
