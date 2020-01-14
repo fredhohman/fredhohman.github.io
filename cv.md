@@ -110,8 +110,8 @@ My research is funded by a [NASA Space Technology Research Fellowship][nstrf].
 
 ## Press
 
-{% for article in site.data.press %}
-{% include article.html article=article %}
+{% for press in site.data.press %}
+{% include press.html press=press %}
 {% endfor %}
 
 
@@ -138,8 +138,8 @@ My research is funded by a [NASA Space Technology Research Fellowship][nstrf].
 
 ## Interactive Articles
 
-{% for explorable in site.data.explorables %}
-{% include explorable.html explorable=explorable %}
+{% for article in site.data.articles %}
+{% include article.html article=article %}
 {% endfor %}
 
 
