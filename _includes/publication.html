@@ -109,9 +109,16 @@
 	{% endif %}
 
 	{% if pub.bibtex %}
-	  <a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_{{ pub.id }}')">
-	    <i class="fas fa-book" aria-hidden="true"></i> BibTeX
-	  </a>
+		{% if selectedBoolForBibtex == true %}
+			<a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_{{ pub.id }}_selected')">
+				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
+			</a>
+		{% endif %}
+		{% if selectedBoolForBibtex == false %}
+			<a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_{{ pub.id }}')">
+				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
+			</a>
+		{% endif %}
 	{% endif %}
 
 	{% if pub.award %}
@@ -126,6 +133,16 @@
 {% endif %}
 
 {% if pub.bibtex %}
+{% if selectedBoolForBibtex == true %}
+<div class="highlighter-rouge bibtex" style="display:none" id="_{{ pub.id }}_selected">
+	<div class="highlight">
+		<pre>
+			{{ pub.bibtex }}
+		</pre>
+	</div>
+</div>
+{% endif %}
+{% if selectedBoolForBibtex == false %}
 <div class="highlighter-rouge bibtex" style="display:none" id="_{{ pub.id }}">
 	<div class="highlight">
 		<pre>
@@ -133,6 +150,7 @@
 		</pre>
 	</div>
 </div>
+{% endif %}
 {% endif %}
 
 </p>
