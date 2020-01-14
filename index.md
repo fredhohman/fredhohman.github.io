@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<h1 class="intro-title">Hello, I'm Fred Hohman</h1>
+<h1 class="intro-title">Hi, I'm Fred Hohman</h1>
 <!-- *But you can call me Fred. Nice to meet you.* -->
 
 <!-- {% include nav.html %} -->
@@ -69,7 +69,7 @@ title: Home
 
 <div class="cover-wrapper">
 	<div class="cover-side">
-	Featured <a href="/cv#explorable-explanations" style="color: #303030"><strong>Interactive Articles</strong></a>
+	Featured <a href="/cv#interactive-articles" style="color: #303030"><strong>Interactive Articles</strong></a>
 </div>
 {% assign sortedExplorables = site.data.explorables | sort: 'feature-order' %}
 {% for feature in sortedExplorables %}

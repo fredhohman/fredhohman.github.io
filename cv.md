@@ -6,7 +6,7 @@ jsarr:
 - js/scripts.js
 ---
 
-<h1><a style="color: #313131" href="https://fredhohman.com">Fred Hohman</a></h1>
+<h1><a style="color: #313131; font-weight: 500; font-size: 1.25em" href="https://fredhohman.com">Fred Hohman</a></h1>
 
 <span class="cv-subtitle">
 *<span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher*
