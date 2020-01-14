@@ -27,8 +27,11 @@ Things I do, including research, academic course projects, and miscellaneous int
 [Visual Graph Query Construction and Refinement][17-visage-sigmod-pdf]&nbsp;<small style="color: #c0c0c0">2017</small>    
 [ShapeShop][17-shapeshop-chi]&nbsp;<small style="color: #c0c0c0">2017</small>  
 
-### Explorable Explanations
+### Interactive Articles
 [The Parametric Press][parametric]&nbsp;<small style="color: #c0c0c0">2019</small>  
+[The Myth of the Impartial Machine][myth]&nbsp;<small style="color: #c0c0c0">2019</small>  
+[On Particle Physics][physics]&nbsp;<small style="color: #c0c0c0">2019</small>  
+[Data Science for Fair Housing][housing]&nbsp;<small style="color: #c0c0c0">2019</small>  
 [Blueberry Pancakes][pancakes]&nbsp;<small style="color: #c0c0c0">2018</small>  
 [The Beginner's Guide to Dimensionality Reduction][dr]&nbsp;<small style="color: #c0c0c0">2018</small>  
 [The Math of Card Shuffling][cards]&nbsp;<small style="color: #c0c0c0">2018</small>  
@@ -45,10 +48,10 @@ Things I do, including research, academic course projects, and miscellaneous int
 [Materials Informatics: Grain Growth][mic]&nbsp;<small style="color: #c0c0c0">2016</small>  
 [Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium][bd]&nbsp;<small style="color: #c0c0c0">2016</small>  
 [UGA Undergrad Course Projects][uga-course]  
-<span style="margin-right:40px"></span>Image Compression&nbsp;<small style="color: #c0c0c0">2014</small>  
-<span style="margin-right:40px"></span>Railgun Simulation&nbsp;<small style="color: #c0c0c0">2014</small>  
-<span style="margin-right:40px"></span>Path Minimization&nbsp;<small style="color: #c0c0c0">2013</small>  
-<span style="margin-right:40px"></span>Numerical ODE Solution and Integration Project&nbsp;<small style="color: #c0c0c0">2013</small>  
+<span style="margin-right:20px"></span>• Image Compression&nbsp;<small style="color: #c0c0c0">2014</small>  
+<span style="margin-right:20px"></span>• Railgun Simulation&nbsp;<small style="color: #c0c0c0">2014</small>  
+<span style="margin-right:20px"></span>• Path Minimization&nbsp;<small style="color: #c0c0c0">2013</small>  
+<span style="margin-right:20px"></span>• Numerical ODE Solution and Integration Project&nbsp;<small style="color: #c0c0c0">2013</small>  
 [Cube Decomposition Trophy][trophy]&nbsp;<small style="color: #c0c0c0">2014</small>  
 [UGA Keychain][keychain]&nbsp;<small style="color: #c0c0c0">2014</small>  
 
@@ -74,6 +77,9 @@ Things I do, including research, academic course projects, and miscellaneous int
 [dr]: https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/ "The Beginner's Guide to Dimensionality Reduction."
 [pancakes]: https://idyll.pub/post/blueberry-pancakes-28b1a2e1a8986c44ac091f08/ "Blueberry Pancakes."
 [parametric]: https://parametric.press "The Parametric Press."
+[myth]: https://parametric.press/issue-01/the-myth-of-the-impartial-machine/ "The Myth of the Impartial Machine."
+[physics]: https://parametric.press/issue-01/on-particle-physics/ "On Particle Physics."
+[housing]: https://parametric.press/issue-01/data-science-for-fair-housing/ "Data Science for Fair Housing."
 [17-playground-vast]: {{ site.url }}/papers/playground
 [17-dashboard-ubicomp]: {{ site.url }}/papers/dashboard
 [17-got-vis4dh]: {{ site.url }}/papers/got
