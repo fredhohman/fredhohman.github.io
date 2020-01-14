@@ -12,12 +12,15 @@
 }
 
 .intro-title {
-	margin-left: 5rem
+	margin-left: 5rem;
+	font-weight: 500;
+	font-size: 2em;
+	padding-bottom: 5px;
 }
 
 .intro-text {
 	flex: 1;
-	padding-right: 25px; 
+	padding-right: 25px;
 }
 
 .intro-image {
