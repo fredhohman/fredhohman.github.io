@@ -27,7 +27,7 @@ title: Home
 	</div>
 
 	<div class="intro-image">
-	  <img src="/images/me7.jpg" style="border-radius: 2px;">
+	  <img src="/images/portrait.jpg" style="border-radius: 2px;">
 
 	  <div class="intro-image-links">
 		{% for link in site.data.social-links %}
