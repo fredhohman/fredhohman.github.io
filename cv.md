@@ -87,16 +87,18 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 
 ### Selected: Latest & Greatest
 
+{% assign selectedBoolForBibtex = true %}
 {% for pub in site.data.publications %}
 {% if pub.selected %}
-{% include publication.html pub=pub %}
+{% include publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endif %}
 {% endfor %}
 
 ### All Publications
 
+{% assign selectedBoolForBibtex = false %}
 {% for pub in site.data.publications %}
-{% include publication.html pub=pub %}
+{% include publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
 
