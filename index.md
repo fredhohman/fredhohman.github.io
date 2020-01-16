@@ -22,12 +22,12 @@ title: Home
 		I have worked at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/apple.svg"> Apple, <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft Research, <img class="intro-logo" style="width: 24px" src="/images/nasa.svg"> NASA Jet Propulsion Lab, and <img class="intro-logo" style="width: 24px;" src="/images/pnnl.svg"> Pacific Northwest National Lab.
 		</p>
 		<p markdown="1">
-		My research is funded by a [NASA Space Technology Research Fellowship][nstrf].
+		My research is supported by a [NASA Space Technology Research Fellowship][nstrf].
 		</p>
 	</div>
 
 	<div class="intro-image">
-	  <img src="/images/portrait.jpg" style="border-radius: 2px;">
+	  <img src="/images/portrait.jpg" style="border-radius: 4px;">
 
 	  <div class="intro-image-links">
 		{% for link in site.data.social-links %}
@@ -71,8 +71,8 @@ title: Home
 	<div class="cover-side">
 	Featured <a href="/cv#interactive-articles" style="color: #303030"><strong>Interactive Articles</strong></a>
 </div>
-{% assign sortedExplorables = site.data.explorables | sort: 'feature-order' %}
-{% for feature in sortedExplorables %}
+{% assign sortedArticles = site.data.articles | sort: 'feature-order' %}
+{% for feature in sortedArticles %}
 {% if feature.featured == true %}
 
 {% include feature.html feature=feature %}
@@ -85,9 +85,9 @@ title: Home
 
 <div class="cover-wrapper">
 	<div class="cover-side">
-	Featured <a href="/cv#explorable-explanations" style="color: #303030"><strong>Parametric Press Articles</strong></a>
+	Featured <a href="/cv#interactive-articles" style="color: #303030"><strong>Parametric Press Articles</strong></a>
 </div>
-{% assign sortedParametric = site.data.explorables | sort: 'feature-parametric-order' %}
+{% assign sortedParametric = site.data.articles | sort: 'feature-parametric-order' %}
 {% for feature in sortedParametric %}
 {% if feature.parametric-featured == true %}
 {% include feature.html feature=feature %}
