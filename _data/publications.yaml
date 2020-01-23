@@ -16,11 +16,35 @@
   type: arxiv
   bibtex: |-
 
-   @article{abello2018large,
+   @article{wang2020cnn101,
       title={CNN 101: Interactive Visual Learning for Convolutional Neural Networks},
       author={Wang, Zijie J. and Turko, Robert and Shaikh, Omar and Park, Haekyu and Das, Nilaksh and Hohman, Fred and Kahng, Minsuk and Chau, Duen Horng (Polo)},
       journal={arXiv preprint arXiv:1808.04414},
-      year={2018}
+      year={2020}
+    }
+
+- id: massif
+  title: "Massif: Interactive Interpretation of Adversarial Attacks on Deep Learning"
+  authors:
+    - Nilaksh Das
+    - Haekyu Park
+    - Zijie J. Wang
+    - Fred Hohman
+    - Robert Firstman
+    - Emily Rogers
+    - Duen Horng (Polo) Chau
+  venue: arXiv:2001.07769
+  year: 2020
+  url: /papers/massif
+  pdf: https://arxiv.org/abs/2001.07769
+  type: arxiv
+  bibtex: |-
+
+   @article{das2020massif,
+      title={Massif: Interactive Interpretation of Adversarial Attacks on Deep Learning},
+      author={Das, Nilaksh and Park, Haekyu and Wang, Zijie J. and Hohman, Fred and Firstman, Robert and Rogers, Emily and Chau, Duen Horng (Polo)},
+      journal={arXiv preprint arXiv:2001.07769},
+      year={2020}
     }
 
 - id: summit

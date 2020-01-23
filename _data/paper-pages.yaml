@@ -16,6 +16,24 @@
     CNN 101 offers both overview and detailed descriptions of how a model works.
     Built using modern web technologies, CNN 101 runs locally in users' web browsers without requiring specialized hardware, broadening the public's education access to modern deep learning techniques.
 
+- id: massif
+  figure: /images/papers/20-massif-arxiv.png
+  caption: |
+      The Massif interface.
+      A user Hailey is studying a targeted version of the Fast Gradient Method (FGM) attack performed on the InceptionV1 neural network model. 
+      Using the control panel (A), she selects "giant panda" as the benign class and "armadillo" as the attack target class.
+      Massif generates an attribution graph of the model (B), which shows Hailey the neurons within the network that are suppressed in the attacked images (B1, colored blue on the left), shared by both benign and attacked images (B2, colored purple in the middle), and emphasized only in the attacked images (B3, colored red on the right). 
+      Each neuron is represented by a node and its feature visualization (C).
+      Hovering over any neuron displays example dataset patches that maximally activate the neuron, providing stronger evidence for what a neuron has learned to detect. 
+      Hovering over a neuron also highlights its most influential connections from the previous layer (D), allowing Hailey to determine where in the network the prediction diverges from the benign class to the attacked class.
+  abstract: |
+    Deep neural networks (DNNs) are increasingly powering high-stakes applications such as autonomous cars and healthcare; however, DNNs are often treated as "black boxes" in such applications.
+    Recent research has also revealed that DNNs are highly vulnerable to adversarial attacks, raising serious concerns over deploying DNNs in the real world.
+    To overcome these deficiencies, we are developing Massif, an interactive tool for deciphering adversarial attacks.
+    Massif identifies and interactively visualizes neurons and their connections inside a DNN that are strongly activated or suppressed by an adversarial attack.
+    Massif provides both a high-level, interpretable overview of the effect of an attack on a DNN, and a low-level, detailed description of the affected neurons. 
+    These tightly coupled views in Massif help people better understand which input features are most vulnerable or important for correct predictions.
+
 - id: summit
   figure: /images/papers/19-summit-vast.png
   caption: |
