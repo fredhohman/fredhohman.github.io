@@ -1,3 +1,36 @@
+- id: chameleon
+  title: "Understanding and Visualizing Data Iteration in Machine Learning"
+  authors: 
+    - Fred Hohman
+    - Kanit Wongsuphasawat
+    - Mary Beth Kery
+    - Kayur Patel
+  venue: ACM Conference on Human Factors in Computing Systems
+  venue-shorthand: CHI
+  location: Honolulu, HI, UK
+  year: 2020
+  url: /papers/chameleon
+  pdf: /papers/20-chameleon-chi.pdf
+  video: https://youtu.be/xWRU88FykpA
+  preview: https://youtu.be/fXVeBgK-ix4
+  # slides: /slides/120-chameleon-chi-slides.pdf
+  feature-title: Chameleon
+  feature-description: Understanding and visualizing data iteration in machine learning
+  image: /images/featured/chameleon.png
+  feature-order: 1
+  featured: true
+  selected: true
+  type: conference
+  bibtex: |-
+
+    @inproceedings{hohman2020understanding,
+      title={Understanding and Visualizing Data Iteration in Machine Learning},
+      author={Hohman, Fred and Wongsuphasawat, Kanit and Kery, Mary Beth and Patel, Kayur},
+      booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+      year={2020},
+      organization={ACM}
+    }
+    
 - id: cnn101
   title: "CNN 101: Interactive Visual Learning for Convolutional Neural Networks"
   authors: 
@@ -66,9 +99,10 @@
   recording: https://vimeo.com/368704428
   code: https://github.com/fredhohman/summit/
   feature-title: Summit
-  feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+  feature-description: "Scaling deep learning interpretability by visualizing activation and attribution summarizations"
   image: /images/featured/summit.png
   featured: true
+  feature-order: 2
   selected: true
   type: journal
   bibtex: |-
@@ -135,7 +169,7 @@
   slides: /slides/19-telegam-vis-slides.pdf
   recording: https://vimeo.com/374187072
   code: https://github.com/poloclub/telegam
-  selected: true
+  selected: false
   type: conference
   bibtex: |-
 
@@ -221,7 +255,7 @@
   feature-title: Gamut
   feature-description: A design probe to understand how data scientists understand machine learning models
   image: /images/featured/gamut.png
-  feature-order: 1
+  feature-order: 3
   featured: true
   selected: true
   type: conference
@@ -276,7 +310,7 @@
     - Duen Horng (Polo) Chau
   venue: Debugging Machine Learning Models Workshop at ICLR
   venue-shorthand: Debug ML
-  location: New Orleans, Louisiana, USA
+  location: New Orleans, LA, USA
   year: 2019
   url: /papers/subgroup
   pdf: http://cabreraalex.com/subgroup.pdf
@@ -340,7 +374,6 @@
   feature-title: Atlas
   feature-description: Local graph exploration in a global context
   image: /images/featured/atlas.png
-  feature-order: 2
   featured: false
   type: conference
   bibtex: |-
@@ -411,7 +444,7 @@
   image: /images/featured/deepvis.png
   feature-title: Visual Analytics in Deep Learning
   feature-description: An interrogative survey for the next frontiers
-  feature-order: 3
+  feature-order: 4
   featured: true
 
 - id: dr
@@ -490,7 +523,6 @@
   image: /images/featured/shield.png
   feature-title: Shield
   feature-description: "Fast, practical defense and vaccination for deep learning using JPEG compression"
-  feature-order: 3
   featured: false
   type: conference
   bibtex: |-
@@ -601,7 +633,6 @@
   image: /images/featured/deeppop-3.png
   feature-title: Deep Population
   feature-description: A deep learning approach for population estimation from satellite imagery
-  feature-order: 4
   featured: false
   type: workshop
   bibtex: |-
