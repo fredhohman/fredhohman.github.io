@@ -51,10 +51,13 @@ title: Home
 <!-- <div style="padding-top:15px;"></div> -->
 
 <hr style="margin-left: 0;">
+
+<h2 class="feature-title"><span style="font-weight: 400">Featured</span> <a href="/cv#publications" style="color: #303030">Research Publications</a></h2>
+
 <div class="cover-wrapper">
-	<div class="cover-side">
+	<!-- <div class="cover-side">
 		Featured <a href="/cv#publications" style="color: #303030"><strong>Research Publications</strong></a>
-	</div>
+	</div> -->
 {% assign sortedPublications = site.data.publications | sort: 'feature-order' %}
 {% for feature in sortedPublications %}
 {% if feature.featured == true %}
@@ -65,32 +68,21 @@ title: Home
 {% endfor %}
 </div>	
 
-<hr style="margin-left: 0;">
+<!-- <hr style="margin-left: 0;"> -->
+
+<h2 class="feature-title"><span style="font-weight: 400">Featured</span> <a href="/cv#interactive-articles" style="color: #303030">Interactive Articles</a></h2>
+
 
 <div class="cover-wrapper">
-	<div class="cover-side">
-	Featured <a href="/cv#interactive-articles" style="color: #303030"><strong>Interactive Articles</strong></a>
-</div>
+	<!-- <div class="cover-side">
+		Featured <a href="/cv#interactive-articles" style="color: #303030"><strong>Interactive Articles</strong></a>
+	</div> -->
 {% assign sortedArticles = site.data.articles | sort: 'feature-order' %}
 {% for feature in sortedArticles %}
 {% if feature.featured == true %}
 
 {% include feature.html feature=feature %}
 
-{% endif %}
-{% endfor %}
-</div>
-
-<hr style="margin-left: 0;">
-
-<div class="cover-wrapper">
-	<div class="cover-side">
-	Featured <a href="/cv#interactive-articles" style="color: #303030"><strong>Parametric Press Articles</strong></a>
-</div>
-{% assign sortedParametric = site.data.articles | sort: 'feature-parametric-order' %}
-{% for feature in sortedParametric %}
-{% if feature.parametric-featured == true %}
-{% include feature.html feature=feature %}
 {% endif %}
 {% endfor %}
 </div>

@@ -63,10 +63,15 @@
 	vertical-align: middle;
 }
 
-.everything-else {
+.everything-else, .feature-title {
 	margin-left: 5rem;
 	margin-right: 5rem;
 	max-width: 45rem;
+}
+
+.feature-title{
+	margin-bottom: 1rem;
+	margin-left: 0.5rem;
 }
 
 @media screen and (max-width: $on-laptop) {
@@ -77,7 +82,7 @@
 	.intro-title {
 		margin-left: 1rem
 	}
-	.everything-else{
+	.everything-else, .feature-title {
 		margin-left: 1rem;
 		margin-right: 1rem;
 	}

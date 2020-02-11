@@ -36,9 +36,9 @@
   feature-title: The Myth of the Impartial Machine
   feature-description: Can we free machine learning models from bias and prejudice?
   code: https://github.com/ParametricPress/01-the-myth-of-the-impartial-machine
-  feature-order: 0
+  feature-order: 1
   feature-parametric-order: 1
-  featured: false
+  featured: true
   parametric: true
   parametric-featured: true
   parametric-title: Parametric Press
@@ -118,7 +118,7 @@
   feature-description: "Explore the methods data scientists use to visualize high-dimensional data"
   code: https://github.com/mathisonian/dimensionality-reduction
   slides: /slides/18-dr-visxai-slides.pdf
-  feature-order: 2
+  feature-order: 3
   featured: true
   parametric: false
   feature-parametric-order: 1000
@@ -135,7 +135,7 @@
   feature-title: The Math of Card Shuffling
   feature-description: Riffling from factory order to complete randomness
   code: https://github.com/fredhohman/card-shuffling
-  feature-order: 3
+  feature-order: 4
   featured: true
   parametric: false
   feature-parametric-order: 1000
