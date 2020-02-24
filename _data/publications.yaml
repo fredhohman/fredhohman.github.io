@@ -7,7 +7,7 @@
     - Kayur Patel
   venue: ACM Conference on Human Factors in Computing Systems
   venue-shorthand: CHI
-  location: Honolulu, HI, UK
+  location: Honolulu, HI, USA
   year: 2020
   url: /papers/chameleon
   pdf: /papers/20-chameleon-chi.pdf
@@ -42,11 +42,14 @@
     - Fred Hohman
     - Minsuk Kahng
     - Duen Horng (Polo) Chau
-  venue: arXiv:2001.02004
+  venue: "Extended Abstracts on ACM Human Factors in Computing Systems"
+  venue-shorthand: CHI
+  location: Honolulu, HI, USA
   year: 2020
   url: /papers/cnn101
   pdf: https://arxiv.org/abs/2001.02004
-  type: arxiv
+  video: https://www.youtube.com/watch?v=g082-zitM7s&feature=youtu.be
+  type: poster
   bibtex: |-
 
    @article{wang2020cnn101,
@@ -66,7 +69,9 @@
     - Robert Firstman
     - Emily Rogers
     - Duen Horng (Polo) Chau
-  venue: arXiv:2001.07769
+  venue: "Extended Abstracts on ACM Human Factors in Computing Systems"
+  venue-shorthand: CHI
+  location: Honolulu, HI, USA
   year: 2020
   url: /papers/massif
   pdf: https://arxiv.org/abs/2001.07769
