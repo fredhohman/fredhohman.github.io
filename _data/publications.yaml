@@ -30,7 +30,32 @@
       year={2020},
       organization={ACM}
     }
-    
+
+- id: notebook
+  title: "The Future of Notebook Programming Is Fluid"
+  authors: 
+    - Mary Beth Kery
+    - Donghao Ren
+    - Kanit Wongsuphasawat
+    - Fred Hohman
+    - Kayur Patel
+  venue: "Extended Abstracts on ACM Human Factors in Computing Systems"
+  venue-shorthand: CHI
+  location: Honolulu, HI, USA
+  year: 2020
+  url: /papers/notebook
+  pdf: /papers/20-notebook-chi.pdf
+  type: poster
+  bibtex: |-
+
+    @inproceedings{kery2020future,
+      title={The Future of Notebook Programming Is Fluid},
+      author={Kery, Mary Beth and Ren, Donghao and Wongsuphasawat, Kanit and Hohman, Fred and Patel, Kayur},
+      booktitle={Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},
+      publisher={ACM},
+      year={2020}
+    }
+
 - id: cnn101
   title: "CNN 101: Interactive Visual Learning for Convolutional Neural Networks"
   authors: 
@@ -52,10 +77,11 @@
   type: poster
   bibtex: |-
 
-   @article{wang2020cnn101,
+   @inproceedings{wang2020cnn101,
       title={CNN 101: Interactive Visual Learning for Convolutional Neural Networks},
       author={Wang, Zijie J. and Turko, Robert and Shaikh, Omar and Park, Haekyu and Das, Nilaksh and Hohman, Fred and Kahng, Minsuk and Chau, Duen Horng (Polo)},
-      journal={arXiv preprint arXiv:1808.04414},
+      booktitle={Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},
+      publisher={ACM},
       year={2020}
     }
 
@@ -78,10 +104,11 @@
   type: arxiv
   bibtex: |-
 
-   @article{das2020massif,
+    @inproceedings{das2020massif,
       title={Massif: Interactive Interpretation of Adversarial Attacks on Deep Learning},
-      author={Das, Nilaksh and Park, Haekyu and Wang, Zijie J. and Hohman, Fred and Firstman, Robert and Rogers, Emily and Chau, Duen Horng (Polo)},
-      journal={arXiv preprint arXiv:2001.07769},
+      author={Wang, Zijie J. and Turko, Robert and Shaikh, Omar and Park, Haekyu and Das, Nilaksh and Hohman, Fred and Kahng, Minsuk and Chau, Duen Horng (Polo)},
+      booktitle={Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},
+      publisher={ACM},
       year={2020}
     }
 

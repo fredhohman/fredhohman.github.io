@@ -14,6 +14,16 @@
     We present two case studies where developers apply Chameleon to their own evolving datasets on production ML projects.
     Our interface helps them verify data collection efforts, find failure cases stretching across data versions, capture data processing changes that impacted performance, and identify opportunities for future data iterations.
 
+- id: notebook
+  abstract: |
+    A new kind of widget has begun appearing in the data science notebook programming community that can fluidly switch its own appearance between two representations: a graphical user interface (GUI) tool and plain textual code.
+    Data scientists of all expertise levels routinely work in both visual GUIs (data visualizations or spreadsheets) and plaintext code (numerical, data manipulation, or machine learning libraries).
+    These work tools have typically been separate.
+    Here, we argue for the unique role and potential of fluid GUI/text programming to serve data work practices.
+    We contribute a generalized method and API for robust fluid GUI/text coding in notebooks that addresses key questions in code generation and user-interactions.
+    Finally, we demonstrate the potential of our method in two notebook tool examples and a usability study with professional data science and machine learning practitioners.
+
+
 - id: cnn101
   figure: /images/papers/20-cnn101-arxiv.png
   caption: |
