@@ -38,9 +38,9 @@
   description: Stipend awarded to outstanding undergraduates that actively participate in faculty-mentored research
   year: 2014
 
-- name: Presidential Scholar
-  description: "Achieved a 4.0 GPA during a semester with minimum 14 credit hours"
-  year: 2013
+# - name: Presidential Scholar
+#   description: "Achieved a 4.0 GPA during a semester with minimum 14 credit hours"
+#   year: 2013
 
 - name: "Dean's List"
   description: Achieved at least a 3.5 GPA during a semester with minimum 14 credit hours

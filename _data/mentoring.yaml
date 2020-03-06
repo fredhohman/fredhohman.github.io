@@ -1,3 +1,24 @@
+- name: Omar Shaikh
+  year: "Present —"
+  year-extra: Fall 2019
+  degree: "B.S. in Computer Science, Georgia Institute of Technology"
+  description: "Visualization for machine learning education"
+  url: http://oshaikh.com
+  
+- name: Robert Turko
+  year: "Present —"
+  year-extra: Fall 2019
+  degree: "B.S. in Computer Science, Georgia Institute of Technology"
+  description: "Visualization for machine learning education"
+  url: https://www.linkedin.com/in/robert-turko/
+
+- name: Rob Firstman
+  year: "Present —"
+  year-extra: Fall 2019
+  degree: "B.S. in Computer Science, Georgia Institute of Technology"
+  description: "Visualization for deep learning interpretability"
+  url: https://www.robfirstman.com/
+
 - name: Will Epperson
   year: "Present —"
   year-extra: Spring 2019
@@ -6,6 +27,18 @@
   awards:
     - "Stamps President's Scholar"
   url: http://www.willepperson.com/
+
+- name: Siwei Li
+  year: "Spring 2020 —"
+  year-extra: Spring 2019
+  degree: "B.S. in Computer Science, Georgia Institute of Technology"
+  description: "Visual graph analytics"
+  awards:
+    - "President's Undergraduate Research Award"
+  now-position: Software Engineer II
+  now-institution: Google
+  now-institution-url: https://www.google.com/
+  url: https://rsli.github.io/
 
 - name: Angel Alexander Cabrera
   year: "Spring 2019 —"

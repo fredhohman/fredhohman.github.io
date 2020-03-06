@@ -6,7 +6,7 @@
   mentors:
     - Kanit Wongsuphasawat
     - Kayur Patel
-  description: "Designed and developed interactive visualizations for data iteration in machine learning, published at ACM CHI 2020."
+  description: "Designed and developed interactive visualizations for data iteration in machine learning, published at CHI 2020."
   institution-url: https://apple.com
   group-url: https://apple.com
   type: industry
@@ -18,7 +18,7 @@
   year: Summer 2018
   mentors:
     - Steven Drucker
-  description: "Designed, developed, and deployed interactive interface for machine learning interpretability in practice, published at ACM CHI 2019."
+  description: "Designed, developed, and deployed interactive interface for operationalizing machine learning interpretability, published at CHI 2019."
   institution-url: https://www.microsoft.com/en-us/research
   group-url: https://www.microsoft.com/en-us/research/group/human-computer-interaction
   type: industry
@@ -31,7 +31,7 @@
   mentors:
     - Scott Davidoff
     - Arun Viswanathan
-  description: "Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research. Prototype presented to lab leadership and secured funding to be incorporated into Mars 2020."
+  description: "Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research. Prototype presented to lab leadership and secured funding to be incorporated into Mars 2020 mission."
   institution-url: https://www.jpl.nasa.gov
   group-url: https://hi.jpl.nasa.gov/
   type: industry
@@ -43,7 +43,7 @@
   year: Summer 2016
   mentors:
     - Nathan Hodas
-  description: "Built interactive visualization tools that generate synthetic images to explain deep learning classifiers, published at ACM CHI 2018."
+  description: "Built interactive tools that generate synthetic images to explain deep learning classifiers, published at CHI 2017."
   institution-url: https://www.pnnl.gov
   group-url: http://www.pnnl.gov/nationalsecurity/technical/capabilities/computing/data_sciences.stm
   type: industry

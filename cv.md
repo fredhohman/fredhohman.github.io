@@ -22,7 +22,7 @@ I also write, design, and build explorable explanations and **<span class="cv-vi
 </span>
 
 <span class="cv-max-width">
-I have worked at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
+I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
 </span>
 
 <span class="cv-max-width">
@@ -81,6 +81,9 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% for award in site.data.awards %}
 {% include award.html award=award %}
 {% endfor %}
+
+
+<!-- <div style="height:100px"></div> -->
 
 
 ## Publications
