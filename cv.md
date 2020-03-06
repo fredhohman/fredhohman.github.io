@@ -188,7 +188,7 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% include reference.html reference=reference %}
 {% endfor %}
 
-
+<!-- 
 ## Contact
 
 Fred Hohman  
@@ -205,7 +205,7 @@ Solar System
 Milky Way  
 Local Group  
 Universe  
-</span>
+</span> -->
 
 
 [cv]: {{ site.url }}/cv.pdf "My CV."

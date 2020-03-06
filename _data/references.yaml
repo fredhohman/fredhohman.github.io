@@ -17,8 +17,8 @@
   url: "https://va.gatech.edu/endert"
 
 - name: Scott Davidoff
-  position: Manager
-  group: Human Interfaces Group
+  position: Senior Manager
+  group: Human-Centered Design Group
   institution: NASA Jet Propulsion Lab
   location: Pasadena, CA, USA
   phd: true
@@ -26,7 +26,7 @@
   url: "http://scottdavidoff.com/research"
 
 - name: Steven Drucker
-  position: Principal Researcher
+  position: Partner and Research Manager
   group: Visualization and Interactive Data Analysis Group
   institution: Microsoft Research
   location: Redmond, WA, USA
