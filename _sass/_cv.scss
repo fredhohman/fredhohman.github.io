@@ -9,7 +9,7 @@
 }
 
 #cv p, #cv .post-date {
-	font-size: 16px;
+	font-size: 15px;
 }
 
 #cv a {
@@ -22,7 +22,7 @@
 }
 
 #cv .pub-misc, .pub-misc {
-	font-size: 0.8rem;
+	font-size: 13px;
 }
 
 .cover-links > .pub-misc {
@@ -149,10 +149,10 @@
 }
 
 #cv .cv-max-width {
-	max-width: 41rem;
+	max-width: 39rem;
 	padding-left: 0rem;
 	display: block;
-	font-size: 18px;
+	font-size: 17px;
 }
 
 #cv .cv-website-marker {
@@ -172,6 +172,7 @@
 	display: flex;
 	margin-left: 5rem;
 	max-width: 600px;
+	// font-size: 15px !important;
 }
 
 #cv .cv-image-links {
