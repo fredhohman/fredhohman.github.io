@@ -6,7 +6,7 @@
   mentors:
     - Kanit Wongsuphasawat
     - Kayur Patel
-  description: "Designing and developing interactive tools at the intersection of human-computer interaction and machine learning."
+  description: "Designed and developed interactive visualizations for data iteration in machine learning, published at ACM CHI 2020."
   institution-url: https://apple.com
   group-url: https://apple.com
   type: industry
@@ -18,7 +18,7 @@
   year: Summer 2018
   mentors:
     - Steven Drucker
-  description: "Exploring how visual analytics can help users explain and interpret machine learning models."
+  description: "Designed, developed, and deployed interactive interface for machine learning interpretability in practice, published at ACM CHI 2019."
   institution-url: https://www.microsoft.com/en-us/research
   group-url: https://www.microsoft.com/en-us/research/group/human-computer-interaction
   type: industry
@@ -31,7 +31,7 @@
   mentors:
     - Scott Davidoff
     - Arun Viswanathan
-  description: "Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research."
+  description: "Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research. Prototype presented to lab leadership and secured funding to be incorporated into Mars 2020."
   institution-url: https://www.jpl.nasa.gov
   group-url: https://hi.jpl.nasa.gov/
   type: industry
@@ -43,7 +43,7 @@
   year: Summer 2016
   mentors:
     - Nathan Hodas
-  description: "Built interactive visualization tools that generate images from deep neural networks to explain classifier's learned semantics."
+  description: "Built interactive visualization tools that generate synthetic images to explain deep learning classifiers, published at ACM CHI 2018."
   institution-url: https://www.pnnl.gov
   group-url: http://www.pnnl.gov/nationalsecurity/technical/capabilities/computing/data_sciences.stm
   type: industry
@@ -97,7 +97,7 @@
   year: Summer 2014
   mentors:
     - Shanon Reckinger
-  description: "Directly compared numerical solutions derived from the Navier-Stokes equations to designed experiments performed at the lab-scale to model specific ocean phoneme. Configured MIT General Circulation Model on a linux computer cluster to run parallel computational fluid dynamics simulations."
+  description: "Directly compared numerical solutions from Navier-Stokes equations to designed lab-scale experiments to model specific ocean phoneme. Configured MIT General Circulation Model on CPU cluster to run parallel computational fluid dynamics simulations."
   institution-url: http://faculty.fairfield.edu/srafalski/reu/
   group-url: https://www.fairfield.edu/undergraduate/academics/schools-and-colleges/college-of-arts-and-sciences/programs/mathematics/
   type: academic

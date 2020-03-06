@@ -26,7 +26,7 @@
   cv-group: 2
 
 - id: github
-  description: "github.com/fredhohman"
+  description: "@fredhohman"
   color: "#6e5494"
   class: "fab fa-github icon"
   url: "https://github.com/fredhohman"

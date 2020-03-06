@@ -12,12 +12,12 @@ jsarr:
 *<span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher*
 </span>
 
-<span class="cv-max-width">
+<!-- <span class="cv-max-width">
 I’m a Ph.D. candidate in the [College of Computing][coc] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex].
-</span>
+</span> -->
 
 <span class="cv-max-width">
-My research applies a human-centered approach to designing and developing interactive interfaces that help people understand and explain **<span class="cv-ai">machine learning models</span>**.
+My research applies a *human-centered approach* to designing and developing interactive interfaces that help people understand and explain **<span class="cv-ai">machine learning models</span>**.
 I also write, design, and build explorable explanations and **<span class="cv-vis">interactive data visualizations</span>** to simply communicate complex ideas.
 </span>
 
@@ -145,18 +145,11 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% endfor %}
 
 
-## Design
-
-{% for design in site.data.designs %}
-{% include design.html design=design %}
-{% endfor %}
-
-
-## Technology Skills
+<!-- ## Technology Skills
 
 {% for skill in site.data.skills %}
 {% include skill.html skill=skill %}
-{% endfor %}
+{% endfor %} -->
 
 
 ## Service
@@ -182,6 +175,13 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% endfor %}
 
 
+## Design
+
+{% for design in site.data.designs %}
+{% include design.html design=design %}
+{% endfor %}
+
+
 ## References
 
 {% for reference in site.data.references %}
@@ -193,10 +193,10 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 
 Fred Hohman  
 `fredhohman@gatech.edu`  
-Klaus Advanced Computing Building  
+CODA Tech Square  
 Georgia Tech  
-266 Ferst Dr NW  
-Atlanta, GA 30332  
+756 W Peachtree St NW  
+Atlanta, GA 30308
 <span style="background: linear-gradient(0deg, #34495e, #3498db); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: block">
 —  
 USA  
