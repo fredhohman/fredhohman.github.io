@@ -5,7 +5,7 @@
 	<br>
 	{% if degree.advisor %}Advisor: {% include person.html person=degree.advisor %}{% endif %}{% if degree.co-advisor %}, Co-advisor: {% include person.html person=degree.co-advisor %}<br>{% endif %}
 	
-	{% if degree.thesis %}<i>Thesis: {{ degree.thesis }}</i><br>{% endif %}
+	{% if degree.thesis %}Thesis: <i>{{ degree.thesis }}</i><br>{% endif %}
 
 	{% if degree.committee %}
 	Committee: 

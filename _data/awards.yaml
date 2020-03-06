@@ -54,6 +54,6 @@
   description: One of two students to receive the Mission Statement award upon high-school graduation
   year: 2011
 
-- name: Eagle Scout Award
-  description: "Highest achievement attainable in the Boy Scouts of America, only 4% of scouts granted this rank"
-  year: 2009
+# - name: Eagle Scout Award
+#   description: "Highest achievement attainable in the Boy Scouts of America, only 4% of scouts granted this rank"
+#   year: 2009
