@@ -15,11 +15,10 @@ title: Home
 		I’m a Ph.D. candidate in the [College of Computing][coc] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex]. 
 		</p>
 		<p markdown="1">
-		My research applies a human-centered approach to designing and developing interactive scalable interfaces that help people understand and explain **machine learning models**.
-		I also write, design, and build explorable explanations and **interactive data visualizations** to simply communicate complex ideas.
+		I research how to enable **machine learning interpretability** at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create **data visualizations** and write interactive articles to simply communicate complex ideas.
 		</p>
 		<p markdown="1">
-		I have worked at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/apple.svg"> Apple, <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft Research, <img class="intro-logo" style="width: 24px" src="/images/nasa.svg"> NASA Jet Propulsion Lab, and <img class="intro-logo" style="width: 24px;" src="/images/pnnl.svg"> Pacific Northwest National Lab.
+		I have collaborated with designers, developers, and scientists while working at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/apple.svg"> Apple, <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft Research, <img class="intro-logo" style="width: 24px" src="/images/nasa.svg"> NASA Jet Propulsion Lab, and <img class="intro-logo" style="width: 24px;" src="/images/pnnl.svg"> Pacific Northwest National Lab.
 		</p>
 		<p markdown="1">
 		My research is supported by a [NASA Space Technology Research Fellowship][nstrf].

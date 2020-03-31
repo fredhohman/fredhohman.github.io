@@ -17,8 +17,7 @@ I’m a Ph.D. candidate in the [College of Computing][coc] at [Georgia Tech][gt]
 </span> -->
 
 <span class="cv-max-width">
-My research applies a *human-centered approach* to designing and developing interactive interfaces that help people understand and explain **<span class="cv-ai">machine learning models</span>**.
-I also write, design, and build explorable explanations and **<span class="cv-vis">interactive data visualizations</span>** to simply communicate complex ideas.
+I research how to enable **<span class="cv-ai">machine learning interpretability</span>** at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create **<span class="cv-vis">data visualizations</span>** and write interactive articles to simply communicate complex ideas.
 </span>
 
 <span class="cv-max-width">
