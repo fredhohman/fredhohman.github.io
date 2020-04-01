@@ -11,18 +11,16 @@ Through my experience collaborating closely with researchers, designers, and pra
 
 My interdisciplinary research contributes to human-computer interaction, machine learning, and more importantly their intersection, including open-source interactive interfaces, scalable algorithms, and new, accessible communication artifacts.
 
+## Slides
+* PDF: TK
+* Keynote: TK
 
 ## CV
 * Web: [fredhohman.com/cv][cv]
 * PDF: [fredhohman.com/cv.pdf][cv-pdf]
 
 ## Research Statement
-
 * PDF: [fredhohman.com/research-statement.pdf][statement]
-
-## Slides
-* PDF: TK
-* Keynote: TK
 
 [cv]: https://fredhohman.com/cv
 [cv-pdf]: https://fredhohman.com/cv.pdf
