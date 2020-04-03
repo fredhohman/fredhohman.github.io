@@ -164,7 +164,7 @@
   url: /papers/fairvis
   demo: https://poloclub.github.io/FairVis/
   pdf: https://arxiv.org/abs/1904.05419
-  slides: https://cabreraalex.com/fairvis/index.html
+  slides: /slides/19-fairvis-vast-slides.pdf
   recording: https://vimeo.com/368702211
   code: https://github.com/poloclub/FairVis
   blog: https://medium.com/@cabreraalex/fairvis-discovering-bias-in-machine-learning-using-visual-analytics-acbd362a3e2f
