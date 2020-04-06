@@ -5,19 +5,18 @@ permalink: talk/
 ---
 
 ## Abstract
-Data-driven machine learning paradigms now solve some of the world's hardest problems by learning from data. Unfortunately, what is learned is often unknown to both the people who train models and the people they impact. To address these challenges, my research focuses on enabling machine learning interpretability at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems.
+Data-driven machine learning paradigms now solve some of the world's hardest problems by learning from data. Unfortunately, what is learned is often unknown to both the people who train models and the people they impact. My research addresses these challenges by enabling machine learning interpretability at scale and for everyone, through designing and developing interactive interfaces that help people confidently understand data-driven systems.
 
 (1) Operationalizing interpretability: My Gamut and TeleGam systems operationalize interpretability through design probes that investigate the emerging practice of interpretability. Gamut has been deployed at Microsoft Research and demoed for executive leadership.
 
-(2) Scaling interpretability: I describe my Summit system that scales interpretability to large-scale neural networks and datasets, for example ImageNet with 1.3M+ images, by summarizing and visualizing what features a deep learning model has learned and how those features interact to make predictions.
+(2) Scaling up interpretability: My Summit system scales interpretability to large-scale neural networks and datasets, for example ImageNet with 1.3M+ images, by summarizing and visualizing what features a deep learning model has learned and how those features interact to make predictions.
 
-(3) Communicating interpretability: Through the new medium of interactive articles, my work accelerates research dissemination and broadens people's education access to modern AI technologies. With the Parametric Press, a new interactive publishing platform I co-launched, my work has helped teach over 250,000+ people about capabilities and limitations of machine learning.
+(3) Communicating interpretability: Through the new medium of interactive articles, my work accelerates research dissemination and broadens people’s education access to modern AI technologies. With the Parametric Press, a new interactive publishing platform I co-launched, my work has helped over 250,000+ people learn about machine learning’s capabilities and modern applications.
 
-Through my experience collaborating closely with researchers, designers, and practitioners in industry, academia, and the government, my interdisciplinary research contributes to human-computer interaction, machine learning, and more importantly their intersection, including open-source interactive interfaces, scalable algorithms, and new, accessible communication artifacts.
+My interdisciplinary research contributes to human-computer interaction, machine learning, and more importantly their intersection. Through collaborating closely with researchers, designers, and practitioners, my research is making an impact in academia, industry, government, and society, including open-source interactive systems, scalable algorithms, and widely accessible communication artifacts.
 
 ## Slides
 * PDF: TK
-* Keynote: TK
 
 ## CV
 * Web: [fredhohman.com/cv][cv]
