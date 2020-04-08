@@ -16,8 +16,8 @@ Data-driven machine learning paradigms now solve some of the world's hardest pro
 My interdisciplinary research contributes to human-computer interaction, machine learning, and more importantly their intersection. Through collaborating closely with researchers, designers, and practitioners, my research is making an impact in academia, industry, government, and society, including open-source interactive systems, scalable algorithms, and widely accessible communication artifacts.
 
 ## Slides
-* PDF (low quality, 50MB): [fredhohman.com/talk-low-quality.pdf][talk-low]
-* PDF (high quality, 200MB): [fredhohman.com/talk-high-quality.pdf][talk-high]
+* PDF (low quality, 50MB): [fredhohman.com/talk-low-quality.pdf][talk-low-db]
+* PDF (high quality, 200MB): [fredhohman.com/talk-high-quality.pdf][talk-high-db]
 <!-- * Movie: TK -->
 
 ## CV
@@ -36,6 +36,8 @@ He has collaborated with designers, developers, and scientists at Apple, Microso
 
 [talk-low]: {{ site.url }}/talk-low-quality.pdf
 [talk-high]: {{ site.url }}/talk-high-quality.pdf
+[talk-low-db]: https://www.dropbox.com/s/03wwbl8vn4pwetb/talk-low-quality.pdf?dl=0
+[talk-high-db]: https://www.dropbox.com/s/xfkjqajkzcn9s4i/talk-high-quality.pdf?dl=0
 [cv]: https://fredhohman.com/cv
 [cv-pdf]: https://fredhohman.com/cv.pdf
 [statement]: {{ site.url }}/research-statement.pdf
