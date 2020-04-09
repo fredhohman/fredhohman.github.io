@@ -16,8 +16,8 @@ Data-driven machine learning paradigms now solve some of the world's hardest pro
 My interdisciplinary research contributes to human-computer interaction, machine learning, and more importantly their intersection. Through collaborating closely with researchers, designers, and practitioners, my research is making an impact in academia, industry, government, and society, including open-source interactive systems, scalable algorithms, and widely accessible communication artifacts.
 
 ## Slides
-* PDF: [Dropbox low quality, 50MB][talk-low-db]
-* PDF: [Dropbox high quality, 200MB][talk-high-db]
+* PDF: [Dropbox, low quality (50MB)][talk-low-db]
+* PDF: [Dropbox, high quality (200MB)][talk-high-db]
 <!-- * Movie: TK -->
 
 ## CV
