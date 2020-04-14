@@ -18,14 +18,18 @@ My interdisciplinary research contributes to human-computer interaction, machine
 ## Slides
 * PDF: [Dropbox, low quality (50MB)][talk-low-db]
 * PDF: [Dropbox, high quality (200MB)][talk-high-db]
-<!-- * Movie: TK -->
+* Movie export with animations + demo videos:
+
+<p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UfJoqQGXIGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+## Research Statement
+* PDF: [fredhohman.com/research-statement.pdf][statement]
 
 ## CV
 * Web: [fredhohman.com/cv][cv]
 * PDF: [fredhohman.com/cv.pdf][cv-pdf]
-
-## Research Statement
-* PDF: [fredhohman.com/research-statement.pdf][statement]
 
 ## Bio
 Fred Hohman is a PhD candidate at Georgia Tech's College of Computing.
