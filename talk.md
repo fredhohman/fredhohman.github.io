@@ -36,8 +36,8 @@ He has collaborated with designers, developers, and scientists at Apple, Microso
 
 [talk-low]: {{ site.url }}/talk-low-quality.pdf
 [talk-high]: {{ site.url }}/talk-high-quality.pdf
-[talk-low-db]: https://www.dropbox.com/s/03wwbl8vn4pwetb/talk-low-quality.pdf?dl=0
-[talk-high-db]: https://www.dropbox.com/s/xfkjqajkzcn9s4i/talk-high-quality.pdf?dl=0
+[talk-low-db]: https://www.dropbox.com/s/q67wq3eedr88yey/talk-low-quality.pdf?dl=0
+[talk-high-db]: https://www.dropbox.com/s/crmfc8gusn9rtt4/talk-high-quality.pdf?dl=0
 [cv]: https://fredhohman.com/cv
 [cv-pdf]: https://fredhohman.com/cv.pdf
 [statement]: {{ site.url }}/research-statement.pdf
