@@ -20,13 +20,17 @@
   url: https://www.robfirstman.com/
 
 - name: Will Epperson
-  year: "Present —"
+  year: "Spring 2020 —"
   year-extra: Spring 2019
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for machine learning fairness"
   awards:
     - "Stamps President's Scholar"
   url: http://www.willepperson.com/
+  now-position: PhD Student (HCI)
+  now-institution: Carnegie Mellon University
+  now-institution-url: https://hcii.cmu.edu/
+  url: http://cabreraalex.com/
 
 - name: Siwei Li
   year: "Spring 2020 —"
@@ -34,6 +38,7 @@
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visual graph analytics"
   awards:
+    - "Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology"
     - "President's Undergraduate Research Award"
   now-position: Software Engineer II
   now-institution: Google
