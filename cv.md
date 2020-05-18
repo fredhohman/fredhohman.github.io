@@ -171,6 +171,11 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% include venue.html venue=venue %}
 {% endfor %}
 
+<p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Institutional</strong></p>
+{% for institution in site.data.institutional %}
+{% include institutional.html institution=institution %}
+{% endfor %}
+
 <p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Member</strong></p>
 {% for member in site.data.memberships %}
 {% include member.html member=member %}
