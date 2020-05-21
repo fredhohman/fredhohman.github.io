@@ -13,7 +13,7 @@
   pdf: /papers/20-chameleon-chi.pdf
   video: https://youtu.be/xWRU88FykpA
   preview: https://youtu.be/fXVeBgK-ix4
-  # slides: /slides/120-chameleon-chi-slides.pdf
+  slides: /slides/20-chameleon-chi-slides.pdf
   feature-title: Chameleon
   feature-description: Understanding and visualizing data iteration in machine learning
   image: /images/featured/chameleon.png
