@@ -1,3 +1,9 @@
+- venue: ACM User Interface Software and Technology Symposium
+  venue-shorthand: UIST
+  years:
+    - year: 2020
+      url: https://uist.acm.org/uist2020/
+
 - venue: Distill Research Journal
   venue-shorthand: Distill
   years:
