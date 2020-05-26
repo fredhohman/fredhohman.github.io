@@ -1,0 +1,9 @@
+/* TEAM */
+	Author: Fred Hohman
+	Twitter: @fredhohman
+	Location: Atlanta, United States
+
+/* SITE */
+    Language: English
+	Standards: HTML5, CSS3
+	Software: Jekyll
