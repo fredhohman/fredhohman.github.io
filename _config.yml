@@ -18,14 +18,6 @@ author:
   url: http://fredhohman.com
   email: fred.hohman@gmail.edu
 
-nav_list:
-  Home: '/'
-  CV: '/cv'
-  # Projects: '/projects'
-  # Blog: '/blog'
-  Publications: '/cv#publications'
-  Everything Else: '/everything-else'
-
 excerpt_separator: <!--more-->
 
 plugins:
