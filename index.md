@@ -1,12 +1,16 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
-<h1 class="intro-title">Hi, I'm Fred Hohman</h1>
-<!-- *But you can call me Fred. Nice to meet you.* -->
+<h1>this is a headline</h1>
+<div>
+	<p>lorem</p>
+</div>
 
-<!-- {% include nav.html %} -->
+
+<div style="display:none">
+<h1 class="intro-title">Hi, I'm Fred Hohman</h1>
 
 <div class="intro">
 	
@@ -92,6 +96,7 @@ title: Home
 <p class="everything-else" markdown="1">
 Including a list of [projects][projects], the [blog][blog], [monthly music playlists][monthly-music], [stuff I use][stuff-i-use], and the [archive][archive].
 </p>
+</div>
 
 [about]: {{ site.url }}/about
 [projects]: {{ site.url }}/projects
