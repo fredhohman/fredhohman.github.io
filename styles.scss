@@ -3,18 +3,15 @@
 # only main files contain this front matter, not partials.
 ---
 
-$on-phone: 600px;
-$on-laptop: 900px;
 
-$mobile: 768px;
-
-@import "refresh";
-
+@import "variables";
 @import "base";
-// @import "type";
-
 @import "layout";
+
+@import "type";
+
 @import "header";
+@import "footer";
 
 // @import "syntax";
 // @import "code";

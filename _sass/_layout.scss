@@ -6,15 +6,10 @@ main, header, footer {
 	justify-items: stretch;
 	grid-template-columns: [screen-start] 1fr [page-start kicker-start] minmax(min-content, 3.25rem) [middle-start] minmax(min-content, 3.25rem) [text-start kicker-end] repeat(8, minmax(min-content, 3.25rem)) [text-end gutter-start] minmax(min-content, 3.25rem) [middle-end] minmax(min-content, 3.25rem) [page-end gutter-end] 1fr [screen-end];
 	grid-column-gap: 1rem;
-	background-color: lightgoldenrodyellow;
 }
 
 // Mobile grid
 @media screen and (max-width:$mobile) {
-	header {
-		background-color: orange;
-	}
-
 	main, header, footer {
 		grid-template-columns: [screen-start] 8px [page-start kicker-start text-start gutter-start middle-start] repeat(8, 1fr) [text-end page-end gutter-end kicker-end middle-end] 8px [screen-end];
 		grid-column-gap: 0.5rem;
