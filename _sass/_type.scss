@@ -1,121 +1,148 @@
-.f1 { font-size: 3rem; }
-.f2 { font-size: 2.25rem; }
-.f3 { font-size: 1.5rem; }
-.f4 { font-size: 1.25rem; }
-.f5 { font-size: 1rem; }
-.f6 { font-size: .875rem; }
-
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
-  font-weight: bold;
-  line-height: 1.25;
-  color: #313131;
-  /*color: #505050;*/
-  text-rendering: optimizeLegibility;
+  // text-rendering: optimizeLegibility;
 }
 
 h1 {
-  font-size: 1.75rem;
+  // font-size: 1.75rem;
+  font-size: 3rem;
 }
 
 h2 {
-  margin-top: 1rem;
-  font-size: 1.25rem;
+  // margin-top: 1rem;
+  // font-size: 1.25rem;
+  font-size: 2.25rem;
 }
 
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.1rem;
+  // margin-top: 1.5rem;
+  // font-size: 1.1rem;
+  font-size: 1.5rem;
 }
 
-h4, h5, h6 {
-  margin-top: 1rem;
+h4 {
+  // margin-top: 1rem;
+  font-size: 1.25rem;
+}
+
+h5 {
+  // margin-top: 1rem;
   font-size: 1rem;
 }
 
+h6 {
+  // margin-top: 1rem;
+  font-size: 0.875rem;
+}
+
 p {
-  margin-top: 0;
-  margin-bottom: 1rem;
+  font-size: 1rem;
+  // margin-top: 0;
+  // margin-bottom: 1rem;
 }
 
-strong {
-  color: #303030;
-}
+// Hover to show background from url underline style
+// a {
+//   background:
+//      linear-gradient(
+//        to bottom, $main-color 0%,
+//       $main-color 100%
+//      );
+//     background-position: 0 100%;
+//     background-repeat: repeat-x;
+//     background-size: 2px 2px;
+//   color: #000;
+//   text-decoration: none;
+//   transition: background-size .25s;
+//   padding-bottom: 2px;
+// }
 
-ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-dt {
-  font-weight: bold;
-}
-
-dd {
-  margin-bottom: .5rem;
-}
-
-hr {
-  position: relative;
-  margin: 1.5rem 0;
-  border: 0;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #fff;
-}
-
-abbr {
-  font-size: 85%;
-  font-weight: bold;
-  color: #555;
-  text-transform: uppercase;
-
-  &[title] {
-    cursor: help;
-    border-bottom: 1px dotted #e5e5e5;
-  }
-}
-
-blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
-
-  p:last-child {
-    margin-bottom: 0;
-  }
-
-  @media (min-width: 30em) {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
-  }
-}
+// a:hover {
+//   background-size: 2px 50px;
+//   color: white;
+// }
 
 
-// Markdown footnotes
-//
-// See the example content post for an example.
 
-// Footnote number within body text
-a[href^="#fn:"],
-// Back to footnote link
-a[href^="#fnref:"] {
-  display: inline-block;
-  margin-left: .1rem;
-  font-weight: bold;
-}
 
-// List of footnotes
-.footnotes {
-  margin-top: 2rem;
-  font-size: 85%;
-}
 
-// Custom type
-//
-// Extend paragraphs with `.lead` for larger introductory text.
+// strong {
+//   color: #303030;
+// }
 
-.lead {
-  font-size: 1.25rem;
-  font-weight: 300;
-}
+// ul, ol, dl {
+//   margin-top: 0;
+//   margin-bottom: 1rem;
+// }
+
+// dt {
+//   font-weight: bold;
+// }
+
+// dd {
+//   margin-bottom: .5rem;
+// }
+
+// hr {
+//   position: relative;
+//   margin: 1.5rem 0;
+//   border: 0;
+//   border-top: 1px solid #eee;
+//   border-bottom: 1px solid #fff;
+// }
+
+// abbr {
+//   font-size: 85%;
+//   font-weight: bold;
+//   color: #555;
+//   text-transform: uppercase;
+
+//   &[title] {
+//     cursor: help;
+//     border-bottom: 1px dotted #e5e5e5;
+//   }
+// }
+
+// blockquote {
+//   padding: .5rem 1rem;
+//   margin: .8rem 0;
+//   color: #7a7a7a;
+//   border-left: .25rem solid #e5e5e5;
+
+//   p:last-child {
+//     margin-bottom: 0;
+//   }
+
+//   @media (min-width: 30em) {
+//     padding-right: 5rem;
+//     padding-left: 1.25rem;
+//   }
+// }
+
+
+// // Markdown footnotes
+// //
+// // See the example content post for an example.
+
+// // Footnote number within body text
+// a[href^="#fn:"],
+// // Back to footnote link
+// a[href^="#fnref:"] {
+//   display: inline-block;
+//   margin-left: .1rem;
+//   font-weight: bold;
+// }
+
+// // List of footnotes
+// .footnotes {
+//   margin-top: 2rem;
+//   font-size: 85%;
+// }
+
+// // Custom type
+// //
+// // Extend paragraphs with `.lead` for larger introductory text.
+
+// .lead {
+//   font-size: 1.25rem;
+//   font-weight: 300;
+// }
