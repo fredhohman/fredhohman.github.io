@@ -14,11 +14,16 @@ footer {
     grid-column: 8 / middle-end;
 }
 
+.footer-icon {
+    margin-right: 0.75rem;
+    color: $footer-text;
+}
+
 @media screen and (max-width: $mobile) {
 	#footer-left, #footer-right {
         grid-column: page;
     }
-    
+
     #footer-left {
         margin-bottom: 1rem;
     }
