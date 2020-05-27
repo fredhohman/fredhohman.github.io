@@ -1,8 +1,8 @@
 * {
+    -webkit-font-smoothing: antialiased;
     -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
             box-sizing: border-box;
-            -webkit-font-smoothing: antialiased;
 }
 
 html, body {
@@ -17,9 +17,9 @@ html {
 }
 
 @media screen and (max-width: $mobile) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 body {
@@ -28,34 +28,6 @@ body {
     -webkit-text-size-adjust: 100%;
         -ms-text-size-adjust: 100%;
 }
-
-
-
-
-// No `:visited` state is required by default (browsers will use `a`)
-// a {
-//   color: #2196F3;
-//   text-decoration: none;
-
-//   // -webkit-transition: 0.15s color ease;
-//   //    -moz-transition: 0.15s color ease;
-//   //     -ms-transition: 0.15s color ease;
-//   //      -o-transition: 0.15s color ease;
-//   //         transition: 0.15s color ease;
-
-
-//   // `:focus` is linked to `:hover` for basic accessibility
-//   &:hover, &:focus {
-//     text-decoration: underline;
-//   }
-
-//   strong {
-//     color: inherit;
-//   }
-// }
-
-// a:hover {
-// }
 
 // img {
 //   display: block;
@@ -80,10 +52,10 @@ body {
 //   text-align: left;
 // }
 
-//tbody tr:nth-child(odd) td,
-//tbody tr:nth-child(odd) th {
+// tbody tr:nth-child(odd) td,
+// tbody tr:nth-child(odd) th {
 //  background-color: #f9f9f9;
-//}
+// }
 
 // .my-cv {
 //   border: 1px #eeeeee solid;

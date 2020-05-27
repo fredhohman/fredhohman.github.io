@@ -40,26 +40,22 @@ p {
   // margin-bottom: 1rem;
 }
 
-// Hover to show background from url underline style
-// a {
-//   background:
-//      linear-gradient(
-//        to bottom, $main-color 0%,
-//       $main-color 100%
-//      );
-//     background-position: 0 100%;
-//     background-repeat: repeat-x;
-//     background-size: 2px 2px;
-//   color: #000;
-//   text-decoration: none;
-//   transition: background-size .25s;
-//   padding-bottom: 2px;
-// }
+a {
+  color: $blue;
+  text-decoration-color: $light-blue;
 
-// a:hover {
-//   background-size: 2px 50px;
-//   color: white;
-// }
+  // -webkit-transition: 0.15s color ease;
+  //    -moz-transition: 0.15s color ease;
+  //     -ms-transition: 0.15s color ease;
+  //      -o-transition: 0.15s color ease;
+  //         transition: 0.15s color ease;
+
+}
+
+a:hover, a:focus {
+  color: $dark-blue;
+  text-decoration-color: $dark-gray;
+}
 
 
 
