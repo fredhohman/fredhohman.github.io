@@ -1,88 +1,120 @@
-// Layout
-//
-// Styles for managing the structural hierarchy of the site.
-
-.container {
-  max-width: 55rem;
-  /*max-width: 38rem;*/
-  padding-left:  1rem;
-  padding-right: 1rem;
-  margin-left:  auto;
-  margin-right: auto;
+// Base grid
+// Sizes: screen > page > middle > text 
+// Asides: kicker (left), and gutter (right)
+main, header, footer {
+	display: grid;
+	justify-items: stretch;
+	grid-template-columns: [screen-start] 1fr [page-start kicker-start] minmax(min-content, 3.25rem) [middle-start] minmax(min-content, 3.25rem) [text-start kicker-end] repeat(8, minmax(min-content, 3.25rem)) [text-end gutter-start] minmax(min-content, 3.25rem) [middle-end] minmax(min-content, 3.25rem) [page-end gutter-end] 1fr [screen-end];
+	grid-column-gap: 1rem;
+	background-color: lightgoldenrodyellow;
 }
 
-footer {
-	background-color: #1E1E24;
-	color: #e6e6e6;
-	// border-top: 1px #ECECEC solid;
-	padding-bottom: 2rem;
-	padding-top: 1rem;
-	margin-top: 2em;
-
-	@media (max-width: 41em) {
-    padding-left: 1em;
-    padding-right: 1em,;
-  }
-
-}
-
-.footer {
-	max-width: 45em;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 1em;
-	display: flex;
-	padding: 20px;
-}
-
-.footer-half-l, .footer-half-r {
-	flex: 1;
-}
-
-.footer-half-l {
-	// display: flex;
-	// flex-direction: column;
-	// justify-content: center;
-}
-
-@media screen and (max-width: $on-phone) {
-	.footer {
-		display: block;
+// Mobile grid
+@media screen and (max-width:$mobile) {
+	header {
+		background-color: orange;
 	}
 
-	.footer-half-l {
-		padding-bottom: 20px;
+	main, header, footer {
+		grid-template-columns: [screen-start] 8px [page-start kicker-start text-start gutter-start middle-start] repeat(8, 1fr) [text-end page-end gutter-end kicker-end middle-end] 8px [screen-end];
+		grid-column-gap: 0.5rem;
 	}
 }
 
-div.social {
-	display: block;
-	height: 2.25em;
+main > * {
+	grid-column: text;
 }
 
-img.social-icon {
-	float: left;
-    max-width: 1.5em;
-    margin-right: 1em;
+// Class sizes
+.l-kicker { grid-column: kicker; }
+.l-gutter { grid-column: gutter; }
+.l-text { grid-column: text; }
+.l-middle { grid-column: middle; }
+.l-page { grid-column: page; }
+.l-screen { grid-column: screen; }
+.l-screen-inset {
+  grid-column: screen;
+  padding-left: 1rem;
+  padding-left: 1rem;
 }
+
+
+
+
+
+// .container {
+//   max-width: 55rem;
+//   padding-left:  1rem;
+//   padding-right: 1rem;
+//   margin-left:  auto;
+//   margin-right: auto;
+// }
+
+// footer {
+// 	background-color: #1E1E24;
+// 	color: #e6e6e6;
+// 	padding-bottom: 2rem;
+// 	padding-top: 1rem;
+// 	margin-top: 2em;
+
+// 	@media (max-width: 41em) {
+//     padding-left: 1em;
+//     padding-right: 1em,;
+//   }
+
+// }
+
+// .footer {
+// 	max-width: 45em;
+// 	margin-left: auto;
+// 	margin-right: auto;
+// 	margin-top: 1em;
+// 	display: flex;
+// 	padding: 20px;
+// }
+
+// .footer-half-l, .footer-half-r {
+// 	flex: 1;
+// }
+
+// @media screen and (max-width: $on-phone) {
+// 	.footer {
+// 		display: block;
+// 	}
+
+// 	.footer-half-l {
+// 		padding-bottom: 20px;
+// 	}
+// }
+
+// div.social {
+// 	display: block;
+// 	height: 2.25em;
+// }
+
+// img.social-icon {
+// 	float: left;
+//     max-width: 1.5em;
+//     margin-right: 1em;
+// }
 
 
 //Center the element in .container below
 
-h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, dl, table, time, .message, .highlight, .gist-file, .pagination {
-  max-width: 35rem;
-  margin-left: auto;
-  margin-right: auto;
-}
+// h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, dl, table, time, .message, .highlight, .gist-file, .pagination {
+//   max-width: 35rem;
+//   margin-left: auto;
+//   margin-right: auto;
+// }
 
-.comments{
-	max-width: 35em;
-	margin-right: auto;
-	margin-left: auto;
-}
+// .comments{
+// 	max-width: 35em;
+// 	margin-right: auto;
+// 	margin-left: auto;
+// }
 
-hr {
-	max-width: 35em;
-	margin-left: auto;
-	margin-right: auto;
-}
+// hr {
+// 	max-width: 35em;
+// 	margin-left: auto;
+// 	margin-right: auto;
+// }

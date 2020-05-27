@@ -1,0 +1,22 @@
+header {
+    // display: flex;
+}
+
+header > h1 {
+    grid-column: page;
+    // grid-column: 4 / 8;
+}
+
+header > nav {
+    // grid-column: 8 / 12;
+    grid-column: page;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+nav > a {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
