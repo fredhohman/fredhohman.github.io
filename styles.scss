@@ -7,18 +7,16 @@
 @import "variables";
 @import "base";
 @import "layout";
-
 @import "type";
+@import "code";
+@import "syntax";
 
 @import "header";
 @import "footer";
+@import "message";
 
-// @import "syntax";
-// @import "code";
-// @import "masthead";
-// @import "posts";
-// @import "pagination";
-// @import "message";
+// @import "posts"; // likely don't need, but check
+// @import "pagination"; // likely don't need
 // @import "figure";
 // @import "buttons";
 // @import "cv";

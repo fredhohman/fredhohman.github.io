@@ -73,6 +73,7 @@ DEPENDENCIES
   jekyll!
   jekyll-feed (~> 0.13.0)
   jekyll-sitemap (~> 1.4)
+  rouge (~> 3.19)
 
 BUNDLED WITH
    2.0.2

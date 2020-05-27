@@ -18,6 +18,14 @@ author:
   url: http://fredhohman.com
   email: fred.hohman@gmail.edu
 
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class: 'syntax'
+
 excerpt_separator: <!--more-->
 
 plugins:
