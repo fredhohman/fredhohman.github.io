@@ -1,0 +1,25 @@
+footer {
+	background-color: $footer-bg;
+    color: $footer-text;
+	padding-bottom: 3rem;
+	padding-top: 3rem;
+	margin-top: 2em;
+}
+
+#footer-left {
+    grid-column: middle-start / 8;
+}
+
+#footer-right {
+    grid-column: 8 / middle-end;
+}
+
+@media screen and (max-width: $mobile) {
+	#footer-left, #footer-right {
+        grid-column: page;
+    }
+    
+    #footer-left {
+        margin-bottom: 1rem;
+    }
+}
