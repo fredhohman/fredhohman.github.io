@@ -42,7 +42,8 @@ p {
 
 a {
   color: $blue;
-  text-decoration-color: $light-blue;
+  text-decoration: none;
+  // text-decoration-color: $light-blue;
 
   // -webkit-transition: 0.15s color ease;
   //    -moz-transition: 0.15s color ease;
@@ -54,7 +55,8 @@ a {
 
 a:hover, a:focus {
   color: $dark-blue;
-  text-decoration-color: $dark-gray;
+  text-decoration: underline;
+  text-decoration-color: $light-silver;
 }
 
 
