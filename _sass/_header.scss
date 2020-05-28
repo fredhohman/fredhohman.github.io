@@ -9,6 +9,11 @@
     font-size: 1.25rem;
     margin-top: 0rem;
     margin-bottom: 0rem;
+    // font-weight: bold;
+}
+
+#masthead > h1 > a {
+    color: $text-color;
 }
 
 #masthead > nav {

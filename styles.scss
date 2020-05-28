@@ -7,18 +7,19 @@
 @import "variables";
 @import "base";
 @import "layout";
-@import "type";
+@import "type"; // haven't finished here yet
 @import "code";
 @import "syntax";
 
 @import "header";
 @import "footer";
 @import "message";
+@import "buttons";
 
 // @import "posts"; // likely don't need, but check
 // @import "pagination"; // likely don't need
+
 // @import "figure";
-// @import "buttons";
 // @import "cv";
 // @import "bib";
 // @import "papers";
@@ -26,3 +27,16 @@
 // @import "cover";
 // @import "intro";
 
+.fake-image {
+    height: 50px;
+    background-color: $black-05;
+    border: 1px solid $black-30;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+img {width: 100%;}
