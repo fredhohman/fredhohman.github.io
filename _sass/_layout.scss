@@ -20,7 +20,7 @@ main > * {
 	grid-column: text;
 }
 
-// Class sizes
+// Sizes
 .l-kicker { grid-column: kicker; }
 .l-gutter { grid-column: gutter; }
 .l-text { grid-column: text; }
@@ -32,27 +32,3 @@ main > * {
   margin-left: 1rem;
   margin-right: 1rem;
 }
-
-
-
-
-
-//Center the element in .container below
-
-// h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, dl, table, time, .message, .highlight, .gist-file, .pagination {
-//   max-width: 35rem;
-//   margin-left: auto;
-//   margin-right: auto;
-// }
-
-// .comments{
-// 	max-width: 35em;
-// 	margin-right: auto;
-// 	margin-left: auto;
-// }
-
-// hr {
-// 	max-width: 35em;
-// 	margin-left: auto;
-// 	margin-right: auto;
-// }

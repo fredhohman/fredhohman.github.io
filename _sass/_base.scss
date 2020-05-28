@@ -35,6 +35,18 @@ img {
   width: 100%;
 }
 
+.fake-image {
+    height: 50px;
+    background-color: $black-05;
+    border: 1px solid $black-30;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 // .my-cv {
 //   border: 1px #eeeeee solid;
 //   padding: 15px;
