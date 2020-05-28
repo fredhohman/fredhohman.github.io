@@ -14,7 +14,8 @@
 @import "header";
 @import "footer";
 @import "message";
-@import "buttons";
+// @import "buttons";
+@import "table";
 
 // @import "posts"; // likely don't need, but check
 // @import "pagination"; // likely don't need
@@ -38,5 +39,3 @@
     flex-direction: column;
     justify-content: center;
 }
-
-img {width: 100%;}
