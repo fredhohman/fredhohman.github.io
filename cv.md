@@ -53,7 +53,7 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 ## Education
 
 {% for degree in site.data.education %}
-{% include degree.html degree=degree %}
+{% include cv/degree.html degree=degree %}
 {% endfor %}
 
 
@@ -61,7 +61,7 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'industry' %}
-{% include experience.html experience=experience %}
+{% include cv/experience.html experience=experience %}
 {% endif %}
 {% endfor %}
 
@@ -70,7 +70,7 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'academic' %}
-{% include experience.html experience=experience %}
+{% include cv/experience.html experience=experience %}
 {% endif %}
 {% endfor %}
 
@@ -78,7 +78,7 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 ## Honors and Awards
 
 {% for award in site.data.awards %}
-{% include award.html award=award %}
+{% include cv/award.html award=award %}
 {% endfor %}
 
 
@@ -108,49 +108,49 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
-{% include talk.html talk=title %}
+{% include cv/talk.html talk=title %}
 {% endfor %}
 
 
 ## Press
 
 {% for press in site.data.press %}
-{% include press.html press=press %}
+{% include cv/press.html press=press %}
 {% endfor %}
 
 
 ## Teaching
 
 {% for teach in site.data.teaching %}
-{% include teaching.html teach=teach %}
+{% include cv/teaching.html teach=teach %}
 {% endfor %}
 
 
 ## Mentoring
 
 {% for mentee in site.data.mentoring %}
-{% include mentee.html mentee=mentee %}
+{% include cv/mentee.html mentee=mentee %}
 {% endfor %}
 
 
 ## Grants and Funding
 
 {% for fund in site.data.funding %}
-{% include fund.html fund=fund %}
+{% include cv/fund.html fund=fund %}
 {% endfor %}
 
 
 ## Interactive Articles
 
 {% for article in site.data.articles %}
-{% include article.html article=article %}
+{% include cv/article.html article=article %}
 {% endfor %}
 
 
 <!-- ## Technology Skills
 
 {% for skill in site.data.skills %}
-{% include skill.html skill=skill %}
+{% include cv/skill.html skill=skill %}
 {% endfor %} -->
 
 
@@ -158,41 +158,41 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 
 <p style="margin-bottom: 0rem"><strong>Organizer</strong></p>
 {% for venue in site.data.organizer %}
-{% include venue.html venue=venue %}
+{% include cv/venue.html venue=venue %}
 {% endfor %}
 
 <p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Program Commitee</strong></p>
 {% for venue in site.data.pc %}
-{% include venue.html venue=venue %}
+{% include cv/venue.html venue=venue %}
 {% endfor %}
 
 <p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Reviewer</strong></p>
 {% for venue in site.data.reviewer %}
-{% include venue.html venue=venue %}
+{% include cv/venue.html venue=venue %}
 {% endfor %}
 
 <p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Institutional</strong></p>
 {% for institution in site.data.institutional %}
-{% include institutional.html institution=institution %}
+{% include cv/institutional.html institution=institution %}
 {% endfor %}
 
 <p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Member</strong></p>
 {% for member in site.data.memberships %}
-{% include member.html member=member %}
+{% include cv/member.html member=member %}
 {% endfor %}
 
 
 ## Design
 
 {% for design in site.data.designs %}
-{% include design.html design=design %}
+{% include cv/design.html design=design %}
 {% endfor %}
 
 
 ## References
 
 {% for reference in site.data.references %}
-{% include reference.html reference=reference %}
+{% include cv/reference.html reference=reference %}
 {% endfor %}
 
 <!-- 
