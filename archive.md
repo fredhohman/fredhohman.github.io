@@ -14,7 +14,7 @@ The one-stop shop, including all posts from the Blog, Monthly Music, and Project
     {% unless forloop.first %}
     </ul>
     {% endunless %}
-    <h1>{{ currentyear }}</h1>
+    <h2>{{ currentyear }}</h2>
     <ul>
     {% capture year %}{{ currentyear }}{% endcapture %}
   {% endif %}

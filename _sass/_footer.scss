@@ -10,6 +10,10 @@ footer {
     grid-column: middle-start / 8;
 }
 
+#footer-left > time {
+    color: $footer-text;
+}
+
 #footer-right {
     grid-column: 8 / middle-end;
 }

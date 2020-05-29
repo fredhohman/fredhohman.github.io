@@ -1,0 +1,133 @@
+$cd-size: 130px;
+
+$cd-margin: 12px;
+$disk-size: $cd-size - 2*$cd-margin;
+
+$cd-inner-hole-size: $cd-size/5;
+$cd-inner-hole-margin-lr: ($disk-size - $cd-inner-hole-size)/2;
+$cd-inner-hole-margin-tb: 5px;
+$label-height: 30px;
+
+.cd-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cd-link{
+  text-decoration: none !important;
+  // padding: 0.5rem;
+}
+
+.cd {
+  background: $white;
+  display: inline-block;
+  height: $cd-size;
+  width: $cd-size;
+  border: 1px solid $border-color;
+  // box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  // transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  cursor: pointer;
+  margin: 0.5rem;
+}
+
+.cd:hover {
+  // box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  // box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  text-decoration: none;
+  border: 1px solid $near-black;
+}
+
+.cd-inner {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: $cd-size;
+  border-radius: 50%;
+  margin: $cd-margin;
+  width: $disk-size;
+  height: $disk-size !important;
+  background-color: $light-gray;
+}
+
+.cd-inner-hole {
+  height: $cd-inner-hole-size;
+  width: $cd-inner-hole-size;
+  margin-left: $cd-inner-hole-margin-lr;
+  margin-right: $cd-inner-hole-margin-lr;
+  margin-top: $cd-inner-hole-margin-tb;
+  margin-bottom: $cd-inner-hole-margin-tb;
+  background: $white;
+  border-radius: 50%;
+}
+
+.cd-label {
+  font-family: 'Gaegu', cursive;
+  font-weight: 700;
+  font-size: 1.15rem;
+  opacity: 0.8;
+  background-color: $white;
+  border: 1px solid $mid-gray;
+  color: $near-black;
+  height: $label-height;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cd-label-year {
+  font-family: 'Gaegu', cursive;
+  font-weight: 300;
+  font-size: 1rem;
+  color: $white;
+  height: $label-height;
+}
+
+.january {
+  background: linear-gradient(135deg, #13f1fc 0%, #0470dc 100%);
+}
+
+.february {
+  background: linear-gradient(135deg, #F5515F 0%, #A1051D 100%)
+}
+
+.march {
+  background: linear-gradient(135deg, #65799b 0%, #5e2563 100%)
+}
+
+.april {
+  background: linear-gradient(135deg, #C56CD6 0%, #3425AF 100%)
+}
+
+.may {
+  background: linear-gradient(135deg, #f02fc2 0%, #6094ea 100%)
+}
+
+.june {
+  background: linear-gradient(135deg, #c3ec52 0%, #0ba29d 100%)
+}
+
+.july {
+  background: linear-gradient(135deg, #184e68 0%, #57ca85 100%)
+}
+
+.august {
+  background: linear-gradient(135deg, #F36265 0%, #961276 100%)
+}
+
+.september {
+  background: linear-gradient(135deg, #fcdf8a 0%, #f38381 100%)
+}
+
+.october {
+  background: linear-gradient(135deg, #fad961 0%, #f76b1c 100%)
+}
+
+.november {
+  background: linear-gradient(135deg, #f2d50f 0%, #da0641 100%)
+}
+
+.december {
+  background: linear-gradient(135deg, #5b247a 0%, #1bcedf 100%)
+}

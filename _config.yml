@@ -18,6 +18,10 @@ author:
   url: http://fredhohman.com
   email: fred.hohman@gmail.edu
 
+collections:
+  papers:
+    output: true
+
 markdown: kramdown
 highlighter: rouge
 kramdown:
