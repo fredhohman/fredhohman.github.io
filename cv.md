@@ -8,9 +8,7 @@ jsarr:
 
 <h1 id="cv-title"><a href="{{ site.url }}">Fred Hohman</a></h1>
 
-<p id="cv-subtitle">
-<i><span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher</i>
-</p>
+<p id="cv-subtitle"><i><span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher</i></p>
 
 I research how to enable <b><span class="cv-ai">machine learning interpretability</span></b> at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create <b><span class="cv-vis">data visualizations</span></b> and write interactive articles to simply communicate complex ideas.
 
@@ -35,16 +33,14 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 	</div>
 </div>
 
-
 ***
 
-
 ## Education
-
+{::nomarkdown}
 {% for degree in site.data.education %}
 {% include cv/degree.html degree=degree %}
 {% endfor %}
-
+{:/}
 
 ## Industry Research Experience
 

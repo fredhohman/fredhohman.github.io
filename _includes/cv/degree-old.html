@@ -1,0 +1,22 @@
+<p class="l-page">
+	<span class="cv-left-date">{{ degree.years }}</span>{% if degree.years-extra %}<span class="cv-left-date-mobile">{{ degree.years-extra }}</span>{% endif %}<strong>{{ degree.degree }}</strong>
+	<br>
+	<span class="cv-left-date-extra">{{ degree.years-extra }}</span><a href="{{ degree.institution-url }}">{{ degree.institution }}</a>, {{ degree.location }}
+	<br>
+	{% if degree.advisor %}Advisor: {% include person.html person=degree.advisor %}{% endif %}{% if degree.co-advisor %}, Co-advisor: {% include person.html person=degree.co-advisor %}<br>{% endif %}
+	
+	{% if degree.thesis %}Thesis: <i>{{ degree.thesis }}</i><br>{% endif %}
+
+	{% if degree.committee %}
+	Committee: 
+	{% for person in degree.committee %}
+	{% if forloop.last == false %}
+	{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %},
+	{% else if forloop.last == true %}
+	{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %}
+	{% endif %}
+	{% endfor %}
+	<br>{% endif %}
+
+	{% if degree.description %}{% for item in degree.description %}{{ item }}<br>{% endfor %}{% endif %}
+</p>
