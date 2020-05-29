@@ -1,28 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang | default: "en-US" }}">
+{% include head.html %}
 
-  {% include head.html %}
-  <body>
-  
-    <!-- {% include header.html %} -->
-    <div style="height: 30px"></div>
-
-    <div class="container content">
-
-      <main>
-        <article id="cv" class="page">
-          {{ content }}
-        </article>        
-      </main>
-
-    </div>
-
-    {% if page.jsarr %}
-      {% for js in page.jsarr %}
+<body>
+  <main id="cv">
+    {{ content }}
+  </main>
+  {% if page.jsarr %}
+    {% for js in page.jsarr %}
       <script>
         {% include {{ js }} %}
       </script>
-      {% endfor %}
-    {% endif %}
-  </body>
+    {% endfor %}
+  {% endif %}
+</body>
+
 </html>

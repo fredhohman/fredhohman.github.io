@@ -6,30 +6,19 @@ jsarr:
 - js/scripts.js
 ---
 
-<h1><a style="color: #313131; font-weight: 500; font-size: 1.25em" href="https://fredhohman.com">Fred Hohman</a></h1>
+<h1 id="cv-title"><a href="{{ site.url }}">Fred Hohman</a></h1>
 
-<span class="cv-subtitle">
-*<span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher*
-</span>
+<p id="cv-subtitle">
+<i><span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher</i>
+</p>
 
-<!-- <span class="cv-max-width">
-I’m a Ph.D. candidate in the [College of Computing][coc] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex].
-</span> -->
+I research how to enable <b><span class="cv-ai">machine learning interpretability</span></b> at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create <b><span class="cv-vis">data visualizations</span></b> and write interactive articles to simply communicate complex ideas.
 
-<span class="cv-max-width">
-I research how to enable **<span class="cv-ai">machine learning interpretability</span>** at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create **<span class="cv-vis">data visualizations</span>** and write interactive articles to simply communicate complex ideas.
-</span>
-
-<span class="cv-max-width">
 I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
-</span>
 
-<span class="cv-max-width">
 My research is supported by a [NASA Space Technology Research Fellowship][nstrf].
-</span>
 
-
-<div class="cv-image-links-wrapper" style="font-size: 16px; padding-bottom: 0;">
+<div class="cv-image-links-wrapper">
 	<div class="cv-image-links">
 		{% for link in site.data.social-links %}
 			{% if link.cv-group == 1 %}
