@@ -36,6 +36,7 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 ***
 
 ## Education
+
 {::nomarkdown}
 {% for degree in site.data.education %}
 {% include cv/degree.html degree=degree %}
@@ -49,7 +50,6 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% include cv/experience.html experience=experience %}
 {% endif %}
 {% endfor %}
-
 
 ## Academic Research Experience
 

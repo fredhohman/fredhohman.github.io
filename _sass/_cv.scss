@@ -77,6 +77,11 @@
 	font-weight: 300;
 }
 
+.cv-spacer {
+	margin-top: 0.75rem;
+	display: block;
+}
+
 // #cv .cv-description a {
 // 	color: #9a9a9a;
 // }
@@ -157,16 +162,6 @@
 // 	color: #2196F3;
 // }
 
-// .cv-spacer {
-// 	margin-top:5px;
-// 	display:block;
-// }
-
-// .cv-spacer-award {
-// 	margin-top: 5px;
-// 	display: block;
-// }
-
 // .cv-spacer-line {
 // 	margin-top: 5px;
 // 	display: block;
@@ -214,9 +209,6 @@
 // 	color: #2196F3 !important;
 // }
 
-// @media screen and (max-width: $on-laptop) {
-
-// }
 
 @media screen and (max-width: $mobile) {
 
