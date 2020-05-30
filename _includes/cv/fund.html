@@ -1,18 +1,17 @@
-<p>
-	<span class="cv-left-date">{{ fund.years }}</span><a href="{{ fund.title-url }}"><strong>{{ fund.title }}</strong></a>
-	<br>
-	<a href="{{ fund.name-url }}">{{ fund.name }}</a>
-	<br>
-	<span class="cv-description">
-	Co-PIs: 
-	{% for person in fund.co-pis %}
+<div class="cv-left-date">{{ fund.years }}</div>
+<div><a href="{{ fund.title-url }}"><b>{{ fund.title }}</b></a></div>
+<div><a href="{{ fund.name-url }}">{{ fund.name }}</a></div>
+
+<div class="cv-description">
+Co-PIs: 
+{% for person in fund.co-pis %}
 	{% if forloop.last == false %}
 		{% include person.html person=person %},	
 	{% else if forloop.last == true %}
 		{% include person.html person=person %}
 	{% endif %}
-	{% endfor %}
-	<br>
-	Funded {{ fund.amount }}
-	</span>
-</p>
+{% endfor %}
+</div>
+<div class="cv-description">Funded {{ fund.amount }}</div>
+
+<div class="cv-spacer"></div>
