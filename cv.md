@@ -96,7 +96,6 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% include cv/talk.html talk=title %}
 {% endfor %}
 
-
 ## Press
 
 {% for press in site.data.press %}

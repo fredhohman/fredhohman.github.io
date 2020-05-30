@@ -1,8 +1,8 @@
-<p style="margin-bottom: 1rem">
-<strong>{{ title.name }}</strong>
-<br>
+<div><b>{{ title.name }}</b></div>
+
 {% for talk in title.items %}
-<span class="cv-left-date">{{ talk.month }} {{ talk.year }}</span>{{ talk.location }}
-<br>
+<div class="cv-left-date">{{ talk.month }} {{ talk.year }}</div>
+<div>{{ talk.location }}</div>
 {% endfor %}
-</p>
+
+<div class="cv-spacer"></div>
