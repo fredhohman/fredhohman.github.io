@@ -87,6 +87,16 @@
 	display: block;
 }
 
+.appears-on, .appears-on a {
+	font-size: 0.75rem;
+	font-weight: 400;
+}
+
+.cv-award {
+	color: $gold;
+	font-weight: 600;
+}
+
 // #cv .cv-description a {
 // 	color: #9a9a9a;
 // }
@@ -101,10 +111,6 @@
 // 	margin-left: 5rem;
 // }
 
-// .cv-award {
-// 	color: #FBC02D;
-// 	font-weight: 600;
-// }
 
 // #cv p, #cv .post-date {
 // 	font-size: 15px;
@@ -202,16 +208,6 @@
 
 // #cv pre {
 // 	margin-left: 0px !important;
-// }
-
-// #cv .parametric-press, #cv .parametric-press a {
-// 	// color: #9a9a9a !important;
-// 	font-size: 13px;
-// 	font-weight: 400;
-// }
-
-// #cv .parametric-press a:hover {
-// 	color: #2196F3 !important;
 // }
 
 
