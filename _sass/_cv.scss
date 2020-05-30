@@ -1,7 +1,7 @@
-// #cv > * {
-	// grid-column: text-start / page-end;
+#cv > * {
+	grid-column: text-start / page-end;
 	// font-size: 1em;
-// }
+}
 
 #cv a {
 	color: $text-color;
@@ -63,7 +63,7 @@
 }
 
 .cv-left-date {
-	grid-column: kicker;
+	grid-column: kicker !important;
 	text-align: right;
 	font-size: 0.7rem;
 	display: flex;
@@ -71,7 +71,19 @@
     justify-content: center;
 }
 
+.cv-description {
+	color: $silver !important;
+	font-size: 0.875rem;
+	font-weight: 300;
+}
 
+// #cv .cv-description a {
+// 	color: #9a9a9a;
+// }
+
+// #cv .cv-description a:hover {
+// 	color: #2196F3;
+// }
 
 
 // #cv h1, #cv h2, #cv h3, #cv h4, #cv h5, #cv h6, #cv p, #cv blockquote, #cv ul, #cv ol, #cv dl, #cv table, #cv time, #cv .message, #cv .highlight, #cv .gist-file, #cv .pagination, hr{
@@ -164,19 +176,6 @@
 // 	margin-bottom: 5px;
 // }
 
-// #cv .cv-description {
-// 	color: #9a9a9a;
-// 	font-size: 14px;
-// 	font-weight: 300;
-// }
-
-// #cv .cv-description a {
-// 	color: #9a9a9a;
-// }
-
-// #cv .cv-description a:hover {
-// 	color: #2196F3;
-// }
 
 // #cv .cv-pdf {
 // 	padding: 10px;
