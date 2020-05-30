@@ -59,16 +59,11 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% endif %}
 {% endfor %}
 
-
 ## Honors and Awards
 
 {% for award in site.data.awards %}
 {% include cv/award.html award=award %}
 {% endfor %}
-
-
-<!-- <div style="height:100px"></div> -->
-
 
 ## Publications
 
@@ -88,7 +83,6 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% include publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
-
 ## Talks
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
@@ -102,13 +96,11 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% include cv/press.html press=press %}
 {% endfor %}
 
-
 ## Teaching
 
 {% for teach in site.data.teaching %}
 {% include cv/teaching.html teach=teach %}
 {% endfor %}
-
 
 ## Mentoring
 
@@ -116,13 +108,11 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% include cv/mentee.html mentee=mentee %}
 {% endfor %}
 
-
 ## Grants and Funding
 
 {% for fund in site.data.funding %}
 {% include cv/fund.html fund=fund %}
 {% endfor %}
-
 
 ## Interactive Articles
 
@@ -130,13 +120,11 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% include cv/article.html article=article %}
 {% endfor %}
 
-
 <!-- ## Technology Skills
 
 {% for skill in site.data.skills %}
 {% include cv/skill.html skill=skill %}
 {% endfor %} -->
-
 
 ## Service
 
@@ -165,13 +153,11 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 {% include cv/member.html member=member %}
 {% endfor %}
 
-
 ## Design
 
 {% for design in site.data.designs %}
 {% include cv/design.html design=design %}
 {% endfor %}
-
 
 ## References
 
