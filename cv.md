@@ -104,9 +104,11 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 
 ## Mentoring
 
+{::nomarkdown}
 {% for mentee in site.data.mentoring %}
 {% include cv/mentee.html mentee=mentee %}
 {% endfor %}
+{:/}
 
 ## Grants and Funding
 
