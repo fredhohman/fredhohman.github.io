@@ -1,28 +1,25 @@
-<p>
-{% if pub.link %}
-	<a href="{{ pub.link }}"><strong>{{ pub.title }}</strong></a>
+<div>
+{% if pub.url %}
+	<a href="{{ pub.url }}"><b>{{ pub.title }}</b></a>
 {% else %}
-	<strong>{{ pub.title }}</strong>
+	<b>{{ pub.title }}</b>
 {% endif %}
+</div>
 
-<br>
+<div>
+	{% for person in pub.authors %}
+		{% if forloop.last == false %}
+			{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %},
+		{% else if forloop.last == true %}
+			{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %}
+		{% endif %}
+	{% endfor %}
+</div>
 
-{% for person in pub.authors %}
-	{% if forloop.last == false %}
-		{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %},
-	{% else if forloop.last == true %}
-		{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %}
-	{% endif %}
-{% endfor %}
+<div><i>{{ pub.venue }}{% if pub.venue-shorthand %} ({{ pub.venue-shorthand }}){% endif %}. {% if pub.location %}{{ pub.location }},{% endif %} {{ pub.year }}.</i></div>
 
-<br>
-
-<i>{{ pub.venue }}{% if pub.venue-shorthand %} ({{ pub.venue-shorthand }}){% endif %}. {% if pub.location %}{{ pub.location }},{% endif %} {{ pub.year }}.</i>
-
-<br>
-
+<div class="pub-misc">
 {% if pub.url or pub.pdf or pub.coming-soon %}
-	<span class="pub-misc">
 
 	{% if pub.coming-soon == true %}
 	  <a>
@@ -37,9 +34,9 @@
 	{% endif %}
 
 	{% if pub.demo %}
-	<a href="{{ pub.demo }}">
-		<i class="fas fa-play" aria-hidden="true"></i> Demo
-	</a>
+	  <a href="{{ pub.demo }}">
+	    <i class="fas fa-play" aria-hidden="true"></i> Demo
+	  </a>
 	{% endif %}
 
 	{% if pub.pdf %}
@@ -73,9 +70,9 @@
 	{% endif %}
 
 	{% if pub.recording %}
-	<a href="{{ pub.recording }}">
-		<i class="fas fa-video" aria-hidden="true"></i> Recording
-	</a>
+	  <a href="{{ pub.recording }}">
+	    <i class="fas fa-video" aria-hidden="true"></i> Recording
+	  </a>
 	{% endif %}
 
 	{% if pub.slides %}
@@ -103,19 +100,19 @@
 	{% endif %}
 
 	{% if feature.slides %}
-	<a href="{{ feature.slides }}">
-		<i class="fas fa-window-maximize" aria-hidden="true"></i> Slides
-	</a>
+	  <a href="{{ feature.slides }}">
+	    <i class="fas fa-window-maximize" aria-hidden="true"></i> Slides
+	  </a>
 	{% endif %}
 
 	{% if pub.bibtex %}
 		{% if selectedBoolForBibtex == true %}
-			<a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_{{ pub.id }}_selected')">
+			<a style="cursor:pointer" onclick="toggleBibtex('_{{ pub.id }}_selected')">
 				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
 			</a>
 		{% endif %}
 		{% if selectedBoolForBibtex == false %}
-			<a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_{{ pub.id }}')">
+			<a style="cursor:pointer" onclick="toggleBibtex('_{{ pub.id }}')">
 				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
 			</a>
 		{% endif %}
@@ -126,15 +123,15 @@
 	{% endif %}
 
 	{% if pub.equal-contribution %}
-	    <span style="color: #9a9a9a"><!-- <i class="fas fa-asterisk" aria-hidden="true"></i> --> * Authors contributed equally</span>
+	    <span class="equal-contribution"> *Authors contributed equally</span>
 	{% endif %}
 	
-	</span>
 {% endif %}
+</div>
 
 {% if pub.bibtex %}
 {% if selectedBoolForBibtex == true %}
-<div class="highlighter-rouge bibtex" style="display:none" id="_{{ pub.id }}_selected">
+<div class="highlighter-rouge bibtex bibtex-wrapper" style="display: none;" id="_{{ pub.id }}_selected">
 	<div class="highlight">
 		<pre>
 			{{ pub.bibtex }}
@@ -143,7 +140,7 @@
 </div>
 {% endif %}
 {% if selectedBoolForBibtex == false %}
-<div class="highlighter-rouge bibtex" style="display:none" id="_{{ pub.id }}">
+<div class="highlighter-rouge bibtex bibtex-wrapper" style="display: none;" id="_{{ pub.id }}">
 	<div class="highlight">
 		<pre>
 			{{ pub.bibtex }}
@@ -153,4 +150,4 @@
 {% endif %}
 {% endif %}
 
-</p>
+<div class="cv-spacer"></div>
