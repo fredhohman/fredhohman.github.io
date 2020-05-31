@@ -1,4 +1,2 @@
-<p style="margin-bottom: 0.3rem">
-	<span class="cv-left-date">{{ member.years }}</span>{{ member.org }}
-	{% if member.org-shorthand %}(<strong>{{ member.org-shorthand }}</strong>){% endif %}
-</p>
+<div class="cv-left-date">{{ member.years }}</div>
+<div>{{ member.org }} {% if member.org-shorthand %}(<b>{{ member.org-shorthand }}</b>){% endif %}</div>
