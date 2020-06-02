@@ -3,53 +3,38 @@ layout: default
 title: Home
 ---
 
-<h1>this is a headline</h1>
-<div>
-	<p>lorem</p>
-</div>
-
-
-<div style="display:none">
-<h1 class="intro-title">Hi, I'm Fred Hohman</h1>
-
-<div class="intro">
-	
-	<div class="intro-text">
-		<p markdown="1">
-		I’m a Ph.D. candidate in the [College of Computing][coc] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex]. 
-		</p>
-		<p markdown="1">
-		I research how to enable **machine learning interpretability** at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create **data visualizations** and write interactive articles to simply communicate complex ideas.
-		</p>
-		<p markdown="1">
-		I have collaborated with designers, developers, and scientists while working at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/apple.svg"> Apple, <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft Research, <img class="intro-logo" style="width: 24px" src="/images/nasa.svg"> NASA Jet Propulsion Lab, and <img class="intro-logo" style="width: 24px;" src="/images/pnnl.svg"> Pacific Northwest National Lab.
-		</p>
-		<p markdown="1">
-		My research is supported by a [NASA Space Technology Research Fellowship][nstrf].
-		</p>
+<div id ="intro-wrapper" class="l-page">
+	<div id="intro-title-wrapper" class="intro-left">
+		<h1 id="intro-title">Hi, I'm Fred Hohman</h1>
+		<div class="lead">
+			I’m a PhD candidate in the College of Computing at Georgia Tech advised by Polo Chau and Alex Endert. 
+		</div>
 	</div>
-
-	<div class="intro-image">
-	  <img src="/images/portrait.jpg" style="border-radius: 4px;">
-
-	  <div class="intro-image-links">
+	<div class="intro-left">
+		I research how to enable <b>machine learning interpretability</b> at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create <b>data visualizations</b> and write interactive articles to simply communicate complex ideas.
+	</div>
+	<div class="intro-left">
+		I have collaborated with designers, developers, and scientists while working at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/apple.svg"> Apple, <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft Research, <img class="intro-logo" style="width: 24px" src="/images/nasa.svg"> NASA Jet Propulsion Lab, and <img class="intro-logo" style="width: 24px;" src="/images/pnnl.svg"> Pacific Northwest National Lab.
+	</div>
+	<div class="intro-left">
+		My research is supported by a <a href="https://www.nasa.gov/strg/nstrf">NASA Space Technology Research Fellowship</a>.
+	</div>
+	<img id="intro-image" class="intro-right" src="/images/portrait.jpg">
+	<div id="intro-image-links" class="intro-right">
 		{% for link in site.data.social-links %}
 		{% if link.on-homepage == true %}
 		{% include social-link.html link=link %}
 		{% endif %}
 		{% endfor %}
 	</div>
-	
-	<div class="intro-cv-wrapper">
-		<a href="/cv" style="color: #515151">
-		<span class="intro-cv">
-		Here's my CV.
-		</span></a>
+	<div id="intro-right-cv" class="intro-right">
+		<a href="/cv"><span id="intro-cv">Here's my CV.</span></a>
 	</div>
-	
-	</div>
-
 </div>
+
+
+
+<div style="display:none">
 
 <!-- <div style="padding-top:15px;"></div> -->
 
