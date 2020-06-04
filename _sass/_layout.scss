@@ -1,16 +1,18 @@
+$column-width: 3.5rem;
+
 // Base grid
 // Sizes: screen > page > middle > text 
 // Asides: kicker (left), and gutter (right)
-main, header, footer {
+main, header, footer, #paper-title-wrapper {
 	display: grid;
 	justify-items: stretch;
-	grid-template-columns: [screen-start] 1fr [page-start kicker-start] minmax(min-content, 3.25rem) [middle-start] minmax(min-content, 3.25rem) [text-start kicker-end] repeat(8, minmax(min-content, 3.25rem)) [text-end gutter-start] minmax(min-content, 3.25rem) [middle-end] minmax(min-content, 3.25rem) [page-end gutter-end] 1fr [screen-end];
-	grid-column-gap: 1rem;
+	grid-template-columns: [screen-start] 1fr [page-start kicker-start] minmax(min-content, $column-width) [middle-start] minmax(min-content, $column-width) [text-start kicker-end] repeat(8, minmax(min-content, $column-width)) [text-end gutter-start] minmax(min-content, $column-width) [middle-end] minmax(min-content, $column-width) [page-end gutter-end] 1fr [screen-end];
+	grid-column-gap: 1.5rem;
 }
 
 // Mobile grid
 @media screen and (max-width:$mobile) {
-	main, header, footer {
+	main, header, footer, #paper-title-wrapper {
 		grid-template-columns: [screen-start] 8px [page-start kicker-start text-start gutter-start middle-start] repeat(8, 1fr) [text-end page-end gutter-end kicker-end middle-end] 8px [screen-end];
 		grid-column-gap: 0.5rem;
 	}
