@@ -1,44 +1,26 @@
-.cover-wrapper-double {
-  display: flex;
-  // flex-direction: column;
-}
-
-.cover-warpper-with-title {
-  display: flex;
-  flex-direction: column;
-}
+$cover-size-scalar: 30;
+$cover-height: 13.5px;
+$cover-width: 8.5px;
 
 .cover-wrapper {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
-  // width: 95%;
-  // width: 50%;
 }
 
 .cover {
-  // background: #ffffff;
-  height: 13.5*26.5px; //33
-  width: 8.5*26.5px; //33
-  margin-top: 0.35rem;
-  margin-bottom: 0.35rem;
-  margin-left: 0.35rem;
-  margin-right: 0.35rem;
+  height: $cover-height*$cover-size-scalar;
+  width: $cover-width*$cover-size-scalar;
+  margin: 0.5rem;
 
+  border: 1px solid $border-color;
   // box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-  border: 1px rgba(0,0,0,0.12) solid;
+  // transition: all 0.3s cubic-bezier(.25,.8,.25,1);
   
-  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
-  // cursor: pointer;
   text-align: left;
-  // padding: 15px;
-  // padding-top:40px;
-  border-radius: 3px;
-
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  // background: linear-gradient(135deg, #C56CD6 0%, #3425AF 100%)
 }
 
 .cover:hover {
@@ -46,96 +28,18 @@
   // box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 
   // medium
-  box-shadow: 0 7px 14px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);
+  // box-shadow: 0 7px 14px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);
 
   // light
   // box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 
-  text-decoration: none;;
+  border: 1px solid $dark-gray;
+  text-decoration: none;
+  // background-color: #fafafa;
 }
-
-
-
-
-.cover-side { 
-  font-size: 20px;
-  height: 13.5*25px; //33
-  width: 8.5*25px; //33
-  margin-top: 0.35rem;
-  margin-bottom: 0.35rem;
-  margin-left: 0.35rem;
-  margin-right: 0.35rem;
-
-  // box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-  // border: 1px rgba(0,0,0,0.12) solid;
-
-  // max-width: 200px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-align: right;
-  padding: 20px;
-}
-
-
-
-
-
-
-.cover-text-header {
-   width: 100%; 
-   text-align: center; 
-   border-bottom: 1px solid #000; 
-   line-height: 0.1em;
-   margin: 10px 0 20px; 
- }
-
-.cover-text-header-line {
-    background:#fff; 
-    padding:0 10px; 
-}
-
-
-.hr-text {
-  margin-left: 0;
-  color: #515151;
-  font-weight: 600;
-
-  line-height: 1em;
-  position: relative;
-  outline: 0;
-  border: 0;
-  text-align: center;
-  height: 1.5em;
-  // opacity: .5;
-
-  &:before {
-    content: '';
-    // use the linear-gradient for the fading effect
-    // use a solid background color for a solid bar
-    background: rgba(0,0,0,0.12);
-    position: absolute;
-    left: 0;
-    top: 50%;
-    width: 100%;
-    height: 1px;
-  }
-
-  &:after {
-    content: attr(data-content);
-    position: relative;
-    display: inline-block;
-
-    padding: 0 .5em;
-    line-height: 1.5em;
-    // this is really the only tricky part, you need to specify the background color of the container element...
-    background-color: #ffffff;
-  }
-}
-
 
 .cover-inner {
-  padding: 14px;
+  padding: 1rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -143,15 +47,14 @@
 }
 
 .cover-title {
-  font-size: 19px;
+  font-size: 1.4rem;
   text-transform: capitalize;
   font-weight: 600;
-  // padding-top: 5px;
-  color: #313131;
+  color: $title-color;
 }
 
 .cover-title a {
-  color: #313131;
+  color: $title-color;
 }
 
 .cover-top a:hover{
@@ -159,15 +62,8 @@
 }
 
 .cover-subtitle {
-  // padding-top: 5px;
-  font-size: 13px;
-  color: #717171;
-}
-
-.cover-authors {
-  font-size: 11px;
-  // color: #717171;
-  // color: #2196F3;
+  font-size: 0.875rem;
+  color: $gray;
 }
 
 .cover-footer-wrapper {
@@ -176,10 +72,8 @@
 }
 
 .cover-venue, .cover-year, .cover-links {
-  font-size: 12px;
-  // font-weight: 300;
-  padding-top: 8px;
-  // font-weight: 600;
+  font-size: 0.75rem;
+  padding-top: 0.5rem;
 }
 
 .cover-venue {
@@ -195,31 +89,32 @@
 
 .cover-image {
   width: 100%;
-  border-bottom: 1px rgba(0,0,0,0.12) solid;
+  border-bottom: 1px solid $border-color;
 }
 
 .cover-link {
   text-decoration: none;
 }
 
-@media screen and (max-width: 950px) {
-  .cover-wrapper {
-    max-width: $on-phone;
-    margin: 0 auto;
-  }
-}
-
-@media screen and (max-width: $on-phone) {
+@media screen and (max-width: $mobile) {
   .cover {
     width: 100%;
     height: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0rem !important;
+    margin-right: 0rem !important;
+  }
+}
+
+@media screen and (max-width: $homepage-pre-mobile) {
+  .cover-wrapper {
+    grid-column: page;
+    justify-content: left;
   }
 
-  .cover-side { 
-    height: auto;
-    width: 100%;
-    text-align: left;
+  .cover {
+    margin-left: 0rem;
+    margin-right: 1rem;
   }
-
-
 }

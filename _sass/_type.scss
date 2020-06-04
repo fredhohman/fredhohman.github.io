@@ -54,10 +54,10 @@ a:hover, a:focus {
 }
 
 hr {
-  position: relative;
+  // position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid $moon-gray;
+  border-top: 1px solid $border-color;
 }
 
 abbr {
@@ -94,8 +94,9 @@ a[href^="#fn:"], a[href^="#fnref:"] {
 
 // Paragraph modifier for larger introductory text
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   font-weight: 300;
+  color: $dark-gray;
 }
 
 time {
