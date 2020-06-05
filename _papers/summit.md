@@ -1,0 +1,50 @@
+---
+layout: paper
+id: summit
+title: "Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+authors: 
+  - Fred Hohman
+  - Haekyu Park
+  - Caleb Robinson
+  - Duen Horng (Polo) Chau
+venue: IEEE Transactions on Visualization and Computer Graphics
+venue-shorthand: TVCG
+location: Vancouver, Canada
+year: 2020
+url: /papers/summit
+demo: https://fredhohman.com/summit/
+pdf: /papers/19-summit-vast.pdf
+slides: /slides/19-summit-vast-slides.pdf
+video: https://www.youtube.com/watch?v=J4GMLvoH1ZU&feature=youtu.be
+recording: https://vimeo.com/368704428
+code: https://github.com/fredhohman/summit/
+feature-title: Summit
+feature-description: "Scaling deep learning interpretability by visualizing activation and attribution summarizations"
+image: /images/featured/summit.png
+featured: true
+feature-order: 2
+selected: true
+type: journal
+figure: /images/papers/19-summit-vast.png
+bibtex: |-
+
+  @article{hohman2020summit,
+    title={Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations},
+    author={Hohman, Fred and Park, Haekyu and Robinson, Caleb and Chau, Duen Horng},
+    journal={IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+    year={2020},
+    publisher={IEEE},
+    url={https://fredhohman.com/summit/}
+  }
+---
+    
+Deep learning is increasingly used in decision-making tasks.
+However, understanding how neural networks produce final predictions remains a fundamental challenge.
+Existing work on interpreting neural network predictions for images often focuses on explaining predictions for single images or neurons.
+As predictions are often computed from millions of weights that are optimized over millions of images, such explanations can easily miss a bigger picture.
+We present Summit, an interactive system that scalably and systematically summarizes and visualizes what features a deep learning model has learned and how those features interact to make predictions.
+Summit introduces two new scalable summarization techniques: (1) activation aggregation discovers important neurons, and (2) neuron-influence aggregation identifies relationships among such neurons. 
+Summit combines these techniques to create the novel attribution graph that reveals and summarizes crucial neuron associations and substructures that contribute to a model's outcomes.
+Summit scales to large data, such as the ImageNet dataset with 1.2M images, and leverages neural network feature visualization and dataset examples to help users distill large, complex neural network models into compact, interactive visualizations.
+We present neural network exploration scenarios where Summit helps us discover multiple surprising insights into a prevalent, large-scale image classifier's learned representations and informs future neural network architecture design.
+The Summit visualization runs in modern web browsers and is open-sourced.
