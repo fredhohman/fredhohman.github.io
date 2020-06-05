@@ -10,11 +10,23 @@ jsarr:
 
 <p id="cv-subtitle"><i><span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher</i></p>
 
+<div>
 I research how to enable <b><span class="cv-ai">machine learning interpretability</span></b> at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create <b><span class="cv-vis">data visualizations</span></b> and write interactive articles to simply communicate complex ideas.
+</div>
 
+<div class="cv-spacer"></div>
+
+<div>
 I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
+</div>
 
-My research is supported by a [NASA Space Technology Research Fellowship][nstrf].
+<div class="cv-spacer"></div>
+
+<div>
+My research is supported by a NASA Space Technology Research Fellowship.
+</div>
+
+<div class="cv-spacer"></div>
 
 <div class="cv-image-links-wrapper">
 	<div class="cv-image-links">
@@ -70,7 +82,7 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 ### Selected: Latest & Greatest
 
 {% assign selectedBoolForBibtex = true %}
-{% for pub in site.data.publications %}
+{% for pub in site.papers %}
 {% if pub.selected %}
 {% include publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endif %}
@@ -79,7 +91,7 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 ### All Publications
 
 {% assign selectedBoolForBibtex = false %}
-{% for pub in site.data.publications %}
+{% for pub in site.papers %}
 {% include publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 

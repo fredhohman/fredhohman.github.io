@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-{% include head.html %}
-
-<body>
-  <main id="cv">
-    {{ content }}
-  </main>
-  {% if page.jsarr %}
-    {% for js in page.jsarr %}
-      <script>
-        {% include {{ js }} %}
-      </script>
-    {% endfor %}
-  {% endif %}
-</body>
+  {% include head.html %}
+  <body>
+    <main id="cv">
+      {{ content }}
+    </main>
+    {% if page.jsarr %}
+      {% for js in page.jsarr %}
+        <script>
+          {% include {{ js }} %}
+        </script>
+      {% endfor %}
+    {% endif %}
+  </body>
 
 </html>
