@@ -5,7 +5,7 @@
 }
 
 #masthead > h1 {
-    grid-column: middle-start / 8;
+    grid-column: text-start / 8;
     font-size: 1.25rem;
     margin-top: 0rem;
     margin-bottom: 0rem;
@@ -17,7 +17,7 @@
 }
 
 #masthead > nav {
-    grid-column: 8 / middle-end;
+    grid-column: 8 / text-end;
     display: flex;
     flex-direction: row;
     align-items: center;

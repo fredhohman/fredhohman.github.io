@@ -7,7 +7,7 @@ footer {
 }
 
 #footer-left {
-    grid-column: middle-start / 8;
+    grid-column: text-start / 8;
 }
 
 #footer-left > time {
@@ -15,7 +15,7 @@ footer {
 }
 
 #footer-right {
-    grid-column: 8 / middle-end;
+    grid-column: 8 / text-end;
 }
 
 .footer-icon {

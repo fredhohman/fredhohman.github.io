@@ -17,13 +17,13 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-			I have collaborated with designers, developers, and scientists while working at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/apple.svg"> Apple, <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft Research, <img class="intro-logo" style="width: 24px" src="/images/nasa.svg"> NASA Jet Propulsion Lab, and <img class="intro-logo" style="width: 24px;" src="/images/pnnl.svg"> Pacific Northwest National Lab.
-		</div>
-		<div style="height: 1rem"></div>
-		<div>
-			My research is supported by a <a href="https://www.nasa.gov/strg/nstrf">NASA Space Technology Research Fellowship</a>.
-		</div>
-		</div>
+		I have collaborated with designers, developers, and scientists while working at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/apple.svg"> Apple, <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft Research, <img class="intro-logo" style="width: 24px" src="/images/nasa.svg"> NASA Jet Propulsion Lab, and <img class="intro-logo" style="width: 24px;" src="/images/pnnl.svg"> Pacific Northwest National Lab.
+	</div>
+	<div style="height: 1rem"></div>
+	<div>
+		My research is supported by a <a href="https://www.nasa.gov/strg/nstrf">NASA Space Technology Research Fellowship</a>.
+	</div>
+</div>
 
 <div class="intro-right">
 	<img id="intro-image" class="intro-right" src="/images/portrait.jpg">
@@ -48,7 +48,6 @@ title: Home
 <h2 class="feature-title l-middle">
 	Featured <a href="/cv#publications">Research Publications</a>
 </h2>
-
 <div class="cover-wrapper l-screen">
 	{% assign sortedPublications = site.data.publications | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
@@ -63,7 +62,6 @@ title: Home
 <h2 class="feature-title l-middle">
 	Featured <a href="/cv#interactive-articles">Interactive Articles</a>
 </h2>
-
 <div class="cover-wrapper l-screen">
 	{% assign sortedArticles = site.data.articles | sort: 'feature-order' %}
 	{% for feature in sortedArticles %}

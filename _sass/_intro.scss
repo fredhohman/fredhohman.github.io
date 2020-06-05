@@ -1,6 +1,6 @@
-$cv-icon-aspect-ratio: 1.3291311379;
+$cv-icon-aspect-ratio: 1.33;
 
-#intro-wrapper > div, p {
+#intro-wrapper > div, .intro-text {
 	font-size: 1.2em;
 }
 
@@ -36,12 +36,13 @@ $cv-icon-aspect-ratio: 1.3291311379;
 	font-weight: bold;
 	margin-bottom: 0rem;
 	margin-top: 0rem;
+	font-size: 3rem;
 }
 
 #intro-image-links {
 	grid-row: 3;
 	background-color: $near-white;
-	border-left: 3px solid $moon-gray;
+	border-left: 2px solid $moon-gray;
 	padding: 1.25rem;
 	font-size: 1rem !important;
 	display: flex;
