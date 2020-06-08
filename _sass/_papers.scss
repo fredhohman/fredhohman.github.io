@@ -20,7 +20,8 @@ $author-image-size: 80px;
 #author-wrapper {
 	grid-column: text;
 	display: grid;
-	grid-template-columns: repeat(5, 1fr);
+	grid-template-columns: repeat(4, 1fr);
+	grid-column-gap: 0.875rem;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 }
@@ -29,6 +30,8 @@ $author-image-size: 80px;
 	text-align: center;
 	font-size: 1.1em;
 	line-height: 1.25rem;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
 }
 
 .author-image {
@@ -83,11 +86,6 @@ $author-image-size: 80px;
 
 	#paper-title-wrapper > h1 {
 		text-align: left;
-	}
-
-	.author {
-		margin-top: 0.5rem;
-		margin-bottom: 0.5rem;
 	}
 
 	#paper-materials {

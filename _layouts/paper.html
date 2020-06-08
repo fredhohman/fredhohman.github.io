@@ -7,7 +7,7 @@ layout: default
     <div id="author-wrapper">
         {% for person in page.authors %}
             <div class="author">
-                {% include person-image.html person=person %}{% for p in page.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %}
+                {% include person-image.html person=person %}{% for p in page.equal-contribution %}{% if person == p %}{% endif %}{% endfor %}
                 {% include person.html person=person %}{% for p in page.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %}
             </div>
         {% endfor %}
@@ -97,7 +97,7 @@ layout: default
 {% endif %}
 </div>
 
-<h2>BibTex</h2>
+<h2>BibTeX</h2>
 {% if page.bibtex %}
 <div class="highlighter-rouge bibtex bibtex-wrapper">
 	<div class="highlight">

@@ -1,10 +1,10 @@
 {% assign data = site.data.people[include.person] %}
-{% if data.url %}
+{% if data.picture %}
     <!-- <a href="{{ data.url }}"> -->
         <img src="/images/people/{{ data.picture }}" class="author-image">
     <!-- </a> -->
 {% else %}
     <!-- <a href="{{ data.url }}"> -->
-        <img src="/images/test.png" class="author-image">
+        <img src="/images/people/person.png" class="author-image">
     <!-- </a> -->
 {% endif %}
