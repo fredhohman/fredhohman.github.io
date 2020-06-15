@@ -6,10 +6,10 @@ title: Home
 <div id ="intro-wrapper" class="l-middle">
 	<div id="intro-title-wrapper" class="intro-left">
 		<h1 id="intro-title">Hi, I'm Fred Hohman</h1>
-		<div class="lead">
-			I’m a PhD candidate in the College of Computing at Georgia Tech advised by Polo Chau and Alex Endert. 
+		<div id="intro-subtitle">
+			I’m a PhD candidate in the College of Computing at Georgia Tech.
+			 <!-- advised by Polo Chau and Alex Endert. -->
 		</div>
-		<!-- <div style="height: 1rem"></div> -->
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
@@ -37,7 +37,6 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div id="intro-right-cv" class="intro-right">
-		<div id="cv-icon"><div id="cv-icon-content"></div></div>
 		<div id="intro-cv"><a href="/cv">Here's my CV.</a></div>
 	</div>
 	</div>
@@ -57,8 +56,6 @@ title: Home
 	{% endfor %}
 </div>	
 
-<!-- <hr class="l-page home-hr"> -->
-
 <h2 class="feature-title l-middle">
 	Featured <a href="/cv#interactive-articles">Interactive Articles</a>
 </h2>
@@ -71,30 +68,28 @@ title: Home
 	{% endfor %}
 </div>
 
-<!-- <hr class="l-page home-hr"> -->
-
 <h2 class="feature-title l-middle">
-	<a href="/everything-else" style="color: #303030">Everything Else</a>
+	<a href="{{ site.url }}/everything-else" style="color: #303030">Everything Else</a>
 </h2>
-<p class="l-middle intro-text" markdown="1">
+<div id="everything-else" class="l-middle">
+	<a href="{{ site.url }}/projects"><div>Projects</div></a>
+	<a href="{{ site.url }}/blog"><div>Blog</div></a>
+	<a href="{{ site.url }}/stuff-i-use"><div>Stuff I Use</div></a>
+	<a href="{{ site.url }}/monthly-music"><div>Monthly Music</div></a>
+	<a href="{{ site.url }}/archive"><div>Archive</div></a>
+</div>
+<!-- <p class="l-middle intro-text" markdown="1">
 	Including a list of [projects][projects], the [blog][blog], [monthly music playlists][monthly-music], [stuff I use][stuff-i-use], and the [archive][archive].
-</p>
+</p> -->
 
-[about]: {{ site.url }}/about
-[projects]: {{ site.url }}/projects
-[blog]: {{ site.url }}/blog
-[ee]: {{ site.url }}/everything-else
-[stuff-i-use]: {{ site.url }}/stuff-i-use
-<!-- [photos]: {{ site.url }}/photos -->
-[archive]: {{ site.url }}/archive "Archive."
-[monthly-music]: {{ site.url }}/monthly-music
+
 
 [gt]: http://www.gatech.edu "Georgia Tech"
 [cse]: http://cse.gatech.edu "Georgia Tech Computational Science and Engineering"
 [coc]: http://www.cc.gatech.edu "Georgia Tech College of Computing"
 
 [cv]: {{ site.url }}/cv
-[polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau."
+[polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau"
 [alex]: http://va.gatech.edu/endert/ "Alex Endert"
 [poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science"
-[nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship."
+[nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship"

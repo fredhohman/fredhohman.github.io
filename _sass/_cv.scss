@@ -30,7 +30,7 @@
 
 #cv-title > a, #cv-title > a:hover {
 	color: $dark-gray;
-	font-weight: 500;
+	font-weight: 600;
 	text-decoration: none;
 }
 
@@ -38,6 +38,14 @@
 	font-size: 1.25rem;
 	margin-top: 0rem;
 	margin-bottom: 0.25rem;
+}
+
+#cv h2 {
+	font-weight: 500;
+}
+
+#cv h3 {
+	font-weight: 300;
 }
 
 .cv-ai {

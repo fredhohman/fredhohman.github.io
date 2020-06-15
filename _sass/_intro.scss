@@ -29,14 +29,25 @@ $cv-icon-aspect-ratio: 1.33;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	grid-column: 1 / 9;
+	margin-bottom: 1.5rem;
 }
 
 #intro-title {
 	color: $near-black;
-	font-weight: bold;
+	font-weight: 600;
 	margin-bottom: 0rem;
 	margin-top: 0rem;
-	font-size: 3rem;
+	font-size: 3.75rem;
+}
+
+#intro-subtitle {
+	font-size: 1.57rem;
+	color: $silver;
+}
+
+#intro-subtitle-link {
+	color: $blue;
 }
 
 #intro-image-links {
@@ -53,69 +64,6 @@ $cv-icon-aspect-ratio: 1.33;
 #intro-right-cv {
 	grid-row: 4;
 	display: flex;
-}
-
-#cv-icon {
-	// height: $cv-icon-aspect-ratio*50px;
-	// width: 1*50px;
-	// border: 1px solid $border-color;
-	width: 36px;
-    height: 46px;
-	padding: 10px 0 0;
-    position: relative;
-    margin: 0 auto;
-    transition: all .2s ease-in-out;
-    cursor: pointer;
-    box-sizing: border-box;
-    font-family: sans-serif;
-    text-decoration: none;
-	display: block;
-	margin: 0 10px 10px;
-    display: inline-block;
-}
-
-#cv-icon:before {
-    top: 0;
-    height: 100%;
-    left: 0;
-    background-color: #007bff;
-    right: 10px;
-}
-
-#cv-icon:after, #cv-icon:before {
-    position: absolute;
-    content: "";
-    pointer-events: none;
-}
-
-#cv-icon:after {
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 10px 0 0 10px;
-    border-color: transparent transparent transparent #66b0ff;
-    top: 0;
-    right: 0;
-}
-#cv-icon:after, #cv-icon:before {
-    position: absolute;
-    content: "";
-    pointer-events: none;
-}
-
-#cv-icon-content {
-	font-size: 11px;
-    padding-top: 55%;
-    background-color: #007bff;
-    top: 10px;
-    color: #fff;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    padding: 16.5px .3em 0;
-    font-size: 13px;
-    font-weight: 500;
-    position: absolute;
 }
 
 #intro-cv {
@@ -143,11 +91,38 @@ $cv-icon-aspect-ratio: 1.33;
 	vertical-align: middle;
 }
 
-.feature-title{
+.feature-title {
 	margin-top: 2rem;
 	margin-bottom: 0.5rem;
 	font-size: 2rem;
+	font-weight: 400;
 }
+
+.feature-title > a {
+	font-weight: 600;
+}
+
+#everything-else {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+}
+
+#everything-else > a {
+	border: 1px solid $border-color;
+	padding: 1rem 0.75rem;
+	margin: 0.25rem;
+	text-align: center;
+	grid-column: 1fr;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#everything-else > a:hover {
+	border: 1px solid $dark-gray;
+	text-decoration: none;
+}
+
 
 @media screen and (max-width: $homepage-pre-mobile) {
 	#intro-wrapper, .feature-title, .intro-text, .home-hr {
@@ -167,5 +142,13 @@ $cv-icon-aspect-ratio: 1.33;
 
 	#intro-image, #intro-image-links, #intro-right-cv {
 		grid-column: 1 / 6;
+	}
+
+	#intro-subtitle {
+		line-height: 1.5;
+	}
+
+	#everything-else {
+		grid-template-columns: repeat(1, 1fr);
 	}
 }
