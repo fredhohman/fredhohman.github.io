@@ -13,69 +13,23 @@ figure figcaption {
     text-align: center;
     color: $gray;
     font-size: 1rem;
+    margin-top: 0.5rem;
 }
 
-// figure figcaption.classic {
-//     width: 100%;
-//     max-width: 35em;
-//     margin-left: auto;
-//     margin-right: auto;
-// }
+.figure-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 0.5rem;
+}
 
-// figure figcaption.single {
-//     width: 100%;
-//     max-width: 40em;
-//     margin-left: auto;
-//     margin-right: auto;
-// }
+.figure-grid-left {
+    grid-column: 1 / 2;
+}
 
-// figure img {
-//     float: left;
-//     margin-bottom: 0.5em;
-// }
+.figure-grid-right {
+    grid-column: 2 / 3;
+}
 
-// // Full size image
-// figure img.full {
-//     margin-left: auto;
-//     margin-right: auto;
-//     float: none;
-// }
-
-// //Single image
-// figure img.single {
-//     float: none;
-//     width: 100%;
-//     max-width: 40em;
-//     margin-left: auto;
-//     margin-right: auto;
-// }
-
-// //Classic
-// figure img.classic {
-//     float: none;
-//     width: 100%;
-//     max-width: 35em;
-//     margin-left: auto;
-//     margin-right: auto;
-// }
-
-// figure img.iphone {
-//     float: none;
-//     max-width: 18em;
-//     margin-left: auto;
-//     margin-right: auto;
-// }
-
-// // Two images side by side
-// figure img.lhalf {
-//     max-width: 49.5%;
-//     margin-right: 0.5%;
-// }
-
-// figure img.rhalf {
-//     max-width: 49.5%;
-//     margin-left: 0.5%;
-// }
 
 // // Three images side by side by side
 // figure img.lthird {
@@ -107,8 +61,4 @@ figure figcaption {
 //     float: left;
 //     max-width: 49.5%;
 //     margin-left: 0.5%;
-// }
-
-// table figure {
-//     max-width: 100px;
 // }
