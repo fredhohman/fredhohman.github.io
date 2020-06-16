@@ -1,6 +1,6 @@
 ---
-layout: project
-title: Materials Informatics&#58; Grain Growth
+layout: post
+title: "Materials Informatics: Grain Growth"
 categories: projects
 permalink: projects/materials-informatics-grain-growth
 ---
@@ -11,8 +11,8 @@ This project for **CSE 8803 Materials Informatics** aims to build structure-prop
 
 <!--more-->
 
-<figure>
-  <img class="full" src="/images/projects/grain-growth/grain-growth.gif" alt="An example grain growth simulation.">
+<figure class="l-text">
+  <img src="/images/projects/grain-growth/grain-growth.gif" alt="An example grain growth simulation.">
   <figcaption>An example grain growth simulation.</figcaption>
 </figure>
 
@@ -22,9 +22,11 @@ Grain growth is possible to simulate, but often times the simulations are comput
 
 We do this by running initial simulations to train our model on, perform analyses such as spatial statistic computations and dimensionality reduction, and ultimately build a regression model.
 
-<figure>
-  <img class="lhalf" src="/images/projects/grain-growth/pca-in.gif" alt="An example grain growth simulation.">
-    <img class="rhalf" src="/images/projects/grain-growth/pca-out.gif" alt="An example grain growth simulation.">
+<figure class="l-page">
+  <div class="figure-grid">
+    <img class="figure-grid-left" src="/images/projects/grain-growth/pca-in.gif" alt="An example grain growth simulation.">
+    <img class="figure-grid-right" src="/images/projects/grain-growth/pca-out.gif" alt="An example grain growth simulation.">
+  </div>
   <figcaption>Low dimensional representation of the inputs and outputs of our model.</figcaption>
 </figure>
 

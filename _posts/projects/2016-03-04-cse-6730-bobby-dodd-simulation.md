@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Modeling of Pedestrian Traffic Around Bobby-Dodd Stadium
 categories: projects
 permalink: projects/cse-6730-bobby-dodd-simulation
@@ -11,16 +11,18 @@ This project for **CSE 6730 Modeling & Simulation** aims to create a model to si
 
 Based on the cartography of Google Maps, we use a [cellular automaton][ca] simulation driven by various force fields such as static attractor fields and dynamic fields. We model typical crowd behavior using cellular automaton rules that our simulated fans follow. We identify the ten exits of Bobby-Dodd stadium as the spawning points where people are introduced into the simulation. We then pick five targeted exits on the map around Bobby-Dodd stadium that our fans will walk towards.
 
-<figure>
-  <img class="lhalf" src="/images/projects/cse-6730-bobby-dodd-simulation/grid1.png" alt="Google Maps view of Bobby-Dodd.">
-    <img class="rhalf" src="/images/projects/cse-6730-bobby-dodd-simulation/grid2.png" alt="Our chosen path network.">
+<figure class="l-middle">
+  <div class="figure-grid">
+    <img class="figure-grid-left" src="/images/projects/cse-6730-bobby-dodd-simulation/grid1.png" alt="Google Maps view of Bobby-Dodd.">
+    <img class="figure-grid-right" src="/images/projects/cse-6730-bobby-dodd-simulation/grid2.png" alt="Our chosen path network.">
+  </div>
   <figcaption>Our chosen simulation path network.</figcaption>
 </figure>
 
 We verify and validate our model via visualization. Knowing that Bobby-Dodd stadium can seat 55,000 people, we can visualize our model by overlaying the map with the simulated people color-coordinated by exit.
 
 <figure>
-  <img class="full" src="/images/projects/cse-6730-bobby-dodd-simulation/50000_people.png" alt="55,000 people evacuating Bobby-Dodd.">
+  <img src="/images/projects/cse-6730-bobby-dodd-simulation/50000_people.png" alt="55,000 people evacuating Bobby-Dodd.">
   <figcaption>55,000 people just trying to get home.</figcaption>
 </figure>
 
@@ -35,9 +37,9 @@ Here's a sped up animation of a quarter-full stadium evacuation.
 
 We presented our model, code, and results during an in-class poster session.
 
-<figure>
+<figure class="l-middle">
   <a href="{{ site.url }}/assets/cse-6730-poster.pdf">
-  <img class="full" src="/images/projects/cse-6730-bobby-dodd-simulation/cse-6730-poster-thumb.png" alt="Project Poster.">
+    <img src="/images/projects/cse-6730-bobby-dodd-simulation/cse-6730-poster-thumb.png" alt="Project Poster.">
   </a>
   <figcaption>Our project poster. Click to view the full <code>.pdf</code>.</figcaption>
 </figure>

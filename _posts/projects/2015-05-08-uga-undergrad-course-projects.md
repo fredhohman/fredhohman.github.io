@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: UGA Undergrad Course Projects
 categories: projects
 permalink: projects/uga-undergrad-course-projects

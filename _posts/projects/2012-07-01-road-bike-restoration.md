@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Road Bike Restoration
 categories: projects
 permalink: projects/road-bike-restoration

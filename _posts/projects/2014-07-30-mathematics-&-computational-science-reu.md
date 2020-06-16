@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Mathematics & Computational Science REU
 categories: projects
 permalink: projects/mathematics-&-computational-science-reu
@@ -11,8 +11,8 @@ Funded by the National Science Foundation, [Research Experiences for Undergradua
 
 I participated in [Fairfield University’s REU in Mathematics & Computational Science][fu] where I was supervised by [Dr. Shanon Reckinger][sr] of the Mechanical Engineering Department of Fairfield University. Our project directly compared numerical solutions derived from the [Navier-Stokes equations][ns] to designed experiments performed at the lab-scale to model a specific oceanic phoneme: **overflow**. 
 
-<figure>
-  <img class="full" src="/images/projects/reu/reu.png" alt="Experimental Overflows.">
+<figure class="l-page">
+  <img src="/images/projects/reu/reu.png" alt="Experimental Overflows.">
   <figcaption>A titled grid of our experimental overflows.</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ Overflows in the ocean occur when dense water flows down a continental slope int
 
 My group designed and built an experiment to mimic oceanic overflow while also configuring the [MIT General Circulation Model][mitgcm] on a Linux computer cluster to parallel compute numerical simulations. We then directly compared our experimental data with our numerical simulations using MATLAB for pre- and post-processing visualization.
 
-<figure>
+<figure class="l-page">
   <a href="{{ site.url }}/assets/reu_poster.pdf">
   <img class="full" src="/images/projects/reu/reu_poster_small.png" alt="JMM Winning Poster.">
   </a>
@@ -29,11 +29,7 @@ My group designed and built an experiment to mimic oceanic overflow while also c
 
 We presented our research at the [2014 REU Mini-Conference at Yale University][yale], the [2014 American Physical Society (APS) Division of Fluid Dynamics Meeting][apsdfd], and we were awarded 1st place in the [2015 Joint Mathematics Meeting Undergraduate Poster Session][jmm] for Computational Mathematics. 
 
-&nbsp;
-
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/JointMath">@JointMath</a> for ranking our poster number 1 in Computational Math! <a href="https://twitter.com/treetree27">@treetree27</a> <a href="https://twitter.com/maanow">@maanow</a> <a href="https://twitter.com/hashtag/jmm15?src=hash">#jmm15</a> <a href="http://t.co/mk06wA0PQd">pic.twitter.com/mk06wA0PQd</a></p>&mdash; Fred Hohman (@fredhohman) <a href="https://twitter.com/fredhohman/status/555078233863892993">January 13, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-&nbsp;
 
 The project has also been [featured by MITgcm][mitgcm-feature]. 
 
