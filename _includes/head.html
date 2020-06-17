@@ -15,12 +15,11 @@
   <meta property="og:description" content="Fred Hohman is a Ph.D. candidate in the College of Computing at Georgia Tech researching the intersection of data visualization and machine learning." />
   <meta property="og:image" content="http://fredhohman.com/images/share.png" />
 
-
   <title>
     {% if page.title == "Home" %}
       {{ site.title }}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+      {{ page.title }} — {{ site.title }}
     {% endif %}
   </title>
 
@@ -39,9 +38,6 @@
   <meta name="msapplication-TileColor" content="#313131">
   <meta name="msapplication-config" content="/icons/browserconfig.xml?v=xQdLjRyXLj">
   <meta name="theme-color" content="#ffffff">
-
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/free.xml">
 
   <!-- Google Analytics -->
   <script>
