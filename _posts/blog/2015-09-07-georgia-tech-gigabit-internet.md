@@ -3,7 +3,6 @@ layout: post
 title: Georgia Tech Gigabit Internet
 categories: blog
 permalink: blog/georgia-tech-gigabit-internet
-comments: true
 ---
 
 Georgia Tech, being located in Midtown Atlanta, has supposedly had gigabit internet on campus for some time now. I wanted to test the speed for myself.
@@ -14,15 +13,17 @@ To do this, I simply loaded up [speedtest.net][speedtest], plugged in my laptop 
 
 The results are in two `.gif`'s below: one for download speed and one for upload speed.
 
-<figure>
-  <video   class="lhalf" width="100%" autoplay loop poster="http://thumbs.gfycat.com/SoulfulMelodicBallpython-poster.jpg">
-  	<source src="http://zippy.gfycat.com/SoulfulMelodicBallpython.webm" type="video/webm">
-  	<source src="http://zippy.gfycat.com/SoulfulMelodicBallpython.mp4" type="video/mp4">
-  </video>
-  <video   class="lhalf" width="100%" autoplay loop poster="http://thumbs.gfycat.com/HandmadeNeatIndigobunting-poster.jpg">
-  	<source src="http://zippy.gfycat.com/HandmadeNeatIndigobunting.webm" type="video/webm">
-  	<source src="http://zippy.gfycat.com/HandmadeNeatIndigobunting.mp4" type="video/mp4">
-  </video>
+<figure class="l-page">
+  <div class="figure-grid">
+    <video class="figure-grid-left" width="100%" autoplay loop poster="http://thumbs.gfycat.com/SoulfulMelodicBallpython-poster.jpg">
+      <source src="http://zippy.gfycat.com/SoulfulMelodicBallpython.webm" type="video/webm">
+      <source src="http://zippy.gfycat.com/SoulfulMelodicBallpython.mp4" type="video/mp4">
+    </video>
+    <video class="figure-grid-right" width="100%" autoplay loop poster="http://thumbs.gfycat.com/HandmadeNeatIndigobunting-poster.jpg">
+      <source src="http://zippy.gfycat.com/HandmadeNeatIndigobunting.webm" type="video/webm">
+      <source src="http://zippy.gfycat.com/HandmadeNeatIndigobunting.mp4" type="video/mp4">
+    </video>
+  </div>
   <figcaption>Fast internet is fast.</figcaption>
 </figure>
 
@@ -32,15 +33,9 @@ Maybe one day soon I can get gigabit internet in my apartment since Atlanta has 
 
 Needless to say, I'm excited to be using gigabit on campus during graduate school. I did a quick Google search for "georgia tech internet speed" and sure enough, I found the following statistic in a tweet:
 
-&nbsp;
-
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">RT <a href="https://twitter.com/arball">@arball</a>: those at <a href="https://twitter.com/hashtag/smskills10?src=hash">#smskills10</a> that don&#39;t know - <a href="https://twitter.com/hashtag/GeorgiaTech?src=hash">#GeorgiaTech</a> has the second fastest internet in the world. Second only to the <a href="https://twitter.com/hashtag/Pentagon?src=hash">#Pentagon</a>.</p>&mdash; Georgia Tech (@GeorgiaTech) <a href="https://twitter.com/GeorgiaTech/status/19825599630">July 29, 2010</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-&nbsp;
-
 Just a few days after my findings, someone I follow on Twitter posted his unusually high LTE download speed, so I decided to boast about GT's speed:
-
-&nbsp;
 
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/samsheffer">@samsheffer</a> So this isn&#39;t LTE, but check out my school&#39;s internet: <a href="http://t.co/CFGt0ped0D">pic.twitter.com/CFGt0ped0D</a></p>&mdash; Fred Hohman (@fredhohman) <a href="https://twitter.com/fredhohman/status/632919485482188801">August 16, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
