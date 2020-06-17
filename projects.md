@@ -23,10 +23,10 @@ Things I do, including research, academic course projects, and miscellaneous int
 </ul>
 
 ### Undergraduate Thesis
-[3D Printing the Trefoil Knot and its Pages][trefoil]&nbsp;<small style="color: #c0c0c0">2015</small>
+[3D Printing the Trefoil Knot and its Pages][trefoil] <small style="color: #c0c0c0">2015</small>
 
 ### REU
-[Math & Computational Science REU][reu]&nbsp;<small style="color: #c0c0c0">2014</small>
+[Math & Computational Science REU][reu] <small style="color: #c0c0c0">2014</small>
 
 ### Academic
 <ul>

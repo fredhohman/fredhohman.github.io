@@ -23,7 +23,6 @@ The model was originally made for the [University of Georgia’s][uga] [High Sch
     <img class="figure-grid-left" src="/images/projects/trophy/trophy_4.JPG" alt="Cube Decomposition Trophy.">
     <img class="figure-grid-right" src="/images/projects/trophy/trophy_5.JPG" alt="Cube Decomposition Trophy.">
   </div>
-  <figcaption>&nbsp;</figcaption>
 </figure>
 
 The model features built-in holes for [D6x1mm magnets][mag] (6mm diameter and 1mm height) that can be glued in after the print has completed. The additional color emphasizes the unique geometry of the middle piece. The model can be downloaded and printed from [Thingiverse][thing].

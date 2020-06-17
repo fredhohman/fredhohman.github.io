@@ -82,8 +82,6 @@ You can download my models from [my Thingiverse profile][thingiverse] to 3D prin
   <img class="rhalf" src="/images/projects/trefoil/trefoil_puzzle21.jpg" alt="">
 </figure>
 
-&nbsp;
-
 [topology]: http://en.wikipedia.org/wiki/Topology "Topology."
 [dg]: http://euclidlab.org/david-gay/ "Dr. David Gay."
 [ugamath]: http://www.math.uga.edu "UGA Mathematics."
