@@ -12,7 +12,7 @@ layout: default
             </div>
         {% endfor %}
     </div>
-    <div id="venue"><i>{{ page.venue }} ({{ page.venue-shorthand }}), {{ page.year }}</i></div>
+    <div id="venue"><i>{{ page.venue }}{% if page.venue-shorthand %} ({{ page.venue-shorthand }}){% endif %}, {{ page.year }}</i></div>
 
     {% if page.award %}
         <div id="paper-award"><i class="fas fa-trophy" aria-hidden="true"></i> {{ page.award }}</div>
