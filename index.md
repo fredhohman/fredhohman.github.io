@@ -16,6 +16,10 @@ title: Home
 		I research how to enable <b>machine learning interpretability</b> at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create <b>data visualizations</b> and write interactive articles to simply communicate complex ideas.
 	</div>
 	<div style="height: 1rem"></div>
+	<div class="intro-left">
+		At Georgia Tech I work with <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="http://va.gatech.edu/endert/	">Alex Endert</a> as a member of the <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a>.
+	</div>
+	<div style="height: 1rem"></div>
 	<div>
 		I have collaborated with designers, developers, and scientists while working at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/apple.svg"> Apple, <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft Research, <img class="intro-logo" style="width: 24px" src="/images/nasa.svg"> NASA Jet Propulsion Lab, and <img class="intro-logo" style="width: 24px;" src="/images/pnnl.svg"> Pacific Northwest National Lab.
 	</div>
@@ -27,17 +31,22 @@ title: Home
 
 <div class="intro-right">
 	<img id="intro-image" class="intro-right" src="/images/portrait.jpg">
-	<div style="height: 1rem"></div>
+	<div style="height: 0.5rem"></div>
 	<div id="intro-image-links" class="intro-right">
 		{% for link in site.data.social-links %}
-		{% if link.on-homepage == true %}
-		{% include social-link.html link=link %}
-		{% endif %}
+			{% if link.on-homepage == true %}
+				{% include social-link.html link=link %}
+			{% endif %}
 		{% endfor %}
 	</div>
-	<div style="height: 1rem"></div>
-	<div id="intro-right-cv" class="intro-right">
-		<div id="intro-cv"><a href="/cv">Here's my CV.</a></div>
+	<div style="height: 0.5rem"></div>
+	<div id="intro-cv-wrapper" class="intro-right">
+		{% for link in site.data.social-links %}
+			{% if link.id == "cv-web" %}
+				{% include social-link.html link=link %}
+			{% endif %}
+		{% endfor %}
+		<!-- <div id="intro-cv"><a href="/cv">Here's my CV.</a></div> -->
 	</div>
 	</div>
 </div>
