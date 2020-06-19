@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: A Viz of Ice and Fire
 categories: projects
 permalink: projects/cs-7450-a-viz-of-ice-and-fire
@@ -14,14 +14,13 @@ For instance, in which season was the frozen North the focus of the plot? With a
 You can view the web visualization [here][viz].
 
 <figure>
-  <img class="full" src="/images/projects/cs-7450-a-viz-of-ice-and-fire/cover.png" alt="A Viz of Ice and Fire.">
-  <!-- <figcaption>.</figcaption> -->
+  <img src="/images/projects/cs-7450-a-viz-of-ice-and-fire/cover.png" alt="A Viz of Ice and Fire.">
 </figure>
 
 The visualization highlights the high-level aspects of each Game of Thrones episode, separating the data into ***visual*** and ***textual*** components. We process over 60 hours of video data and its subtitles (dialogue only) into nominal and quantitative variables of color and text frequencies as follows.
 
 <figure>
-  <img class="full" src="/images/projects/cs-7450-a-viz-of-ice-and-fire/cover2-cropped.png" alt="The main interactive view of the visualzation." style="border: 1px solid #ECECEC">
+  <img src="/images/projects/cs-7450-a-viz-of-ice-and-fire/cover2-cropped.png" alt="The main interactive view of the visualzation." style="border: 1px solid #ECECEC">
   <figcaption>The main interactive component of the visualization.</figcaption>
 </figure>
 

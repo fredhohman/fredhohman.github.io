@@ -1,43 +1,33 @@
-# Permalinks
-#
+title: Fred Hohman
+tagline: PhD Candidate at GT
+url: http://fredhohman.com
+baseurl: ""
+# gems: [jekyll-paginate]
+# paginate: 5
+
 # Use of `relative_permalinks` ensures post links from the index work properly.
-# permalink:           "/:title"
+# permalink: "/:title"
 # relative_permalinks: true
 
-# Setup
-title:               Fred Hohman
-tagline:             Ph.D. Candidate at GT
-url:                 http://fredhohman.com
-# gems:                [jekyll-paginate]
-# paginate:            5
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: compressed
 
-# About/contact
 author:
-  name:              Fred Hohman
-  url:               https://twitter.com/fredhohman
-  email:             fredhohman@gatech.edu
+  name: Fred Hohman
+  url: http://fredhohman.com
+  email: fred.hohman@gmail.edu
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://fredhohman/fredhohman.github.io
-
-nav_list:
-  Home: '/'
-  CV: '/cv'
-  # Projects: '/projects'
-  # Blog: '/blog'
-  Publications: '/cv#publications'
-  Everything Else: '/everything-else'
-
-# paginate_path: "blog/page:num/"
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    default_lang: html
+    css_class: 'syntax'
 
 excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed

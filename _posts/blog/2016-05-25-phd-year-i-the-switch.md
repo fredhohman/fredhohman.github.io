@@ -3,7 +3,6 @@ layout: post
 title: "Ph.D. Year I: The Switch"
 permalink: blog/phd-year-i-the-switch
 categories: blog
-comments: true
 ---
 
 As my first year of graduate school comes to a close, I spent some time reflecting on my experiences over the past year.
@@ -14,11 +13,7 @@ As my first year of graduate school comes to a close, I spent some time reflecti
 
 Computational Science & Engineering (CSE) at Georgia Tech, the smallest school in the College of Computing, has a great environment for its Ph.D. students and offers courses that are exploding with popularity all throughout Georgia Tech. But a Ph.D. isn't about taking more classes. A Ph.D. is an apprenticeship with a focus on producing new (and hopefully exciting!) research. 
 
-&nbsp;
-
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">PhD Year I: done.</p>&mdash; Fred Hohman (@fredhohman) <a href="https://twitter.com/fredhohman/status/728667114047995904">May 6, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-&nbsp;
 
 During my first year, I've been working in the field of materials informatics: a new field that uses the power of data science techniques to better solve problems in materials science. A year ago this seemed like a good fit considering my background in math, physics, and interest in data. Over the past two semesters I contributed to a handful of related projects, including bypassing expensive simulations by building a [surrogate model for material grain growth][grain-growth], contributing to the open-source materials informatics python package [PyMKS][pymks] developed within the research group, and applying informatics approaches to advanced materials in the [Materials Development Program][mdp] funded by DARPA. Throughout these projects I've worked hard and met wonderful and intelligent people, but as time went on my interest began to fade.
 
@@ -28,16 +23,7 @@ So after much thinking and discussion[^fn-discussion] I have decided to stop my 
 
 I'm fortunate that CSE here at Georgia Tech conducts research in many fields. So after, yes, *more thinking and discussion*, I am excited to say that I am joining the [Polo Club of Data Science][poloclub] led by Dr. Polo Chau. 
 
-<figure>
-  <img class="full" src="/images/blog/poloclub-logo-black.png" alt="Polo Club of Data Science.">
-</figure>
-
 Polo Club's primary research bridges **data mining and machine learning** techniques with principles from **human-computer interaction and visualization** to make interactive tools to help people understand and explore big data[^research-areas].
-
-<figure>
-  <img class="full" src="/images/blog/poloclub-slide.pdf" alt="Polo Club of Data Science Approach to Big Data Analytics.">
-  <figcaption>Polo Club of Data Science Approach to Big Data Analytics. <br/>Credit: <a href="http://www.cs.cmu.edu/~dchau/thesis/polo_thesis.pdf">"Data Mining Meets HCI: Making Sense of Large Graphs."</a></figcaption>
-</figure>
 
 This unique combination enables one to stay current with the latest analytic and machine learning practices as well as refine one's visual design work and communication through interactive visualizations. Polo was recently [awarded a new NSF grant][polo-nsf] that proposes similar ideas.
 

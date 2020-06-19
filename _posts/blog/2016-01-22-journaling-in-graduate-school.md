@@ -3,7 +3,6 @@ layout: post
 title: Journaling in Graduate School
 categories: blog
 permalink: blog/journaling-in-graduate-school
-comments: true
 ---
 
 How I started a daily journal to document every day of my graduate career and why I think journaling in general is a good idea.
@@ -33,10 +32,6 @@ But I needed a good way to do this.
 ## The App
 
 I spent some time reviewing popular journaling apps and it quickly became clear that [Day One][dayone] was one of the best for iOS and Mac. 
-
-<figure>
-  <img class="full" src="/images/blog/dayone.png" alt="Day One.">
-</figure>
 
 Each entry can include a picture, a log of one's activity for the day, and tags for easy filtering. I have mine synced with Dropbox to backup my entries and have the ability to write from either my phone or computer. There's a bunch of other useful features too, but instead of listing them here I'll let you read them on [Day One's website][dayone].
 
@@ -91,7 +86,7 @@ Tags are helpful to better filter entries when I want to look back. Some tags ha
 After writing and tagging an entry I attach one picture to the post and Day One automatically logs my location, activity, and weather from the day to give some context when reading.
 
 <figure>
-  <img class="full" src="/images/blog/dayone-ss.png" alt="Day One screenshot.">
+  <img src="/images/blog/dayone-ss.png" alt="Day One screenshot.">
   <figcaption>What a Day One entry looks like on Mac. </figcaption>
 </figure>
 
@@ -99,18 +94,14 @@ After writing and tagging an entry I attach one picture to the post and Day One 
 
 When I started this project I tweeted about it and Day One was kind enough to put the tweet on their ["Uses" website][uses].
 
-&nbsp;
-
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">New project: writing daily <a href="https://twitter.com/dayoneapp">@dayoneapp</a> entries documenting graduate school life during the next four years in <a href="https://twitter.com/gtcomputing">@gtcomputing</a> at <a href="https://twitter.com/GeorgiaTech">@GeorgiaTech</a></p>&mdash; Fred Hohman (@fredhohman) <a href="https://twitter.com/fredhohman/status/622506634649186305">July 18, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-&nbsp;
 
 Looking back, my first entry (titled "Day 0: The Pre-Beginning") was short and described the Sunday before I started research at Georgia Tech. The next dozen of entries were also short and walked a fine line between a journal and a diary. But as I slowly got into the habit of writing something down every day, the entries started to get longer. It wasn't long until my average entry was 750+ words, with an all-time high of 1000+ words. 
 
 As a data enthusiast, the Day One iOS app contains a little bonus feature in the widget on the notification screen. Once enabled, the widget will show you a "words per day" chart. It was encouraging to see this bar chart grow taller and taller as time went on.
 
 <figure>
-  <img class="full" src="/images/blog/dayone-widget.png" alt="Day One screenshot.">
+  <img src="/images/blog/dayone-widget.png" alt="Day One screenshot.">
   <figcaption>The "words per day" bar chart in the iOS widget. </figcaption>
 </figure>
 

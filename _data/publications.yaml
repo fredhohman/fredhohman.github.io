@@ -13,7 +13,7 @@
   pdf: /papers/20-chameleon-chi.pdf
   video: https://youtu.be/xWRU88FykpA
   preview: https://youtu.be/fXVeBgK-ix4
-  # slides: /slides/120-chameleon-chi-slides.pdf
+  slides: /slides/20-chameleon-chi-slides.pdf
   feature-title: Chameleon
   feature-description: Understanding and visualizing data iteration in machine learning
   image: /images/featured/chameleon.png
@@ -568,29 +568,29 @@
       publisher={ACM}
     } 
 
-# - id: graph-playground
-#   title: Large Graph Exploration via Subgraph Discovery and Decomposition
-#   authors:
-#     - James Abello
-#     - Fred Hohman
-#     - Varun Bezzam
-#     - Duen Horng (Polo) Chau
-#   equal-contribution:
-#     - James Abello
-#     - Fred Hohman
-#   venue: arXiv:1808.04414
-#   year: 2018
-#   url: /papers/graph-playground 
-#   pdf: https://arxiv.org/pdf/1808.04414.pdf
-#   type: poster
-#   bibtex: |-
+- id: graph-playground
+  title: Large Graph Exploration via Subgraph Discovery and Decomposition
+  authors:
+    - James Abello
+    - Fred Hohman
+    - Varun Bezzam
+    - Duen Horng (Polo) Chau
+  equal-contribution:
+    - James Abello
+    - Fred Hohman
+  venue: arXiv:1808.04414
+  year: 2018
+  url: /papers/graph-playground 
+  pdf: https://arxiv.org/pdf/1808.04414.pdf
+  type: poster
+  bibtex: |-
 
-#     @article{abello2018large,
-#       title={Large Graph Exploration via Subgraph Discovery and Decomposition},
-#       author={Abello, James and Hohman, Fred and Bezzam, Varun and Chau, Duen Horng},
-#       journal={arXiv preprint arXiv:1808.04414},
-#       year={2018}
-#     }
+    @article{abello2018large,
+      title={Large Graph Exploration via Subgraph Discovery and Decomposition},
+      author={Abello, James and Hohman, Fred and Bezzam, Varun and Chau, Duen Horng},
+      journal={arXiv preprint arXiv:1808.04414},
+      year={2018}
+    }
 
 - id: ie
   title: Interactive Classification for Deep Learning Interpretation

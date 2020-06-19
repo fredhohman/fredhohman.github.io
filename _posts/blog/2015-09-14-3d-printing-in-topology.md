@@ -3,7 +3,6 @@ layout: post
 title: 3D Printing in Topology
 categories: blog
 permalink: blog/3d-printing-in-topology
-comments: true
 ---
 
 At the University of Georgia I spent three semesters exploring 3D printing techniques in topology under [Dr. David Gay][dg] in the [Mathematics Department][ugamath], in particular, visualizing complex shapes and knots using a MakerBot Replicator 2. 
@@ -16,11 +15,7 @@ At the University of Georgia I spent three semesters exploring 3D printing techn
 
 While working on this project I've had fantastic support, including recognition by some individuals that are experts in the field such as professor and now MakerBot employee Dr. Laura Taalman[^fn-lt]:
 
-&nbsp;
-
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">Beautiful 3D prints of puzzles based on open-book trefoil knot decompositions by <a href="https://twitter.com/fredhohman">@fredhohman</a>: <a href="http://t.co/amrWFoYRkI">http://t.co/amrWFoYRkI</a> <a href="http://t.co/x7gP3U5h2s">pic.twitter.com/x7gP3U5h2s</a></p>&mdash; Laura Taalman (@mathgrrl) <a href="https://twitter.com/mathgrrl/status/636971149252001792">August 27, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-&nbsp;
 
 The last time I spoke with Dr. Taalman she mentioned that another employee at MakerBot has printed one of my trefoil knots and keeps it on his desk. How cool!
 
@@ -28,11 +23,7 @@ The last time I spoke with Dr. Taalman she mentioned that another employee at Ma
 
 Back in December, well-known 3D printing website 3DPrint.com [wrote about my project][3dprint-1] while I was still working on it. However, just this past weekend 3DPrint.com was kind enough to [write a second, follow-up piece][3dprint-2] about the finished project. 
 
-&nbsp;
-
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/My3DPrinting">@My3DPrinting</a> Thanks for the shout-out!</p>&mdash; Fred Hohman (@fredhohman) <a href="https://twitter.com/fredhohman/status/643568945576939520">September 14, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-&nbsp;
 
 If you find 3D printing, mathematical art, or topology interesting I suggest you go read it!
 

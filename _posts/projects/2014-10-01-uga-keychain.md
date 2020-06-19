@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: UGA Keychain
 categories: projects
 permalink: projects/uga-keychain
@@ -9,8 +9,8 @@ This is a 3D printed model of the [University of Georgia’s][uga] [“G” logo
 
 <!--more-->
 
-<figure>
-  <img class="full" src="/images/projects/keychain/uga_keychain.JPG" alt="UGA Keychain.">
+<figure class="l-page">
+  <img src="/images/projects/keychain/uga_keychain.JPG" alt="UGA Keychain.">
   <figcaption>Go dawgs.</figcaption>
 </figure>
 

@@ -1,0 +1,55 @@
+#masthead {
+    border-bottom: 1px solid $border-color;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#masthead > h1 {
+    grid-column: text-start / 8;
+    font-size: 1.25rem;
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+
+#masthead > h1 > a {
+    color: $text-color;
+}
+
+#masthead > nav {
+    grid-column: 8 / text-end;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 1rem;
+}
+
+nav > a {
+    margin-left: 1rem;
+    margin-right: 0rem;
+}
+
+@media screen and (max-width:$mobile) {
+
+    #masthead {
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+    }
+
+    #masthead > h1 {
+        grid-column: page;
+        // margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    #masthead > nav {
+        grid-column: page;
+        justify-content: flex-start;
+    }
+    
+    nav > a {
+        margin-left: 0rem;
+        margin-right: 1rem;
+    }
+
+}

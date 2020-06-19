@@ -1,6 +1,6 @@
 ---
-layout: project
-title: Personal Informatics&#58; Health Easel
+layout: post
+title: "Personal Informatics: Health Easel"
 categories: projects
 permalink: projects/cs-6750-health-easel
 ---
@@ -16,7 +16,7 @@ Our class project aims to study how people, particularly Georgia Tech students, 
 Our final design, titled the **Health Easel**, is a new in-consultation health visualization prototype system that allows a patient to bring personal tracking data to their appointment and visualize relevant variables represented by simple charts on the display where both the patient and doctor can review in real-time to make informed health decisions.
 
 <figure>
-    <img class="single" src="/images/projects/cs-6750-personal-informatics/inclined-title.jpg" alt="">
+    <img src="/images/projects/cs-6750-personal-informatics/inclined-title.jpg" alt="">
 </figure>
 
 ## User Research
@@ -24,48 +24,48 @@ Our final design, titled the **Health Easel**, is a new in-consultation health v
 
 **L:** Student arrives at STAMPS.  
 **R:** Student swipes BuzzCard or types in Student ID at 1 of 4 lobby desktop computers each with a privacy desk. Student answers questions pertaining to primary care appointment.
-<figure>
-  <img class="lhalf" src="/images/projects/cs-6750-personal-informatics/task/image02.jpg" alt="">
-  <img class="rhalf" src="/images/projects/cs-6750-personal-informatics/task/image00.jpg" alt="">
+<figure class="l-middle">
+  <div class="figure-grid">
+    <img class="figure-grid-left" src="/images/projects/cs-6750-personal-informatics/task/image02.jpg" alt="">
+    <img class="figure-grid-right" src="/images/projects/cs-6750-personal-informatics/task/image00.jpg" alt="">
+  </div>
 </figure>
-
-&nbsp;
 
 **L:** Student walks back to primary care office and checks in with receptionist.  
 **R:** Student waits in primary care center lobby. Typically students spend waiting time browsing their mobile phones.
-<figure>
-  <img class="lhalf" src="/images/projects/cs-6750-personal-informatics/task/image08.jpg" alt="">
-  <img class="rhalf" src="/images/projects/cs-6750-personal-informatics/task/image05.jpg" alt="">
+<figure class="l-middle">
+  <div class="figure-grid">
+    <img class="figure-grid-left" src="/images/projects/cs-6750-personal-informatics/task/image08.jpg" alt="">
+    <img class="figure-grid-right" src="/images/projects/cs-6750-personal-informatics/task/image05.jpg" alt="">
+  </div>
 </figure>
-
-&nbsp;
 
 **L:** Student is shown into a private room by nurse and asked to take a seat on the medical examination chair stationed near the center of the room.  
 **R:** Nurse takes vitals and asks patients questions relevant to their health. Nurse turns away from patient to input this information into EHR system located on desktop. Student cannot see desktop unless 21” monitor is physically turned.
-<figure>
-  <img class="lhalf" src="/images/projects/cs-6750-personal-informatics/task/image04.jpg" alt="">
-  <img class="rhalf" src="/images/projects/cs-6750-personal-informatics/task/image09.jpg" alt="">
+<figure class="l-middle">
+  <div class="figure-grid">
+    <img class="figure-grid-left" src="/images/projects/cs-6750-personal-informatics/task/image04.jpg" alt="">
+    <img class="figure-grid-right" src="/images/projects/cs-6750-personal-informatics/task/image09.jpg" alt="">
+  </div>
 </figure>
-
-&nbsp;
 
 **L:** Nurse leaves and instructs patient that doctor will be in shortly (typically 5 - 20 min). During this time, patient either plays with mobile phone or walks around the room, viewing the space and examining brochures.  
 **R:** Doctor enters room and physically examines patient.
-<figure>
-  <img class="lhalf" src="/images/projects/cs-6750-personal-informatics/task/image01.jpg" alt="">
-  <img class="rhalf" src="/images/projects/cs-6750-personal-informatics/task/image03.jpg" alt="">
+<figure class="l-middle">
+  <div class="figure-grid">
+    <img class="figure-grid-left" src="/images/projects/cs-6750-personal-informatics/task/image01.jpg" alt="">
+    <img class="figure-grid-right" src="/images/projects/cs-6750-personal-informatics/task/image03.jpg" alt="">
+  </div>
 </figure>
-
-&nbsp;
 
 **L:** When finished with examination, doctor turns away from student and inputs information into desktop EHR system. If necessary, doctor can input any necessary prescriptions or follow-up recommendations.  
 **R:** The appointment concludes and student typically leaves with verbal information from doctor. Written information may come via EHR system or if doctor has provided an informational brochure from the room.
-<figure>
-  <img class="lhalf" src="/images/projects/cs-6750-personal-informatics/task/image11.jpg" alt="">
-  <img class="rhalf" src="/images/projects/cs-6750-personal-informatics/task/image02.jpg" alt="">
+<figure class="l-middle">
+  <div class="figure-grid">
+    <img class="figure-grid-left" src="/images/projects/cs-6750-personal-informatics/task/image11.jpg" alt="">
+    <img class="figure-grid-right" src="/images/projects/cs-6750-personal-informatics/task/image02.jpg" alt="">
+  </div>
 </figure>
-
-&nbsp;
 
 ### Survey
 We ran a survey to gather initial user data to provided insight into what features are important to the users for technology that could enable data-discussions. Three questions from the nineteen asked in the survey and selected responses are provided below.
@@ -106,8 +106,8 @@ We ran a survey to gather initial user data to provided insight into what featur
 ## Affinity Diagramming
 After we gathered initial user research data, we made a paper affinity diagram (left) to construct themes and related concepts from a bottom-up approach. We later focused our findings into high-level categories via a digital revised version (right).
 
-<figure>
-  <img class="full" src="/images/projects/cs-6750-personal-informatics/affinity.png" alt="">
+<figure class="l-middle">
+  <img src="/images/projects/cs-6750-personal-informatics/affinity.png" alt="">
   <figcaption>Our physical (left) and digital (right) affinity diagrams.</figcaption>
 </figure>
 
@@ -116,8 +116,8 @@ After we gathered initial user research data, we made a paper affinity diagram (
 ## Diverging 
 Our team then set out to create many different ideas for a technology or device that could meet our discovered user needs.
 
-<figure>
-  <img class="full" src="/images/projects/cs-6750-personal-informatics/20ideas.png" alt="">
+<figure class="l-middle">
+  <img src="/images/projects/cs-6750-personal-informatics/20ideas.png" alt="">
   <figcaption>A bunch of ideas for exploring what the future of personal data looks like in the doctor’s office!</figcaption>
 </figure>
 
@@ -126,13 +126,13 @@ Our team then set out to create many different ideas for a technology or device 
 ## Low Fidelity Prototypes
 From these ideas, we chose a subset of three ideas that we thought best captured user needs and could be further refined into a new capable technology.
 
-<figure>
-  <img class="full" src="/images/projects/cs-6750-personal-informatics/3ideas-1.jpg" alt="">
-  <img class="lhalf" src="/images/projects/cs-6750-personal-informatics/3ideas-3.jpg" alt="">
-  <img class="rhalf" src="/images/projects/cs-6750-personal-informatics/3ideas-2.jpg" alt="">
+<figure class="l-middle">
+  <div class="figure-grid">
+    <img style="grid-column: 1/3; margin-bottom: 0.5rem" src="/images/projects/cs-6750-personal-informatics/3ideas-1.jpg" alt="">
+    <img class="figure-grid-left" src="/images/projects/cs-6750-personal-informatics/3ideas-3.jpg" alt="">
+    <img class="figure-grid-right" src="/images/projects/cs-6750-personal-informatics/3ideas-2.jpg" alt="">
+  </div>
 </figure>
-
-&nbsp;
 
 
 
@@ -154,25 +154,25 @@ With these three ideas, we storyboarded each for a poster presentation. The idea
 
 Our fellow classmates and professor gave insightful feedback, and it became clear which ideas were starting to stick. More importantly, our team recognized the importance of the time a student spends in a consultation.
 
-<figure>
-  <img class="full" src="/images/projects/cs-6750-personal-informatics/poster1.jpg" alt="">
-  <img class="lhalf" src="/images/projects/cs-6750-personal-informatics/poster3.jpg" alt="">
-  <img class="rhalf" src="/images/projects/cs-6750-personal-informatics/poster2.jpg" alt="">
+<figure class="l-middle">
+  <div class="figure-grid">
+    <img style="grid-column: 1/3; margin-bottom: 0.5rem" src="/images/projects/cs-6750-personal-informatics/poster1.jpg" alt="">
+    <img class="figure-grid-left" src="/images/projects/cs-6750-personal-informatics/poster3.jpg" alt="">
+    <img class="figure-grid-right" src="/images/projects/cs-6750-personal-informatics/poster2.jpg" alt="">
+  </div>
   <figcaption>Hayley and Marissa presenting our storyboards.</figcaption>
 </figure>
-
-<!-- &nbsp; -->
 
 ## Revisiting Ideation One More Time
 With our new feedback in mind, we looked at our initial matrix of ideas one more time to see if we could combine multiple ideas into our final prototype that could incorporate novel interactions which serve to better facilitate data sharing during primary care appointments.
 
-<figure>
-  <img class="lhalf" src="/images/projects/cs-6750-personal-informatics/finalidea1.png" alt="">
-  <img class="rhalf" src="/images/projects/cs-6750-personal-informatics/finalidea2.png" alt="">
+<figure class="l-middle">
+  <div class="figure-grid">
+    <img class="figure-grid-left" src="/images/projects/cs-6750-personal-informatics/finalidea1.png" alt="">
+    <img class="figure-grid-right" src="/images/projects/cs-6750-personal-informatics/finalidea2.png" alt="">
+  </div>
   <figcaption>The two selected ideas used to create the final prototype.</figcaption>
 </figure>
-
-<!-- &nbsp; -->
 
 We began to envision a device present in consultation rooms where a patient could display their personal tracking data and review it with their doctor. We identified two design characteristics:
 
@@ -191,24 +191,27 @@ We sketched out a device that features a large, high-resolution touch screen dis
 * **Tabletop position**: flattened to simulate a tabletop experience, optimal for visual analytics, collaboration, and discussion. 
 
 <figure>
-  <img class="full" src="/images/projects/cs-6750-personal-informatics/prototype.jpg" alt="">
-  <img class="full" src="/images/projects/cs-6750-personal-informatics/paper-proto.png" alt="">
+  <img src="/images/projects/cs-6750-personal-informatics/prototype.jpg" alt="">
+</figure>
+
+<figure>
+  <img src="/images/projects/cs-6750-personal-informatics/paper-proto.png" alt="">
 </figure>
 
 ## Introducing the Health Easel
 Titled the **Health Easel**, our new in-consultation health visualization prototype system allows a patient to bring personal tracking data to their appointment and visualize relevant variables represented by simple charts on the display where both the patient and doctor can review in real-time to make informed health decisions.
 
-The Health Easel prototype allows users, both patients and doctors, to conduct [Wizard of Oz][wizardofoz experiments] using magnets that hold paper visualizations from the front and back to accurately mimic window movement on a transparent touch display.
+The Health Easel prototype allows users, both patients and doctors, to conduct [Wizard of Oz][wizardofoz] using magnets that hold paper visualizations from the front and back to accurately mimic window movement on a transparent touch display.
 
-<figure>
-  <img class="lhalf" src="/images/projects/cs-6750-personal-informatics/inclined.jpg" alt="">
-  <img class="rhalf" src="/images/projects/cs-6750-personal-informatics/inclined-use.jpg" alt="">
-  <img class="lhalf" src="/images/projects/cs-6750-personal-informatics/table.jpg" alt="">
-  <img class="rhalf" src="/images/projects/cs-6750-personal-informatics/table-use.jpg" alt="">
+<figure class="l-middle">
+  <div class="figure-grid">
+    <img class="figure-grid-left" style="margin-bottom: 0.5rem" src="/images/projects/cs-6750-personal-informatics/inclined.jpg" alt="">
+    <img class="figure-grid-right" style="margin-bottom: 0.5rem" src="/images/projects/cs-6750-personal-informatics/inclined-use.jpg" alt="">
+    <img class="figure-grid-left" src="/images/projects/cs-6750-personal-informatics/table.jpg" alt="">
+    <img class="figure-grid-right" src="/images/projects/cs-6750-personal-informatics/table-use.jpg" alt="">
+  </div>
   <figcaption>The Health Easel being used in the standing position (left) and inclined position (right).</figcaption>
 </figure>
-
-<!-- &nbsp; -->
 
 We conducted interviews with both students and medical professionals to gauge their interest in such a device and how it might be used.
 
@@ -245,10 +248,12 @@ A post-experiment questionnaire was given. Selected responses are below:
 ## Poster Presentation and Final Comments
 Ar the end of the semester, our class held a public poster session where our team presented the Health Easel.
 
-<figure>
-  <img class="full" src="/images/projects/cs-6750-personal-informatics/poster.png" alt="">
-  <img class="lhalf" src="/images/projects/cs-6750-personal-informatics/presentation-1.JPG" alt="">
-  <img class="rhalf" src="/images/projects/cs-6750-personal-informatics/presentation-2.JPG" alt="">
+<figure class="l-page">
+  <div class="figure-grid">
+    <img style="grid-column: 1/3; margin-bottom: 0.5rem" src="/images/projects/cs-6750-personal-informatics/poster.png" alt="">
+    <img class="figure-grid-left" src="/images/projects/cs-6750-personal-informatics/presentation-1.JPG" alt="">
+    <img class="figure-grid-right" src="/images/projects/cs-6750-personal-informatics/presentation-2.JPG" alt="">
+  </div>
   <figcaption>Unfortunately I was traveling during the poster presentation, so I wasn't able to present!</figcaption>
 </figure>
 

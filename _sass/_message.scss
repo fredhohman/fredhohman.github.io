@@ -1,18 +1,7 @@
-// Messages
-//
-// Show alert messages to users. You may add it to single elements like a `<p>`,
-// or to a parent if there are multiple elements to show.
-
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
-  color: #717171;
+  color: $gray;
   border: 1px solid;
-  border-color: #dddddd;
-
-  // transition: all 0.3s cubic-bezier(.25,.8,.25,1);
-}
-
-.message:hover {
-  // box-shadow: 0 7px 14px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);
+  border-color: $border-color;
 }

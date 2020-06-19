@@ -1,0 +1,18 @@
+<div class="cv-left-date">{{ mentee.year }} {{ mentee.year-extra }}</div>
+<div><a href="{{ mentee.url }}"><b>{{ mentee.name }}</b></a></div>
+<div><i>{{ mentee.degree }}</i></div>
+<div class="cv-description">{{ mentee.description }}</div>
+
+{% if mentee.awards %}
+	<div>
+		{% for award in mentee.awards %}
+			<div class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> {{ award }}</div>
+		{% endfor %}
+	</div>
+{% endif %}
+
+{% if mentee.now-position %}
+	<div class="cv-description">Now: {{ mentee.now-position }} at <a href="{{ mentee.now-institution-url }}">{{ mentee.now-institution }}</a></div>
+{% endif %}
+
+<div class="cv-spacer"></div>

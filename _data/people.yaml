@@ -1,198 +1,259 @@
 Fred Hohman:
   url: https://fredhohman.com
+  picture: fred-hohman.jpg
   me: true
 
 Duen Horng (Polo) Chau:
   url: https://www.cc.gatech.edu/~dchau
+  picture: polo-chau.jpg
 
 Alex Endert:
   url: http://va.gatech.edu/endert
+  picture: alex-endert.jpg
 
 Nathan Hodas:
   url: https://signatures.pnnl.gov/bios/nathan-hodas
+  picture: nathan-hodas.jpg
 
 David Gay:
   url: https://euclidlab.org/david-gay
 
 Shanon Reckinger:
   url: http://www.shanonreckinger.com
+  picture: shanon-reckinger.jpg
 
 Minsuk Kahng:
   url: https://minsuk.com
+  picture: minsuk-kahng.jpg
 
 Robert Pienta:
   url: http://spicy.bike
+  picture: robert-pienta.jpg
 
 Surya Kalidindi:
   url: http://www.me.gatech.edu/faculty/kalidindi
 
 Scott Davidoff:
   url: http://scottdavidoff.com/research
+  picture: scott-davidoff.jpg
 
 Arun Viswanathan:
   url: https://www.linkedin.com/in/arunaviswanathan
 
 James Abello:
   url: https://www.cs.rutgers.edu/faculty/james-abello-monedero
+  picture: james-abello.jpg
 
 Thomas Gibson:
   url: http://www.imperial.ac.uk/people/t.gibson15
+  picture: thomas-gibson.jpg
 
 Theresa Morrison:
   url: https://scripps.ucsd.edu/profiles/t4morris
+  picture: theresa-morrison.jpg
 
 Scott Reckinger:
   url: https://mie.uic.edu/k-Teacher/scott-reckinger-phd/
+  picture: scott-reckinger.jpg
 
 Acar Tamersoy:
   url: https://acartamersoy.github.io/
+  picture: acar-tamersoy.jpg
 
 Shamkant Navathe:
   url: https://en.wikipedia.org/wiki/Shamkant_Navathe
+  picture: shamkant-navathe.jpg
 
 Hanghang Tong:
   url: http://tonghanghang.org
+  picture: hanghang-tong.jpg
 
 Nilaksh Das:
   url: http://nilakshdas.com
+  picture: nilaksh-das.jpg
 
 Madhuri Shanbhogue:
   url: https://www.linkedin.com/in/madhuri-shanbhogue
+  picture: madhuri-shanbhogue.jpg
 
 Shang-Tse Chen:
   url: https://www.cc.gatech.edu/~schen351
+  picture: shang-tse-chen.png
 
 Li Chen:
   url: https://www.linkedin.com/in/li-chen-phd-b2a10289
+  picture: li-chen.jpg
 
 Michael E. Kounavis:
   url: https://www.researchgate.net/profile/Michael_Kounavis
+  picture: michael-e-kounavis.jpg
 
 Dezhi Fang:
   url: https://cv.andyfang.me
+  picture: dezhi-fang.jpg
 
 Peter Polack:
   url: https://petepolack.com
+  picture: peter-polack.jpg
 
 Hillol Sarker:
   url: https://www.linkedin.com/in/hillolsarker
+  picture: hillol-sarker.jpg
 
 Moushumi Sharmin:
   url: https://facultyweb.cs.wwu.edu/~sharmim
+  picture: moushumi-sharmin.jpg
 
 Mustafa al'Absi:
   url: http://d.umn.edu/~bml/people/alabsi.html
+  picture: mustafa-alAbsi.jpg
 
 Kevin Roundy:
   url: http://pages.cs.wisc.edu/~roundy
+  picture: kevin-roundy.jpg
 
 Chris Gates:
   url: https://www.linkedin.com/in/csgates
+  picture: chris-gates.jpg
 
 Sandeep Soni:
   url: http://sandeepsoni.github.io
+  picture: sandeep-soni.jpg
 
 Ian Stewart:
   url: http://ianbstewart.github.io
+  picture: ian-stewart.jpg
 
 John Stasko:
   url: https://www.cc.gatech.edu/~stasko
+  picture: john-stasko.jpg
 
 Caleb Robinson:
   url: http://calebrob.com
+  picture: caleb-robinson.jpg
 
 Bistra Dilkina:
   url: http://www.cc.gatech.edu/~bdilkina
+  picture: bistra-dilkina.jpg
 
 Siwei Li:
   url: https://rsli.github.io
+  picture: siwei-li.jpg
 
 Steven Drucker:
   url: https://www.microsoft.com/en-us/research/people/sdrucker
+  picture: steven-drucker.jpg
 
 Angel Cabrera:
   url: http://cabreraalex.com
+  picture: angel-cabrera.jpg
 
 Jason Lin:
   url: http://jlin.xyz/
+  picture: jason-lin.jpg
 
 Prasenjeet Biswal:
   url: https://www.linkedin.com/in/prasenjeetbiswal
+  picture: prasenjeet-biswal.jpg
 
 Varun Bezzam:
   url: https://www.linkedin.com/in/varun-bezzam
+  picture: varun-bezzam.jpg
 
 Matthew Conlen:
   url: https://mathisonian.com
+  picture: matthew-conlen.jpg
 
 Alok Tripathy:
   url: http://www.aloktripathy.me
+  picture: alok-tripathy.jpg
 
 Oded Green:
   url: https://www.linkedin.com/in/oded-green-2a179a19
+  picture: oded-green.jpg
 
 Andrew Head:
   url: https://people.eecs.berkeley.edu/~andrewhead
+  picture: andrew-head.jpg
 
 Rich Caruana:
   url: https://www.microsoft.com/en-us/research/people/rcaruana
+  picture: rich-caruana.jpg
 
 Robert DeLine:
   url: https://www.microsoft.com/en-us/research/people/rdeline
+  picture: robert-deLine.jpg
 
 Titus Barik:
   url: http://www.barik.net
+  picture: titus-barik.jpg
   
-Sara Stalla: 
+Sara Stalla:
   url: http://sarastalla.com
 
 Haekyu Park:
   url: https://haekyu.com
+  picture: haekyu-park.jpg
 
 Jamie Morgenstern:
   url: http://jamiemorgenstern.com
+  picture: jamie-morgenstern.jpg
 
 Will Epperson:
   url: http://www.willepperson.com
+  picture: will-epperson.jpg
 
 Kanit Wongsuphasawat:
   url: https://kanitw.github.io/
+  picture: kanit-wongsuphasawat.jpg
 
 Kayur Patel:
   url: http://www.kayur.org/
+  picture: kayur-patel.jpg
 
 Andrew Sass:
   url: https://www.andrewsass.com/
 
 Arjun Srinivasan:
   url: https://arjun010.github.io/
+  picture: arjun-srinivasan.jpg
 
 Xiangyun Lei:
   url: https://www.linkedin.com/in/xiangyun-lei-1808513a/
+  picture: xiangyun-lei.jpg
 
 Andrew Medford:
   url: https://www.medford.chbe.gatech.edu/
+  picture: andrew-medford.jpg
 
 Chao Zhang:
   url: http://chaozhang.org/
+  picture: chao-zhang.jpg
 
 Zijie J. Wang:
   url: https://zijie.wang/
+  picture: zijie-j-wang.jpg
 
 Robert Turko:
   url: https://www.linkedin.com/in/robert-turko/
+  picture: robert-turko.jpg
 
 Omar Shaikh:
   url: http://oshaikh.com/
+  picture: omar-shaikh.jpg
   
 Robert Firstman:
   url: https://www.robfirstman.com/
+  picture: robert-firstman.jpg
 
 Emily Rogers:
   url: https://www.linkedin.com/in/emily-rogers-1a828598/
+  picture: emily-rogers.jpg
 
 Mary Beth Kery:
   url: https://marybethkery.com/
+  picture: mary-beth-kery.jpg
 
 Donghao Ren:
   url: https://donghaoren.org/
+  picture: donghao-ren.jpg

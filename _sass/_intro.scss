@@ -1,105 +1,148 @@
-.icon {
-	// margin-right: 15px;
-	color: #515151;
-	font-size: 1.25em
+$cv-icon-aspect-ratio: 1.33;
+
+#intro-wrapper > div, .intro-text {
+	font-size: 1.2em;
 }
 
-.intro {
+#intro-wrapper {
+	display: grid;
+	grid-template-columns: repeat(8, 1fr);
+	grid-column-gap: 2rem;
+	grid-auto-rows: minmax(3rem, auto);
+	grid-row-gap: 1rem;
+	margin-top: 3rem;
+}
+
+.intro-left {
+	grid-column: 1 / 6;
+}
+
+.intro-right {
+	grid-column: 6 / 9;
+}
+
+#intro-image {
+	grid-row: 2;
+}
+
+#intro-title-wrapper {
 	display: flex;
-	margin-left: 5rem;
-	margin-right: 5rem;
-	flex-flow: row wrap;
+	flex-direction: column;
+	justify-content: center;
+	grid-column: 1 / 9;
+	margin-bottom: 1.5rem;
 }
 
-.intro-title {
-	margin-left: 5rem;
-	font-weight: 500 !important;
-	font-size: 2.15em;
-	padding-bottom: 5px;
+#intro-title {
+	color: $near-black;
+	font-weight: 600;
+	margin-bottom: 0rem;
+	margin-top: 0rem;
+	font-size: 3.75rem;
 }
 
-.intro-text {
-	flex: 1;
-	padding-right: 38px;
+#intro-subtitle {
+	font-size: 1.57rem;
+	color: $silver;
 }
 
-.intro-image {
-	flex: 0 0 220px;
-	margin: 0 auto;
+#intro-subtitle-link {
+	color: $blue;
 }
 
-.intro-image-links-color {
-	color: #515151;
+#intro-image-links {
+	grid-row: 3;
+	background-color: $near-white;
+	border-left: 2px solid $moon-gray;
+	padding: 1rem;
+	font-size: 1rem !important;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 
-.intro-image-links{
-	// padding-left: 8px;
-	// padding-right: 8px;
-	padding-top: 10px;
-	padding-bottom: 20px;
-	font-size: 14px;
+#intro-cv-wrapper {
+	grid-row: 4;
+	background-color: $intro-blue;
+	border-left: 2px solid $light-blue;
+	padding: 1rem;
+	font-size: 1rem !important;
 }
 
-.intro-cv-wrapper {
-	text-align: center;
-	font-size: 14px;
-}
-
-.intro-cv {
-	border: 1px rgba(0,0,0,0.12) solid;
-	padding: 10px;
-	text-align: center;
-	border-radius: 5px;
-    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
-}
-
-.intro-cv:hover {
-    box-shadow: 0 7px 14px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);
+#intro-cv > a {
+	color: $text-color;
 }
 
 .intro-logo {
-	display:inline;
+	display: inline;
 	width: 21px;
 	vertical-align: middle;
 }
 
-.everything-else, .feature-title {
-	margin-left: 5rem;
-	margin-right: 5rem;
-	max-width: 45rem;
+.feature-title {
+	margin-top: 2rem;
+	margin-bottom: 0.5rem;
+	font-size: 2rem;
+	font-weight: 400;
 }
 
-.feature-title{
-	margin-bottom: 1rem;
-	margin-left: 0.5rem;
+.feature-title > a {
+	font-weight: 600;
 }
 
-@media screen and (max-width: $on-laptop) {
-	.intro {
-		margin-left: 1rem;
-		margin-right: 1rem;
+#everything-else {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+}
+
+#everything-else > a {
+	border: 1px solid $border-color;
+	padding: 1rem 0.75rem;
+	margin: 0.25rem;
+	text-align: center;
+	grid-column: 1fr;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#everything-else > a:hover {
+	border: 1px solid $dark-gray;
+	text-decoration: none;
+}
+
+
+@media screen and (max-width: $homepage-pre-mobile) {
+	#intro-wrapper, .feature-title, .intro-text, .home-hr {
+		grid-column: page !important;
 	}
-	.intro-title {
-		margin-left: 1rem
+	.cover-wrapper {
+		max-width: 800px; // limit feature covers to two per row on small window size
 	}
-	.everything-else, .feature-title {
-		margin-left: 1rem;
-		margin-right: 1rem;
+	#everything-else {
+		grid-column: page !important;
 	}
 }
 
-@media screen and (max-width: $on-phone) {
-	.intro-title {
-		margin-bottom: 25px;
+@media screen and (max-width: $mobile) {
+	.intro-left, .intro-right {
+        grid-column: 1/9;
 	}
-	.intro-text {
-		order: 2;
-		flex: 0 0 100%;
-		padding-right: 0;
+	
+	#intro-title-wrapper { grid-row: 1 / 2; }
+	#intro-image { grid-row: 2 / 3; }
+	#intro-image-links { grid-row: 3 / 4; }
+	#intro-right-cv { grid-row: 4 / 5; }
+
+	#intro-image, #intro-image-links, #intro-right-cv {
+		grid-column: 1 / 6;
 	}
-	.intro-image {
-		order: 1;
-		padding-bottom: 20px;
+
+	#intro-subtitle {
+		line-height: 1.5;
+	}
+
+	#everything-else {
+		grid-template-columns: repeat(1, 1fr);
 	}
 }
-

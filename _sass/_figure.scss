@@ -2,8 +2,8 @@
 
 figure { 
     display: block;
-    margin-top: 2em;
-    margin-bottom: 2em;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     margin-left: 0;
     margin-right: 0;
 }
@@ -11,104 +11,54 @@ figure {
 figure figcaption { 
     display: block;
     text-align: center;
-    color: #B0B6BB;
-    font-size: 16px;
+    color: $gray;
+    font-size: 1rem;
+    margin-top: 0.5rem;
 }
 
-figure figcaption.classic {
-    width: 100%;
-    max-width: 35em;
-    margin-left: auto;
-    margin-right: auto;
+.figure-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 0.5rem;
 }
 
-figure figcaption.single {
-    width: 100%;
-    max-width: 40em;
-    margin-left: auto;
-    margin-right: auto;
+.figure-grid-left {
+    grid-column: 1 / 2;
 }
 
-figure img {
-    float: left;
-    margin-bottom: 0.5em;
+.figure-grid-right {
+    grid-column: 2 / 3;
 }
 
-// Full size image
-figure img.full {
-    margin-left: auto;
-    margin-right: auto;
-    float: none;
-}
 
-//Single image
-figure img.single {
-    float: none;
-    width: 100%;
-    max-width: 40em;
-    margin-left: auto;
-    margin-right: auto;
-}
+// // Three images side by side by side
+// figure img.lthird {
+//     max-width: 32.5%;
+//     margin-right: 0.625%;
+// }
 
-//Classic
-figure img.classic {
-    float: none;
-    width: 100%;
-    max-width: 35em;
-    margin-left: auto;
-    margin-right: auto;
-}
+// figure img.mthird {
+//     max-width: 32.5%;
+//     margin-left: 0.625%;
+//     margin-right: 0.625%;
+// }
 
-figure img.iphone {
-    float: none;
-    max-width: 18em;
-    margin-left: auto;
-    margin-right: auto;
-}
+// figure img.rthird {
+//     max-width: 32.5%;
+//     margin-left: 0.625%;
+// }
 
-// Two images side by side
-figure img.lhalf {
-    max-width: 49.5%;
-    margin-right: 0.5%;
-}
+// //Videos side by side
+// figure video.lhalf {
+//     margin-bottom: 0.5em;
+//     float: left;
+//     max-width: 49.5%;
+//     margin-right: 0.5%;
+// }
 
-figure img.rhalf {
-    max-width: 49.5%;
-    margin-left: 0.5%;
-}
-
-// Three images side by side by side
-figure img.lthird {
-    max-width: 32.5%;
-    margin-right: 0.625%;
-}
-
-figure img.mthird {
-    max-width: 32.5%;
-    margin-left: 0.625%;
-    margin-right: 0.625%;
-}
-
-figure img.rthird {
-    max-width: 32.5%;
-    margin-left: 0.625%;
-}
-
-//Videos side by side
-figure video.lhalf {
-    margin-bottom: 0.5em;
-    float: left;
-    max-width: 49.5%;
-    margin-right: 0.5%;
-}
-
-figure video.rhalf {
-    margin-bottom: 0.5em;
-    float: left;
-    max-width: 49.5%;
-    margin-left: 0.5%;
-}
-
-table figure {
-    max-width: 100px;
-}
+// figure video.rhalf {
+//     margin-bottom: 0.5em;
+//     float: left;
+//     max-width: 49.5%;
+//     margin-left: 0.5%;
+// }

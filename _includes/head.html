@@ -1,7 +1,6 @@
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <link href="http://gmpg.org/xfn/11" rel="profile">
-  <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Gaegu:300,700" rel="stylesheet">
 
   <!-- Enable responsiveness on mobile devices -->
@@ -16,17 +15,17 @@
   <meta property="og:description" content="Fred Hohman is a Ph.D. candidate in the College of Computing at Georgia Tech researching the intersection of data visualization and machine learning." />
   <meta property="og:image" content="http://fredhohman.com/images/share.png" />
 
-
   <title>
     {% if page.title == "Home" %}
       {{ site.title }}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+      {{ page.title }} — {{ site.title }}
     {% endif %}
   </title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
+  <!-- <link rel="stylesheet" href="styles.css"> -->
   <link href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" rel="stylesheet">
 
   <!-- Icons -->
@@ -40,8 +39,8 @@
   <meta name="msapplication-config" content="/icons/browserconfig.xml?v=xQdLjRyXLj">
   <meta name="theme-color" content="#ffffff">
 
-  <!-- RSS -->
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+  <!-- Feed -->
+  {% feed_meta %}
 
   <!-- Google Analytics -->
   <script>
