@@ -116,6 +116,12 @@ $cv-icon-aspect-ratio: 1.33;
 	#intro-wrapper, .feature-title, .intro-text, .home-hr {
 		grid-column: page !important;
 	}
+	.cover-wrapper {
+		max-width: 800px; // limit feature covers to two per row on small window size
+	}
+	#everything-else {
+		grid-column: page !important;
+	}
 }
 
 @media screen and (max-width: $mobile) {
