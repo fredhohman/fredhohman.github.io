@@ -1,0 +1,10 @@
+@media print {
+
+  i {
+    // remove BlinkMacSystemFont because of Chrome bug when printing
+    // https://bugs.chromium.org/p/chromium/issues/detail?id=1091628
+    // https://bugs.chromium.org/p/chromium/issues/detail?id=1018581&q=BlinkMacSystemFont&colspec=ID%20Pri%20M%20Stars%20ReleaseBlock%20Component%20Status%20Owner%20Summary%20OS%20Modified
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+
+}
