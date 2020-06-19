@@ -84,7 +84,7 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% assign selectedBoolForBibtex = true %}
 {% for pub in site.categories.papers %}
 {% if pub.selected %}
-{% include publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endif %}
 {% endfor %}
 
@@ -92,7 +92,7 @@ My research is supported by a NASA Space Technology Research Fellowship.
 
 {% assign selectedBoolForBibtex = false %}
 {% for pub in site.categories.papers %}
-{% include publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
 ## Talks

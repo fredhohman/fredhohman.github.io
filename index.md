@@ -63,7 +63,7 @@ title: Home
 			{% include feature.html feature=feature %}
 		{% endif %}
 	{% endfor %}
-</div>	
+</div>
 
 <h2 class="feature-title l-middle">
 	Featured <a href="/cv#interactive-articles">Interactive Articles</a>
