@@ -1,15 +1,15 @@
-- venue: ACM User Interface Software and Technology Symposium
-  venue-shorthand: UIST
-  years:
+- venue: IEEE Visualization
+  venue-shorthand: VIS
+  years: 
     - year: 2020
-      url: https://uist.acm.org/uist2020/
-
-- venue: Distill Research Journal
-  venue-shorthand: Distill
-  years:
+      url: http://ieeevis.org/year/2020/welcome
     - year: 2019
-      url: https://distill.pub
-
+      url: http://ieeevis.org/year/2019/welcome
+    - year: 2018
+      url: http://ieeevis.org/year/2018/welcome
+    - year: 2017
+      url: http://ieeevis.org/year/2017/welcome
+      
 - venue: ACM Conference on Human Factors in Computing Systems
   venue-shorthand: CHI
   years:
@@ -22,15 +22,17 @@
     - year: 2017
       url: https://chi2017.acm.org
 
-- venue: IEEE Visual Analytics Science and Technology
-  venue-shorthand: VAST
-  years: 
+- venue: ACM User Interface Software and Technology Symposium
+  venue-shorthand: UIST
+  years:
+    - year: 2020
+      url: https://uist.acm.org/uist2020/
+
+- venue: Distill Research Journal
+  venue-shorthand: Distill
+  years:
     - year: 2019
-      url: http://ieeevis.org/year/2019/welcome
-    - year: 2018
-      url: http://ieeevis.org/year/2018/welcome
-    - year: 2017
-      url: http://ieeevis.org/year/2017/welcome
+      url: https://distill.pub
       
 - venue: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
   venue-shorthand: KDD
