@@ -1,3 +1,6 @@
+start with  `bundle exec jekyll serve`
+
+
 # Hello, I'm Frederick.
 *But you can call me Fred. Nice to meet you.*
 
