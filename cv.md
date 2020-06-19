@@ -6,30 +6,29 @@ jsarr:
 - js/scripts.js
 ---
 
-<h1><a style="color: #313131; font-weight: 500; font-size: 1.25em" href="https://fredhohman.com">Fred Hohman</a></h1>
+<h1 id="cv-title"><a href="{{ site.url }}">Fred Hohman</a></h1>
 
-<span class="cv-subtitle">
-*<span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher*
-</span>
+<p id="cv-subtitle"><i><span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher</i></p>
 
-<!-- <span class="cv-max-width">
-I’m a Ph.D. candidate in the [College of Computing][coc] at [Georgia Tech][gt] advised by [Polo Chau][polo] and [Alex Endert][alex].
-</span> -->
+<div>
+I research how to enable <b><span class="cv-ai">machine learning interpretability</span></b> at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create <b><span class="cv-vis">data visualizations</span></b> and write interactive articles to simply communicate complex ideas.
+</div>
 
-<span class="cv-max-width">
-I research how to enable **<span class="cv-ai">machine learning interpretability</span>** at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create **<span class="cv-vis">data visualizations</span>** and write interactive articles to simply communicate complex ideas.
-</span>
+<div class="cv-spacer"></div>
 
-<span class="cv-max-width">
+<div>
 I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
-</span>
+</div>
 
-<span class="cv-max-width">
-My research is supported by a [NASA Space Technology Research Fellowship][nstrf].
-</span>
+<div class="cv-spacer"></div>
 
+<div>
+My research is supported by a NASA Space Technology Research Fellowship.
+</div>
 
-<div class="cv-image-links-wrapper" style="font-size: 16px; padding-bottom: 0;">
+<div class="cv-spacer"></div>
+
+<div class="cv-image-links-wrapper">
 	<div class="cv-image-links">
 		{% for link in site.data.social-links %}
 			{% if link.cv-group == 1 %}
@@ -46,153 +45,138 @@ My research is supported by a [NASA Space Technology Research Fellowship][nstrf]
 	</div>
 </div>
 
-
 ***
-
 
 ## Education
 
+{::nomarkdown}
 {% for degree in site.data.education %}
-{% include degree.html degree=degree %}
+{% include cv/degree.html degree=degree %}
 {% endfor %}
-
+{:/}
 
 ## Industry Research Experience
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'industry' %}
-{% include experience.html experience=experience %}
+{% include cv/experience.html experience=experience %}
 {% endif %}
 {% endfor %}
-
 
 ## Academic Research Experience
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'academic' %}
-{% include experience.html experience=experience %}
+{% include cv/experience.html experience=experience %}
 {% endif %}
 {% endfor %}
-
 
 ## Honors and Awards
 
 {% for award in site.data.awards %}
-{% include award.html award=award %}
+{% include cv/award.html award=award %}
 {% endfor %}
-
-
-<!-- <div style="height:100px"></div> -->
-
 
 ## Publications
 
 ### Selected: Latest & Greatest
 
 {% assign selectedBoolForBibtex = true %}
-{% for pub in site.data.publications %}
+{% for pub in site.categories.papers %}
 {% if pub.selected %}
-{% include publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endif %}
 {% endfor %}
 
 ### All Publications
 
 {% assign selectedBoolForBibtex = false %}
-{% for pub in site.data.publications %}
-{% include publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% for pub in site.categories.papers %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
-
 
 ## Talks
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
-{% include talk.html talk=title %}
+{% include cv/talk.html talk=title %}
 {% endfor %}
-
 
 ## Press
 
 {% for press in site.data.press %}
-{% include press.html press=press %}
+{% include cv/press.html press=press %}
 {% endfor %}
-
 
 ## Teaching
 
 {% for teach in site.data.teaching %}
-{% include teaching.html teach=teach %}
+{% include cv/teaching.html teach=teach %}
 {% endfor %}
-
 
 ## Mentoring
 
+{::nomarkdown}
 {% for mentee in site.data.mentoring %}
-{% include mentee.html mentee=mentee %}
+{% include cv/mentee.html mentee=mentee %}
 {% endfor %}
-
+{:/}
 
 ## Grants and Funding
 
 {% for fund in site.data.funding %}
-{% include fund.html fund=fund %}
+{% include cv/fund.html fund=fund %}
 {% endfor %}
-
 
 ## Interactive Articles
 
 {% for article in site.data.articles %}
-{% include article.html article=article %}
+{% include cv/article.html article=article %}
 {% endfor %}
-
 
 <!-- ## Technology Skills
 
 {% for skill in site.data.skills %}
-{% include skill.html skill=skill %}
+{% include cv/skill.html skill=skill %}
 {% endfor %} -->
-
 
 ## Service
 
-<p style="margin-bottom: 0rem"><strong>Organizer</strong></p>
+<div class="cv-service-title"><b>Organizer</b></div>
 {% for venue in site.data.organizer %}
-{% include venue.html venue=venue %}
+{% include cv/venue.html venue=venue %}
 {% endfor %}
 
-<p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Program Commitee</strong></p>
+<div class="cv-service-title"><b>Program Commitee</b></div>
 {% for venue in site.data.pc %}
-{% include venue.html venue=venue %}
+{% include cv/venue.html venue=venue %}
 {% endfor %}
 
-<p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Reviewer</strong></p>
+<div class="cv-service-title"><b>Reviewer</b></div>
 {% for venue in site.data.reviewer %}
-{% include venue.html venue=venue %}
+{% include cv/venue.html venue=venue %}
 {% endfor %}
 
-<p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Institutional</strong></p>
+<div class="cv-service-title"><b>Institutional</b></div>
 {% for institution in site.data.institutional %}
-{% include institutional.html institution=institution %}
+{% include cv/institutional.html institution=institution %}
 {% endfor %}
 
-<p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Member</strong></p>
+<div class="cv-service-title"><b>Member</b></div>
 {% for member in site.data.memberships %}
-{% include member.html member=member %}
+{% include cv/member.html member=member %}
 {% endfor %}
-
 
 ## Design
 
 {% for design in site.data.designs %}
-{% include design.html design=design %}
+{% include cv/design.html design=design %}
 {% endfor %}
-
 
 ## References
 
 {% for reference in site.data.references %}
-{% include reference.html reference=reference %}
+{% include cv/reference.html reference=reference %}
 {% endfor %}
 
 <!-- 

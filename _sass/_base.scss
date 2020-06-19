@@ -1,99 +1,48 @@
-// Body resets
-//
-// Update the foundational and global aspects of the page.
-
 * {
+          box-sizing: border-box;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
-          box-sizing: border-box;
-          -webkit-font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
 }
 
-html,
-body {
+html, body {
   margin: 0;
   padding: 0;
 }
 
 html {
-  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
   line-height: 1.5;
+}
 
-  @media (max-width: 41em) {
-    font-size: 16px;
+@media screen and (max-width: $mobile) {
+  html {
+    font-size: 14px;
   }
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  color: $text-color;
+  background-color: $bg-color;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
-}
-
-// No `:visited` state is required by default (browsers will use `a`)
-a {
-  color: #2196F3;
-  text-decoration: none;
-
-/*  -webkit-transition: 0.15s color ease;
-     -moz-transition: 0.15s color ease;
-      -ms-transition: 0.15s color ease;
-       -o-transition: 0.15s color ease;
-          transition: 0.15s color ease;*/
-
-
-  // `:focus` is linked to `:hover` for basic accessibility
-  &:hover,
-  &:focus {
-    text-decoration: underline;
-  }
-
-  strong {
-    color: inherit;
-  }
-}
-
-a:hover {
-  /*color: #ffffff;*/
-  /*text-decoration: none;*/
 }
 
 img {
   display: block;
   max-width: 100%;
-  /*margin: 0 0 1rem;*/
-  /*border-radius: 5px;*/
-}
-
-table {
-  margin-bottom: 1rem;
   width: 100%;
-  font-size: 85%;
-  border: 1px solid #e5e5e5;
-  border-collapse: collapse;
 }
 
-td,
-th {
-  padding: .75rem .75rem;
-  border: 1px solid #e5e5e5;
-}
-
-th {
-  text-align: left;
-}
-
-//tbody tr:nth-child(odd) td,
-//tbody tr:nth-child(odd) th {
-//  background-color: #f9f9f9;
-//}
-
-.my-cv {
-  border: 1px #eeeeee solid;
-  padding: 15px;
-  background-color: #eeeeee;
-  // margin-left: -10px;
+.fake-image {
+    height: 50px;
+    background-color: $black-05;
+    border: 1px solid $black-30;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }

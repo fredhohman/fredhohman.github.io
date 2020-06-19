@@ -20,8 +20,8 @@
   url: https://www.robfirstman.com/
 
 - name: Will Epperson
-  year: "Spring 2020 —"
-  year-extra: Spring 2019
+  year: "Spr. 2020 —"
+  year-extra: Spr. 2019
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for machine learning fairness"
   awards:
@@ -33,8 +33,8 @@
   url: http://cabreraalex.com/
 
 - name: Siwei Li
-  year: "Spring 2020 —"
-  year-extra: Spring 2019
+  year: "Spr. 2020 —"
+  year-extra: Spr. 2019
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visual graph analytics"
   awards:
@@ -46,8 +46,8 @@
   url: https://rsli.github.io/
 
 - name: Angel Alexander Cabrera
-  year: "Spring 2019 —"
-  year-extra: Spring 2018
+  year: "Spr. 2019 —"
+  year-extra: Spr. 2018
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for machine learning fairness, interactive classification for deep learning"
   awards:
@@ -60,7 +60,7 @@
   url: http://cabreraalex.com/
 
 - name: Dezhi Fang
-  year: "Spring 2018 —"
+  year: "Spr. 2018 —"
   year-extra: Fall 2016
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: Visual motif discovery
@@ -74,7 +74,7 @@
   url: https://cv.andyfang.me/
 
 - name: Prasenjeet Biswal
-  year: "Spring 2018 —"
+  year: "Spr. 2018 —"
   year-extra: Fall 2017
   degree: "M.S. in Computer Science, Georgia Institute of Technology"
   description: Deep learning attribution

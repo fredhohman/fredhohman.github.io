@@ -3,7 +3,6 @@ layout: post
 title: Hello, World
 categories: blog
 permalink: blog/hello-world
-comments: true
 ---
 
 Welcome to the new `fredhohman.com`.
@@ -18,7 +17,7 @@ Welcome to the new `fredhohman.com`.
 I've answered this question more than a dozen of times over my last semester. I'm excited to say that I'm starting my Ph.D. in [**Computational Science and Engineering**][cse] (CSE) in the [**College of Computing**][coc] at [**Georgia Tech**][gt][^fn-football]. 
 
 <figure>
-  <img class="full" src="/images/blog/uga-gt.png" alt="UGA / GT.">
+  <img src="/images/blog/uga-gt.png" alt="UGA / GT.">
   <figcaption>Controversial. I know.</figcaption>
 </figure>
 
@@ -43,13 +42,9 @@ All the content from the old website has been spruced up and is live right now. 
 
 So take a couple minutes and explore. Feel free to let me know what you think by leaving a comment below, shooting me an email, or tweeting [@fredhohman][twitter]. I'm off to start something new.
 
-&nbsp;
-
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">Tomorrow is my first day of graduate school at <a href="https://twitter.com/GeorgiaTech">@GeorgiaTech</a> <a href="https://twitter.com/gtcomputing">@gtcomputing</a> &#10;&#10;The path to Dr. Fred begins at 10AM.</p>&mdash; Fred Hohman (@fredhohman) <a href="https://twitter.com/fredhohman/status/633095051741167616">August 17, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
- &nbsp;
-
- So hello, Internet. See you around.
+So hello, Internet. See you around.
 
 [gt]: http://gatech.edu "Georgia Tech."
 [cse]: http://cse.gatech.edu "GT Computational Science and Engineering."

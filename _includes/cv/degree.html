@@ -1,0 +1,38 @@
+<div class="cv-left-date">{{ degree.years }} {{ degree.years-extra }}</div>
+<b>{{ degree.degree }}</b>
+<div><a href="{{ degree.institution-url }}">{{ degree.institution }}</a>, {{ degree.location }}</div>
+
+{% if degree.advisor %}
+	<div>
+		Advisor: {% include person.html person=degree.advisor %}{% endif %}{% if degree.co-advisor %}, Co-advisor: {% include person.html person=degree.co-advisor %}
+	</div>
+{% endif %}
+
+{% if degree.thesis %}
+	<div>
+		Thesis: <i>{{ degree.thesis }}</i>
+	</div>
+{% endif %}
+
+{% if degree.committee %}
+	<div>
+		Committee:
+		{% for person in degree.committee %}
+			{% if forloop.last == false %}
+				{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}{% endif %}{% endfor %},
+			{% else if forloop.last == true %}
+				{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}{% endif %}{% endfor %}
+			{% endif %}
+		{% endfor %}
+	</div>
+{% endif %}
+	
+{% if degree.description %}
+	<div>
+		{% for item in degree.description %}
+			{{ item }}
+		{% endfor %}
+	</div>
+{% endif %}
+
+<div class="cv-spacer"></div>

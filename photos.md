@@ -47,8 +47,6 @@ You can also find me on [Instagram][insta].
 	<img class="classic" src="/images/photos/apple-sticker.jpg">
 </figure> -->
 
-&nbsp;
-
 [iphone]: http://www.apple.com/iphone-6s/specs/ "iPhone 6S+."
 [d80]: http://www.nikonusa.com/en/Nikon-Products/Product-Archive/dslr-cameras/D80.html "Nikon D80."
 [insta]: https://instagram.com/fredhohman/ "My Instagram Account."

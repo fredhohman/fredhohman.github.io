@@ -1,0 +1,14 @@
+<div class="cv-left-date">{{ experience.year }} {{ experience.year-extra }}</div>
+<div><a href="{{ experience.institution-url }}"><b>{{ experience.institution }}</b></a>, {{ experience.location }}</div>
+<div><i>{{ experience.position }}, <a href="{{ experience.group-url }}">{{ experience.group }}</a></i></div>
+<div>{% if experience.advisor == true%}Advisor: {% else %}Mentor: {% endif %}
+	{% for person in experience.mentors %}
+	{% if forloop.last == false %}
+		{% include person.html person=person %},	
+	{% else if forloop.last == true %}
+		{% include person.html person=person %}
+	{% endif %}
+	{% endfor %}
+</div>
+<div class="cv-description">{{ experience.description }}</div>
+<div class="cv-spacer"></div>

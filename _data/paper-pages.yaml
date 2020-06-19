@@ -318,7 +318,6 @@
     Discovery Dashboard emphasizes user freedom and flexibility during the data exploration process and enables researchers to do things previously challenging or impossible to do --- in the web-browser and in real time.
     We demonstrate our system visualizing data from a mobile sensor study conducted at the University of Minnesota that included 52 participants who were trying to quit smoking.
 
-
 - id: jpeg
   figure: /images/papers/17-defense-arxiv.png
   caption: |

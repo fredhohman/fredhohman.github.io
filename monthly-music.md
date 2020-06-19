@@ -8,27 +8,27 @@ I've been sharing music with friends for as long as I can remember, so I started
 Each playlist features ten tracks and with an accompanying Spotify playlist.
 For fans of indie rock, electronic music, and related genres.
 
-<div style="text-align: center;">
-  {% for post in site.categories.monthly-music %}
-  {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
-  {% if currentyear != year %}
-  {% unless forloop.first %}
-  {% endunless %}
-  <h2 style="text-align: left; max-width: 35rem; margin-left: auto; margin-right: auto;">{{ currentyear }}</h2>
-  {% capture year %}{{ currentyear }}{% endcapture %}
-  {% endif %}
-  <a href="{{site.url}}/{{post.permalink}}" class="card-link">
-    {% assign permalink = post.permalink | split: '-' %}
-    <div class="card">
-      <div class="card-inner {{ permalink | slice: 0 }}">
-        <div class="card-label">{{ permalink | slice: 0 }} jams</div>
-        <div class="card-inner-hole">&nbsp;</div>
-        <div class="card-label-year">{{ permalink | slice: 1 }}</div>
-      </div>
+{% for post in site.categories.monthly-music %}
+{% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% if currentyear != year %}
+{% unless forloop.first %}
+</div>
+{% endunless %}
+<h2 style="text-align: left">{{ currentyear }}</h2>
+<div class="l-page cd-wrapper">
+{% capture year %}{{ currentyear }}{% endcapture %}
+{% endif %}
+<div class="cd">
+  {% assign permalink = post.permalink | split: '-' %}
+  <a href="{{site.url}}/{{post.permalink}}" class="cd-link">
+    <div class="cd-inner {{ permalink | slice: 0 }}">
+      <div class="cd-label">{{ permalink | slice: 0 }}</div>
+      <div class="cd-inner-hole">&nbsp;</div>
+      <div class="cd-label-year">{{ permalink | slice: 1 }}</div>
     </div>
   </a>
-  {% endfor %}
 </div>
+{% endfor %}
 
 <!-- ***
 

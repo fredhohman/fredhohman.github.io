@@ -1,63 +1,73 @@
-// Typography
-//
-// Headings, body text, lists, and other misc typographic elements.
-
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
-  font-weight: bold;
-  line-height: 1.25;
-  color: #313131;
-  /*color: #505050;*/
-  text-rendering: optimizeLegibility;
+  // text-rendering: optimizeLegibility;
 }
 
 h1 {
-  font-size: 1.75rem;
+  font-size: 2.5rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.25;
 }
 
 h2 {
+  font-size: 2rem;
   margin-top: 1rem;
-  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
 }
 
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
 }
 
-h4, h5, h6 {
+h4 {
+  font-size: 1.25rem;
   margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+h5 {
   font-size: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+h6 {
+  font-size: 0.875rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 p {
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
 }
 
-strong {
-  color: #303030;
+a {
+  color: $blue;
+  text-decoration: none;
+  // text-decoration-color: $light-blue;
+
+  // -webkit-transition: 0.15s color ease;
+  //    -moz-transition: 0.15s color ease;
+  //     -ms-transition: 0.15s color ease;
+  //      -o-transition: 0.15s color ease;
+  //         transition: 0.15s color ease;
+
 }
 
-ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-dt {
-  font-weight: bold;
-}
-
-dd {
-  margin-bottom: .5rem;
+a:hover, a:focus {
+  color: $dark-blue;
+  text-decoration: underline;
+  text-decoration-color: $light-silver;
 }
 
 hr {
-  position: relative;
+  // position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #fff;
+  border-top: 1px solid $border-color;
 }
 
 abbr {
@@ -65,38 +75,22 @@ abbr {
   font-weight: bold;
   color: #555;
   text-transform: uppercase;
-
-  &[title] {
-    cursor: help;
-    border-bottom: 1px dotted #e5e5e5;
-  }
 }
 
 blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
+  padding: 0rem 1rem;
+  margin: 0rem;
+  color: $gray;
+  border-left: 0.25rem solid $light-gray;
 
-  p:last-child {
-    margin-bottom: 0;
-  }
-
-  @media (min-width: 30em) {
+  @media (max-width: $mobile) {
     padding-right: 5rem;
     padding-left: 1.25rem;
   }
 }
 
-
-// Markdown footnotes
-//
-// See the example content post for an example.
-
-// Footnote number within body text
-a[href^="#fn:"],
-// Back to footnote link
-a[href^="#fnref:"] {
+// Footnote number within body text, Back to footnote link
+a[href^="#fn:"], a[href^="#fnref:"] {
   display: inline-block;
   margin-left: .1rem;
   font-weight: bold;
@@ -108,11 +102,21 @@ a[href^="#fnref:"] {
   font-size: 85%;
 }
 
-// Custom type
-//
-// Extend paragraphs with `.lead` for larger introductory text.
-
+// Paragraph modifier for larger introductory text
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   font-weight: 300;
+  color: $dark-gray;
+}
+
+time {
+  color: $gray;
+}
+
+ul, ol {
+  padding-left: 0;
+   
+  @media (max-width: $mobile) {
+    padding-left: 1rem;
+  }
 }

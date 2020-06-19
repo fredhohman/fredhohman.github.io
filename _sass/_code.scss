@@ -1,18 +1,13 @@
-// Code
-//
-// Inline and block-level code snippets. Includes tweaks to syntax highlighted
-// snippets from Pygments/Rouge and Gist embeds.
-
-code,
-pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+code, pre {
+  // font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: Consolas, monaco, monospace;
 }
 
 code {
-  padding: .25em .5em;
+  padding: .25rem .5rem;
   font-size: 85%;
-  color: #bf616a;
-  background-color: #f9f9f9;
+  color: $code-color;
+  background-color: $near-white;
   border-radius: 3px;
 }
 
@@ -28,36 +23,39 @@ pre code {
   background-color: transparent;
 }
 
+
+
 // Pygments via Jekyll
-.highlight {
-  padding: 1rem;
-  margin-bottom: 1rem;
-  font-size: .8rem;
-  line-height: 1.4;
-  background-color: #f9f9f9;
-  border-radius: .25rem;
+// .highlight {
+//   padding: 1rem;
+//   margin-bottom: 1rem;
+//   font-size: .8rem;
+//   line-height: 1.4;
+//   background-color: #f9f9f9;
+//   border-radius: .25rem;
 
-  pre {
-    margin-bottom: 0;
-    overflow-x: auto;
-  }
+//   pre {
+//     margin-bottom: 0;
+//     overflow-x: auto;
+//   }
 
-  .lineno {
-    display: inline-block; // Ensures the null space also isn't selectable
-    padding-right: .75rem;
-    padding-left: .25rem;
-    color: #999;
-    // Make sure numbers aren't selectable
-    -webkit-user-select: none;
-       -moz-user-select: none;
-            user-select: none;
-  }
-}
+//   .lineno {
+//     display: inline-block; // Ensures the null space also isn't selectable
+//     padding-right: .75rem;
+//     padding-left: .25rem;
+//     color: #999;
+//     // Make sure numbers aren't selectable
+//     -webkit-user-select: none;
+//        -moz-user-select: none;
+//             user-select: none;
+//   }
+// }
 
 
-// Gist via GitHub Pages
+
+// // GitHub pages gist
 // .gist .gist-file {
-//   font-family: Menlo, Monaco, "Courier New", monospace !important;
+//   font-family: Consolas, monaco, monospace !important;
 // }
 // .gist .markdown-body {
 //   padding: 15px;
