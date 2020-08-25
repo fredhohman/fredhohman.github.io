@@ -28,6 +28,17 @@
     - year: 2020
       url: https://uist.acm.org/uist2020/
 
+- venue: Symposium on Visualization in Data Science
+  venue-shorthand: VDS
+  venue-at: IEEE VIS
+  years:
+    - year: 2020
+      url: http://www.visualdatascience.org/2020/
+    - year: 2019
+      url: http://www.visualdatascience.org/2019/
+    - year: 2018
+      url: http://www.visualdatascience.org/2018/
+      
 - venue: Distill Research Journal
   venue-shorthand: Distill
   years:
@@ -60,13 +71,6 @@
   years:
     - year: 2018
       url: https://www.ieee-security.org/TC/SPW2018/DLS/
-
-- venue: Symposium on Visualization in Data Science
-  venue-shorthand: VDS
-  venue-at: IEEE VIS
-  years:
-    - year: 2017  
-      url: http://www.visualdatascience.org/2017/
 
 - venue: IEEE International Conference on Distributed Computing Systems
   venue-shorthand: ICDCS
