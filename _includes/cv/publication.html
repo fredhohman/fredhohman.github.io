@@ -122,6 +122,10 @@
 	    <span class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> {{ pub.award }}</span>
 	{% endif %}
 
+	{% if pub.highlight %}
+		<span class="cv-award"><i class="fas fa-star" aria-hidden="true"></i> {{ pub.highlight }}</span>
+	{% endif %}
+
 	{% if pub.equal-contribution %}
 	    <span class="equal-contribution"> *Authors contributed equally</span>
 	{% endif %}
