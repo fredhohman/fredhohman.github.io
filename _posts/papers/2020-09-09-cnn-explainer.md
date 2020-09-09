@@ -2,7 +2,7 @@
 layout: paper
 categories: papers
 permalink: papers/cnn-explainer
-id: cnn101
+id: cnn-explainer
 title: "CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization"
 authors: 
   - Zijie J. Wang
@@ -23,7 +23,7 @@ video: https://youtu.be/HnWIHWFbuUQ
 code: https://github.com/poloclub/cnn-explainer
 demo: https://poloclub.github.io/cnn-explainer/
 highlight: Top of Github Trending
-type: poster
+type: paper
 figure: /images/papers/20-cnnexplainer-tvcg.png
 selected: true
 bibtex: |-
