@@ -16,7 +16,11 @@ layout: default
 
     {% if page.award %}
         <div id="paper-award"><i class="fas fa-trophy" aria-hidden="true"></i> {{ page.award }}</div>
-    {% endif %}
+	{% endif %}
+	
+	{% if page.highlight %}
+		<div id="paper-award"><i class="fas fa-star" aria-hidden="true"></i> {{ page.highlight }}</div>
+	{% endif %}
     
     {% if page.equal-contribution %}
         <div id="paper-equal-contribution"> *Authors contributed equally</div>
