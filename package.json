@@ -1,0 +1,19 @@
+{
+  "name": "fredhohman.github.io",
+  "version": "1.0.0",
+  "description": "Fred Hohman's website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredhohman/fredhohman.github.io.git"
+  },
+  "author": "Fred Hohman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredhohman/fredhohman.github.io/issues"
+  },
+  "homepage": "https://github.com/fredhohman/fredhohman.github.io#readme"
+}
