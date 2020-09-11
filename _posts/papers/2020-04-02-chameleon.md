@@ -22,7 +22,7 @@ recording: https://www.youtube.com/watch?v=xA-5sIo1Ma8
 feature-title: Chameleon
 feature-description: Understanding and visualizing data iteration in machine learning
 image: /images/featured/chameleon.png
-feature-order: 1
+feature-order: 2
 featured: true
 selected: true
 type: conference
