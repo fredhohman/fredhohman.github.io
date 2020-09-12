@@ -19,6 +19,8 @@
 			<div class="cover-venue">
 				{% if feature.venue-shorthand %}
 				{{ feature.venue-shorthand }}
+				{% else if feature.venue %}
+				{{ feature.venue }}
 				{% else %}
 				{{ feature.month }}
 				{% endif %}
