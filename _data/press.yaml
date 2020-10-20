@@ -1,3 +1,9 @@
+- title: "Interactive data essays on climate change"
+  month: "Oct."
+  year: 2020
+  link: https://flowingdata.com/2020/10/20/interactive-data-essays-on-climate-change/
+  publisher: "Flowing Data"
+
 - title: "Python in Visual Studio Code - VSCode Features You Need to Know"
   month: "July"
   year: 2020
@@ -33,6 +39,12 @@
   year: 2019
   link: https://www.hanselminutes.com/706/is-this-the-dynamic-web-we-were-promised-with-parametric-presss-matthew-conlen
   publisher: "Hanselminutes Podcast"
+
+- title: "Myth of the impartial machine"
+  month: "June"
+  year: 2019
+  link: https://flowingdata.com/2019/06/11/myth-of-the-impartial-machine/
+  publisher: "Flowing Data"
 
 - title: "The Secret Life of a JPEG"
   month: "May"
