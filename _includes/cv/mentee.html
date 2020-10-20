@@ -1,5 +1,5 @@
 <div class="cv-left-date">{{ mentee.year }} {{ mentee.year-extra }}</div>
-<div><a href="{{ mentee.url }}"><b>{{ mentee.name }}</b></a></div>
+<div><a href="{{ mentee.url }}"><b>{{ mentee.name }}</b></a>{% if mentee.intern %}<span class="appears-on"> at <a href="{{ mentee.intern-url }}">{{ mentee.intern }}</a></span>{% endif %}</div>
 <div><i>{{ mentee.degree }}</i></div>
 <div class="cv-description">{{ mentee.description }}</div>
 

@@ -1,19 +1,35 @@
+- name: Jochen Görtler
+  intern: Apple
+  intern-url: https://www.apple.com/
+  year: "Summer 2020"
+  degree: "Ph.D. in Computer Science, University of Konstanz"
+  description: "Interactive confusion matrices and visualization for error analysis in machine learning"
+  url: https://www.jgoertler.com/
+
+- name: Aspen Hopkins
+  intern: Apple
+  intern-url: https://www.apple.com/
+  year: "Summer 2020"
+  degree: "Ph.D. in Computer Science, Massachusetts Institute of Technology "
+  description: "Designing data and proactive data collection for machine learning"
+  url: https://skitree.github.io/aspenhopkins/
+
 - name: Omar Shaikh
-  year: "Present —"
+  year: "Fall 2020 —"
   year-extra: Fall 2019
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for machine learning education"
   url: http://oshaikh.com
   
 - name: Robert Turko
-  year: "Present —"
+  year: "Fall 2020 —"
   year-extra: Fall 2019
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for machine learning education"
   url: https://www.linkedin.com/in/robert-turko/
 
 - name: Rob Firstman
-  year: "Present —"
+  year: "Spr. 2020 —"
   year-extra: Fall 2019
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for deep learning interpretability"
@@ -21,7 +37,7 @@
 
 - name: Will Epperson
   year: "Spr. 2020 —"
-  year-extra: Spr. 2019
+  year-extra: "Spr. 2019"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for machine learning fairness"
   awards:
@@ -34,7 +50,7 @@
 
 - name: Siwei Li
   year: "Spr. 2020 —"
-  year-extra: Spr. 2019
+  year-extra: "Spr. 2019"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visual graph analytics"
   awards:
@@ -47,7 +63,7 @@
 
 - name: Angel Alexander Cabrera
   year: "Spr. 2019 —"
-  year-extra: Spr. 2018
+  year-extra: "Spr. 2018"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for machine learning fairness, interactive classification for deep learning"
   awards:
@@ -61,7 +77,7 @@
 
 - name: Dezhi Fang
   year: "Spr. 2018 —"
-  year-extra: Fall 2016
+  year-extra: "Fall 2016"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: Visual motif discovery
   awards:
@@ -75,7 +91,7 @@
 
 - name: Prasenjeet Biswal
   year: "Spr. 2018 —"
-  year-extra: Fall 2017
+  year-extra: "Fall 2017"
   degree: "M.S. in Computer Science, Georgia Institute of Technology"
   description: Deep learning attribution
   now-position: Software Development Engineer
