@@ -1,6 +1,26 @@
 # feature-parametric-order: 1000 = inf
 
-- title: Parametric Press
+- title: "Parametric Press: Issue 02"
+  authors:
+    - Matthew Conlen
+    - Fred Hohman
+    - Sara Stalla
+    - Andrew Sass
+  description: "Interactively analyze our climate’s past, present, and future."
+  month: "October"
+  year: "2020"
+  # year-extra: "Dec. 2018"
+  url: https://parametric.press/issue-02/
+  code: https://github.com/ParametricPress
+  image: /images/featured/parametric-press-issue-02.png
+  feature-title: "Parametric Press: Issue 02"
+  feature-description: "Interactively analyze and learn about our climate’s past, present, and future"
+  feature-order: 1
+  featured: true
+  parametric: false
+  feature-parametric-order: 1000
+
+- title: "Parametric Press: Issue 01"
   authors:
     - Matthew Conlen
     - Fred Hohman
@@ -8,14 +28,15 @@
     - Victoria Uren
     - Andrew Sass
   description: "An experimental, born-digital magazine dedicated to showcasing the expository power that’s possible when the audio, visual, and interactive capabilities of dynamic media are effectively combined"
-  year: "Present —"
-  year-extra: "Dec. 2018"
-  url: https://parametric.press/
+  month: "May"
+  year: "2019"
+  # year-extra: "Dec. 2018"
+  url: https://parametric.press/issue-01/
   code: https://github.com/ParametricPress
   image: /images/featured/parametric-press-issue-01.png
-  feature-title: Parametric Press
+  feature-title: "Parametric Press: Issue 01"
   feature-description: "A born-digital magazine showcasing the expository power of the web"
-  feature-order: 1
+  feature-order: 2
   featured: true
   parametric: false
   feature-parametric-order: 1000
@@ -38,7 +59,7 @@
   code: https://github.com/ParametricPress/01-the-myth-of-the-impartial-machine
   feature-order: 1
   feature-parametric-order: 1
-  featured: true
+  featured: false
   parametric: true
   parametric-featured: true
   parametric-title: Parametric Press
