@@ -22,6 +22,7 @@ pdf: https://arxiv.org/abs/2004.15004
 video: https://youtu.be/HnWIHWFbuUQ
 code: https://github.com/poloclub/cnn-explainer
 demo: https://poloclub.github.io/cnn-explainer/
+recording: https://www.youtube.com/watch?v=M-pUfWMjXhQ&feature=youtu.be&ab_channel=IEEEVisConference2020
 highlight: Top of Github Trending
 type: paper
 figure: /images/papers/20-cnnexplainer-tvcg.png
