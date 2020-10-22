@@ -15,4 +15,24 @@
 
 <div class="cv-description">{{ article.description }}{% if article.award %}, <span class="cv-award"><i class="fas fa-star" aria-hidden="true"></i> {{ article.award }}</span>{% endif %}</div>
 
+{% if article.parametric-issue %}
+<div class="parametric-articles">
+	
+	{% assign issue-number = article.parametric-issue-number %}
+	{% assign issue-articles = site.data.parametric-articles | where: 'parametric-issue-number', issue-number %}
+
+	{% for parametric-article in issue-articles %}
+		
+		{% if article.parametric-issue-number == parametric-article.parametric-issue-number %}
+			{% include cv/parametric-article.html parametric-article=parametric-article %}
+		{% endif %}
+
+		{% if forloop.last == false %}
+			<div class="cv-spacer-medium"></div>
+		{% endif %}
+
+	{% endfor %}
+</div>
+{% endif %}
+
 <div class="cv-spacer"></div>

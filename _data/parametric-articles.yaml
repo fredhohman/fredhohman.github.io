@@ -1,0 +1,158 @@
+- title: Your Personal Carbon History
+  authors:
+    - Aatish Bhatia
+  description: "Why you've lived through a period of unprecedented carbon emissions."
+  month: May
+  year: 2019
+  url: https://parametric.press/issue-02/carbon-history/
+  code: https://github.com/ParametricPress/02-carbon-history/
+  parametric: true
+  parametric-issue-number: 2
+
+- title: The Corporations Behind Climate Change
+  authors:
+    - Geoffrey Litt
+    - Seth Thompson
+  description: "Seven simple demands to hold fossil fuel companies accountable."
+  month: May
+  year: 2019
+  url: https://parametric.press/issue-02/corporations/
+  code: https://github.com/ParametricPress/02-corporations/
+  parametric: true
+  parametric-issue-number: 2
+
+- title: Tiny Algae and the Political Theater of Planting One Trillion Trees
+  authors:
+    - Benjamin Cooley
+  description: "To fight climate change, it's time to start thinking big by thinking small."
+  month: May
+  year: 2019
+  url: https://parametric.press/issue-02/algae/
+  code: https://github.com/ParametricPress/02-algae/
+  parametric: true
+  parametric-issue-number: 2
+
+- title: Drought of the Sinking Delta
+  authors:
+    - Christina Orieschnig
+  description: "Things are out of joint in the delta of the Mekong, Southeast Asia's largest river."
+  month: May
+  year: 2019
+  url: https://parametric.press/issue-02/sinking-delta/
+  code: https://github.com/ParametricPress/02-sinking-delta/
+  parametric: true
+  parametric-issue-number: 2
+
+- title: The Hidden Cost of Digital Consumption
+  authors:
+    - Halden Lin
+    - Aishwarya Nirmal
+    - Shobhit Hathi
+    - Lilian Liang
+  description: "Digital doesn't mean green. How much carbon dioxide was released when you loaded this article?"
+  month: May
+  year: 2019
+  url: https://parametric.press/issue-01/unraveling-the-jpeg/
+  code: https://github.com/ParametricPress/01-unraveling-the-jpeg
+  parametric: true
+  parametric-issue-number: 2
+  
+- title: Unraveling the JPEG
+  authors:
+    - Omar Shehata
+  original-description: "JPEG images are everywhere in our digital lives, but behind the veil of familiarity lie algorithms that remove details that are imperceptible to the human eye. Let's see what our eyes can't see!"
+  description: "JPEG images are everywhere, but behind them are algorithms that remove details that are imperceptible to the human eye."
+  month: May
+  year: 2019
+  url: https://parametric.press/issue-01/unraveling-the-jpeg/
+  code: https://github.com/ParametricPress/01-unraveling-the-jpeg
+  parametric: true
+  parametric-issue-number: 1
+
+- title: The Myth of the Impartial Machine
+  authors:
+    - Alice Feng
+    - Shuyan Wu
+  original-description: "Wide-ranging applications of data science bring utopian proposals of a world free from bias, but in reality, machine learning models reproduce the inequalities that shape the data they're fed. Can programmers free their models from prejudice?"
+  description: "Machine learning models reproduce inequalities within data they're fed. Can programmers free their models from prejudice?"
+  month: May
+  year: 2019
+  url: https://parametric.press/issue-01/the-myth-of-the-impartial-machine/
+  image: /images/featured/parametric-ml.png
+  feature-title: The Myth of the Impartial Machine
+  feature-description: "Can we free machine learning models from bias and prejudice?"
+  code: https://github.com/ParametricPress/01-the-myth-of-the-impartial-machine
+  feature-order: 1
+  feature-parametric-order: 1
+  featured: false
+  parametric: true
+  parametric-issue-number: 1
+  parametric-featured: true
+  parametric-title: Parametric Press
+  parametric-url: https://parametric.press/issue-01/
+
+- title: Data Science for Fair Housing
+  authors:
+    - Alyson Powell Key
+  original-description: "In Atlanta, a new nonprofit seeks to resist displacement by supporting the city's most vulnerable residents—but how effective is their project?"
+  description: "In Atlanta, how effective is a new nonprofit's plan to resist displacement by supporting the city's most vulnerable residents?"
+  month: May
+  year: 2019
+  url: https://parametric.press/issue-01/data-science-for-fair-housing/
+  image: /images/featured/parametric-housing.png
+  feature-title: Data Science for Fair Housing
+  feature-description: "In Atlanta, a nonprofit seeks to resist housing displacement—but how effective is the project?"
+  code: https://github.com/ParametricPress/01-data-science-for-fair-housing
+  feature-order: 0
+  feature-parametric-order: 3
+  featured: false
+  parametric: true
+  parametric-issue-number: 1
+  parametric-featured: true
+  parametric-title: Parametric Press
+  parametric-url: https://parametric.press/issue-01/
+
+- title: 'Flatland Follies: An Adjunct Simulator'
+  authors:
+    - James McGirk
+  original-description: "This college used to be one of the best in the country. Fifty years later the campus is destitute, they can't pay professors, and it's filled with decaying art."
+  description: "Play your way through the daily struggles of teaching and preserving art at a declining college."
+  month: May
+  year: 2019
+  url: https://parametric.press/issue-01/flatland-follies-an-adjunct-simulator
+  code: https://github.com/ParametricPress/01-flatland-follies-an-adjunct-simulator
+  parametric: true
+  parametric-issue-number: 1
+
+- title: On Particle Physics
+  authors:
+    - Riccardo Maria Bianchi
+  original-description: "A CERN particle physicist walks through the history and science of particle physics, and why you should care about it—even outside of the laboratory."
+  description: "A CERN particle physicist walks through the history and science of particle physics, and why you should care about it."
+  month: May
+  year: 2019
+  url: https://parametric.press/issue-01/on-particle-physics/
+  image: /images/featured/parametric-physics.png
+  feature-title: On Particle Physics
+  feature-description: "A CERN particle physicist walks us through the history and science of particle physics"
+  code: https://github.com/ParametricPress/01-on-particle-physics
+  feature-order: 0
+  feature-parametric-order: 2
+  featured: false
+  parametric: true
+  parametric-issue-number: 1
+  parametric-featured: true
+  parametric-title: Parametric Press
+  parametric-url: https://parametric.press/issue-01/
+
+- title: Anything That Flies, On Anything That Moves
+  authors:
+    - Megan Vo
+  original-description: "The US covertly launched over two million bombing missions over Southeast Asian countries in the 1960s and 70s. Dig into the data behind the assault."
+  description: "Dig into data of over two million bombings during a covert US assault on Southeast Asian countries from the 1960s and 70s."
+  month: May
+  year: 2019
+  url: https://parametric.press/issue-01/anything-that-flies-on-anything-that-moves/
+  code: https://github.com/ParametricPress/01-anything-that-flies-on-anything-that-moves
+  parametric: true
+  parametric-issue-number: 1

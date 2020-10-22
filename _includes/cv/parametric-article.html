@@ -1,0 +1,17 @@
+<div>
+    <a href="{{ parametric-article.url }}"><span class="parametric-article-title">{{ parametric-article.title }}</span></a>
+
+    by
+
+	{% if parametric-article.authors %}
+		{% for person in parametric-article.authors %}
+			{% if forloop.last == false %}
+				{% include person.html person=person %},	
+			{% else if forloop.last == true %}
+				{% include person.html person=person %}
+			{% endif %}
+		{% endfor %}
+	{% endif %}
+</div>
+
+<div class="cv-description">{{ parametric-article.description }}</div>

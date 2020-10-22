@@ -1,12 +1,12 @@
 # feature-parametric-order: 1000 = inf
 
-- title: "Parametric Press: Issue 02"
+- title: "Parametric Press, Issue 02: The Climate Issue"
   authors:
     - Matthew Conlen
     - Fred Hohman
     - Sara Stalla
     - Andrew Sass
-  description: "Interactively analyze our climate’s past, present, and future."
+  description: "Interactively analyze our climate’s past, present, and future"
   month: "October"
   year: "2020"
   # year-extra: "Dec. 2018"
@@ -17,10 +17,12 @@
   feature-description: "Interactively analyze and learn about our climate’s past, present, and future"
   feature-order: 1
   featured: true
+  parametric-issue: true
+  parametric-issue-number: 2
   parametric: false
   feature-parametric-order: 1000
 
-- title: "Parametric Press: Issue 01"
+- title: "Parametric Press, Issue 01: Science + Society"
   authors:
     - Matthew Conlen
     - Fred Hohman
@@ -34,79 +36,15 @@
   url: https://parametric.press/issue-01/
   code: https://github.com/ParametricPress
   image: /images/featured/parametric-press-issue-01.png
+  award: "Top of Hacker News, twice"
   feature-title: "Parametric Press: Issue 01"
   feature-description: "A born-digital magazine showcasing the expository power of the web"
   feature-order: 2
   featured: true
+  parametric-issue: true
+  parametric-issue-number: 1
   parametric: false
   feature-parametric-order: 1000
-
-- title: The Myth of the Impartial Machine
-  authors:
-    - Alice Feng
-    - Shuyan Wu
-    - Fred Hohman
-    - Matthew Conlen
-    - Victoria Uren
-  description: Wide-ranging applications of data science bring utopian proposals of a world free from bias, but in reality, machine learning models reproduce the inequalities that shape the data they’re fed. Can programmers free their models from prejudice?
-  month: "May"
-  year: 2019
-  url: https://parametric.press/issue-01/the-myth-of-the-impartial-machine/
-  award: Top of Hacker News
-  image: /images/featured/parametric-ml.png
-  feature-title: The Myth of the Impartial Machine
-  feature-description: Can we free machine learning models from bias and prejudice?
-  code: https://github.com/ParametricPress/01-the-myth-of-the-impartial-machine
-  feature-order: 1
-  feature-parametric-order: 1
-  featured: false
-  parametric: true
-  parametric-featured: true
-  parametric-title: Parametric Press
-  parametric-url: https://parametric.press/issue-01/
-
-- title: On Particle Physics
-  authors:
-    - Riccardo Maria Bianchi
-    - Fred Hohman
-    - Matthew Conlen
-  description: A CERN particle physicist walks through the history and science of particle physics, and why you should care about it—even outside of the laboratory
-  month: "May"
-  year: 2019
-  url: https://parametric.press/issue-01/on-particle-physics/
-  image: /images/featured/parametric-physics.png
-  feature-title: On Particle Physics
-  feature-description: A CERN particle physicist walks us through the history and science of particle physics
-  code: https://github.com/ParametricPress/01-on-particle-physics
-  feature-order: 0
-  feature-parametric-order: 2
-  featured: false
-  parametric: true
-  parametric-featured: true
-  parametric-title: Parametric Press
-  parametric-url: https://parametric.press/issue-01/
-
-- title: Data Science for Fair Housing
-  authors:
-    - Alyson Powell Key
-    - Fred Hohman
-    - Matthew Conlen
-    - Sara Stalla
-  description: Cities across America covertly exclude racial minorities from majority-white residential neighborhoods, while gentrification drives people of color out of their homes. In Atlanta, a new nonprofit seeks to resist displacement by supporting the city’s most vulnerable residents—but how effective is their project?
-  month: "May"
-  year: 2019
-  url: https://parametric.press/issue-01/data-science-for-fair-housing/
-  image: /images/featured/parametric-housing.png
-  feature-title: Data Science for Fair Housing
-  feature-description: In Atlanta, a nonprofit seeks to resist housing displacement—but how effective is the project?
-  code: https://github.com/ParametricPress/01-data-science-for-fair-housing
-  feature-order: 0
-  feature-parametric-order: 3
-  featured: false
-  parametric: true
-  parametric-featured: true
-  parametric-title: Parametric Press
-  parametric-url: https://parametric.press/issue-01/
 
 - title: Blueberry Pancakes
   authors:

@@ -105,6 +105,11 @@
 	display: block;
 }
 
+.cv-spacer-medium {
+	margin-top: 0.5rem;
+	display: block;
+}
+
 .cv-spacer-small {
 	margin-top: 0.25rem;
 	display: block;
@@ -113,6 +118,20 @@
 .appears-on, .appears-on a {
 	font-size: 0.825rem;
 	font-weight: 400;
+}
+
+.parametric-articles, .parametric-articles > .cv-description {
+	font-size: 0.825rem;
+}
+
+.parametric-articles {
+	padding-left: 1rem;
+	border-left: 1px solid $border-color;
+	margin-top: 0.5rem;
+}
+
+.parametric-article-title {
+	font-weight: 600
 }
 
 .cv-award {
