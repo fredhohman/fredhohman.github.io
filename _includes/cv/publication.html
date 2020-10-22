@@ -1,3 +1,7 @@
+<div class="cv-left-date">
+	{% case pub.type %}{% when "journal" %}J{% when "conference" %}C{% when "workshop" %}W{% when "poster" %}P{% when "demo" %}D{% when "misc" %}M{% endcase %}{{ forloop.rindex }}
+</div>
+
 <div>
 {% if pub.url %}
 	<a href="{{ pub.url }}"><b>{{ pub.title }}</b></a>

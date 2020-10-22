@@ -24,6 +24,7 @@ image: /images/featured/interactive-articles.png
 featured: true
 feature-order: 1
 selected: true
+type: journal
 bibtex: |-
 
   @article{hohman2020communicating,

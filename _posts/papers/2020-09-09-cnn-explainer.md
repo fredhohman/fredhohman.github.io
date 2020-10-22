@@ -24,7 +24,7 @@ code: https://github.com/poloclub/cnn-explainer
 demo: https://poloclub.github.io/cnn-explainer/
 recording: https://www.youtube.com/watch?v=M-pUfWMjXhQ&feature=youtu.be&ab_channel=IEEEVisConference2020
 highlight: Top of Github Trending
-type: paper
+type: journal
 figure: /images/papers/20-cnnexplainer-tvcg.png
 selected: true
 bibtex: |-

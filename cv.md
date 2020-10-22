@@ -88,10 +88,49 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% endif %}
 {% endfor %}
 
-### All Publications
+<!-- ### All Publications -->
 
 {% assign selectedBoolForBibtex = false %}
-{% for pub in site.categories.papers %}
+
+### Journal
+
+{% assign journal = site.categories.papers | where: 'type', "journal" %}
+{% for pub in journal %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% endfor %}
+
+### Conference
+
+{% assign conference = site.categories.papers | where: 'type', "conference" %}
+{% for pub in conference %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% endfor %}
+
+### Workshop
+
+{% assign workshop = site.categories.papers | where: 'type', "workshop" %}
+{% for pub in workshop %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% endfor %}
+
+### Poster
+
+{% assign poster = site.categories.papers | where: 'type', "poster" %}
+{% for pub in poster %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% endfor %}
+
+### Demo
+
+{% assign demo = site.categories.papers | where: 'type', "demo" %}
+{% for pub in demo %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% endfor %}
+
+### Miscellaneous
+
+{% assign preprint = site.categories.papers | where: 'type', "misc" %}
+{% for pub in preprint %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
