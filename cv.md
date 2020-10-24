@@ -82,10 +82,10 @@ My research is supported by a NASA Space Technology Research Fellowship.
 ### Selected: Latest & Greatest
 
 {% assign selectedBoolForBibtex = true %}
-{% for pub in site.categories.papers %}
-{% if pub.selected %}
-{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
-{% endif %}
+
+{% assign selected = site.categories.papers | where: 'selected', true %}
+{% for pub in selected %}
+{% include cv/publication.html pub=pub %}
 {% endfor %}
 
 <!-- ### All Publications -->
