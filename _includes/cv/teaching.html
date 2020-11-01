@@ -3,7 +3,7 @@
 <div><i><a href="{{ teach.institution-url }}">{{ teach.institution }}</a>, {{ teach.location }}</i></div>
 
 {% if teach.ta == true %}
-<div>
+<div class="cv-description">
 <a href="{{ teach.class-url }}">{{ teach.class }}</a>,
 Instructor: 
 {% for person in teach.instructor %}

@@ -3,19 +3,19 @@
 <div><a href="{{ degree.institution-url }}">{{ degree.institution }}</a>, {{ degree.location }}</div>
 
 {% if degree.advisor %}
-	<div>
+	<div class="cv-description">
 		Advisor: {% include person.html person=degree.advisor %}{% endif %}{% if degree.co-advisor %}, Co-advisor: {% include person.html person=degree.co-advisor %}
 	</div>
 {% endif %}
 
 {% if degree.thesis %}
-	<div>
-		Thesis: <i>{{ degree.thesis }}</i>
+	<div class="cv-description">
+		Thesis: <a href="{{ degree.thesis-link }}"><i>{{ degree.thesis }}</i></a>
 	</div>
 {% endif %}
 
 {% if degree.committee %}
-	<div>
+	<div class="cv-description">
 		Committee:
 		{% for person in degree.committee %}
 			{% if forloop.last == false %}
@@ -28,11 +28,31 @@
 {% endif %}
 	
 {% if degree.description %}
-	<div>
+	<div class="cv-description">
 		{% for item in degree.description %}
 			{{ item }}
 		{% endfor %}
 	</div>
 {% endif %}
+
+<div class="pub-misc">
+	{% if degree.thesis-link %}
+		<a href="{{ degree.thesis-link }}">
+			<i class="fas fa-link" aria-hidden="true"></i> Thesis Project Page
+		</a>
+	{% endif %}
+	
+	{% if degree.thesis-pdf %}
+		<a href="{{ degree.thesis-pdf }}">
+			<i class="fas fa-file-pdf" aria-hidden="true"></i> Thesis PDF
+		</a>
+	{% endif %}
+
+	{% if degree.thesis-video %}
+		<a href="{{ degree.thesis-video }}">
+			<i class="fas fa-video" aria-hidden="true"></i> Thesis Recording
+		</a>
+	{% endif %}
+</div>
 
 <div class="cv-spacer"></div>
