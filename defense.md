@@ -41,10 +41,10 @@ This thesis contributes to *information visualization*, *machine learning*, and 
 ## Slides
 * PDF: [Dropbox, low quality (50MB)][talk-low-db]
 * PDF: [Dropbox, high quality (200MB)][talk-high-db]
-* Movie export with animations + demo videos:
+* YouTube: [Slide export animations + demo videos][talk-export]
 
 <p>
-	<iframe width="100%" height="315" src="https://www.youtube.com/embed/k8fzkxxxyr8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/TNH8RqyNfmo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!-- <p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/UfJoqQGXIGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -64,6 +64,7 @@ He has collaborated with designers, developers, and scientists at Apple, Microso
 
 [talk-low]: {{ site.url }}/talk-low-quality.pdf
 [talk-high]: {{ site.url }}/talk-high-quality.pdf
+[talk-export]: https://youtu.be/k8fzkxxxyr8
 [talk-low-db]: https://www.dropbox.com/s/b4aqsp6ota3zani/defense-low-quality.pdf?dl=0
 [talk-high-db]: https://www.dropbox.com/s/97q8gcinczfnfvu/defense-high-quality.pdf?dl=0
 [cv]: https://fredhohman.com/cv
