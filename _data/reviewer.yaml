@@ -13,6 +13,8 @@
 - venue: ACM Conference on Human Factors in Computing Systems
   venue-shorthand: CHI
   years:
+    - year: 2021
+      url: https://chi2021.acm.org/
     - year: 2020
       url: https://chi2020.acm.org
     - year: 2019
