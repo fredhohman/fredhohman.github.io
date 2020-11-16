@@ -1,15 +1,19 @@
+- venue: ACM International Conference on Intelligent User Interfaces
+  venue-shorthand: IUI
+  years:
+    - year: 2021
+      url: http://iui.acm.org/2021/
+    - year: 2020
+      url: http://iui.acm.org/2012/
+    - year: 2019
+      url: http://iui.acm.org/2019/
+
 - venue: Debugging Machine Learning Models Workshop
   venue-shorthand: DebugML
   venue-at: ICLR
   years:
     - year: 2019
       url: https://debug-ml-iclr2019.github.io/
-
-- venue: ACM International Conference on Intelligent User Interfaces
-  venue-shorthand: IUI
-  years:
-    - year: 2019
-      url: http://iui.acm.org/2019/
 
 - venue: Symposium on Visualization in Data Science 
   venue-shorthand: VDS
