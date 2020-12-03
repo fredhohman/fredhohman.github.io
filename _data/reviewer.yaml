@@ -1,15 +1,3 @@
-- venue: IEEE Visualization
-  venue-shorthand: VIS
-  years: 
-    - year: 2020
-      url: http://ieeevis.org/year/2020/welcome
-    - year: 2019
-      url: http://ieeevis.org/year/2019/welcome
-    - year: 2018
-      url: http://ieeevis.org/year/2018/welcome
-    - year: 2017
-      url: http://ieeevis.org/year/2017/welcome
-      
 - venue: ACM Conference on Human Factors in Computing Systems
   venue-shorthand: CHI
   years:
@@ -23,6 +11,24 @@
       url: https://chi2018.acm.org
     - year: 2017
       url: https://chi2017.acm.org
+
+- venue: IEEE Pacific Visualization Conference
+  venue-shorthand: PacificVis
+  years: 
+    - year: 2021
+      url: http://vis.tju.edu.cn/pvis2021/
+
+- venue: IEEE Visualization
+  venue-shorthand: VIS
+  years: 
+    - year: 2020
+      url: http://ieeevis.org/year/2020/welcome
+    - year: 2019
+      url: http://ieeevis.org/year/2019/welcome
+    - year: 2018
+      url: http://ieeevis.org/year/2018/welcome
+    - year: 2017
+      url: http://ieeevis.org/year/2017/welcome
 
 - venue: ACM User Interface Software and Technology Symposium
   venue-shorthand: UIST
