@@ -3,11 +3,12 @@
   location: "Atlanta, GA"
   advisor: Duen Horng (Polo) Chau
   co-advisor: Alex Endert
-  years: "Present —"
+  years: "Dec. 2020 —"
   years-extra: "Aug. 2015"
   thesis: "Interactive Scalable Interfaces for Machine Learning Interpretability"
   thesis-video: https://youtu.be/TNH8RqyNfmo
   thesis-link: ../defense/
+  thesis-pdf: ../papers/fred-hohman-thesis.pdf
   committee:
     - Duen Horng (Polo) Chau
     - Alex Endert
@@ -32,7 +33,7 @@
   location: "Athens, GA"
   thesis: "3D Printing the Trefoil Knot and its Pages"
   thesis-link: ../projects/3d-printing-the-trefoil-knot-and-its-pages/
-  thesis-pdf: assets/thesis.pdf
+  thesis-pdf: ../papers/fred-hohman-undergrad-thesis.pdf
   description: 
     - "Overall GPA: 3.84/4.00, Magna Cum Laude, Area of Emphasis in Applied Mathematics"
   institution-url: https://www.uga.edu/
