@@ -8,7 +8,7 @@ jsarr:
 
 <h1 id="cv-title"><a href="{{ site.url }}">Fred Hohman</a></h1>
 
-<p id="cv-subtitle"><i><span class="cv-ai">Data science</span> + <span class="cv-vis">visualization</span> researcher</i></p>
+<p id="cv-subtitle"><i>Research Scientist (<span class="cv-ai">ML</span> + <span class="cv-vis">HCI</span>)</i></p>
 
 <div>
 I research how to enable <b><span class="cv-ai">machine learning interpretability</span></b> at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create <b><span class="cv-vis">data visualizations</span></b> and write interactive articles to simply communicate complex ideas.
@@ -20,11 +20,11 @@ I research how to enable <b><span class="cv-ai">machine learning interpretabilit
 I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
 </div>
 
-<div class="cv-spacer"></div>
+<!-- <div class="cv-spacer"></div>
 
 <div>
 My research is supported by a NASA Space Technology Research Fellowship.
-</div>
+</div> -->
 
 <div class="cv-spacer"></div>
 
