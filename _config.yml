@@ -16,7 +16,7 @@ sass:
 author:
   name: Fred Hohman
   url: http://fredhohman.com
-  email: fred.hohman@gmail.edu
+  email: fred.hohman@gmail.com
 
 markdown: kramdown
 highlighter: rouge
