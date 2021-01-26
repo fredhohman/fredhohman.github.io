@@ -1,5 +1,15 @@
 - institution: Apple
   location: "Seattle, WA"
+  position: Research Scientist
+  group: "Design + Visualization Group"
+  year: "Present — Jan. 2021"
+  description: "Research and design for everyone in the machine learning process—the developers who build models, the designers who create experiences, and the people who use technology."
+  institution-url: https://apple.com
+  group-url: https://machinelearning.apple.com/
+  type: industry
+
+- institution: Apple
+  location: "Seattle, WA"
   position: Research Intern
   group: "Turi Human-centered Machine Learning Group"
   year: Summer 2019

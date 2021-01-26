@@ -1,5 +1,5 @@
 title: Fred Hohman
-tagline: PhD Candidate at GT
+tagline: Research Scientist at Apple
 url: http://fredhohman.com
 baseurl: ""
 # gems: [jekyll-paginate]
@@ -16,7 +16,7 @@ sass:
 author:
   name: Fred Hohman
   url: http://fredhohman.com
-  email: fred.hohman@gmail.edu
+  email: fred.hohman@gmail.com
 
 markdown: kramdown
 highlighter: rouge

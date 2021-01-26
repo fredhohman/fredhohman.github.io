@@ -7,8 +7,7 @@ title: Home
 	<div id="intro-title-wrapper" class="intro-left">
 		<h1 id="intro-title">Hi, I'm Fred Hohman</h1>
 		<div id="intro-subtitle">
-			I’m a PhD candidate in the College of Computing at Georgia Tech.
-			 <!-- advised by Polo Chau and Alex Endert. -->
+			I'm a Research Scientist at Apple
 		</div>
 	</div>
 	<div class="intro-left">
@@ -17,16 +16,16 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		At Georgia Tech I work with <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="http://va.gatech.edu/endert/	">Alex Endert</a> as a member of the <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a>.
+		I received my PhD from Georgia Tech where I worked with <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="http://va.gatech.edu/endert/">Alex Endert</a> as a member of the <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a>. My research was supported by a <a href="https://www.nasa.gov/strg/nstrf">NASA Space Technology Research Fellowship</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
 		I have collaborated with designers, developers, and scientists while working at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/apple.svg"> Apple, <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft Research, <img class="intro-logo" style="width: 24px" src="/images/nasa.svg"> NASA Jet Propulsion Lab, and <img class="intro-logo" style="width: 24px;" src="/images/pnnl.svg"> Pacific Northwest National Lab.
 	</div>
-	<div style="height: 1rem"></div>
+	<!-- <div style="height: 1rem"></div>
 	<div>
 		My research is supported by a <a href="https://www.nasa.gov/strg/nstrf">NASA Space Technology Research Fellowship</a>.
-	</div>
+	</div> -->
 </div>
 
 <div class="intro-right">
