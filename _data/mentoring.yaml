@@ -1,3 +1,11 @@
+- name: Alex Bäuerle
+  intern: Apple
+  intern-url: https://www.apple.com/
+  year: "Spring + Summer 2021"
+  degree: "Ph.D. in Information Technology, Ulm University"
+  description: "Interactive visualization for machine learning interpretability"
+  url: https://a13x.io
+  
 - name: Jochen Görtler
   intern: Apple
   intern-url: https://www.apple.com/
@@ -10,7 +18,7 @@
   intern: Apple
   intern-url: https://www.apple.com/
   year: "Summer 2020"
-  degree: "Ph.D. in Computer Science, Massachusetts Institute of Technology "
+  degree: "Ph.D. in Computer Science, Massachusetts Institute of Technology"
   description: "Designing data and proactive data collection for machine learning"
   url: https://skitree.github.io/aspenhopkins/
 
@@ -20,6 +28,8 @@
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for machine learning education"
   url: http://oshaikh.com
+  awards:
+    - "Sigma Xi Best Undergraduate Research Award, Georgia Institute of Technology"
   
 - name: Robert Turko
   year: "Fall 2020 —"
@@ -39,7 +49,7 @@
   year: "Spr. 2020 —"
   year-extra: "Spr. 2019"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
-  description: "Visualization for machine learning fairness"
+  description: "Visual analytics for machine learning fairness"
   awards:
     - "Stamps President's Scholar"
   url: http://www.willepperson.com/
@@ -64,7 +74,7 @@
   year: "Spr. 2019 —"
   year-extra: "Spr. 2018"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
-  description: "Visualization for machine learning fairness, interactive classification for deep learning"
+  description: "Visual analytics for machine learning fairness, interactive classification for deep learning"
   awards:
     - "National Science Foundation Graduate Research Fellowship Program (NSF GRFP)"
     - "Love Family Foundation Scholarship (most outstanding graduating senior), Georgia Institute of Technology"
@@ -78,7 +88,7 @@
   year: "Spr. 2018 —"
   year-extra: "Fall 2016"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
-  description: Visual motif discovery
+  description: "Interactive visual motif discovery"
   awards:
     - "Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology"
     - "Faculty Materials, Supplies, and Travel Grants for Undergraduate Research"
@@ -92,7 +102,7 @@
   year: "Spr. 2018 —"
   year-extra: "Fall 2017"
   degree: "M.S. in Computer Science, Georgia Institute of Technology"
-  description: Deep learning attribution
+  description: "Visualization for deep learning attribution"
   now-position: Software Development Engineer
   now-institution: Oath
   now-institution-url: https://www.oath.com
