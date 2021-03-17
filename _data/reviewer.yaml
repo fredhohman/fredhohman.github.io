@@ -12,6 +12,12 @@
     - year: 2017
       url: https://chi2017.acm.org
 
+- venue: ACM Transactions on Interactive Intelligent Systems
+  venue-shorthand: TIIS
+  years:
+    - year: 2021
+      url: https://dl.acm.org/journal/tiis
+
 - venue: IEEE Pacific Visualization Conference
   venue-shorthand: PacificVis
   years: 
