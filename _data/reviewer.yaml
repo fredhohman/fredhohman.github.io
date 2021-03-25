@@ -12,6 +12,12 @@
     - year: 2017
       url: https://chi2017.acm.org
 
+- venue: ACM Designing Interactive Systems
+  venue-shorthand: DIS
+  years:
+    - year: 2021
+      url: https://dis.acm.org/2021/
+
 - venue: ACM Transactions on Interactive Intelligent Systems
   venue-shorthand: TIIS
   years:
