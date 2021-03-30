@@ -1,6 +1,6 @@
 <div>
 	{{ venue.venue }}
-	(<b>{{ venue.venue-shorthand }}</b>) {% if venue.venue-at %}at {{ venue.venue-at }}{% endif %}
+	{% if venue.venue-shorthand %}(<b>{{ venue.venue-shorthand }}</b>){% endif %} {% if venue.venue-at %}at {{ venue.venue-at }}{% endif %}
 	{% for year in venue.years %}
 		{% if year.url %}
 		<a href="{{ year.url }}">{{ year.year }}</a>{% if forloop.last == false %},{% endif %}

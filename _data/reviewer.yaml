@@ -12,6 +12,12 @@
     - year: 2017
       url: https://chi2017.acm.org
 
+- venue: Rethinking ML Papers
+  venue-at: ICLR
+  years:
+    - year: 2021
+      url: https://rethinkingmlpapers.github.io/
+
 - venue: ACM Designing Interactive Systems
   venue-shorthand: DIS
   years:
@@ -81,6 +87,7 @@
 
 - venue: Human-Centered Machine Learning Perspectives Workshop
   venue-shorthand: HCMLP
+  venue-at: CHI
   years:
     - year: 2019
       url: https://gonzoramos.github.io/hcmlperspectives/
