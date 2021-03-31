@@ -58,10 +58,7 @@ I'm currently carrying a 64GB black [iPhone X][iphone], with an old, rarely touc
 
 On my homescreen sits many of the mobile versions of the desktop services I use on OS X, but notable mentions include [Fantastical][fantastical] for calendar and reminders, [Dark Sky][darksky] for down-to-the-minute weather predictions, [Inbox][inbox] by Gmail for email, the data-centric alarm clock [Sleep Cycle][sleep-cycle], and [Overcast][overcast] for podcasts.
 
-I also wear a gen 1 space gray [Apple Watch Sport][watch] with the red sport band.
-Necessary? No.
-Stylish? Hardly.
-Convenient? Certainly. 
+I also wear a gen 5 space gray [Apple Watch][watch] with the red sport band.
 
 ### Apps
 At any time of day I'm probably listening to music on [Spotify][spotify].
@@ -173,7 +170,7 @@ When trying to relax, there is no better companion than an [Eno hammock][eno].
 [day-one]: http://dayoneapp.com "Day One."
 [the-setup]: https://usesthis.com "The Setup."
 [ps]: http://paulstamatiou.com/stuff-i-use/ "Paul Stamatiou."
-[watch]: https://support.apple.com/kb/SP717?locale=en_US "Apple Watch Sport."
+[watch]: https://www.apple.com/watch/ "Apple Watch."
 [moleskin-sketch]: https://store.moleskine.com/usa/notebooks/creativity/sketchbook/p39?lang=en-us&ic=arKvSg%3D%3D "Moleskin Sketchbook."
 [the-setup]: https://usesthis.com "The Setup."
 [fluid]: http://fluidapp.com "Fluid App."
