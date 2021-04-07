@@ -23,6 +23,7 @@ video: https://www.youtube.com/watch?v=vpvozWf1aCc&feature=youtu.be
 poster: https://fredhohman.com/papers/17-dashboard-ubicomp-poster.pdf
 type: demo
 figure: /images/papers/17-dashboard-ubicomp.png
+doi: "10.1145/3123024.3123170"
 bibtex: |-
 
     @inproceedings{fang2017mhealth,
@@ -30,7 +31,8 @@ bibtex: |-
         author={Fang, Dezhi and Hohman, Fred and Polack, Peter and Sarker, Hillol and Kahng, Minsuk and Sharmin, Moushumi and al'Absi, Mustafa and Chau, Duen Horng},
         booktitle={Demo, Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM International Symposium on Wearable Computers},
         year={2017},
-        publisher={ACM}
+        publisher={ACM},
+        doi={10.1145/3123024.3123170}
     }
 ---
 

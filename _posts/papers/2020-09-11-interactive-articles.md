@@ -25,6 +25,7 @@ featured: true
 feature-order: 1
 selected: true
 type: journal
+doi: "10.23915/distill.00028"
 bibtex: |-
 
   @article{hohman2020communicating,
@@ -32,6 +33,7 @@ bibtex: |-
     title={Communicating with Interactive Articles},
     journal={Distill},
     year={2020},
+    doi={10.23915/distill.00028},
     url={https://distill.pub/2020/communicating-with-interactive-articles}
   }
 ---

@@ -27,6 +27,7 @@ featured: true
 selected: true
 type: conference
 figure: /images/papers/20-chameleon-chi.png
+doi: "10.1145/3313831.3376177"
 bibtex: |-
 
   @inproceedings{hohman2020understanding,
@@ -34,7 +35,8 @@ bibtex: |-
     author={Hohman, Fred and Wongsuphasawat, Kanit and Kery, Mary Beth and Patel, Kayur},
     booktitle={Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
     year={2020},
-    organization={ACM}
+    organization={ACM},
+    doi={10.1145/3313831.3376177}
   }
 ---
 

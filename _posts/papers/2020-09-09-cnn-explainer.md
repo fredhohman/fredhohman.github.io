@@ -27,6 +27,7 @@ highlight: Top of Github Trending
 type: journal
 figure: /images/papers/20-cnnexplainer-tvcg.png
 selected: true
+doi: "10.1109/TVCG.2020.3030418"
 bibtex: |-
 
   @inproceedings{wang2021cnnexplainer,
@@ -35,6 +36,7 @@ bibtex: |-
     booktitle={IEEE Transactions on Visualization and Computer Graphics (TVCG)},
     publisher={IEEE},
     year={2021},
+    doi={10.1109/TVCG.2020.3030418},
     url={https://poloclub.github.io/cnn-explainer/}
   }
 ---

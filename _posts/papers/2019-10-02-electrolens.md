@@ -22,6 +22,7 @@ image: /images/featured/electrolens.png
 featured: false
 type: conference
 figure: /images/papers/19-electrolens-vis.png
+doi: "10.1109/VISUAL.2019.8933647"
 bibtex: |-
 
     @article{lei2019electrolens,
@@ -29,7 +30,8 @@ bibtex: |-
         author={Lei, Xiangyun and Hohman, Fred and Chau, Duen Horng (Polo) and Medford, Andrew},
         journal={IEEE Visualization Conference (VIS)},
         year={2019},
-        publisher={IEEE}
+        publisher={IEEE},
+        doi={10.1109/VISUAL.2019.8933647}
     }
 ---
 

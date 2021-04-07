@@ -23,6 +23,7 @@ poster: "https://fredhohman.com/papers/17-shapeshop-chi-poster.pdf"
 collaboration: PNNL
 type: poster
 figure: /images/papers/17-shapeshop-chi.png
+doi: "10.1145/3027063.3053103"
 bibtex: |-
 
     @inproceedings{hohman2017shapeshop,
@@ -30,7 +31,8 @@ bibtex: |-
         author={Hohman, Fred and Hodas, Nathan and Chau, Duen Horng},
         booktitle={Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems},
         year={2017},
-        publisher={ACM}
+        publisher={ACM},
+        doi={10.1145/3027063.3053103}
     }
 ---
 
