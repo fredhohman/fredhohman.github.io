@@ -124,6 +124,12 @@
 		{% endif %}
 	{% endif %}
 
+	{% if pub.doi %}
+      <a href="https://doi.org/{{ pub.doi }}">
+	    <i class="fas fa-anchor" aria-hidden="true"></i> DOI
+	  </a>
+	{% endif %}
+
 	{% if pub.award %}
 	    <span class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> {{ pub.award }}</span>
 	{% endif %}

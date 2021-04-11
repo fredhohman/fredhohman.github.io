@@ -97,6 +97,10 @@ layout: default
 	{% if feature.slides %}
 	  <a href="{{ feature.slides }}"><div><i class="fas fa-window-maximize" aria-hidden="true"></i> Slides</div></a>
 	{% endif %}
+
+	{% if page.doi %}
+	  <a href="https://doi.org/{{ page.doi }}"><div><i class="fas fa-anchor" aria-hidden="true"></i> DOI</div></a>
+	{% endif %}
 	
 {% endif %}
 </div>
