@@ -39,6 +39,8 @@
 - venue: IEEE Visualization
   venue-shorthand: VIS
   years: 
+    - year: 2021
+      url: http://ieeevis.org/year/2021/welcome
     - year: 2020
       url: http://ieeevis.org/year/2020/welcome
     - year: 2019
@@ -51,6 +53,8 @@
 - venue: ACM User Interface Software and Technology Symposium
   venue-shorthand: UIST
   years:
+    - year: 2021
+      url: https://uist.acm.org/uist2021/
     - year: 2020
       url: https://uist.acm.org/uist2020/
 
