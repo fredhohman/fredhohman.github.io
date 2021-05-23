@@ -10,6 +10,25 @@ jsarr:
 
 <p id="cv-subtitle"><i>Research Scientist (<span class="cv-ai">ML</span> + <span class="cv-vis">HCI</span>)</i></p>
 
+<!-- <div id="cv-toc">
+<ul class="cv-description">
+	<li>Education</li>
+	<li>Industry Research</li>
+	<li>Academic Research</li>
+	<li>Honors and Awards</li>
+	<li>Publications</li>
+	<li>Talks</li>
+	<li>Press</li>
+	<li>Teaching</li>
+	<li>Mentoring</li>
+	<li>Grants and Funding</li>
+	<li>Interactive Articles</li>
+	<li>Service</li>
+	<li>Design</li>
+	<li>References</li>
+</ul>
+</div> -->
+
 <div>
 I research how to enable <b><span class="cv-ai">machine learning interpretability</span></b> at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create <b><span class="cv-vis">data visualizations</span></b> and write interactive articles to simply communicate complex ideas.
 </div>

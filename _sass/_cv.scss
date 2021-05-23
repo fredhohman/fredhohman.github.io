@@ -84,6 +84,14 @@
 	color: $text-color;
 }
 
+#cv-toc {
+	grid-column: page-start / kicker-end;
+}
+
+#cv-toc > ul {
+	list-style-type: none;
+}
+
 .cv-left-date {
 	grid-column: kicker !important;
 	// grid-column: 1 / kicker-start !important;
