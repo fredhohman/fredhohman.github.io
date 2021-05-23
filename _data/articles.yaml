@@ -1,5 +1,30 @@
 # feature-parametric-order: 1000 = inf
 
+- title: Making Mobile Applications Accessible with Machine Learning
+  authors: 
+    - Xiaoyi Zhang
+    - Lilian de Greef
+    - Amanda Swearngin
+    - Samuel White
+    - Kyle Murray
+    - Lisa Yu
+    - Qi Shan
+    - Jeffrey Nichols
+    - Jason Wu
+    - Chris Fleizach
+    - Aaron Everitt
+    - Jeffrey P. Bigham
+  description: Creating accessibility metadata for mobile applications from pixels
+  month: "May"
+  year: 2021
+  url: https://machinelearning.apple.com/research/mobile-applications-accessible
+  image: /images/featured/blueberry-pancakes.png
+  featured: false
+  parametric: true
+  parametric-title: Apple Machine Learning Research
+  parametric-url: https://machinelearning.apple.com/
+  feature-parametric-order: 1000
+
 - title: "Parametric Press, Issue 02: The Climate Issue"
   authors:
     - Matthew Conlen
