@@ -37,6 +37,8 @@
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for machine learning education"
   url: https://www.linkedin.com/in/robert-turko/
+  awards:
+    - "Outstanding Senior Award, College of Computing, Georgia Institute of Technology"
 
 - name: Rob Firstman
   year: "Spr. 2020 —"
