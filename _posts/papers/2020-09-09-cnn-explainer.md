@@ -23,7 +23,7 @@ video: https://youtu.be/HnWIHWFbuUQ
 code: https://github.com/poloclub/cnn-explainer
 demo: https://poloclub.github.io/cnn-explainer/
 recording: https://www.youtube.com/watch?v=M-pUfWMjXhQ&feature=youtu.be&ab_channel=IEEEVisConference2020
-highlight: Top of Github Trending
+highlight: Top of Github Trending, Top 4 TVCG Papers invited to SIGGRAPH
 type: journal
 figure: /images/papers/20-cnnexplainer-tvcg.png
 selected: true
