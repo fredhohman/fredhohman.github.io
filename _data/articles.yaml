@@ -1,7 +1,18 @@
 # feature-parametric-order: 1000 = inf
 
+- title: Learning to Generate Radiance Fields of Indoor Scenes
+  description: Developing new generative models that can learn probability distributions over realistic and unconstrained indoor scenes
+  month: "August"
+  year: 2021
+  url: https://machinelearning.apple.com/research/learning-to-generate-radiance-fields
+  featured: false
+  parametric: true
+  parametric-title: Apple ML Research
+  parametric-url: https://machinelearning.apple.com/
+  feature-parametric-order: 1000
+
 - title: Recognizing People in Photos Through Private On-Device Machine Learning
-  description: Improving the Photos experience by identifying people who matter most to us in situations where previously impossiblez
+  description: Improving the Photos experience by identifying people who matter most to us in situations where previously impossible
   month: "July"
   year: 2021
   url: https://machinelearning.apple.com/research/recognizing-people-photos
