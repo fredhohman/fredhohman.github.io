@@ -1,5 +1,16 @@
 # feature-parametric-order: 1000 = inf
 
+- title: Improving Neural Network Subspaces
+  description: Training regions in neural network subspaces to find high-accuracy solutions
+  month: "September"
+  year: 2021
+  url: https://machinelearning.apple.com/research/improving-neural-subspaces
+  featured: false
+  parametric: true
+  parametric-title: Apple ML Research
+  parametric-url: https://machinelearning.apple.com/
+  feature-parametric-order: 1000
+
 - title: Learning to Generate Radiance Fields of Indoor Scenes
   description: Developing new generative models that can learn probability distributions over realistic and unconstrained indoor scenes
   month: "August"
@@ -84,7 +95,7 @@
     - Caleb Robinson
     - Fred Hohman
   description: A toy algorithms problem
-  month: "Nov."
+  month: "November"
   year: 2018
   url: https://idyll.pub/post/blueberry-pancakes-28b1a2e1a8986c44ac091f08
   image: /images/featured/blueberry-pancakes.png
@@ -139,7 +150,7 @@
     - Ian Stewart
     - John Stasko
   description: "Exploring and visualizing Game of Thrones using color and dialogue"
-  month: "Oct."
+  month: "October"
   year: 2017
   url: https://fredhohman.com/a-viz-of-ice-and-fire/
   code: https://github.com/fredhohman/a-viz-of-ice-and-fire
