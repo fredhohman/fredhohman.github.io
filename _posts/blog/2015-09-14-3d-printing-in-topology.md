@@ -36,7 +36,7 @@ This project is officially done. I still find 3D printing fascinating and I plan
 [3dprint-1]: http://3dprint.com/28780/math-3d-printed-trefoil-knot/ "3DPrint.com Feature I."
 [3dprint-2]: http://3dprint.com/95127/3d-printed-trumpety-trefoil/ "#DPrint.com Feature II."
 [hackerspace]: https://en.wikipedia.org/wiki/Hackerspace "Hackerspace."
-[thesis]: {{ site.url }}/assets/thesis.pdf
+[thesis]: {{ site.url }}/papers/fred-hohman-undergrad-thesis.pdf
 
 [^fn-lt]: AKA mathgrrl on the internet.
 [^fn-hackerspace]: If you have never been to one, I highly recommend it!
