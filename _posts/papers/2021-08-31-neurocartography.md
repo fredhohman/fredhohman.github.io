@@ -31,7 +31,7 @@ featured: false
 selected: false
 type: journal
 figure: /images/papers/21-neurocartography-vis.png
-# doi: "10.1109/TVCG.2019.2934659" #add to bibtex
+doi: "10.1109/TVCG.2021.3114858"
 bibtex: |-
 
   @article{park2022neurocartography,
@@ -40,6 +40,7 @@ bibtex: |-
     journal={IEEE Transactions on Visualization and Computer Graphics (TVCG)},
     year={2022},
     publisher={IEEE},
+    doi={10.1109/TVCG.2021.3114858},
     url={https://poloclub.github.io/neuro-cartography/}
   }
 ---
