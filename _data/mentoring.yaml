@@ -3,9 +3,17 @@
   intern-url: https://www.apple.com/
   year: "Spring + Summer 2021"
   degree: "Ph.D. in Information Technology, Ulm University"
-  description: "Interactive visualization for machine learning interpretability"
+  description: "Reusable, explorable, and sharable data science components"
   url: https://a13x.io
-  
+
+- name: Angel Alexander Cabrera
+  intern: Apple
+  intern-url: https://www.apple.com/
+  year: "Summer 2021"
+  degree: "Ph.D. in Human-computer Interaction, Carnegie Mellon University"
+  description: "Reusable, explorable, and sharable data science components"
+  url: http://cabreraalex.com/
+
 - name: Jochen Görtler
   intern: Apple
   intern-url: https://www.apple.com/
