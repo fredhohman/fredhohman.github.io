@@ -1,6 +1,8 @@
 - venue: ACM International Conference on Intelligent User Interfaces
   venue-shorthand: IUI
   years:
+    - year: 2022
+      url: http://iui.acm.org/2022/
     - year: 2021
       url: http://iui.acm.org/2021/
     - year: 2020
