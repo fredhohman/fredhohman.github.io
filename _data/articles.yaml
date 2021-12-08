@@ -1,5 +1,16 @@
 # feature-parametric-order: 1000 = inf
 
+- title: Interpretable Adaptive Optimization
+  description: Algorithms for measuring and understanding the best user experiences
+  month: "December"
+  year: 2021
+  url: https://machinelearning.apple.com/research/panoptic-segmentation
+  featured: false
+  parametric: true
+  parametric-title: Apple ML Research
+  parametric-url: https://machinelearning.apple.com/
+  feature-parametric-order: 1000
+
 - title: On-device Panoptic Segmentation for Camera Using Transformers
   description: Efficient pixel-level understanding for the Camera
   month: "October"
