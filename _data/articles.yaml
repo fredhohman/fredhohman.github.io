@@ -1,5 +1,16 @@
 # feature-parametric-order: 1000 = inf
 
+- title: Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time
+  description: Developing flexible, interpretable models to assess how the effect of mobility changes
+  month: "January"
+  year: 2022
+  url: https://machinelearning.apple.com/research/modeling-covid-mobility
+  featured: false
+  parametric: true
+  parametric-title: Apple ML Research
+  parametric-url: https://machinelearning.apple.com/
+  feature-parametric-order: 1000
+
 - title: Interpretable Adaptive Optimization
   description: Algorithms for measuring and understanding the best user experiences
   month: "December"
