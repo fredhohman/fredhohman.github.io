@@ -21,7 +21,7 @@ demo: https://poloclub.github.io/neuro-cartography/
 pdf: https://arxiv.org/abs/2108.12931
 # slides: /slides/19-summit-vast-slides.pdf
 # video: https://www.youtube.com/watch?v=J4GMLvoH1ZU&feature=youtu.be
-# recording: https://vimeo.com/368704428
+recording: https://www.youtube.com/watch?v=gx0dDNXFJA0
 code: https://github.com/poloclub/neuro-cartography
 # feature-title: NeuroCartography
 # feature-description: "Scalable Automatic Visual Summarization of Concepts in Deep Neural Networks"
