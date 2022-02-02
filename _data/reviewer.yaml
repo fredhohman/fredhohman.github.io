@@ -14,6 +14,12 @@
     - year: 2017
       url: https://chi2017.acm.org
 
+- venue: Visualization Meets AI
+  venue-at: PacificVis
+  years:
+    - year: 2022
+      url: https://vismeetsai.github.io/
+
 - venue: Rethinking ML Papers
   venue-at: ICLR
   years:
