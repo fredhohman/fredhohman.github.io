@@ -65,6 +65,18 @@ title: Home
 </div>
 
 <h2 class="feature-title l-middle">
+	Featured <a href="/cv#education">Dissertation Publications</a>
+</h2>
+<div class="cover-wrapper l-screen">
+	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
+	{% for feature in sortedPublications %}
+		{% if feature.dissertation == true %}
+			{% include feature.html feature=feature %}
+		{% endif %}
+	{% endfor %}
+</div>
+
+<h2 class="feature-title l-middle">
 	Featured <a href="/cv#interactive-articles">Interactive Articles</a>
 </h2>
 <div class="cover-wrapper l-screen">

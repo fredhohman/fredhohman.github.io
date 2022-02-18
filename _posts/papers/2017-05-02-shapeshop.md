@@ -13,7 +13,6 @@ venue-shorthand: CHI
 location: Denver, CO, USA
 year: 2017
 icon: shapeshop.png
-tagline: Understanding Deep Learning Representations via Interactive Experimentation
 pdf: "https://fredhohman.com/papers/17-shapeshop-chi.pdf"
 acm: "https://dl.acm.org/citation.cfm?id=3027063.3053103"
 url: "https://fredhohman.com/papers/shapeshop"

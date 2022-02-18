@@ -5,7 +5,7 @@ permalink: papers/interactive-classification
 id: ie
 title: Interactive Classification for Deep Learning Interpretation
 authors:
-    - Angel Cabrera
+    - Ángel Alexander Cabrera
     - Fred Hohman
     - Jason Lin
     - Duen Horng (Polo) Chau
