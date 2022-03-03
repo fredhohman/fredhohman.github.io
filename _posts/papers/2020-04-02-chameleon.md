@@ -14,7 +14,7 @@ venue-shorthand: CHI
 location: Honolulu, HI, USA
 year: 2020
 url: /papers/chameleon
-pdf: /papers/20-chameleon-chi.pdf
+pdf: https://machinelearning.apple.com/research/understanding-visualizing-data-iteration-machine-learning
 video: https://youtu.be/xWRU88FykpA
 preview: https://youtu.be/fXVeBgK-ix4
 slides: /slides/20-chameleon-chi-slides.pdf
