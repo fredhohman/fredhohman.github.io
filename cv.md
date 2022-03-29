@@ -8,7 +8,7 @@ jsarr:
 
 <h1 id="cv-title"><a href="{{ site.url }}">Fred Hohman</a></h1>
 
-<p id="cv-subtitle"><i>Research Scientist (<span class="cv-ai">ML</span> + <span class="cv-vis">HCI</span>)</i></p>
+<p id="cv-subtitle"><i>Research Scientist (<span class="cv-vis">HCI</span> + <span class="cv-ai">ML</span>)</i></p>
 
 <!-- <div id="cv-toc">
 <ul class="cv-description">
@@ -30,7 +30,7 @@ jsarr:
 </div> -->
 
 <div>
-I research how to enable <b><span class="cv-ai">machine learning interpretability</span></b> at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create <b><span class="cv-vis">data visualizations</span></b> and write interactive articles to simply communicate complex ideas.
+I design and develop <b><span class="cv-vis">interactive interfaces</span></b> to help people <b><span class="cv-ai">understand machine learning</span></b> models and data-driven systems. Besides building tools, I also create data visualizations and write interactive articles to simply communicate complex ideas.
 </div>
 
 <div class="cv-spacer"></div>
