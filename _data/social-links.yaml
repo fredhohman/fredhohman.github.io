@@ -42,7 +42,7 @@
   description: CV PDF
   color: "#ba2818"
   class: "far fa-file-pdf icon"
-  url: "https://fredhohman.com/cv.pdf"
+  url: "/cv.pdf"
   on-homepage: false
   cv-group: 1
 
@@ -50,5 +50,5 @@
   description: Here's my CV
   color: "#515151"
   class: "fa fa-address-card icon"
-  url: "https://fredhohman.com/cv/"
+  url: "/cv"
   on-homepage: false
