@@ -31,3 +31,4 @@ excerpt_separator: <!--more-->
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
