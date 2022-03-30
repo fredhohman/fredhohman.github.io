@@ -18,7 +18,9 @@ Things I do, including research, academic course projects, and miscellaneous int
 ### Interactive Articles
 <ul>
     {% for article in site.data.articles %}
-        <li><a href="{{ article.url }}" style="text-transform: capitalize">{{ article.title }}</a> <small style="color: #c0c0c0">{{ article.year }}</small></li>
+        {% unless article.feature-only %}
+            <li><a href="{{ article.url }}" style="text-transform: capitalize">{{ article.title }}</a> <small style="color: #c0c0c0">{{ article.year }}</small></li>
+        {% endunless %}
     {% endfor %}
 </ul>
 
