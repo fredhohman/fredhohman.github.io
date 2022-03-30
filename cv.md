@@ -189,8 +189,11 @@ My research is supported by a NASA Space Technology Research Fellowship.
 ## Interactive Articles
 
 {% for article in site.data.articles %}
+{% unless article.feature-only %}
 {% include cv/article.html article=article %}
+{% endunless %}
 {% endfor %}
+
 
 <!-- ## Technology Skills
 

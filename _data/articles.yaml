@@ -1,5 +1,17 @@
 # feature-parametric-order: 1000 = inf
 
+- title: Machine Learning Research Articles
+  year: "Present — 2021"
+  url: https://machinelearning.apple.com/research?page=1&q=&type=article
+  image: /images/featured/apple.png
+  feature-title: Machine Learning Research Articles
+  feature-description: Interactively explore advancements in machine learning research at Apple
+  feature-order: 1
+  featured: true
+  parametric: false
+  feature-parametric-order: 1000
+  feature-only: true
+
 - title: Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time
   description: Developing flexible, interpretable models to assess how the effect of mobility changes
   month: "January"
@@ -92,7 +104,7 @@
   image: /images/featured/parametric-press-issue-02.png
   feature-title: "Parametric Press: Issue 02"
   feature-description: "Interactively analyze and learn about our climate’s past, present, and future"
-  feature-order: 1
+  feature-order: 2
   featured: true
   parametric-issue: true
   parametric-issue-number: 2
@@ -116,7 +128,7 @@
   award: "Top of Hacker News, twice"
   feature-title: "Parametric Press: Issue 01"
   feature-description: "A born-digital magazine showcasing the expository power of the web"
-  feature-order: 2
+  feature-order: 3
   featured: true
   parametric-issue: true
   parametric-issue-number: 1
@@ -135,7 +147,6 @@
   feature-title: Blueberry Pancakes
   feature-description: A breakfast-themed toy algorithms problem
   code: https://github.com/fredhohman/blueberry-pancakes
-  feature-order: 4
   featured: false
   parametric: false
   feature-parametric-order: 1000
@@ -154,7 +165,7 @@
   feature-description: "Explore the methods data scientists use to visualize high-dimensional data"
   code: https://github.com/mathisonian/dimensionality-reduction
   slides: /slides/18-dr-visxai-slides.pdf
-  feature-order: 3
+  feature-order: 4
   featured: true
   parametric: false
   feature-parametric-order: 1000
@@ -171,8 +182,7 @@
   feature-title: The Math of Card Shuffling
   feature-description: Riffling from factory order to complete randomness
   code: https://github.com/fredhohman/card-shuffling
-  feature-order: 4
-  featured: true
+  featured: false
   parametric: false
   feature-parametric-order: 1000
 
