@@ -29,6 +29,7 @@ code: https://github.com/poloclub/neuro-cartography
 featured: false
 # feature-order: 0
 selected: false
+highlight: Top 4 TVCG Papers invited to SIGGRAPH
 type: journal
 figure: /images/papers/21-neurocartography-vis.png
 doi: "10.1109/TVCG.2021.3114858"
