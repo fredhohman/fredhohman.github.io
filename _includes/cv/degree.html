@@ -53,6 +53,10 @@
 			<i class="fas fa-video" aria-hidden="true"></i> Thesis Recording
 		</a>
 	{% endif %}
+
+	{% if degree.award %}
+		<span class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> {{ degree.award }}</span>
+	{% endif %}
 </div>
 
 <div class="cv-spacer"></div>

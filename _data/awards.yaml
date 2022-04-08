@@ -1,3 +1,7 @@
+- name: ACM SIGCHI Outstanding Dissertation Award
+  description: 'For "Interactive Scalable Interfaces for Machine Learning Interpretability"'
+  year: 2022
+
 - name: Best Paper at ACM CHI Conference
   description: 'For "Neo: Generalizing Confusion Matrix Visualization to Hierarchical and Multi-Output Labels"'
   year: 2022
