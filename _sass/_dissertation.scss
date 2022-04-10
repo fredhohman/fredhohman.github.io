@@ -1,0 +1,46 @@
+.dissertation-subtitle {
+  font-size: 1.35rem;
+}
+
+.dissertation-wrapper {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  // border: 1px solid;
+  // border-color: $border-color;
+  display: flex;
+  flex-direction: row;
+}
+
+.dissertation-cover {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.dissertation-cover > a > img {
+  border: 1px solid;
+  border-color: $border-color;
+}
+
+.dissertation-cover > a > img:hover {
+  border-color: $dark-gray;
+}
+
+.dissertation-info {
+  flex: 3;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+
+.dissertation-info > div > p {
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+}
+
+@media screen and (max-width: $mobile) {
+  .dissertation-cover {
+    flex: 2;
+  }
+}
