@@ -2,15 +2,15 @@
 <b>{{ degree.degree }}</b>
 <div><a href="{{ degree.institution-url }}">{{ degree.institution }}</a>, {{ degree.location }}</div>
 
-{% if degree.advisor %}
-	<div class="cv-description">
-		Advisor: {% include person.html person=degree.advisor %}{% endif %}{% if degree.co-advisor %}, Co-advisor: {% include person.html person=degree.co-advisor %}
-	</div>
-{% endif %}
-
 {% if degree.thesis %}
 	<div class="cv-description">
 		Thesis: <a href="{{ degree.thesis-link }}"><i>{{ degree.thesis }}</i></a>
+	</div>
+{% endif %}
+
+{% if degree.advisor %}
+	<div class="cv-description">
+		Advisor: {% include person.html person=degree.advisor %}{% endif %}{% if degree.co-advisor %}, Co-advisor: {% include person.html person=degree.co-advisor %}
 	</div>
 {% endif %}
 
@@ -35,8 +35,10 @@
 	</div>
 {% endif %}
 
-{% if degree.award %}
-	<span class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> {{ degree.award }}</span>
+{% if degree.awards %}
+	{% for award in degree.awards %}
+		<span class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> {{ award }}</span>
+	{% endfor %}
 {% endif %}
 
 <div class="pub-misc">
