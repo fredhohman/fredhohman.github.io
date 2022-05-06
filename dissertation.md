@@ -13,15 +13,16 @@ Since machine learning now impacts people's daily lives, we answer these questio
 
 ##### 1. Enabling Machine Learning Interpretability
 
-User research with practitioners guides the creation of our novel operationalization for interpretability, which helps tool builders design interactive systems for model and prediction explanations. We develop two such visualization systems, [Gamut][gamut] and [TeleGam][telegam], which we deploy at Microsoft Research as a design probe to investigate the emerging practice of interpreting models. 
+User research with practitioners guides the creation of our novel operationalization for interpretability, which helps tool builders design interactive systems for model and prediction explanations. We develop two such visualization systems, <a href="{{ site.url }}/papers/gamut" class="sc">Gamut</a> and <a href="{{ site.url }}/papers/telegam" class="sc">TeleGam</a>, which we deploy at Microsoft Research as a design probe to investigate the emerging practice of interpreting models. 
 
 ##### 2. Scaling Deep Learning Interpretability
 
-Our first-of-its-kind [Interrogative Survey][deepvis] reveals critical yet understudied areas of deep learning interpretability research, such as the lack of higher-level explanations for neural networks. Through [Summit][summit], an interactive visualization system, we present the first scalable graph representation that summarizes and visualizes what features deep learning models learn and how those features interact to make predictions (e.g., InceptionNet trained on ImageNet with 1.2M+ images).
+Our first-of-its-kind <a href="{{ site.url }}/papers/deepvis" class="sc">Interrogative Survey</a> reveals critical yet understudied areas of deep learning interpretability research, such as the lack of higher-level explanations for neural networks. Through <a href="{{ site.url }}/papers/summit" class="sc">Summit</a>, an interactive visualization system, we present the first scalable graph representation that summarizes and visualizes what features deep learning models learn and how those features interact to make predictions (e.g., InceptionNet trained on ImageNet with 1.2M+ images).
 
 ##### 3. Communicating Interpretability with Interactive Articles
 
-We use [interactive articles][interactive-articles], a new medium on the web, to teach people about machine learning's capabilities and limitations, while developing a new interactive publishing initiative called the [Parametric Press][parametric]. From our success publishing interactive content at scale, we generalize and detail the affordances of interactive articles by connecting techniques used in practice and the theories and empirical evaluations put forth by diverse disciplines of research.
+We use <a href="{{ site.url }}/papers/interactive-articles" class="sc">Interactive Articles</a>, a new medium on the web, to teach people about machine learning's capabilities and limitations, while developing a new interactive publishing initiative called the <a href="{{ site.url }}/papers/parametric" class="sc">Parametric Press</a>. From our success publishing interactive content at scale, we generalize and detail the affordances of interactive articles by connecting techniques used in practice and the theories and empirical evaluations put forth by diverse disciplines of research.
+
 
 ***
 
