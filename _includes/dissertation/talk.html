@@ -1,0 +1,16 @@
+<div class="talk-wrapper l-middle">
+    <div class="talk-video">
+        <iframe id="video-{{ talk.key }}" class="video" width="100%" height="425" src="{{ talk.url }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    
+    <div class="talk-sidebar">
+        <ul>
+            {% for part in talk.parts %}
+            <li class="video-part-link-{{ talk.key }}" data-start="{{ part.start }}" data-end="{{ part.end }}">
+                <img class="talk-thumbnail" src="{{ part.thumbnail }}">
+                <div class="talk-sidebar-timestamp"><span>{{ part.part }} <span class="talk-sidebar-timestamp-badge">{{ part.timestamp }}</span></span></div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
