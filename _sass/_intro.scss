@@ -98,7 +98,8 @@ $cv-icon-aspect-ratio: 1.33;
 }
 
 #everything-else > a {
-	border: 1px solid $border-color;
+	background-color: $black-025;
+	border-radius: 0.5rem;
 	padding: 1rem 0.75rem;
 	margin: 0.25rem;
 	text-align: center;
@@ -106,11 +107,13 @@ $cv-icon-aspect-ratio: 1.33;
 	display: flex;
     flex-direction: column;
     justify-content: center;
+	transition: all .2s ease-in-out;
 }
 
 #everything-else > a:hover {
-	border: 1px solid $dark-gray;
 	text-decoration: none;
+	background: $black-05;
+	transform: scale(1.03);
 }
 
 
