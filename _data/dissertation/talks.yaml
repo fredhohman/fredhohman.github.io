@@ -1,0 +1,87 @@
+- key: defense
+  url: https://www.youtube.com/embed/TNH8RqyNfmo?enablejsapi=1
+  parts:
+    - part: Introduction and Logistics
+      timestamp: "0:00"
+      start: 0
+      end: 133
+      thumbnail: "../images/dissertation/thumbnails/defense/1.jpg"
+    - part: Thesis Motivation and Overview
+      timestamp: "2:13"
+      start: 133
+      end: 528
+      thumbnail: "../images/dissertation/thumbnails/defense/2.jpg"
+    - part: "Part I: Enabling Machine Learning Interpretability"
+      timestamp: "8:48"
+      start: 528
+      end: 1296
+      thumbnail: "../images/dissertation/thumbnails/defense/3.jpg"
+    - part: "Part II: Scaling Deep Learning Interpretability"
+      timestamp: "21:36"
+      start: 1296
+      end: 2111
+      thumbnail: "../images/dissertation/thumbnails/defense/4.jpg"
+    - part: "Part III: Communicating Interpretability with Interactive Articles"
+      timestamp: "35:11"
+      start: 2111
+      end: 2848
+      thumbnail: "../images/dissertation/thumbnails/defense/5.jpg"
+    - part: Conclusion and Future Work
+      timestamp: "47:28"
+      start: 2848
+      end: 3229
+      thumbnail: "../images/dissertation/thumbnails/defense/6.jpg"
+    - part: "Acknowledgements and Thank You's"
+      timestamp: "53:49"
+      start: 3229
+      end: 3501
+      thumbnail: "../images/dissertation/thumbnails/defense/7.jpg"
+    - part: Q&A
+      timestamp: "58:21"
+      start: 3501
+      end: 6349
+      thumbnail: "../images/dissertation/thumbnails/defense/8.jpg"
+
+- key: award
+  url: https://www.youtube.com/embed/hOkmzExNKYk?enablejsapi=1
+  parts:
+    - part: Introduction
+      timestamp: "0:00"
+      start: 0
+      end: 24
+      thumbnail: "../images/dissertation/thumbnails/award/1.jpg"
+    - part: Agenda
+      timestamp: "0:24"
+      start: 24
+      end: 76
+      thumbnail: "../images/dissertation/thumbnails/award/2.jpg"
+    - part: "Part I: Thesis Motivation and Overview"
+      timestamp: "1:16"
+      start: 76
+      end: 305
+      thumbnail: "../images/dissertation/thumbnails/award/3.jpg"
+    - part: "Dissertation Summary"
+      timestamp: "5:05"
+      start: 305
+      end: 604
+      thumbnail: "../images/dissertation/thumbnails/award/4.jpg"
+    - part: "Part II: Research Reflections"
+      timestamp: "10:04"
+      start: 604
+      end: 835
+      thumbnail: "../images/dissertation/thumbnails/award/5.jpg"
+    - part: Advice to Junior Researchers and Students
+      timestamp: "13:55"
+      start: 835
+      end: 923
+      thumbnail: "../images/dissertation/thumbnails/award/6.jpg"
+    - part: "Acknowledgements and Thank You's"
+      timestamp: "15:23"
+      start: 923
+      end: 950
+      thumbnail: "../images/dissertation/thumbnails/award/7.jpg"
+    - part: Q&A
+      timestamp: "15:50"
+      start: 950
+      end: 1071
+      thumbnail: "../images/dissertation/thumbnails/award/8.jpg"
