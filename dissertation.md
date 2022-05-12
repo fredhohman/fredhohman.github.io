@@ -36,8 +36,6 @@ This thesis contributes to *information visualization*, *machine learning*, and 
 
 ## SIGCHI Dissertation Award Talk
 
-<!-- For "oustanding contributions to the field of HCI". Award link here. -->
-
 After motivating and summarizing my dissertation, I reflect back upon my work and highlight bits of my research experience thus far, including the challenges and opportunities of pursuing interdisciplinary work within machine learning and human-computer interaction.
 <!-- ACM link? -->
 
@@ -54,7 +52,6 @@ After motivating and summarizing my dissertation, I reflect back upon my work an
 ## Thesis Defense
 
 **Fred Hohman**  
-<!-- School of Computational Science & Engineering   -->
 College of Computing  
 Georgia Institute of Technology
 
