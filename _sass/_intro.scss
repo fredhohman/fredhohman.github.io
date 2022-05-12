@@ -23,6 +23,7 @@ $cv-icon-aspect-ratio: 1.33;
 
 #intro-image {
 	grid-row: 2;
+	border-radius: 0.5rem;
 }
 
 #intro-title-wrapper {
@@ -53,7 +54,7 @@ $cv-icon-aspect-ratio: 1.33;
 #intro-image-links {
 	grid-row: 3;
 	background-color: $near-white;
-	border-left: 2px solid $moon-gray;
+	border-radius: 0.5rem;
 	padding: 1rem;
 	font-size: 1rem !important;
 	display: flex;
@@ -64,7 +65,7 @@ $cv-icon-aspect-ratio: 1.33;
 #intro-cv-wrapper {
 	grid-row: 4;
 	background-color: $intro-blue;
-	border-left: 2px solid $light-blue;
+	border-radius: 0.5rem;
 	padding: 1rem;
 	font-size: 1rem !important;
 }
