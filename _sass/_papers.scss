@@ -67,15 +67,18 @@ $author-image-size: 80px;
 }
 
 #paper-materials > a {
-	border: 1px solid $border-color;
+	background-color: $black-025;
+	border-radius: 0.5rem;
 	padding: 0.75rem;
 	margin: 0.25rem;
 	text-align: center;
 	grid-column: 1fr;
+	transition: all .2s ease-in-out;
 }
 
 #paper-materials > a:hover {
-	border: 1px solid $dark-gray;
+	background: $black-05;
+	transform: scale(1.03);
 	text-decoration: none;
 }
 

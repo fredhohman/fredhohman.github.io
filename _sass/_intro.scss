@@ -23,6 +23,7 @@ $cv-icon-aspect-ratio: 1.33;
 
 #intro-image {
 	grid-row: 2;
+	border-radius: 0.5rem;
 }
 
 #intro-title-wrapper {
@@ -53,7 +54,7 @@ $cv-icon-aspect-ratio: 1.33;
 #intro-image-links {
 	grid-row: 3;
 	background-color: $near-white;
-	border-left: 2px solid $moon-gray;
+	border-radius: 0.5rem;
 	padding: 1rem;
 	font-size: 1rem !important;
 	display: flex;
@@ -64,7 +65,7 @@ $cv-icon-aspect-ratio: 1.33;
 #intro-cv-wrapper {
 	grid-row: 4;
 	background-color: $intro-blue;
-	border-left: 2px solid $light-blue;
+	border-radius: 0.5rem;
 	padding: 1rem;
 	font-size: 1rem !important;
 }
@@ -80,10 +81,11 @@ $cv-icon-aspect-ratio: 1.33;
 }
 
 .feature-title {
-	margin-top: 2rem;
-	margin-bottom: 0.5rem;
+	margin-top: 2.5rem;
+	margin-bottom: 1rem;
 	font-size: 2rem;
 	font-weight: 400;
+	// text-align: center;
 }
 
 .feature-title > a {
@@ -96,7 +98,8 @@ $cv-icon-aspect-ratio: 1.33;
 }
 
 #everything-else > a {
-	border: 1px solid $border-color;
+	background-color: $black-025;
+	border-radius: 0.5rem;
 	padding: 1rem 0.75rem;
 	margin: 0.25rem;
 	text-align: center;
@@ -104,11 +107,13 @@ $cv-icon-aspect-ratio: 1.33;
 	display: flex;
     flex-direction: column;
     justify-content: center;
+	transition: all .2s ease-in-out;
 }
 
 #everything-else > a:hover {
-	border: 1px solid $dark-gray;
 	text-decoration: none;
+	background: $black-05;
+	transform: scale(1.03);
 }
 
 
