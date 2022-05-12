@@ -16,7 +16,8 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		I received my PhD from Georgia Tech where I worked with <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="http://va.gatech.edu/endert/">Alex Endert</a> on enabling machine learning interpretability at scale and for everyone.<br><a href="/dissertation">My dissertation</a> won the <i>ACM SIGCHI Outstanding Dissertation Award</i> and was supported by a <i>NASA Space Technology Research Fellowship</i>.
+		I received my PhD from Georgia Tech where I worked with <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="http://va.gatech.edu/endert/">Alex Endert</a>. My dissertation on <a href="/dissertation">interactive interfaces for interpretability</a> won the <i>ACM SIGCHI Outstanding Dissertation Award</i> and was supported by a <i>NASA Space Technology Research Fellowship</i>.
+		<!-- enabling machine learning interpretability at scale and for everyone -->
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
