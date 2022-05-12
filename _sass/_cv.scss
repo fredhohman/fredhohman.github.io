@@ -182,8 +182,9 @@
 
 .bibtex-wrapper {
 	overflow-x: scroll;
-	background-color: $near-white;
-	border-left: 2px solid $moon-gray;
+	background-color: $black-025;
+	border-radius: 0.5rem;
+	// border-left: 2px solid $moon-gray;
 	padding-left: 1rem;
 	padding-top: 0.75rem;
 	padding-bottom: 0rem;
