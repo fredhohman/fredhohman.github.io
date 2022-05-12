@@ -70,8 +70,6 @@
   padding-bottom: 1rem;
   padding-right: 0rem;
   padding-left: 0rem;
-  // border-radius: 16px;
-  // background-color: $black-025;
 }
 
 .talk-sidebar > ul {
@@ -94,10 +92,12 @@
   cursor: pointer;
   column-gap: 0.75rem;
   font-weight: 500;
+  transition: all .2s ease-in-out;
 }
 
 .talk-sidebar > ul > li:hover {
   background-color: $black-10;
+  transform: scale(1.02)
 }
 
 .talk-thumbnail {
