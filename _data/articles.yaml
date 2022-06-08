@@ -1,5 +1,27 @@
 # feature-parametric-order: 1000 = inf
 
+- title: A Multi-Task Neural Architecture for On-Device Scene Analysis
+  description: Unified backbone to build and maintain scene analysis workflows in production
+  month: "June"
+  year: 2022
+  url: https://machinelearning.apple.com/research/on-device-scene-analysis
+  featured: false
+  parametric: true
+  parametric-title: Apple ML Research
+  parametric-url: https://machinelearning.apple.com/
+  feature-parametric-order: 1000
+
+- title: Deploying Transformers on the Apple Neural Engine
+  description: Open-source implementation for efficient transformers on Apple hardware
+  month: "June"
+  year: 2022
+  url: https://machinelearning.apple.com/research/apple-neural-engine
+  featured: false
+  parametric: true
+  parametric-title: Apple ML Research
+  parametric-url: https://machinelearning.apple.com/
+  feature-parametric-order: 1000
+
 - title: Machine Learning Research Articles
   year: "Present — 2021"
   url: https://machinelearning.apple.com/research?page=1&q=&type=article
