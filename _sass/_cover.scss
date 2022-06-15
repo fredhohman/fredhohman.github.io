@@ -68,7 +68,11 @@ $cover-width: 8.5px;
 
 .cover-subtitle {
   font-size: 0.875rem;
-  color: $gray;
+  color: $black-60;
+  padding-top: 0.35rem;
+  padding-bottom: 0.5rem;
+  line-height: 1.1rem;
+  font-weight: 400;
 }
 
 .cover-footer-wrapper {
@@ -78,12 +82,12 @@ $cover-width: 8.5px;
 
 .cover-venue, .cover-year, .cover-links {
   font-size: 0.75rem;
-  padding-top: 0.5rem;
 }
 
 .cover-venue {
-  font-style: italic;
+  // font-style: italic;
   font-weight: 500;
+  color: $black-60;
 }
 
 .cover-year {
@@ -107,6 +111,22 @@ $cover-width: 8.5px;
 
 .cover-link {
   text-decoration: none;
+}
+
+.cover-links > .pub-misc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  justify-content: flex-end;
+  flex-direction: row-reverse;
+  align-items: flex-start;
+}
+
+.cover-links > .pub-misc > a {
+  background-color: #ffffff;
+	padding: 0.25rem 0.35rem 0.25rem 0.35rem !important;
+	border-radius: 0.25rem;
+  margin-right: 0rem;
 }
 
 @media screen and (max-width: $mobile) {
