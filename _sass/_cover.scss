@@ -129,6 +129,11 @@ $cover-width: 8.5px;
   margin-right: 0rem;
 }
 
+.cover-links > .pub-misc > a:hover {
+  color: #ffffff !important;
+  background-color: $blue;
+}
+
 @media screen and (max-width: $mobile) {
   .cover {
     width: 100%;
