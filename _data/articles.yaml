@@ -1,5 +1,14 @@
 # feature-parametric-order: 1000 = inf
 
+- title: Awesome Mathematical Notation Design
+  description: List of links of techniques to help augment mathematical notation
+  month: "June"
+  year: 2022
+  url: https://fredhohman.com/awesome-mathematical-notation-design/
+  featured: false
+  parametric: false
+  feature-parametric-order: 1000
+
 - title: A Multi-Task Neural Architecture for On-Device Scene Analysis
   description: Unified backbone to build and maintain scene analysis workflows in production
   month: "June"
