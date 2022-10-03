@@ -1,5 +1,16 @@
 # feature-parametric-order: 1000 = inf
 
+- title: 3D Parametric Room Representation with RoomPlan
+  description: Efficiently creating 3D room mappings on-device
+  month: "October"
+  year: 2022
+  url: https://machinelearning.apple.com/research/roomplan
+  featured: false
+  parametric: true
+  parametric-title: Apple ML Research
+  parametric-url: https://machinelearning.apple.com/
+  feature-parametric-order: 1000
+
 - title: Awesome Mathematical Notation Design
   description: List of links of techniques to help augment mathematical notation
   month: "June"
