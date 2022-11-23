@@ -39,26 +39,20 @@ I design and develop <b><span class="cv-vis">interactive interfaces</span></b> t
 I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
 </div>
 
-<!-- <div class="cv-spacer"></div>
-
-<div>
-My research is supported by a NASA Space Technology Research Fellowship.
-</div> -->
-
 <div class="cv-spacer"></div>
 
 <div class="cv-image-links-wrapper">
 	<div class="cv-image-links">
 		{% for link in site.data.social-links %}
 			{% if link.cv-group == 1 %}
-				{% include social-link.html link=link %}
+				{% include cv-social-link.html link=link %}
 			{% endif %}
 		{% endfor %}
 	</div>
 	<div class="cv-image-links">
 		{% for link in site.data.social-links %}
 			{% if link.cv-group == 2 %}
-				{% include social-link.html link=link %}
+				{% include cv-social-link.html link=link %}
 			{% endif %}
 		{% endfor %}
 	</div>
