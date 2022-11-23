@@ -1,3 +1,11 @@
+- id: email
+  description: "fredhohman@apple.com"
+  color: "#515151"
+  class: "fas fa-envelope icon"
+  url: "mailto:fredhohman@apple.com"
+  on-homepage: true
+  cv-group: 1
+
 - id: twitter
   description: "@fredhohman"
   color: "#1da1f2"
@@ -36,14 +44,6 @@
   url: "https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en"
   on-homepage: true
   cv-group: 2
-
-- id: email
-  description: "fredhohman@apple.com"
-  color: "#515151"
-  class: "fas fa-envelope icon"
-  url: "mailto:fredhohman@apple.com"
-  on-homepage: true
-  cv-group: 1
 
 - id: cv
   description: CV PDF
