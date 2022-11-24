@@ -114,7 +114,7 @@ time {
 }
 
 ul, ol {
-  padding-left: 0;
+  padding-left: 1rem;
    
   @media (max-width: $mobile) {
     padding-left: 1rem;
