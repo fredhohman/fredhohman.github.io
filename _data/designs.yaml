@@ -1,3 +1,31 @@
+- title: "Patterns: Charting Data"
+  date: 2022
+  venue: Apple Human Interface Guidelines
+  description: Presenting data in a chart can help you communicate information with clarity and appeal
+  url: https://developer.apple.com/design/human-interface-guidelines/patterns/charting-data
+  venue-shorthand: Apple Human Interface Guidelines
+  year: 2022
+  recording: 
+  featured: true
+  feature-order: 1
+  feature-title: Charting Data Patterns
+  feature-description: Presenting data in a chart can help you communicate information with clarity and appeal
+  image: /images/featured/patterns.png
+
+- title: "Components: Charts"
+  date: 2022
+  venue: Apple Human Interface Guidelines
+  description: A chart helps you communicate data in a graphical, approachable way
+  url: https://developer.apple.com/design/human-interface-guidelines/components/content/charts
+  venue-shorthand: Apple Human Interface Guidelines
+  year: 2022
+  recording: 
+  featured: true
+  feature-order: 2
+  feature-title: Chart Components
+  feature-description: A chart helps you communicate data in a graphical, approachable way
+  image: /images/featured/components.png
+
 - title: "IDEA Workshop Proceedings Cover (2017, 2018)"
   date: "2017 — 2018"
   venue: "ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (IDEA)"
