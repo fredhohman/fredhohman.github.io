@@ -21,7 +21,7 @@ title: Home
 	</div>
 	<!-- <hr class="l-middle home-hr"> -->
 	<div id="everything-else" class="l-middle">
-	<a href="{{ site.url }}/cv"><div><i class="fa fa-portrait icon icon-right-space"></i>CV</div></a>
+		<a href="{{ site.url }}/cv"><div><i class="fa fa-portrait icon icon-right-space"></i>CV</div></a>
 		<a href="{{ site.url }}/projects"><div><i class="fa fa-shapes icon icon-right-space"></i>Projects</div></a>
 		<a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a>
 	</div>
@@ -40,10 +40,14 @@ title: Home
 
 <hr class="l-middle home-hr">
 
-<h2 class="feature-title l-middle">
-	Featured <a href="/cv#publications">Research Publications</a>
-</h2>
-<div class="cover-wrapper l-screen">
+<br>
+<h2 class="feature-title">Featured <a href="">Research Publications</a></h2>
+
+<p class="feature-text">
+	My latest and greatest. For fans of human-computer interaction, data visualization, and machine learning.
+</p>
+
+<div class="cover-wrapper cover-wrapper-3-col l-page">
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
 		{% if feature.featured == true %}
@@ -52,10 +56,18 @@ title: Home
 	{% endfor %}
 </div>
 
-<h2 class="feature-title l-middle">
-	Featured <a href="/dissertation">Dissertation Publications</a>
-</h2>
-<div class="cover-wrapper l-screen">
+<br>
+<h2 class="feature-title">Featured <a href="">Dissertation Publications</a></h2>
+
+<p class="feature-text">
+	For fans of human-computer interaction, data visualization, and machine learning: my latest and greatest work on desiging and developing interactive interfaces and systems for machine learning.
+</p>
+
+<!-- <div class="cover-wrapper cover-wrapper-1-col l-page">
+asd
+</div> -->
+
+<div class="cover-wrapper cover-wrapper-3-col l-page">
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
 		{% if feature.dissertation == true %}
@@ -64,15 +76,54 @@ title: Home
 	{% endfor %}
 </div>
 
-<h2 class="feature-title l-middle">
-	Featured <a href="/cv#interactive-articles">Interactive Articles</a>
-</h2>
-<div class="cover-wrapper l-screen">
-	{% assign sortedArticles = site.data.articles | sort: 'feature-order' %}
-	{% for feature in sortedArticles %}
+<br>
+<h2 class="feature-title">Apple <a href="">Chart Design Guidelines</a></h2>
+
+<p class="feature-text">
+	For fans of human-computer interaction, data visualization, and machine learning: my latest and greatest work on desiging and developing interactive interfaces and systems for machine learning.
+</p>
+
+<div class="cover-wrapper cover-wrapper-2-col l-middle">
+	{% for feature in site.data.designs %}
 		{% if feature.featured == true %}
 			{% include feature.html feature=feature %}
 		{% endif %}
+	{% endfor %}
+</div>
+
+<br>
+<h2 class="feature-title">Featured <a href="">Interactive Articles</a></h2>
+
+<p class="feature-text">
+	For fans of human-computer interaction, data visualization, and machine learning: my latest and greatest work on desiging and developing interactive interfaces and systems for machine learning.
+</p>
+
+<div class="cover-wrapper cover-wrapper-3-col l-page">
+	{% assign sortedArticles = site.data.articles | where: "featured", true %}
+	{% assign ia = site.categories.papers | where:"permalink", "papers/interactive-articles" %}
+
+	{% assign feature = sortedArticles[0] %}
+	{% include feature.html feature=feature %}
+
+	{% assign feature = ia[0] %}
+	{% include feature.html feature=feature %}
+
+	{% assign feature = sortedArticles[1] %}
+	{% include feature.html feature=feature %}
+
+</div>
+
+<br>
+<h2 class="feature-title"><a href="">Parametric Press</a></h2>
+
+<p class="feature-text">
+	For fans of human-computer interaction, data visualization, and machine learning: my latest and greatest work on desiging and developing interactive interfaces and systems for machine learning.
+</p>
+
+<div class="cover-wrapper cover-wrapper-2-col l-middle">
+	{% assign parametric = site.data.articles | where: "parametric-issue", true %}
+	{% for feature in parametric %}
+		{% include feature.html feature=feature %}
 	{% endfor %}
 </div>
 

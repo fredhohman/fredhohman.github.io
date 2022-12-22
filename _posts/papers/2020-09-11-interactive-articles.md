@@ -22,7 +22,7 @@ feature-title: Communicating with Interactive Articles
 feature-description: "Examining interactive article design by synthesizing theory from education, journalism, and visualization"
 image: /images/featured/interactive-articles.png
 featured: false
-dissertation: true
+dissertation: false
 feature-order: 1
 selected: true
 type: journal

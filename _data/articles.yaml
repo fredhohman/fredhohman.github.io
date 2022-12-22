@@ -147,7 +147,7 @@
   feature-title: "Parametric Press: Issue 02"
   feature-description: "Interactively analyze and learn about our climate’s past, present, and future"
   feature-order: 2
-  featured: true
+  featured: false
   parametric-issue: true
   parametric-issue-number: 2
   parametric: false
@@ -171,7 +171,7 @@
   feature-title: "Parametric Press: Issue 01"
   feature-description: "A born-digital magazine showcasing the expository power of the web"
   feature-order: 3
-  featured: true
+  featured: false
   parametric-issue: true
   parametric-issue-number: 1
   parametric: false

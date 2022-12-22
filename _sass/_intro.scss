@@ -100,15 +100,32 @@ $cv-icon-aspect-ratio: 1.33;
 }
 
 .feature-title {
-	margin-top: 2.5rem;
-	margin-bottom: 1rem;
+	margin-top: 0rem;
+	margin-bottom: 0rem;
 	font-size: 2rem;
-	font-weight: 400;
+	font-weight: 600;
 	// text-align: center;
 }
 
 .feature-title > a {
 	font-weight: 600;
+}
+
+.feature-text {
+	grid-column: text;
+	padding-bottom: 1rem;
+}
+
+.feature-more {
+	background-color: $black-025;
+	border-radius: 1rem;
+	// display: flex;
+	// flex-direction: column;
+	justify-content: center;
+	width: 6rem;
+	height: 2rem;
+	border-radius: 2rem;
+	text-align: center;
 }
 
 #everything-else {
@@ -138,11 +155,8 @@ $cv-icon-aspect-ratio: 1.33;
 
 
 @media screen and (max-width: $homepage-pre-mobile) {
-	#intro-wrapper, .feature-title, .intro-text, .home-hr {
+	#intro-wrapper, .feature-title, .feature-text, .intro-text, .home-hr {
 		grid-column: page !important;
-	}
-	.cover-wrapper {
-		max-width: 800px; // limit feature covers to two per row on small window size
 	}
 	#everything-else {
 		grid-column: page !important;
