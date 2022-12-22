@@ -99,6 +99,10 @@ $cv-icon-aspect-ratio: 1.33;
 	vertical-align: middle;
 }
 
+.home-hr {
+	margin: 2.5rem 0;
+}
+
 .feature-title {
 	margin-top: 0rem;
 	margin-bottom: 0rem;
@@ -114,6 +118,7 @@ $cv-icon-aspect-ratio: 1.33;
 .feature-text {
 	grid-column: text;
 	padding-bottom: 1rem;
+	font-size: 1.2rem;
 }
 
 .feature-more {

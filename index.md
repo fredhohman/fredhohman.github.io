@@ -40,11 +40,11 @@ title: Home
 
 <hr class="l-middle home-hr">
 
-<br>
-<h2 class="feature-title">Featured <a href="">Research Publications</a></h2>
+<!-- <br> -->
+<h2 class="feature-title">Featured <a href="/cv/#publications">Research Publications</a></h2>
 
 <p class="feature-text">
-	My latest and greatest. For fans of human-computer interaction, data visualization, and machine learning.
+	Latest research for fans of human-computer interaction, data visualization, and machine learning.
 </p>
 
 <div class="cover-wrapper cover-wrapper-3-col l-page">
@@ -57,7 +57,7 @@ title: Home
 </div>
 
 <br>
-<h2 class="feature-title">Featured <a href="">Dissertation Publications</a></h2>
+<h2 class="feature-title">Featured <a href="/dissertation">Dissertation Publications</a></h2>
 
 <p class="feature-text">
 	For fans of human-computer interaction, data visualization, and machine learning: my latest and greatest work on desiging and developing interactive interfaces and systems for machine learning.
@@ -77,7 +77,7 @@ asd
 </div>
 
 <br>
-<h2 class="feature-title">Apple <a href="">Chart Design Guidelines</a></h2>
+<h2 class="feature-title">Apple <a href="https://developer.apple.com/design/human-interface-guidelines/">Chart Design Guidelines</a></h2>
 
 <p class="feature-text">
 	For fans of human-computer interaction, data visualization, and machine learning: my latest and greatest work on desiging and developing interactive interfaces and systems for machine learning.
@@ -92,7 +92,7 @@ asd
 </div>
 
 <br>
-<h2 class="feature-title">Featured <a href="">Interactive Articles</a></h2>
+<h2 class="feature-title">Featured <a href="/cv/#interactive-articles">Interactive Articles</a></h2>
 
 <p class="feature-text">
 	For fans of human-computer interaction, data visualization, and machine learning: my latest and greatest work on desiging and developing interactive interfaces and systems for machine learning.
@@ -114,7 +114,7 @@ asd
 </div>
 
 <br>
-<h2 class="feature-title"><a href="">Parametric Press</a></h2>
+<h2 class="feature-title"><a href="https://parametric.press/about">Parametric Press</a></h2>
 
 <p class="feature-text">
 	For fans of human-computer interaction, data visualization, and machine learning: my latest and greatest work on desiging and developing interactive interfaces and systems for machine learning.
