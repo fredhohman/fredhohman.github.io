@@ -101,6 +101,7 @@ $cv-icon-aspect-ratio: 1.33;
 
 .home-hr {
 	margin: 2.5rem 0;
+	
 }
 
 .feature-title {
@@ -157,7 +158,6 @@ $cv-icon-aspect-ratio: 1.33;
 	background: $black-05;
 	transform: scale(1.03);
 }
-
 
 @media screen and (max-width: $homepage-pre-mobile) {
 	#intro-wrapper, .feature-title, .feature-text, .intro-text, .home-hr {
