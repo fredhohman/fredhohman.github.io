@@ -29,7 +29,7 @@ $cover-width: 8.5px;
   justify-content: space-between;
 
   background-color: $black-025;
-  border-radius: 1rem;
+  border-radius: 1.5rem;
   transition: all .2s ease-in-out;
 }
 
@@ -105,7 +105,7 @@ $cover-width: 8.5px;
 }
 
 .cover-image > a > img {
-  border-radius: 0.5rem;
+  border-radius: 1rem;
   border: 1px solid $black-05;
   // padding: 0.25rem;
   background-color: white;
