@@ -160,7 +160,7 @@
     - Sara Stalla
     - Victoria Uren
     - Andrew Sass
-  description: "An experimental, born-digital magazine dedicated to showcasing the expository power that’s possible when the audio, visual, and interactive capabilities of dynamic media are effectively combined"
+  description: "Examine scientific and technological phenomena that stand to shape society at large"
   month: "May"
   year: "2019"
   # year-extra: "Dec. 2018"
@@ -169,7 +169,7 @@
   image: /images/featured/parametric-press-issue-01.png
   award: "Top of Hacker News, twice"
   feature-title: "Parametric Press: Issue 01"
-  feature-description: "A born-digital magazine showcasing the expository power of the web"
+  feature-description: "Examine scientific and technological phenomena that stand to shape society at large"
   feature-order: 3
   featured: false
   parametric-issue: true

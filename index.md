@@ -40,7 +40,6 @@ title: Home
 
 <hr class="l-middle home-hr">
 
-<!-- <br> -->
 <h2 class="feature-title">Featured <a href="/cv/#publications">Research Publications</a></h2>
 
 <p class="feature-text">
@@ -60,12 +59,12 @@ title: Home
 <h2 class="feature-title">Featured <a href="/dissertation">Dissertation Publications</a></h2>
 
 <p class="feature-text">
-	For fans of human-computer interaction, data visualization, and machine learning: my latest and greatest work on desiging and developing interactive interfaces and systems for machine learning.
+	My dissertation contributed interactive interfaces to enable machine learning interpretability at scale and for everyone.
 </p>
 
-<!-- <div class="cover-wrapper cover-wrapper-1-col l-page">
-asd
-</div> -->
+<div class="cover-wrapper cover-wrapper-1-col l-text">
+	{% include dissertation/document.html details=false location=home %}
+</div>
 
 <div class="cover-wrapper cover-wrapper-3-col l-page">
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
@@ -80,7 +79,7 @@ asd
 <h2 class="feature-title">Apple <a href="https://developer.apple.com/design/human-interface-guidelines/">Chart Design Guidelines</a></h2>
 
 <p class="feature-text">
-	For fans of human-computer interaction, data visualization, and machine learning: my latest and greatest work on desiging and developing interactive interfaces and systems for machine learning.
+	Guidance and best practices to help designers and developers create the best charts for any Apple platform.
 </p>
 
 <div class="cover-wrapper cover-wrapper-2-col l-middle">
@@ -95,7 +94,8 @@ asd
 <h2 class="feature-title">Featured <a href="/cv/#interactive-articles">Interactive Articles</a></h2>
 
 <p class="feature-text">
-	For fans of human-computer interaction, data visualization, and machine learning: my latest and greatest work on desiging and developing interactive interfaces and systems for machine learning.
+	Enhanced reading experiences that demonstrate what's possible when dynamic media are effectively combined.
+ 
 </p>
 
 <div class="cover-wrapper cover-wrapper-3-col l-page">
@@ -117,7 +117,7 @@ asd
 <h2 class="feature-title"><a href="https://parametric.press/about">Parametric Press</a></h2>
 
 <p class="feature-text">
-	For fans of human-computer interaction, data visualization, and machine learning: my latest and greatest work on desiging and developing interactive interfaces and systems for machine learning.
+	A born-digital, experimental magazine dedicated to showcasing the expository power of the web.
 </p>
 
 <div class="cover-wrapper cover-wrapper-2-col l-middle">
