@@ -2,7 +2,7 @@
 
 - title: 3D Parametric Room Representation with RoomPlan
   description: Efficiently creating 3D room mappings on-device
-  month: "October"
+  month: "Oct."
   year: 2022
   url: https://machinelearning.apple.com/research/roomplan
   featured: false
@@ -56,7 +56,7 @@
 
 - title: Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time
   description: Developing flexible, interpretable models to assess how the effect of mobility changes
-  month: "January"
+  month: "Jan."
   year: 2022
   url: https://machinelearning.apple.com/research/modeling-covid-mobility
   featured: false
@@ -67,7 +67,7 @@
 
 - title: Interpretable Adaptive Optimization
   description: Algorithms for measuring and understanding the best user experiences
-  month: "December"
+  month: "Dec."
   year: 2021
   url: https://machinelearning.apple.com/research/interpretable-adaptive-optimization
   featured: false
@@ -78,7 +78,7 @@
 
 - title: On-device Panoptic Segmentation for Camera Using Transformers
   description: Efficient pixel-level understanding for the Camera
-  month: "October"
+  month: "Oct."
   year: 2021
   url: https://machinelearning.apple.com/research/panoptic-segmentation
   featured: false
@@ -89,7 +89,7 @@
 
 - title: Improving Neural Network Subspaces
   description: Training regions in neural network subspaces to find high-accuracy solutions
-  month: "September"
+  month: "Sept."
   year: 2021
   url: https://machinelearning.apple.com/research/improving-neural-subspaces
   featured: false
@@ -100,7 +100,7 @@
 
 - title: Learning to Generate Radiance Fields of Indoor Scenes
   description: Developing new generative models that can learn probability distributions over realistic and unconstrained indoor scenes
-  month: "August"
+  month: "Aug."
   year: 2021
   url: https://machinelearning.apple.com/research/learning-to-generate-radiance-fields
   featured: false
@@ -138,7 +138,7 @@
     - Sara Stalla
     - Andrew Sass
   description: "Interactively analyze our climate’s past, present, and future"
-  month: "October"
+  month: "Oct"
   year: "2020"
   # year-extra: "Dec. 2018"
   url: https://parametric.press/issue-02/
@@ -182,7 +182,7 @@
     - Caleb Robinson
     - Fred Hohman
   description: A toy algorithms problem
-  month: "November"
+  month: "Nov."
   year: 2018
   url: https://idyll.pub/post/blueberry-pancakes-28b1a2e1a8986c44ac091f08
   image: /images/featured/blueberry-pancakes.png
@@ -235,7 +235,7 @@
     - Ian Stewart
     - John Stasko
   description: "Exploring and visualizing Game of Thrones using color and dialogue"
-  month: "October"
+  month: "Oct."
   year: 2017
   url: https://fredhohman.com/a-viz-of-ice-and-fire/
   code: https://github.com/fredhohman/a-viz-of-ice-and-fire
