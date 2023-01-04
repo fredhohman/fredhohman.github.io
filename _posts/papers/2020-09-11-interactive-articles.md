@@ -10,6 +10,7 @@ authors:
   - Jeffrey Heer
   - Duen Horng (Polo) Chau
 venue: Distill
+venue-shorthand: Distill
 year: 2020
 url: /papers/interactive-articles
 pdf: https://distill.pub/2020/communicating-with-interactive-articles/

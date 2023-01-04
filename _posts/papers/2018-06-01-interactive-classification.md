@@ -20,6 +20,8 @@ video: https://youtu.be/llub5GcOF6w
 code: https://github.com/poloclub/interactive-classification
 type: demo
 figure: /images/papers/18-interactive-cvpr.png
+feature-title: Interactive Classification
+feature-description: Interactive classification for deep learning interpretation
 bibtex: |-
 
     @article{cabrera2018interactive,

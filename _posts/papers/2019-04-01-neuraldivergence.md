@@ -20,6 +20,8 @@ poster: http://haekyu.com/neural-divergence/assets/19-neural-divergence-poster.p
 slides: http://haekyu.com/neural-divergence/assets/neural-divergence-presentation.pdf
 type: poster
 figure: /images/papers/19-neuraldivergence-pacificvis.png
+feature-title: NeuralDivergence
+feature-description: Exploring and understanding neural networks by comparing activation distributions
 bibtex: |-
 
   @inproceedings{park2019neuraldivergence,
