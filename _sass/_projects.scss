@@ -1,0 +1,90 @@
+.project-spacer {
+	margin-top: 2rem;
+	display: block;
+}
+
+.project-spacer-small {
+	margin-top: 1rem;
+	display: block;
+}
+
+.project-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1rem;
+}
+
+.project {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    height: 14rem;
+    background-color: $black-025;
+    border-radius: 1rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    transition: all .2s ease-in-out;
+}
+
+.project-picture {
+    // width: 10rem;
+    border-radius: 0.5rem;
+    border: $black-05 1px solid;
+}
+
+.project-title > a {
+   color: $title-color;
+}
+
+.project-title {
+    font-weight: 600;
+    margin: 0rem;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    text-transform: capitalize;
+    // font-size: 1.15rem;
+}
+
+.project-subtitle {
+    font-size: 0.875rem;
+    color: $black-60;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    // line-height: 1.1rem;
+    font-weight: 400;
+}
+
+.project-venue {
+    font-size: 0.75rem;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    font-weight: 500;
+    color: $black-60;
+}
+
+.project:hover {
+  text-decoration: none;
+  background-color: $black-05;
+  transform: scale(1.03)
+}
+
+@media screen and (max-width: $homepage-pre-mobile) {
+    .project {
+        height: 16rem;
+    }
+  }
+
+@media (max-width: $mobile) {
+    .project-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .project {
+        height: 10rem;
+    }
+  }
