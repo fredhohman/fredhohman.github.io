@@ -78,6 +78,8 @@
   venue-shorthand: VDS
   venue-at: IEEE VIS
   years:
+    - year: 2022
+      url: http://www.visualdatascience.org/2022/
     - year: 2020
       url: http://www.visualdatascience.org/2020/
     - year: 2019
