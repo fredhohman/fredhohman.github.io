@@ -1,6 +1,8 @@
 - venue: ACM International Conference on Intelligent User Interfaces
   venue-shorthand: IUI
   years:
+    - year: 2023
+      url: http://iui.acm.org/2023/
     - year: 2022
       url: http://iui.acm.org/2022/
     - year: 2021
@@ -21,6 +23,8 @@
   venue-shorthand: VDS
   venue-at: IEEE VIS
   years:
+    - year: 2022
+      url: http://www.visualdatascience.org/2022/index.html
     - year: 2018
       url: http://www.visualdatascience.org/2018/index.html
 
