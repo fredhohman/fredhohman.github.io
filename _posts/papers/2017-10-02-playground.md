@@ -21,6 +21,8 @@ video: https://www.youtube.com/watch?v=CV-0CIKg1CA&feature=youtu.be
 poster: https://fredhohman.com/papers/17-playground-vast-poster.pdf
 type: poster
 figure: /images/papers/17-playground-vast.png
+feature-title: Graph Playgrounds
+feature-description: "3D exploration of graph layers via vertex cloning"
 bibtex: |-
 
     @inproceedings{hohman2017playground,

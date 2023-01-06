@@ -1,20 +1,39 @@
-<div class="l-middle dissertation-wrapper">
+<div class="dissertation-wrapper">
 
     <div class="dissertation-cover">
+        {% if include.location == home %}
+        <a href="/dissertation">
+        {% else %}
         <a href="../papers/fred-hohman-thesis.pdf">
-            <img src="../images/dissertation/dissertation-cover.png">
+        {% endif %}
+            <!-- <img class="dissertation-cover-picture-document" src="../images/dissertation/dissertation-cover.png"> -->
+            <img class="dissertation-cover-picture-logo" src="../images/dissertation/teaser.png">
         </a>
     </div>
 
-    <div class="dissertation-info">
+    {% if include.location == home %}
+    <div class="dissertation-info dissertation-info-home">
+    {% else %}
+    <div class="dissertation-info dissertation-info-page">
+    {% endif %}
         <div>
-            <p><b>Interactive Scalable Interfaces for Machine Learning Interpretability</b></p>
-            <p>Fred Hohman</p>
-            <p><i>Dissertation, Georgia Tech, 2020.</i></p>
-            <hr style="margin: 0.5rem 0rem">
-            <p class="document-metadata">195 pages. 28 MB.</p>
-            <p class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> ACM SIGCHI Dissertation Award</p>
-            <p class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> Georgia Tech College of Computing Dissertation Award</p>
+            <p class="dissertation-title">
+                {% if include.location == home %}
+                <a href="/dissertation">
+                {% else %}
+                <a href="../papers/fred-hohman-thesis.pdf">
+                {% endif %}
+                    Interactive Scalable Interfaces for Machine Learning Interpretability
+                </a>
+            </p>
+            <p style="font-weight: 500">Fred Hohman</p>
+            <p style="font-weight: 500; color: rgba(0,0,0,0.6);">Dissertation, Georgia Tech, 2020.</p>
+            {% if include.details==true %}
+                <hr style="margin: 0.5rem 0rem">
+                <p class="document-metadata">195 pages. 28 MB.</p>
+                <p class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> ACM SIGCHI Dissertation Award</p>
+                <p class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> Georgia Tech College of Computing Dissertation Award</p>
+            {% endif %}
         </div>
 
     </div>

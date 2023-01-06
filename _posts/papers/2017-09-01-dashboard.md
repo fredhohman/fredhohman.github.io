@@ -24,6 +24,8 @@ poster: https://fredhohman.com/papers/17-dashboard-ubicomp-poster.pdf
 type: demo
 figure: /images/papers/17-dashboard-ubicomp.png
 doi: "10.1145/3123024.3123170"
+feature-title: Pattern Mining Visualiation
+feature-description: mHealth visual discovery dashboard
 bibtex: |-
 
     @inproceedings{fang2017mhealth,

@@ -1,0 +1,87 @@
+{% assign title = project.id | split: "/" %}
+<div class="project">
+    <!-- <img class="project-picture" src="{{ project.figure }}"> -->
+
+    <div>
+        <div class="project-title"><a href="{{ project.url }}">{{ project.feature-title }}</a></div>
+        <div class="project-subtitle">{{ project.feature-description }}</div>
+        <div class="project-venue">{{ project.venue-shorthand }}, {{ project.year }}</div>
+    </div>
+
+    <div class="cover-footer-wrapper">
+        <div class="cover-links">
+
+            <span class="pub-misc">
+
+                {% if project.coming-soon %}
+                <a>
+                    <i class="fas fa-arrow-right" aria-hidden="true"></i> Coming soon!
+                </a>
+                {% endif %}
+
+                {% if project.url %}
+                <a href="{{ project.url }}">
+                    <i class="fas fa-link" aria-hidden="true"></i> Project
+                </a>
+                {% endif %}
+
+                {% if project.demo %}
+                <a href="{{ project.demo }}">
+                    <i class="fas fa-play" aria-hidden="true"></i> Demo
+                </a>
+                {% endif %}
+
+                {% if project.pdf %}
+                <a href="{{ project.pdf }}">
+                    <i class="fas fa-file-pdf" aria-hidden="true"></i> PDF
+                </a>
+                {% endif %}
+
+                {% if project.blog %}
+                <a href="{{ project.blog }}">
+                    <i class="fas fa-newspaper" aria-hidden="true"></i> Blog
+                </a>
+                {% endif %}
+
+                {% if project.video %}
+                <a href="{{ project.video }}">
+                    <i class="fas fa-film" aria-hidden="true"></i> Video
+                </a>
+                {% endif %}
+
+                {% if project.recording %}
+                <a href="{{ project.recording }}">
+                    <i class="fas fa-video" aria-hidden="true"></i> Recording
+                </a>
+                {% endif %}
+
+                {% if project.preview %}
+                <a href="{{ project.preview }}">
+                    <i class="fas fa-eye" aria-hidden="true"></i> Preview
+                </a>
+                {% endif %}
+
+                {% if project.talk %}
+                  <a href="{{ project.talk }}">
+                    <i class="fas fa-video" aria-hidden="true"></i> Talk
+                  </a>
+                {% endif %}
+
+                {% if project.code %}
+                <a href="{{ project.code }}">
+                    <i class="fas fa-code" aria-hidden="true"></i> Code
+                </a>
+                {% endif %}
+
+                {% if project.slides %}
+                <a href="{{ project.slides }}">
+                    <i class="fas fa-window-maximize" aria-hidden="true"></i> Slides
+                </a>
+                {% endif %}
+                
+            </span>
+
+        </div>
+    
+    </div>
+</div>

@@ -23,7 +23,7 @@ selected: true
 type: conference
 figure: /images/papers/20-chameleon-chi.png
 doi: "10.1145/3313831.3376177"
-featured: true
+featured: false
 feature-order: 4
 feature-title: Chameleon
 feature-description: Understanding and visualizing data iteration in machine learning

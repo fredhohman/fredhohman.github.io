@@ -16,6 +16,8 @@ demo: https://parametric.press
 pdf: /papers/19-parametric-viscomm.pdf
 code: https://github.com/ParametricPress
 type: workshop
+feature-title: Notes on Parametric Press
+feature-description: Launching an interactive digital magazine
 bibtex: |-
 
     @article{conlen2019launching,

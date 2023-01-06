@@ -17,7 +17,7 @@ url: /papers/electrolens
 pdf: https://arxiv.org/abs/1908.08381
 code: https://github.com/ray38/ElectroLens
 feature-title: ElectroLens
-feature-description: "Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations"
+feature-description: "Scaling deep learning interpretability by visualizing activation and attribution summarizations"
 image: /images/featured/electrolens.png
 featured: false
 type: conference

@@ -3,7 +3,26 @@ layout: default
 ---
 
 <div id="paper-title-wrapper" class="l-screen">
-    <h1>{{ page.title }}</h1>
+
+	<h1>{{ page.title }}</h1>
+
+	<div id="venue-bar">
+		<div id="venue">{{ page.venue }}{% if page.venue-shorthand %} ({{ page.venue-shorthand }}){% endif %}, {{ page.year }}</div>
+		{% if page.award %}
+			<div id="paper-award"><i class="fas fa-trophy" aria-hidden="true"></i> {{ page.award }}</div>
+		{% endif %}
+		
+		{% if page.highlight %}
+			<div id="paper-award"><i class="fas fa-star" aria-hidden="true"></i> {{ page.highlight }}</div>
+		{% endif %}
+		
+		{% if page.equal-contribution %}
+			<div id="paper-equal-contribution"> *Authors contributed equally</div>
+		{% endif %}
+	</div>
+
+	<hr class="project-hr">
+
     <div id="author-wrapper">
         {% for person in page.authors %}
             <div class="author">
@@ -12,98 +31,86 @@ layout: default
             </div>
         {% endfor %}
     </div>
-    <div id="venue"><i>{{ page.venue }}{% if page.venue-shorthand %} ({{ page.venue-shorthand }}){% endif %}, {{ page.year }}</i></div>
 
-    {% if page.award %}
-        <div id="paper-award"><i class="fas fa-trophy" aria-hidden="true"></i> {{ page.award }}</div>
-	{% endif %}
-	
-	{% if page.highlight %}
-		<div id="paper-award"><i class="fas fa-star" aria-hidden="true"></i> {{ page.highlight }}</div>
-	{% endif %}
-    
-    {% if page.equal-contribution %}
-        <div id="paper-equal-contribution"> *Authors contributed equally</div>
-    {% endif %}
+	<!-- <hr class="project-hr"> -->
+
+	<div id="paper-materials" class="l-text">
+		{% if page.url or page.pdf or page.coming-soon %}
+		
+			{% if page.coming-soon == true %}
+			  <a><div><i class="fas fa-arrow-right" aria-hidden="true"></i> Coming soon!</div></a>
+			{% endif %}
+		
+			{% if page.url %}
+			  <a href="{{ page.url }}"><div><i class="fas fa-link" aria-hidden="true"></i> Project</div></a>
+			{% endif %}
+		
+			{% if page.demo %}
+			  <a href="{{ page.demo }}"><div><i class="fas fa-play" aria-hidden="true"></i> Demo</div></a>
+			{% endif %}
+		
+			{% if page.pdf %}
+			  <a href="{{ page.pdf }}"><div><i class="far fa-file-pdf" aria-hidden="true"></i> PDF</div></a>
+			{% endif %}
+		
+			{% if page.blog %}
+			  <a href="{{ page.blog }}"><div><i class="fas fa-newspaper" aria-hidden="true"></i> Blog</div></a>
+			{% endif %}
+		
+			{% if page.video %}
+			  <a href="{{ page.video }}"><div><i class="fas fa-film" aria-hidden="true"></i> Video</div></a>
+			{% endif %}
+		
+			{% if page.preview %}
+			  <a href="{{ page.preview }}"><div><i class="fas fa-eye" aria-hidden="true"></i> Preview</div></a>
+			{% endif %}
+		
+			{% if page.talk %}
+			  <a href="{{ page.talk }}"><div><i class="fas fa-video" aria-hidden="true"></i> Talk</div></a>
+			{% endif %}
+		
+			{% if page.recording %}
+			  <a href="{{ page.recording }}"><div><i class="fas fa-video" aria-hidden="true"></i> Recording</div></a>
+			{% endif %}
+		
+			{% if page.slides %}
+			  <a href="{{ page.slides }}"><div><i class="fas fa-window-maximize" aria-hidden="true"></i> Slides</div></a>
+			{% endif %}
+		
+			{% if page.poster %}
+			  <a href="{{ page.poster }}"><div><i class="fas fa-image" aria-hidden="true"></i> Poster</div></a>
+			{% endif %}
+		
+			{% if page.code %}
+			  <a href="{{ page.code }}"><div><i class="fas fa-code" aria-hidden="true"></i> Code</div></a>
+			{% endif %}
+		
+			{% if page.data %}
+			  <a href="{{ page.data }}"><div><i class="fas fa-database" aria-hidden="true"></i> Data</div></a>
+			{% endif %}
+		
+			{% if feature.slides %}
+			  <a href="{{ feature.slides }}"><div><i class="fas fa-window-maximize" aria-hidden="true"></i> Slides</div></a>
+			{% endif %}
+		
+			{% if page.doi %}
+			  <a href="https://doi.org/{{ page.doi }}"><div><i class="fas fa-anchor" aria-hidden="true"></i> DOI</div></a>
+			{% endif %}
+			
+		{% endif %}
+	</div>
 
 </div>
-
-{% if page.figure %}
-<figure class="l-middle">
-    <img class="single" src="{{ page.figure }}">
-    <figcaption class="single">{{ page.caption }}</figcaption>
-</figure>
-{% endif %}
 
 <h2>Abstract</h2>
 <div>{{ page.content }}</div>
 
-<h2>Materials</h2>
-<div id="paper-materials">
-{% if page.url or page.pdf or page.coming-soon %}
-
-	{% if page.coming-soon == true %}
-	  <a><div><i class="fas fa-arrow-right" aria-hidden="true"></i> Coming soon!</div></a>
-	{% endif %}
-
-	{% if page.url %}
-	  <a href="{{ page.url }}"><div><i class="fas fa-link" aria-hidden="true"></i> Project</div></a>
-	{% endif %}
-
-	{% if page.demo %}
-	  <a href="{{ page.demo }}"><div><i class="fas fa-play" aria-hidden="true"></i> Demo</div></a>
-	{% endif %}
-
-	{% if page.pdf %}
-	  <a href="{{ page.pdf }}"><div><i class="far fa-file-pdf" aria-hidden="true"></i> PDF</div></a>
-	{% endif %}
-
-	{% if page.blog %}
-	  <a href="{{ page.blog }}"><div><i class="fas fa-newspaper" aria-hidden="true"></i> Blog</div></a>
-	{% endif %}
-
-    {% if page.video %}
-      <a href="{{ page.video }}"><div><i class="fas fa-film" aria-hidden="true"></i> Video</div></a>
-	{% endif %}
-
-	{% if page.preview %}
-	  <a href="{{ page.preview }}"><div><i class="fas fa-eye" aria-hidden="true"></i> Preview</div></a>
-	{% endif %}
-
-	{% if page.talk %}
-	  <a href="{{ page.talk }}"><div><i class="fas fa-video" aria-hidden="true"></i> Talk</div></a>
-	{% endif %}
-
-	{% if page.recording %}
-      <a href="{{ page.recording }}"><div><i class="fas fa-video" aria-hidden="true"></i> Recording</div></a>
-	{% endif %}
-
-	{% if page.slides %}
-	  <a href="{{ page.slides }}"><div><i class="fas fa-window-maximize" aria-hidden="true"></i> Slides</div></a>
-	{% endif %}
-
-	{% if page.poster %}
-	  <a href="{{ page.poster }}"><div><i class="fas fa-image" aria-hidden="true"></i> Poster</div></a>
-	{% endif %}
-
-	{% if page.code %}
-	  <a href="{{ page.code }}"><div><i class="fas fa-code" aria-hidden="true"></i> Code</div></a>
-	{% endif %}
-
-	{% if page.data %}
-	  <a href="{{ page.data }}"><div><i class="fas fa-database" aria-hidden="true"></i> Data</div></a>
-	{% endif %}
-
-	{% if feature.slides %}
-	  <a href="{{ feature.slides }}"><div><i class="fas fa-window-maximize" aria-hidden="true"></i> Slides</div></a>
-	{% endif %}
-
-	{% if page.doi %}
-	  <a href="https://doi.org/{{ page.doi }}"><div><i class="fas fa-anchor" aria-hidden="true"></i> DOI</div></a>
-	{% endif %}
-	
+{% if page.figure %}
+<figure class="l-text">
+    <img class="single" src="{{ page.figure }}">
+    <figcaption class="single">{{ page.caption }}</figcaption>
+</figure>
 {% endif %}
-</div>
 
 <h2>BibTeX</h2>
 {% if page.bibtex %}

@@ -14,12 +14,15 @@ authors:
     - Michael E. Kounavis
     - Duen Horng (Polo) Chau
 venue: Project Showcase, ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+venue-shorthand: KDD
 location: London, UK
 year: 2018
 url: /papers/compression
 pdf: http://nilakshdas.com/papers/18-compression-kdd.pdf
 code: https://github.com/poloclub/jpeg-defense
 type: workshop
+feature-title: Multi-modal Defense
+feature-description: "Compression to the rescue: defending from adversarial attacks across modalities"
 bibtex: |-
 
     @inproceedings{das2018compression,
