@@ -10,6 +10,7 @@ authors:
   - Jeffrey Heer
   - Duen Horng (Polo) Chau
 venue: Distill
+venue-shorthand: Distill
 year: 2020
 url: /papers/interactive-articles
 pdf: https://distill.pub/2020/communicating-with-interactive-articles/
@@ -22,7 +23,7 @@ feature-title: Communicating with Interactive Articles
 feature-description: "Examining interactive article design by synthesizing theory from education, journalism, and visualization"
 image: /images/featured/interactive-articles.png
 featured: false
-dissertation: true
+dissertation: false
 feature-order: 1
 selected: true
 type: journal

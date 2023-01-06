@@ -23,6 +23,8 @@ collaboration: PNNL
 type: poster
 figure: /images/papers/17-shapeshop-chi.png
 doi: "10.1145/3027063.3053103"
+feature-title: ShapeShop
+feature-description: Towards understanding deep learning representations via interactive experimentation
 bibtex: |-
 
     @inproceedings{hohman2017shapeshop,

@@ -32,7 +32,9 @@ We use <a href="{{ site.url }}/papers/interactive-articles" class="sc">Interacti
 
 This thesis contributes to *information visualization*, *machine learning*, and more importantly *their intersection*, including open-source interactive interfaces, scalable algorithms, and new, accessible communication paradigms. Our work is making significant impact in industry and society: our visualizations have been deployed and demoed at Microsoft and built into widely-used interpretability toolkits, our interactive articles have been read by 250,000+ people, and our interpretability research is supported by NASA.
 
-{% include dissertation/document.html %}
+<div class="l-middle">
+    {% include dissertation/document.html details=true location=page %}
+</div>
 
 ## SIGCHI Dissertation Award Talk
 

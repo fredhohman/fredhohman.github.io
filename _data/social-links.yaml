@@ -1,16 +1,8 @@
-- id: home
-  description: "fredhohman.com"
-  color: "#515151"
-  class: "fas fa-home icon"
-  url: "https://fredhohman.com"
-  on-homepage: false
-  cv-group: 1
-
 - id: email
-  description: "fredhohman@gatech.edu"
+  description: "fredhohman@apple.com"
   color: "#515151"
   class: "fas fa-envelope icon"
-  url: "mailto:fredhohman@gatech.edu"
+  url: "mailto:fredhohman@apple.com"
   on-homepage: true
   cv-group: 1
 
@@ -30,6 +22,21 @@
   on-homepage: true
   cv-group: 2
 
+- id: linkedin
+  description: "fredhohman"
+  color: "#0077b5"
+  class: "fab fa-linkedin-in icon"
+  url: "http://www.linkedin.com/in/fredhohman"
+  on-homepage: true
+
+- id: home
+  description: "fredhohman.com"
+  color: "#515151"
+  class: "fas fa-home icon"
+  url: "https://fredhohman.com"
+  on-homepage: false
+  cv-group: 1
+
 - id: scholar
   description: "Google Scholar"
   color: "#515151"
@@ -47,7 +54,7 @@
   cv-group: 1
 
 - id: cv-web
-  description: Here's my CV
+  description: CV
   color: "#515151"
   class: "fa fa-address-card icon"
   url: "/cv"

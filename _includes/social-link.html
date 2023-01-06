@@ -1,8 +1,3 @@
-<div class="cv-social-link" style="display: flex">
-	<div class="cv-social-link-icon-wrapper">
-		<a href="{{ link.url }}"><i class="{{ link.class }}" style="color: {{ link.color }}"></i></a>
-	</div>
-	<div class="cv-social-link-text-wrapper">
-		<a href="{{ link.url }}">{{ link.description }}</a>
-	</div>
-</div>
+<a class="social-link" href="{{ link.url }}">
+    <i class="{{ link.class }}" style="color: {{ link.color }}"></i>
+</a>
