@@ -119,6 +119,13 @@ I have collaborated with researchers, designers, developers, and artists while w
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
+### Preprint
+
+{% assign preprint = site.categories.papers | where: 'type', "preprint" %}
+{% for pub in preprint %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% endfor %}
+
 ### Workshop
 
 {% assign workshop = site.categories.papers | where: 'type', "workshop" %}
