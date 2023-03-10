@@ -30,6 +30,12 @@
     - year: 2017
       url: http://ieeevis.org/year/2017/welcome
       
+- venue: PacificVis Visual Data Storytelling
+  venue-shorthand: VisStory
+  years:
+    - year: 2023
+      url: https://visstory.github.io/
+
 - venue: ACM Conference on Fairness, Accountability, and Transparency
   venue-shorthand: FAccT
   years:
