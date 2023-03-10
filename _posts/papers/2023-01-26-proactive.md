@@ -14,7 +14,7 @@ venue: arXiv:1705.02900
 venue-shorthand: arXiv
 year: 2023
 url: /papers/designing-data
-pdf: https://arxiv.org/abs/2301.10319
+pdf: https://machinelearning.apple.com/research/designing-data
 selected: false
 type: preprint
 figure: /images/papers/23-designing-data-arxiv.png
