@@ -16,7 +16,7 @@ url: /papers/interactive-articles
 pdf: https://distill.pub/2020/communicating-with-interactive-articles/
 code: https://github.com/distillpub/post--communicating-with-interactive-articles
 demo: https://distill.pub/2020/communicating-with-interactive-articles/
-highlight: Invited Commentary Interactive Article
+highlight: Invited Commentary Interactive Article, Top of Hacker News
 type: paper
 figure: /images/papers/20-interactive-distill.png
 feature-title: Communicating with Interactive Articles
