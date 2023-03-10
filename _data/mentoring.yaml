@@ -12,6 +12,8 @@
   year: "Summer 2022"
   degree: "Ph.D. in Machine Learning, Georgia Tech"
   description: "Interactive tools for machine translation"
+  awards:
+    - "Apple Scholar, PhD Fellowship in Human Centered AI"
   url: https://zijie.wang/
 
 - name: Alex Bäuerle
