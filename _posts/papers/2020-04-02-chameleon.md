@@ -19,7 +19,7 @@ video: https://youtu.be/xWRU88FykpA
 preview: https://youtu.be/fXVeBgK-ix4
 slides: /slides/20-chameleon-chi-slides.pdf
 recording: https://www.youtube.com/watch?v=xA-5sIo1Ma8
-selected: true
+selected: false
 type: conference
 figure: /images/papers/20-chameleon-chi.png
 doi: "10.1145/3313831.3376177"

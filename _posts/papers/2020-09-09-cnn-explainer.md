@@ -28,7 +28,7 @@ type: journal
 figure: /images/papers/20-cnnexplainer-tvcg.png
 selected: true
 doi: "10.1109/TVCG.2020.3030418"
-featured: true
+featured: false
 feature-order: 3
 feature-title: CNN Explainer
 feature-description: Learning convolutional neural networks with interactive visualization

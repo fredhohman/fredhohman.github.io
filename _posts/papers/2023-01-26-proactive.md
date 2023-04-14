@@ -5,11 +5,11 @@ categories: papers
 permalink: papers/designing-data
 title: "Designing Data: Proactive Data Collection and Iteration for Machine Learning"
 authors: 
-    - Aspen Hopkins
-    - Fred Hohman
-    - Luca Zappella
-    - Xavier Suau
-    - Dominik Moritz
+  - Aspen Hopkins
+  - Fred Hohman
+  - Luca Zappella
+  - Xavier Suau
+  - Dominik Moritz
 venue: arXiv:1705.02900
 venue-shorthand: arXiv
 year: 2023
