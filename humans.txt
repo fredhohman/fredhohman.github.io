@@ -1,7 +1,7 @@
 /* TEAM */
 	Author: Fred Hohman
 	Twitter: @fredhohman
-	Location: Atlanta, United States
+	Location: Seattle, United States
 
 /* SITE */
     Language: English
