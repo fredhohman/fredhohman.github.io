@@ -9,21 +9,13 @@ Georgia Tech, being located in Midtown Atlanta, has supposedly had gigabit inter
 
 <!--more-->
 
-To do this, I simply loaded up [speedtest.net][speedtest], plugged in my laptop to an ethernet port in the Klaus Advanced Computing Building (Georgia Tech's College of Computing), and clicked "Begin Test". 
+To do this, I simply loaded up [speedtest.net][speedtest], plugged in my laptop to an ethernet port in the Klaus Advanced Computing Building (Georgia Tech's College of Computing), and clicked "Begin Test". The results are below.
 
-The results are in two `.gif`'s below: one for download speed and one for upload speed.
-
-<figure class="l-page">
-  <div class="figure-grid">
-    <video class="figure-grid-left" width="100%" autoplay loop poster="http://thumbs.gfycat.com/SoulfulMelodicBallpython-poster.jpg">
-      <source src="http://zippy.gfycat.com/SoulfulMelodicBallpython.webm" type="video/webm">
-      <source src="http://zippy.gfycat.com/SoulfulMelodicBallpython.mp4" type="video/mp4">
-    </video>
-    <video class="figure-grid-right" width="100%" autoplay loop poster="http://thumbs.gfycat.com/HandmadeNeatIndigobunting-poster.jpg">
-      <source src="http://zippy.gfycat.com/HandmadeNeatIndigobunting.webm" type="video/webm">
-      <source src="http://zippy.gfycat.com/HandmadeNeatIndigobunting.mp4" type="video/mp4">
-    </video>
-  </div>
+<figure class="l-center">
+  <video class="figure-grid-left" width="100%" autoplay loop poster="http://thumbs.gfycat.com/SoulfulMelodicBallpython-poster.jpg">
+    <source src="http://zippy.gfycat.com/SoulfulMelodicBallpython.webm" type="video/webm">
+    <source src="http://zippy.gfycat.com/SoulfulMelodicBallpython.mp4" type="video/mp4">
+  </video>
   <figcaption>Fast internet is fast.</figcaption>
 </figure>
 
