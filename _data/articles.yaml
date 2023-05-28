@@ -1,5 +1,16 @@
 # feature-parametric-order: 1000 = inf
 
+- title: Improved Speech Recognition for People Who Stutter
+  description: Better accessibility for voice assistants and dictation systems
+  month: "May"
+  year: 2023
+  url: https://machinelearning.apple.com/research/speech-recognition
+  featured: false
+  parametric: true
+  parametric-title: Apple ML Research
+  parametric-url: https://machinelearning.apple.com/
+  feature-parametric-order: 1000
+
 - title: 3D Parametric Room Representation with RoomPlan
   description: Efficiently creating 3D room mappings on-device
   month: "Oct."
