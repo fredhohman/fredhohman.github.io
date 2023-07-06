@@ -1,3 +1,27 @@
+- name: Angie Boggust
+  intern: Apple
+  intern-url: https://www.apple.com/
+  year: "Summer 2023"
+  degree: "Ph.D. in Computer Science, Massachusetts Institute of Technology"
+  description: "Machine learning model compression visualiation"
+  url: http://angieboggust.com/
+
+- name: Venkatesh Sivaraman
+  intern: Apple
+  intern-url: https://www.apple.com/
+  year: "Summer 2023"
+  degree: "Ph.D. in Human-computer Interaction, Carnegie Mellon University"
+  description: "Machine learning model compression visualiation"
+  url: https://venkatesh-sivaraman.github.io/
+
+- name: Ruanqianqian Huang
+  intern: Apple
+  intern-url: https://www.apple.com/
+  year: "Summer 2023"
+  degree: "Ph.D. in Computer Science, UC San Diego"
+  description: "Non-expert tools for machine learning"
+  url: https://rlisahuang.com/
+
 - name: Samantha Robertson
   intern: Apple
   intern-url: https://www.apple.com/
