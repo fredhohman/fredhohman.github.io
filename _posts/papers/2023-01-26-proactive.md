@@ -3,32 +3,33 @@ layout: paper
 id: designing-data
 categories: papers
 permalink: papers/designing-data
-title: "Designing Data: Proactive Data Collection and Iteration for Machine Learning"
+title: "Designing Data: Proactive Data Collection and Iteration for Machine Learning Using Reflexive Planning, Monitoring, and Density Estimation"
 authors: 
   - Aspen Hopkins
   - Fred Hohman
   - Luca Zappella
   - Xavier Suau
   - Dominik Moritz
-venue: arXiv:1705.02900
-venue-shorthand: arXiv
+venue: Artificial Intelligence & Human-Computer Interaction Workshop at ICML
+venue-shorthand: AI&HCI
 year: 2023
 url: /papers/designing-data
-pdf: https://machinelearning.apple.com/research/designing-data
+pdf: /papers/23-designing-data-aihci.pdf
+poster: /papers/23-designing-data-aihci-poster.pdf
 selected: false
-type: preprint
-figure: /images/papers/23-designing-data-arxiv.png
+type: workshop
+figure: /images/papers/23-designing-data-aihci.png
 featured: false
 feature-order: 1
 feature-title: Designing Data
-feature-description: Proactive data collection and iteration for machine learning
+feature-description: Proactive data collection and iteration for machine learning using reflexive planning, monitoring, and density estimation
 coming-soon: false
 bibtex: |-
 
   @article{hopkins2023designing,
-    title={Designing data: Proactive data collection and iteration for machine learning},
+    title={Designing data: Proactive data collection and iteration for machine learning using reflexive planning, monitoring, and density estimation},
     author={Hopkins, Aspen and Hohman, Fred and Zappella, Luca and Cuadros, Xavier Suau and Moritz, Dominik},
-    journal={arXiv preprint arXiv:2301.10319},
+    journal={Artificial Intelligence & Human-Computer Interaction Workshop at ICML},
     year={2023}
   }
 ---
