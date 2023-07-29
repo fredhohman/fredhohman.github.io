@@ -3,8 +3,8 @@ $cd-size: 130px;
 $cd-margin: 12px;
 $disk-size: $cd-size - 2*$cd-margin;
 
-$cd-inner-hole-size: $cd-size/5;
-$cd-inner-hole-margin-lr: ($disk-size - $cd-inner-hole-size)/2;
+$cd-inner-hole-size: calc($cd-size/5);
+$cd-inner-hole-margin-lr: calc(($disk-size - $cd-inner-hole-size)/2);
 $cd-inner-hole-margin-tb: 5px;
 $label-height: 30px;
 
