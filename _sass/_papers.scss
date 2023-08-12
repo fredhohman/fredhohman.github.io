@@ -48,7 +48,7 @@ $author-image-size: 80px;
 .author-image {
 	height: $author-image-size;
 	width: $author-image-size;
-	border-radius: math.div($author-image-size,2);
+	border-radius: $author-image-size/2;
 	margin: 0 auto;
 	margin-bottom: 0.5rem;
 }
@@ -133,8 +133,8 @@ $author-image-size: 80px;
 	}
 
 	.author-image {
-		width: math.div($author-image-size,1.5);
-		height: math.div($author-image-size,1.5);
+		width: $author-image-size/1.5;
+		height: $author-image-size/1.5;
 		margin-top: 0rem;
 		margin-bottom: 0rem;
 		margin-right: 1rem;
