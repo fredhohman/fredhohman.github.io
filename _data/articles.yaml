@@ -1,5 +1,16 @@
 # feature-parametric-order: 1000 = inf
 
+- title: Voice Trigger System for Siri
+  description: On-device natural voice-driven interactions
+  month: "Aug"
+  year: 2023
+  url: https://machinelearning.apple.com/research/voice-trigger
+  featured: false
+  parametric: true
+  parametric-title: Apple ML Research
+  parametric-url: https://machinelearning.apple.com/
+  feature-parametric-order: 1000
+
 - title: Fast Class-Agnostic Salient Object Segmentation
   description: Generalized object segmentation for subject lift
   month: "June"
