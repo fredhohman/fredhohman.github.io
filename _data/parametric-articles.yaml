@@ -1,3 +1,11 @@
+- title: Making Mobile Applications Accessible with Machine Learning
+  description: Creating accessibility metadata for mobile applications from pixels
+  month: "May"
+  year: 2021
+  url: https://machinelearning.apple.com/research/mobile-applications-accessible
+  parametric: true
+  parametric-issue-number: 3
+
 - title: Your Personal Carbon History
   authors:
     - Aatish Bhatia

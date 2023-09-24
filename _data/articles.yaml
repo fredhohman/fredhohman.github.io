@@ -1,5 +1,17 @@
 # feature-parametric-order: 1000 = inf
 
+- title: "Menstrual Cycle Length and Variability: A Visual Explanation"
+  description: "Visualizing the Apple Women's Health Study"
+  month: "Sept."
+  year: 2023
+  url: https://awhs-updates.hsph.harvard.edu/cycle-length-variability/
+  image: /images/featured/awhs.png
+  feature-title: "Menstrual Cycle Length and Variability: A Visual Explanation"
+  feature-description: Visualizing the Apple Women's Health Study
+  featured: true
+  parametric: false
+  feature-parametric-order: 1000
+
 - title: Voice Trigger System for Siri
   description: On-device natural voice-driven interactions
   month: "Aug"
@@ -153,15 +165,16 @@
   parametric-url: https://machinelearning.apple.com/
   feature-parametric-order: 1000
 
-- title: Making Mobile Applications Accessible with Machine Learning
-  description: Creating accessibility metadata for mobile applications from pixels
-  month: "May"
-  year: 2021
-  url: https://machinelearning.apple.com/research/mobile-applications-accessible
+- title: "Apple Machine Learning Research Articles"
+  description: "Interactively explore advancements in machine learning research at Apple"
+  # month: "Oct"
+  year: "2021"
+  # year-extra: "Dec. 2018"
+  url: https://parametric.press/issue-02/
   featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
+  parametric-issue: true
+  parametric-issue-number: 3
+  parametric: false
   feature-parametric-order: 1000
 
 - title: "Parametric Press, Issue 02: The Climate Issue"
@@ -241,7 +254,7 @@
   code: https://github.com/mathisonian/dimensionality-reduction
   slides: /slides/18-dr-visxai-slides.pdf
   feature-order: 4
-  featured: true
+  featured: false
   parametric: false
   feature-parametric-order: 1000
 

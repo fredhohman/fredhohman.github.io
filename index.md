@@ -79,7 +79,7 @@ title: Home
 <h2 class="feature-title">Apple <a href="https://developer.apple.com/design/human-interface-guidelines/">Chart Design Guidelines</a></h2>
 
 <p class="feature-text">
-	Guidance and best practices to help designers and developers create the best charts for any Apple platform.
+	Guidance and best practices to help designers and developers create the best charts for Apple platforms.
 </p>
 
 <div class="cover-wrapper cover-wrapper-2-col l-middle">
@@ -102,15 +102,14 @@ title: Home
 	{% assign sortedArticles = site.data.articles | where: "featured", true %}
 	{% assign ia = site.categories.papers | where:"permalink", "papers/interactive-articles" %}
 
+	{% assign feature = sortedArticles[1] %}
+	{% include feature.html feature=feature %}
+
 	{% assign feature = sortedArticles[0] %}
 	{% include feature.html feature=feature %}
 
 	{% assign feature = ia[0] %}
 	{% include feature.html feature=feature %}
-
-	{% assign feature = sortedArticles[1] %}
-	{% include feature.html feature=feature %}
-
 </div>
 
 <br>
