@@ -1,0 +1,80 @@
+- title: Voice Trigger System for Siri
+  description: On-device natural voice-driven interactions
+  month: "Aug"
+  year: 2023
+  url: https://machinelearning.apple.com/research/voice-trigger
+  date: 2023
+
+- title: Fast Class-Agnostic Salient Object Segmentation
+  description: Generalized object segmentation for subject lift
+  month: "June"
+  year: 2023
+  url: https://machinelearning.apple.com/research/salient-object-segmentation
+
+- title: Improved Speech Recognition for People Who Stutter
+  description: Better accessibility for voice assistants and dictation systems
+  month: "May"
+  year: 2023
+  url: https://machinelearning.apple.com/research/speech-recognition
+
+- title: 3D Parametric Room Representation with RoomPlan
+  description: Efficiently creating 3D room mappings on-device
+  month: "Oct."
+  year: 2022
+  url: https://machinelearning.apple.com/research/roomplan
+  date: 2022
+
+- title: A Multi-Task Neural Architecture for On-Device Scene Analysis
+  description: Unified backbone to build and maintain scene analysis workflows in production
+  month: "June"
+  year: 2022
+  url: https://machinelearning.apple.com/research/on-device-scene-analysis
+
+- title: Deploying Transformers on the Apple Neural Engine
+  description: Open-source implementation for efficient transformers on Apple hardware
+  month: "June"
+  year: 2022
+  url: https://machinelearning.apple.com/research/apple-neural-engine
+
+- title: Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time
+  description: Developing flexible, interpretable models to assess how the effect of mobility changes
+  month: "Jan."
+  year: 2022
+  url: https://machinelearning.apple.com/research/modeling-covid-mobility
+
+- title: Interpretable Adaptive Optimization
+  description: Algorithms for measuring and understanding the best user experiences
+  month: "Dec."
+  year: 2021
+  url: https://machinelearning.apple.com/research/interpretable-adaptive-optimization
+  date: 2021
+
+- title: On-device Panoptic Segmentation for Camera Using Transformers
+  description: Efficient pixel-level understanding for the Camera
+  month: "Oct."
+  year: 2021
+  url: https://machinelearning.apple.com/research/panoptic-segmentation
+
+- title: Improving Neural Network Subspaces
+  description: Training regions in neural network subspaces to find high-accuracy solutions
+  month: "Sept."
+  year: 2021
+  url: https://machinelearning.apple.com/research/improving-neural-subspaces
+
+- title: Learning to Generate Radiance Fields of Indoor Scenes
+  description: Developing new generative models that can learn probability distributions over realistic and unconstrained indoor scenes
+  month: "Aug."
+  year: 2021
+  url: https://machinelearning.apple.com/research/learning-to-generate-radiance-fields
+
+- title: Recognizing People in Photos Through Private On-Device Machine Learning
+  description: Improving the Photos experience by identifying people who matter most to us in situations where previously impossible
+  month: "July"
+  year: 2021
+  url: https://machinelearning.apple.com/research/recognizing-people-photos
+
+- title: Making Mobile Applications Accessible with Machine Learning
+  description: Creating accessibility metadata for mobile applications from pixels
+  month: "May"
+  year: 2021
+  url: https://machinelearning.apple.com/research/mobile-applications-accessible
