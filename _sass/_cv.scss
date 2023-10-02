@@ -146,13 +146,7 @@
 	font-weight: 600
 }
 
-.parametric-articles {
-	// padding-left: 1rem;
-	// border-left: 1px solid $border-color;
-	// margin-top: 0.5rem;
-}
-
-.apple-article {
+.grouped-article {
 	padding-left: 1rem;
 	border-left: 1px solid $border-color;
 }
@@ -223,6 +217,11 @@
 
 	.cv-left-date {
 		text-align: left;
+	}
+	
+	.cv-left-date-article { 
+		padding-left: 1rem !important;
+		border-left: 1px solid $border-color;
 	}
 
 	.cv-image-links-wrapper {

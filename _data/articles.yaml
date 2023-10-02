@@ -29,11 +29,14 @@
 
 - title: "Apple Machine Learning Research Articles"
   description: "Interactively explore advancements in machine learning research at Apple"
-  # month: "Oct"
+  image: /images/featured/apple.png
   year: "Present — May 2021"
-  url: https://parametric.press/issue-02/
-  featured: false
-  parametric-issue: true
+  feature-title: Machine Learning Research Articles
+  feature-description: Interactively explore advancements in machine learning research at Apple
+  feature-order: 1
+  url: https://machinelearning.apple.com/research?page=1&type=article
+  featured: true
+  parametric-issue: false
   parametric: false
   feature-parametric-order: 1000
   apple: true

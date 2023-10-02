@@ -1,5 +1,9 @@
+{% if grouped-article.date %}
+<div class="cv-spacer-medium"></div>
+{% endif %}
+
 {% if grouped-article.date %}<div class="cv-left-date cv-left-date-article">{{ grouped-article.year }}</div>{% endif %}
-<div class="apple-article grouped-article">
+<div class="grouped-article">
     <a href="{{ grouped-article.url }}"><span class="grouped-article-title">{{ grouped-article.title }}</span></a>
 
 	{% if grouped-article.authors %}
@@ -14,4 +18,4 @@
 	{% endif %}
 </div>
 
-<div class="apple-article grouped-article-description cv-description">{{ grouped-article.description }}</div>
+<div class="grouped-article grouped-article-description cv-description">{{ grouped-article.description }}</div>
