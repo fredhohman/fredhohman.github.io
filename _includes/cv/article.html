@@ -16,23 +16,33 @@
 <div class="cv-description">{{ article.description }}{% if article.award %}, <span class="cv-award"><i class="fas fa-star" aria-hidden="true"></i> {{ article.award }}</span>{% endif %}</div>
 
 {% if article.parametric-issue %}
-<div class="parametric-articles">
+<div>
+	<div class="cv-spacer-medium"></div>
 	
 	{% assign issue-number = article.parametric-issue-number %}
 	{% assign issue-articles = site.data.parametric-articles | where: 'parametric-issue-number', issue-number %}
 
-	{% for parametric-article in issue-articles %}
+	{% for grouped-article in issue-articles %}
 		
-		{% if article.parametric-issue-number == parametric-article.parametric-issue-number %}
-			{% include cv/parametric-article.html parametric-article=parametric-article %}
+		{% if article.parametric-issue-number == grouped-article.parametric-issue-number %}
+			{% include cv/grouped-article.html grouped-article=grouped-article %}
 		{% endif %}
 
 		{% if forloop.last == false %}
-			<div class="cv-spacer-medium"></div>
+			<div class="grouped-article cv-spacer-medium"></div>
 		{% endif %}
 
 	{% endfor %}
 </div>
+{% endif %}
+
+{% if article.apple %}
+{% for grouped-article in site.data.apple-articles %}
+{% include cv/grouped-article.html grouped-article=grouped-article %}
+{% if forloop.last == false %}
+<div class="grouped-article cv-spacer-medium"></div>
+{% endif %}
+{% endfor %}
 {% endif %}
 
 <div class="cv-spacer"></div>

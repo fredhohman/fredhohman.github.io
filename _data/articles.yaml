@@ -1,50 +1,24 @@
 # feature-parametric-order: 1000 = inf
 
-- title: Voice Trigger System for Siri
-  description: On-device natural voice-driven interactions
-  month: "Aug"
+- title: "Menstrual Cycle Length and Variability: A Visual Explanation"
+  authors:
+    - Samantha Robertson
+    - Halden Lin
+    - Fred Hohman
+  description: "Visualizing the Apple Women's Health Study"
+  month: "Sept."
   year: 2023
-  url: https://machinelearning.apple.com/research/voice-trigger
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
-  feature-parametric-order: 1000
-
-- title: Fast Class-Agnostic Salient Object Segmentation
-  description: Generalized object segmentation for subject lift
-  month: "June"
-  year: 2023
-  url: https://machinelearning.apple.com/research/salient-object-segmentation
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
-  feature-parametric-order: 1000
-
-- title: Improved Speech Recognition for People Who Stutter
-  description: Better accessibility for voice assistants and dictation systems
-  month: "May"
-  year: 2023
-  url: https://machinelearning.apple.com/research/speech-recognition
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
-  feature-parametric-order: 1000
-
-- title: 3D Parametric Room Representation with RoomPlan
-  description: Efficiently creating 3D room mappings on-device
-  month: "Oct."
-  year: 2022
-  url: https://machinelearning.apple.com/research/roomplan
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
+  url: https://awhs-updates.hsph.harvard.edu/cycle-length-variability/
+  image: /images/featured/awhs.png
+  feature-title: "Menstrual Cycle Length and Variability: A Visual Explanation"
+  feature-description: Visualizing the Apple Women's Health Study
+  featured: true
+  parametric: false
   feature-parametric-order: 1000
 
 - title: Awesome Mathematical Notation Design
+  authors:
+    - Fred Hohman
   description: List of links of techniques to help augment mathematical notation
   month: "June"
   year: 2022
@@ -53,116 +27,19 @@
   parametric: false
   feature-parametric-order: 1000
 
-- title: A Multi-Task Neural Architecture for On-Device Scene Analysis
-  description: Unified backbone to build and maintain scene analysis workflows in production
-  month: "June"
-  year: 2022
-  url: https://machinelearning.apple.com/research/on-device-scene-analysis
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
-  feature-parametric-order: 1000
-
-- title: Deploying Transformers on the Apple Neural Engine
-  description: Open-source implementation for efficient transformers on Apple hardware
-  month: "June"
-  year: 2022
-  url: https://machinelearning.apple.com/research/apple-neural-engine
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
-  feature-parametric-order: 1000
-
-- title: Machine Learning Research Articles
-  year: "Present — 2021"
-  url: https://machinelearning.apple.com/research?page=1&q=&type=article
+- title: "Apple Machine Learning Research Articles"
+  description: "Interactively explore advancements in machine learning research at Apple"
   image: /images/featured/apple.png
+  year: "Present — May 2021"
   feature-title: Machine Learning Research Articles
   feature-description: Interactively explore advancements in machine learning research at Apple
   feature-order: 1
+  url: https://machinelearning.apple.com/research?page=1&type=article
   featured: true
+  parametric-issue: false
   parametric: false
   feature-parametric-order: 1000
-  feature-only: true
-
-- title: Modeling the Impact of User Mobility on COVID-19 Infection Rates Over Time
-  description: Developing flexible, interpretable models to assess how the effect of mobility changes
-  month: "Jan."
-  year: 2022
-  url: https://machinelearning.apple.com/research/modeling-covid-mobility
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
-  feature-parametric-order: 1000
-
-- title: Interpretable Adaptive Optimization
-  description: Algorithms for measuring and understanding the best user experiences
-  month: "Dec."
-  year: 2021
-  url: https://machinelearning.apple.com/research/interpretable-adaptive-optimization
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
-  feature-parametric-order: 1000
-
-- title: On-device Panoptic Segmentation for Camera Using Transformers
-  description: Efficient pixel-level understanding for the Camera
-  month: "Oct."
-  year: 2021
-  url: https://machinelearning.apple.com/research/panoptic-segmentation
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
-  feature-parametric-order: 1000
-
-- title: Improving Neural Network Subspaces
-  description: Training regions in neural network subspaces to find high-accuracy solutions
-  month: "Sept."
-  year: 2021
-  url: https://machinelearning.apple.com/research/improving-neural-subspaces
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
-  feature-parametric-order: 1000
-
-- title: Learning to Generate Radiance Fields of Indoor Scenes
-  description: Developing new generative models that can learn probability distributions over realistic and unconstrained indoor scenes
-  month: "Aug."
-  year: 2021
-  url: https://machinelearning.apple.com/research/learning-to-generate-radiance-fields
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
-  feature-parametric-order: 1000
-
-- title: Recognizing People in Photos Through Private On-Device Machine Learning
-  description: Improving the Photos experience by identifying people who matter most to us in situations where previously impossible
-  month: "July"
-  year: 2021
-  url: https://machinelearning.apple.com/research/recognizing-people-photos
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
-  feature-parametric-order: 1000
-
-- title: Making Mobile Applications Accessible with Machine Learning
-  description: Creating accessibility metadata for mobile applications from pixels
-  month: "May"
-  year: 2021
-  url: https://machinelearning.apple.com/research/mobile-applications-accessible
-  featured: false
-  parametric: true
-  parametric-title: Apple ML Research
-  parametric-url: https://machinelearning.apple.com/
-  feature-parametric-order: 1000
+  apple: true
 
 - title: "Parametric Press, Issue 02: The Climate Issue"
   authors:
@@ -241,7 +118,7 @@
   code: https://github.com/mathisonian/dimensionality-reduction
   slides: /slides/18-dr-visxai-slides.pdf
   feature-order: 4
-  featured: true
+  featured: false
   parametric: false
   feature-parametric-order: 1000
 

@@ -6,14 +6,15 @@ permalink: stuff-i-use/
 
 <time datetime="{{ site.time | date: "%B %-d, %Y" }}" class="post-date">Updated: {{ site.time | date: "%B %Y" }}</time>
 
-Inspired by projects like [The Setup][the-setup], here is the stuff I use.
+Inspired by projects like [Uses This][the-setup], here is the stuff I use.
 
 * TOC
 {:toc}
 
 ### What's in my Bag
-I carry a custom [Timbuk2 messenger bag][timbuk2] for just about everything.
-If that isn't enough space, I wear a [Jansport Classic backpack][jansport] for backup.
+I wear a black [WNDRD PRVKE][wandrd] with the arches red [accessory straps][straps] for office commuting, travel, and everything else.
+Before that, I carried a custom [Timbuk2 messenger bag][timbuk2] during grad school.
+If I need more space, I keep an ancient [Jansport Classic backpack][jansport] for backup.
 
 <!-- <figure>
 	<img class="full" src="/images/stuff-i-use.jpg" alt="Stuff I Use.">
@@ -27,7 +28,8 @@ The size is great for an all-in-one notebook, and the paper in the sketchbook fr
 I also never leave the apartment without a backpocket [Field Notes][fieldnotes] and my [REI carabiner][carabiner] clip to hold my keys.
 
 ### Computer
-I'm using an upgraded [2019 16" MacBook Pro][mbp-2019], which replaced a [2016 15" MacBook Pro][mbp-2016], which replaced a [2011 15" MacBook Pro][mbp-2011], which replaced a [late 2007 20" iMac][imac], which replaced a handful of hand-me-down PCs.
+At work I'm using a maxed [2023 14" MacBook Pro][mbp-2023], and at home I'm using the baseline version of the same machine (except upgrade RAM for longevity).
+These replaced a [2019 16" MacBook Pro][mbp-2019], which replaced a [2016 15" MacBook Pro][mbp-2016], which replaced a [2011 15" MacBook Pro][mbp-2011], which replaced a [late 2007 20" iMac][imac], which replaced a handful of hand-me-down PCs.
 
 When I'm at my desk I connect to a [LG Ultrafine 5K Monitor][monitor] using a single USB-C cable for power, internet, and peripherals ([Logitech G502 mouse][mouse] and [Code keyboard][keyboard]).
 
@@ -68,7 +70,7 @@ I rely on [Dropbox][dropbox] and [Google Drive][drive] for file sharing.
 Google Docs, Sheets, and Slides are also frequently used.
 For getting things, I've tried every to-do list and task manager out there, and I haven't really liked any, but I've found that [Things][things] is useful for managing different projects.
 
-While browsing Twitter on [Tweetbot][tweetbot] or Reddit on [Apollo][apollo], I constantly save things to my [Pocket][pocket] to read whenever I get a few minutes.
+~~While browsing Twitter on [Tweetbot][tweetbot] or Reddit on [Apollo][apollo]~~, I constantly save things to my [Pocket][pocket] to read whenever I get a few minutes.
 I use [1Password][1password] for saving passwords and [Mint][mint] for tracking money.
 [Slack][slack] is always open.
 
@@ -79,7 +81,7 @@ I believe daily writing also helps one communicate more effectively and easily.
 ### Software
 For general programming, and specially for deep learning, I use [Python][python] paired with [Jupyter notebooks][jupyter].
 For data visualization I program mostly for the web: HTML, CSS, JavaScript, [Svelte][svelte], and [D3][d3].
-For more mathy things, I'll default to [Mathematica][mathematica] for continuous problems and [MATLAB][matlab] for discrete ones.
+For more mathy things, I'll play with [Mathematica][mathematica] (my first programming language!) for continuous problems.
 
 I typeset LaTeX in [Overleaf][overleaf] collaboratively and the [LaTeX Workshop][latex-workshop] extension locally, take notes in Markdown with [Sublime][sublime], and write code in [Visual Studio Code][vs-code].
 
@@ -122,11 +124,14 @@ For the desk top, I bought an unfinished [Hardware Reflections walnut butcherblo
 Aside from my gaming PC, I have the lovely [Nintendo Switch][switch] and an [Xbox One][xbox] that doesn't do much anymore.
 A [Chromecast][chromecast] and [Apple TV][apple-tv] are hooked up too. 
 
+[wandrd]: https://www.wandrd.com/products/prvke "WANDRD PRVKE backpack."
+[straps]: https://www.wandrd.com/products/premium-accessory-straps?variant=39928420171856 "WANDRD Accessory Straps."
 [timbuk2]: http://www.timbuk2.com "Timbuk2."
 [jansport]: http://www.jansport.com/shop/en/jansport-us/backpacks/right-pack-typ7 "Jansport."
 [pencil]: https://www.papermate.com/pencils/mechanical-pencils "Clearpoint Mechanical Pencil."
 [fieldnotes]: https://fieldnotesbrand.com/ "Fieled Notes."
 [carabiner]: https://www.rei.com/product/887383/metolius-fs-mini-ii-carabiner "REI Carabiner."
+[mbp-2023]: https://support.apple.com/kb/SP889?locale=en_US "2023 MacBook Pro."
 [mbp-2019]: https://support.apple.com/kb/SP809?locale=en_US "2019 MacBook Pro."
 [mbp-2016]: https://support.apple.com/kb/SP749?locale=en_US "2016 MacBook Pro."
 [mbp-2011]: http://support.apple.com/kb/SP620?viewlocale=en_US&locale=en_US "Early 2011 MacBook Pro."
@@ -150,7 +155,6 @@ A [Chromecast][chromecast] and [Apple TV][apple-tv] are hooked up too.
 [1password]: https://agilebits.com/onepassword "1Password."
 [mathematica]: http://www.wolfram.com/mathematica/ "Mathematica."
 [python]: https://www.python.org "Python."
-[matlab]: http://www.mathworks.com/products/matlab/ "MATLAB."
 [openscad]: www.openscad.org/ "OpenSCAD."
 [blender]: http://www.blender.org "Blender."
 [makerware]: http://www.makerbot.com/desktop "Makerware."

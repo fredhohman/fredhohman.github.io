@@ -1,0 +1,21 @@
+{% if grouped-article.date %}
+<div class="cv-spacer-medium"></div>
+{% endif %}
+
+{% if grouped-article.date %}<div class="cv-left-date cv-left-date-article">{{ grouped-article.year }}</div>{% endif %}
+<div class="grouped-article">
+    <a href="{{ grouped-article.url }}"><span class="grouped-article-title">{{ grouped-article.title }}</span></a>
+
+	{% if grouped-article.authors %}
+		by
+		{% for person in grouped-article.authors %}
+			{% if forloop.last == false %}
+				{% include person.html person=person %},	
+			{% else if forloop.last == true %}
+				{% include person.html person=person %}
+			{% endif %}
+		{% endfor %}
+	{% endif %}
+</div>
+
+<div class="grouped-article grouped-article-description cv-description">{{ grouped-article.description }}</div>
