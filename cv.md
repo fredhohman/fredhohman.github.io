@@ -195,7 +195,6 @@ I have collaborated with researchers, designers, developers, and artists while w
 {% endunless %}
 {% endfor %}
 
-
 <!-- ## Technology Skills
 
 {% for skill in site.data.skills %}
