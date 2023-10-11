@@ -1,8 +1,8 @@
 ---
 layout: paper
 categories: papers
-permalink: papers/compression
-id: compression
+permalink: papers/multi-modal-defense
+id: multi-modal-defense
 title: "Compression to the Rescue: Defending from Adversarial Attacks Across Modalities"
 authors:
     - Nilaksh Das
@@ -17,7 +17,7 @@ venue: Project Showcase, ACM SIGKDD Conference on Knowledge Discovery and Data M
 venue-shorthand: KDD
 location: London, UK
 year: 2018
-url: /papers/compression
+url: /papers/multi-modal-defense
 pdf: http://nilakshdas.com/papers/18-compression-kdd.pdf
 code: https://github.com/poloclub/jpeg-defense
 type: workshop
