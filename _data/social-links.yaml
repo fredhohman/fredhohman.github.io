@@ -29,6 +29,13 @@
   url: "http://www.linkedin.com/in/fredhohman"
   on-homepage: true
 
+- id: mastodon
+  description: "fredhohman"
+  color: "#6364FF"
+  class: "fab fa-mastodon icon"
+  url: "https://vis.social/@fredhohman"
+  on-homepage: true
+
 - id: home
   description: "fredhohman.com"
   color: "#515151"
