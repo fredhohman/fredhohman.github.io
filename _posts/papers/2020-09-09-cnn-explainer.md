@@ -26,7 +26,7 @@ recording: https://www.youtube.com/watch?v=M-pUfWMjXhQ&feature=youtu.be&ab_chann
 highlight: Top of Github Trending, Top 4 TVCG Papers invited to SIGGRAPH
 type: journal
 figure: /images/papers/20-cnnexplainer-tvcg.png
-selected: true
+selected: false
 doi: "10.1109/TVCG.2020.3030418"
 featured: false
 feature-order: 3
