@@ -162,19 +162,25 @@
 	margin-bottom: 0rem;
 }
 
-.pub-misc, .pub-misc {
-	font-size: 0.75rem;
+.pub-misc {
+	font-size: 0.7rem;
+	margin-top: 0.2rem;
 }
 
 .pub-misc a {
 	color: $blue !important;
-	margin-right: 0.5rem;
+	// font-weight: 400;
+	margin-right: 0.4rem;
 	white-space: nowrap;
+	background-color: $intro-blue;
+	padding: 0.25rem 0.35rem 0.25rem 0.35rem !important;
+	border-radius: 1rem;
 }
 
 .pub-misc a:hover {
-	color: $dark-blue !important;
+	color: $white !important;
 	text-decoration: none;
+	background-color: $blue;
 }
 
 .equal-contribution {

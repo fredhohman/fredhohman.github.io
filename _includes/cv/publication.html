@@ -12,7 +12,7 @@
 {% endif %}
 </div>
 
-<div>
+<div class="cv-description" style="font-weight: 400">
 	{% for person in pub.authors %}
 		{% if forloop.last == false %}
 			{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %},
@@ -22,7 +22,7 @@
 	{% endfor %}
 </div>
 
-<div><i>{{ pub.venue }}{% if pub.venue-shorthand %} ({{ pub.venue-shorthand }}){% endif %}. {% if pub.location %}{{ pub.location }},{% endif %} {{ pub.year }}.</i></div>
+<div class="cv-description"><i>{{ pub.venue }}{% if pub.venue-shorthand %} ({{ pub.venue-shorthand }}){% endif %}. {% if pub.location %}{{ pub.location }},{% endif %} {{ pub.year }}.</i></div>
 
 <div class="pub-misc">
 {% if pub.url or pub.pdf or pub.coming-soon %}
@@ -166,4 +166,4 @@
 {% endif %}
 {% endif %}
 
-<div class="cv-spacer"></div>
+<div class="cv-spacer-large"></div>
