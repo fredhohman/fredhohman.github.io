@@ -2,8 +2,10 @@
   venue-shorthand: VISxAI
   venue-at: IEEE VIS
   years:
-    - year: 2022
+    - year: 2023
       url: http://visxai.io/
+    - year: 2022
+      url: http://visxai.io/2022
     - year: 2021
       url: http://visxai.io/2021
     - year: 2020
