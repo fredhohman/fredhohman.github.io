@@ -3,8 +3,8 @@
   location: "Atlanta, GA"
   advisor: Duen Horng (Polo) Chau
   co-advisor: Alex Endert
-  years: "Dec. 2020 —"
-  years-extra: "Aug. 2015"
+  years: "Aug. 2015 —"
+  years-extra: "Dec. 2020"
   thesis: "Interactive Scalable Interfaces for Machine Learning Interpretability"
   thesis-video: https://youtu.be/TNH8RqyNfmo
   thesis-link: ../dissertation/
@@ -30,8 +30,8 @@
     - "GPA: 4.00/4.00"
 
 - degree: "B.S. in Mathematics, B.S. in Physics"
-  years: "May 2015 —"
-  years-extra: "Aug. 2011"
+  years: "Aug. 2011 —"
+  years-extra: "May 2015"
   institution: University of Georgia
   location: "Athens, GA"
   thesis: "3D Printing the Trefoil Knot and its Pages"
