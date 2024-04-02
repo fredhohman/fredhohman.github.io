@@ -13,7 +13,7 @@
 }
 
 #cv a:hover {
-	color: $dark-blue;
+	color: $blue;
 }
 
 #cv a b {
@@ -21,7 +21,7 @@
 }
 
 #cv a b:hover {
-	color: $dark-blue;
+	color: $blue;
 }
 
 #cv-title {
@@ -164,16 +164,19 @@
 
 .pub-misc {
 	font-size: 0.7rem;
-	margin-top: 0.2rem;
+	margin-top: 0.3rem;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 0.3rem;
+	align-items: center;
 }
 
 .pub-misc a {
-	color: $blue !important;
-	// font-weight: 400;
-	margin-right: 0.4rem;
+	color: $gray !important;
 	white-space: nowrap;
-	background-color: $intro-blue;
-	padding: 0.25rem 0.35rem 0.25rem 0.35rem !important;
+	background-color: $near-white;
+	padding: 0.15rem 0.4rem 0.15rem 0.4rem !important;
 	border-radius: 1rem;
 }
 
