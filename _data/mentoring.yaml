@@ -4,6 +4,8 @@
   year: "Summer 2023"
   degree: "Ph.D. in Computer Science, Massachusetts Institute of Technology"
   description: "Machine learning model compression visualization"
+  awards:
+    - "Apple Scholar, PhD Fellowship in Human Centered AI"
   url: http://angieboggust.com/
 
 - name: Venkatesh Sivaraman
@@ -73,8 +75,8 @@
   url: https://skitree.github.io/aspenhopkins/
 
 - name: Omar Shaikh
-  year: "Fall 2020 —"
-  year-extra: Fall 2019
+  year: "Fall 2019 —"
+  year-extra: Fall 2020
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for machine learning education"
   url: http://oshaikh.com
@@ -82,8 +84,8 @@
     - "Sigma Xi Best Undergraduate Research Award, Georgia Institute of Technology"
   
 - name: Robert Turko
-  year: "Fall 2020 —"
-  year-extra: Fall 2019
+  year: "Fall 2019 —"
+  year-extra: Fall 2020
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for machine learning education"
   url: https://www.linkedin.com/in/robert-turko/
@@ -91,15 +93,15 @@
     - "Outstanding Senior Award, College of Computing, Georgia Institute of Technology"
 
 - name: Rob Firstman
-  year: "Spr. 2020 —"
-  year-extra: Fall 2019
+  year: "Fall 2019 —"
+  year-extra: Spr. 2020
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for deep learning interpretability"
   url: https://www.robfirstman.com/
 
 - name: Will Epperson
-  year: "Spr. 2020 —"
-  year-extra: "Spr. 2019"
+  year: "Spr. 2019 —"
+  year-extra: "Spr. 2020"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visual analytics for machine learning fairness"
   awards:
@@ -110,8 +112,8 @@
   now-institution-url: https://hcii.cmu.edu/
 
 - name: Siwei Li
-  year: "Spr. 2020 —"
-  year-extra: "Spr. 2019"
+  year: "Spr. 2019 —"
+  year-extra: "Spr. 2020"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visual graph analytics"
   awards:
@@ -123,8 +125,8 @@
   url: https://rsli.github.io/
 
 - name: Ángel Alexander Cabrera
-  year: "Spr. 2019 —"
-  year-extra: "Spr. 2018"
+  year: "Spr. 2018 —"
+  year-extra: "Spr. 2019"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Visual analytics for machine learning fairness, interactive classification for deep learning"
   awards:
@@ -137,8 +139,8 @@
   url: http://cabreraalex.com/
 
 - name: Dezhi Fang
-  year: "Spr. 2018 —"
-  year-extra: "Fall 2016"
+  year: "Fall 2016 —"
+  year-extra: "Spr. 2018"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Interactive visual motif discovery"
   awards:
@@ -151,8 +153,8 @@
   url: https://cv.andyfang.me/
 
 - name: Prasenjeet Biswal
-  year: "Spr. 2018 —"
-  year-extra: "Fall 2017"
+  year: "Fall 2017 —"
+  year-extra: "Spr. 2018"
   degree: "M.S. in Computer Science, Georgia Institute of Technology"
   description: "Visualization for deep learning attribution"
   now-position: Software Development Engineer

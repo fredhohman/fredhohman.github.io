@@ -1,9 +1,46 @@
+- title: Enhancing Paragraph Generation with a Latent Language Diffusion Model
+  description: Generating coherent and controlled text
+  month: "Mar"
+  year: 2024
+  url: https://machinelearning.apple.com/research/latent-language-diffusion-model
+  date: 2024
+
+- title: Personalizing Health and Fitness with Hybrid Modeling
+  description: Accurately predicting heart rate during workouts
+  month: "Mar"
+  year: 2024
+  url: https://machinelearning.apple.com/research/personalized-heartrate
+
+- title: Humanizing Word Error Rate for ASR Transcript Readability and Accessibility
+  description: A new metric for the readability of ASR passages
+  month: "Mar"
+  year: 2024
+  url: https://machinelearning.apple.com/research/humanizing-wer
+
+- title: Deploying Attention-Based Vision Transformers to Apple Neural Engine
+  description: Optimizing vision transformers on ML-accelerated hardware
+  month: "Jan"
+  year: 2024
+  url: https://machinelearning.apple.com/research/vision-transformers
+
+- title: Advancing Speech Accessibility with Personal Voice
+  description: Preserving speech for people at risk of losing their voice
+  month: "Dec"
+  year: 2023
+  url: https://machinelearning.apple.com/research/personal-voice
+  date: 2023
+
 - title: Voice Trigger System for Siri
   description: On-device natural voice-driven interactions
   month: "Aug"
   year: 2023
   url: https://machinelearning.apple.com/research/voice-trigger
-  date: 2023
+
+- title: Learning Iconic Scenes with Differential Privacy
+  description: Privacy-preserving machine learning for Photos
+  month: "July"
+  year: 2023
+  url: https://machinelearning.apple.com/research/scenes-differential-privacy
 
 - title: Fast Class-Agnostic Salient Object Segmentation
   description: Generalized object segmentation for subject lift

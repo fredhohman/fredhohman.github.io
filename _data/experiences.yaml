@@ -2,7 +2,7 @@
   location: "Seattle, WA"
   position: Research Scientist
   group: "Design + Visualization Group"
-  year: "Present — Jan. 2021"
+  year: "Jan. 2021 — Present"
   description: "Research and design for everyone in the machine learning process—the developers who build models, the designers who create experiences, and the people who use technology."
   institution-url: https://apple.com
   group-url: https://machinelearning.apple.com/
@@ -62,8 +62,8 @@
   location: "Atlanta, GA"
   position: Graduate Research Assistant
   group: School of Computational Science and Engineering
-  year: "Dec. 2020 —"
-  year-extra: "Aug. 2016"
+  year: "Aug. 2016 —"
+  year-extra: "Dec. 2020"
   mentors: 
     - Duen Horng (Polo) Chau
     - Alex Endert
@@ -77,8 +77,8 @@
   location: "Atlanta, GA"
   position: Graduate Research Assistant
   group: School of Computational Science and Engineering
-  year: "May 2016 —"
-  year-extra: "Aug. 2015"
+  year: "Aug. 2015 —"
+  year-extra: "May 2016"
   mentors:
     - Surya Kalidindi
   description: "Conducted research in physical data science and material informatics by creating property-structure linkages using machine learning to predict material properties. Contributed to direction and code of PyMKS: Materials Knowledge Systems in Python."
@@ -90,8 +90,8 @@
   location: "Athens, GA"
   position: Undergraduate Research Assistant
   group: Department of Mathematics
-  year: "May 2015 —"
-  year-extra: "Jan. 2013"
+  year: "Jan. 2013 —"
+  year-extra: "May 2015"
   mentors:
     - David Gay
   advisor: true

@@ -1,3 +1,11 @@
+- venue: IEEE Visualization
+  venue-shorthand: VIS
+  years: 
+    - year: 2024
+      url: http://ieeevis.org/year/2024/welcome
+    - year: 2023
+      url: http://ieeevis.org/year/2023/welcome
+
 - venue: ACM International Conference on Intelligent User Interfaces
   venue-shorthand: IUI
   years:

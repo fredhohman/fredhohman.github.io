@@ -1,6 +1,8 @@
 - venue: ACM Conference on Human Factors in Computing Systems
   venue-shorthand: CHI
   years:
+    - year: 2024
+      url: https://chi2024.acm.org/
     - year: 2023
       url: https://chi2023.acm.org/
     - year: 2022
@@ -19,6 +21,10 @@
 - venue: IEEE Visualization
   venue-shorthand: VIS
   years: 
+    - year: 2024
+      url: http://ieeevis.org/year/2024/welcome
+    - year: 2023
+      url: http://ieeevis.org/year/2023/welcome
     - year: 2022
       url: http://ieeevis.org/year/2022/welcome
     - year: 2021
@@ -31,7 +37,13 @@
       url: http://ieeevis.org/year/2018/welcome
     - year: 2017
       url: http://ieeevis.org/year/2017/welcome
-      
+
+- venue: ACM Transactions on Computer-Human Interaction
+  venue-shorthand: TOCHI
+  years:
+    - year: 2023
+      url: https://dl.acm.org/journal/tochi
+
 - venue: PacificVis Visual Data Storytelling
   venue-shorthand: VisStory
   years:
