@@ -4,6 +4,8 @@
   year: "Summer 2023"
   degree: "Ph.D. in Computer Science, Massachusetts Institute of Technology"
   description: "Machine learning model compression visualization"
+  awards:
+    - "Apple Scholar, PhD Fellowship in Human Centered AI"
   url: http://angieboggust.com/
 
 - name: Venkatesh Sivaraman
