@@ -12,7 +12,7 @@
 {% endif %}
 </div>
 
-<div class="cv-description" style="font-weight: 400">
+<div class="cv-description cv-authors">
 	{% for person in pub.authors %}
 		{% if forloop.last == false %}
 			{% include person.html person=person %}{% for p in pub.equal-contribution %}{% if person == p %}*{% endif %}{% endfor %},
