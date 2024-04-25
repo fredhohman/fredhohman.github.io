@@ -1,5 +1,9 @@
+- name: Best Paper, Honorable Mention at ACM CHI Conference
+  description: 'For "Talaria: Interactively Optimizing Machine Learning Models for Efficient Inference"'
+  year: 2024
+
 - name: Best Paper, Honorable Mention at ACM IDC Conference
-  description: For "Collaborative Machine Learning Model Building with Families Using Co-ML
+  description: For "Collaborative Machine Learning Model Building with Families Using Co-ML"
   year: 2023
 
 - name: ACM SIGCHI Outstanding Dissertation Award
