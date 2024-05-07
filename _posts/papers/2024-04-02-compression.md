@@ -15,6 +15,7 @@ location: Honolulu, Hawai'i, USA
 year: 2024
 url: /papers/compression
 pdf: https://arxiv.org/abs/2310.04621
+preview: https://www.youtube.com/watch?v=sSDgEiKB7bg
 doi: 10.1145/3613904.3642109
 type: conference
 figure: /images/papers/24-compression-chi.png
