@@ -16,6 +16,7 @@ year: 2024
 url: /papers/compression
 pdf: https://arxiv.org/abs/2310.04621
 preview: https://www.youtube.com/watch?v=sSDgEiKB7bg
+video: https://www.youtube.com/watch?v=i4mZqkaA1d4
 doi: 10.1145/3613904.3642109
 type: conference
 figure: /images/papers/24-compression-chi.png
@@ -25,7 +26,6 @@ feature-description: Lessons learned from practitioners creating on-device machi
 image: /images/featured/compression.png
 featured: true
 feature-order: 0
-coming-soon: true
 bibtex: |-
 
     @inproceedings{hohman2024model,
