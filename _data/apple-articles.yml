@@ -1,9 +1,15 @@
+- title: Introducing Apple's On-Device and Server Foundation Models
+  description: Fine-tuned models powering intelligent user experiences
+  month: "June"
+  year: 2024
+  url: https://machinelearning.apple.com/research/introducing-apple-foundation-models
+  date: 2024
+
 - title: Enhancing Paragraph Generation with a Latent Language Diffusion Model
   description: Generating coherent and controlled text
   month: "Mar"
   year: 2024
   url: https://machinelearning.apple.com/research/latent-language-diffusion-model
-  date: 2024
 
 - title: Personalizing Health and Fitness with Hybrid Modeling
   description: Accurately predicting heart rate during workouts
