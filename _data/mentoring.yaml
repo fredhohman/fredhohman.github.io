@@ -1,3 +1,19 @@
+- name: Catherine Yeh
+  intern: Apple
+  intern-url: https://www.apple.com/
+  year: "Summer 2024"
+  degree: "Ph.D. in Computer Science, Harvard University"
+  description: "Interactive techniques for data augmentation"
+  url: https://catherinesyeh.github.io/
+
+- name: Michele Lam
+  intern: Apple
+  intern-url: https://www.apple.com/
+  year: "Summer 2024"
+  degree: "Ph.D. in Computer Science, Stanford University"
+  description: "Tools for grounding LLM policy design"
+  url: https://michelle123lam.github.io/
+
 - name: Angie Boggust
   intern: Apple
   intern-url: https://www.apple.com/
@@ -63,7 +79,7 @@
   intern-url: https://www.apple.com/
   year: "Summer 2020"
   degree: "Ph.D. in Computer Science, University of Konstanz"
-  description: "Interactive confusion matrices and visualization for error analysis in machine learning"
+  description: "Interactive and hierarchical confusion matrix visualization"
   url: https://www.jgoertler.com/
 
 - name: Aspen Hopkins
