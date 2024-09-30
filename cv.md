@@ -105,6 +105,13 @@ I have collaborated with researchers, designers, developers, and artists while w
 
 {% assign selectedBoolForBibtex = false %}
 
+### Tech Report
+
+{% assign tech-report = site.categories.papers | where: 'type', "tech-report" %}
+{% for pub in tech-report %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% endfor %}
+
 ### Journal
 
 {% assign journal = site.categories.papers | where: 'type', "journal" %}
