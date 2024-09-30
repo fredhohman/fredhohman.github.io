@@ -12,7 +12,7 @@ authors:
   - Dominik Moritz
   - Fred Hohman
 venue: IEEE Transactions on Visualization and Computer Graphics
-venue-shorthand: TVCT
+venue-shorthand: TVCG
 location: St. Pete Beach, Florida, USA
 year: 2025
 url: /papers/comparison
