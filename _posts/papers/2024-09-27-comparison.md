@@ -19,7 +19,7 @@ url: /papers/comparison
 pdf: https://arxiv.org/abs/2408.03274
 code: https://github.com/apple/ml-compress-and-compare
 # preview: 
-# video: 
+video: https://www.youtube.com/watch?v=ESst2nxcXuA&t=3210s
 doi: 10.1109/TVCG.2024.3456371
 type: journal
 figure: /images/papers/24-comparison-vis.png
