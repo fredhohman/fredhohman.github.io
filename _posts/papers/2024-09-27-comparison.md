@@ -11,6 +11,9 @@ authors:
   - Donghao Ren
   - Dominik Moritz
   - Fred Hohman
+equal-contribution:
+  - Angie Boggust
+  - Venkatesh Sivaraman
 venue: IEEE Transactions on Visualization and Computer Graphics
 venue-shorthand: TVCG
 location: St. Pete Beach, Florida, USA
