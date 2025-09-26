@@ -3,7 +3,7 @@
   intern-url: https://www.apple.com/
   year: "Summer 2025"
   degree: "Ph.D. in Computer Science, Massachusetts Institute of Technology"
-  description: "Large language model interpretability"
+  description: "Auto interpretbaility for large language models"
   awards:
     - "Apple Scholar, PhD Fellowship in Human Centered AI"
   url: http://angieboggust.com/
@@ -13,7 +13,7 @@
   intern-url: https://www.apple.com/
   year: "Summer 2025"
   degree: "Ph.D. in Computer Science, Harvard University"
-  description: "Dictionary learning for responsible AI"
+  description: "Understanding annotation differences with interpretability"
   url: https://alexoesterling.com/
 
 - name: Catherine Yeh
