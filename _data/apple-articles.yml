@@ -1,9 +1,21 @@
+- title: The “Super Weight:” How Even a Single Parameter can Determine a Large Language Model’s Behavior
+  # description: 
+  month: "Aug"
+  year: 2025
+  url: https://machinelearning.apple.com/research/the-super-weight
+  date: 2025
+
+- title: "FastVLM: Efficient Vision Encoding for Vision Language Models"
+  # description: 
+  month: "July"
+  year: 2025
+  url: https://machinelearning.apple.com/research/fast-vision-language-models
+
 - title: Updates to Apple's On-Device and Server Foundation Language Models
   # description: 
   month: "June"
   year: 2025
   url: https://machinelearning.apple.com/research/apple-foundation-models-2025-updates
-  date: 2025
   
 - title: An LLM-Based Approach to Review Summarization on the App Store
   # description: 
