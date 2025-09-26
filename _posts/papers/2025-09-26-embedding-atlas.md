@@ -12,8 +12,8 @@ authors:
 equal-contribution:
   - Donghao Ren
   - Fred Hohman
-venue: arXiv:2505.06386
-venue-shorthand: arXiv
+venue: IEEE Visualization Conference
+venue-shorthand: VIS
 year: 2025
 url: /papers/embedding-atlas
 pdf: https://arxiv.org/abs/2505.06386
@@ -22,21 +22,24 @@ demo: https://apple.github.io/embedding-atlas/
 # preview: 
 # video: 
 doi: 10.48550/arXiv.2505.06386
-type: preprint
-figure: /images/papers/25-embedding-atlas-arxiv.png
+type: conference
+figure: /images/papers/25-embedding-atlas-vis.png
 selected: false
+award: Top of GitHub Trending
 feature-title: Embedding Atlas
 feature-description: Low-friction, interactive embedding visualization
-# image: /images/featured/
-featured: false
+image: /images/featured/embedding-atlas.png
+featured: true
 feature-order: 0
 bibtex: |-
 
     @article{ren2025embedding,
       title={{Embedding Atlas: Low-Friction, Interactive Embedding Visualization}},
       author={Ren, Donghao and Hohman, Fred and Moritz, Dominik},
-      journal={arXiv preprint arXiv:2505.06386},
-      year={2025}
+      journal={IEEE Visualization Conference},
+      year={2025},
+      publisher={IEEE},
+      url={https://apple.github.io/embedding-atlas/}
     }
 ---
 
