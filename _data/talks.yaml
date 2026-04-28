@@ -1,3 +1,9 @@
+- title: "Tiny but Powerful: Human-Centered Research to Support Efficient On-Device ML"
+  location: "Apple Workshop on Human-Centered Machine Learning"
+  month: "Aug."
+  year: 2024
+  link: https://machinelearning.apple.com/video/tiny-but-powerful
+
 - title: "Interactive Scalable Interfaces for Machine Learning Interpretability"
   location: "Northeastern University, Visualization for Machine Learning Course Guest Lecture"
   month: "Nov."
@@ -12,6 +18,7 @@
   location: "ACM Conference on Human Factors in Computing Systems"
   month: "May"
   year: 2022
+  link: https://www.youtube.com/watch?v=hOkmzExNKYk
 
 - title: "Interactive Scalable Interfaces for Machine Learning Interpretability"
   location: "Carnegie Mellon University, Interactive Data Science Course Guest Lecture"
@@ -32,6 +39,7 @@
   location: "Georgia Tech Thesis Defense"
   month: "Oct."
   year: 2020
+  link: https://www.youtube.com/watch?v=TNH8RqyNfmo
 
 - title: "Interactive Scalable Interfaces for Machine Learning Interpretability"
   location: "IBM Research"

@@ -2,7 +2,7 @@
 
 {% for talk in title.items %}
 <div class="cv-left-date">{{ talk.month }} {{ talk.year }}</div>
-<div>{{ talk.location }}</div>
+<div>{% if talk.link %}<a href="{{ talk.link }}">{{ talk.location }}</a>{% else %}{{ talk.location }}{% endif %}</div>
 {% endfor %}
 
 <div class="cv-spacer"></div>
