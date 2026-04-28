@@ -1,9 +1,22 @@
+- title: "ParaRNN: Large-Scale Nonlinear RNNs, Trainable in Parallel"
+  # description: 
+  month: "Apr"
+  year: 2026
+  url: https://machinelearning.apple.com/research/exploring-llms-mlx-m5
+  date: 2026
+
+- title: Exploring LLMs with MLX and the Neural Accelerators in the M5 GPU
+  # description: 
+  month: "Nov"
+  year: 2025
+  url: https://machinelearning.apple.com/research/exploring-llms-mlx-m5
+  date: 2025
+
 - title: The “Super Weight:” How Even a Single Parameter can Determine a Large Language Model’s Behavior
   # description: 
   month: "Aug"
   year: 2025
   url: https://machinelearning.apple.com/research/the-super-weight
-  date: 2025
 
 - title: "FastVLM: Efficient Vision Encoding for Vision Language Models"
   # description: 
