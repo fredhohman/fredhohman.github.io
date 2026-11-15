@@ -1,8 +1,8 @@
 - id: email
-  description: "fredhohman@apple.com"
+  description: "kunalmohindra62@gmail.com"
   color: "#515151"
   class: "fas fa-envelope icon"
-  url: "mailto:fredhohman@apple.com"
+  url: "mailto:kunalmohindra62@gmail.com"
   on-homepage: true
   cv-group: 1
 
@@ -18,23 +18,17 @@
   description: "@fredhohman"
   color: "#6e5494"
   class: "fab fa-github icon"
-  url: "https://github.com/fredhohman"
+  url: "https://github.com/fredhohm"
   on-homepage: true
   cv-group: 2
 
 - id: linkedin
-  description: "fredhohman"
+  description: "kunalmohindra"
   color: "#0077b5"
   class: "fab fa-linkedin-in icon"
-  url: "http://www.linkedin.com/in/fredhohman"
+  url: "http://www.linkedin.com/in/kunalmohindra"
   on-homepage: true
 
-- id: mastodon
-  description: "fredhohman"
-  color: "#6364FF"
-  class: "fab fa-mastodon icon"
-  url: "https://vis.social/@fredhohman"
-  on-homepage: true
 
 - id: home
   description: "fredhohman.com"
@@ -48,7 +42,7 @@
   description: "Google Scholar"
   color: "#515151"
   class: "fa fa-graduation-cap icon"
-  url: "https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en"
+  url: "https://scholar.google.com/citations?user=gMhlD1oAAAAJ&hl=en"
   on-homepage: true
   cv-group: 2
 

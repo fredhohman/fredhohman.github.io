@@ -3,39 +3,40 @@
     <div class="dissertation-cover">
         {% if include.location == home %}
         <a href="/dissertation">
-        {% else %}
-        <a href="../papers/fred-hohman-thesis.pdf">
-        {% endif %}
-            <!-- <img class="dissertation-cover-picture-document" src="../images/dissertation/dissertation-cover.png"> -->
-            <img class="dissertation-cover-picture-logo" src="../images/dissertation/teaser.png">
-        </a>
+            {% else %}
+            <a href="../papers/fred-hohman-thesis.pdf">
+                {% endif %}
+                <!-- <img class="dissertation-cover-picture-document" src="../images/dissertation/dissertation-cover.png"> -->
+                <img class="dissertation-cover-picture-logo" src="../images/dissertation/teaser.png">
+            </a>
     </div>
 
     {% if include.location == home %}
     <div class="dissertation-info dissertation-info-home">
-    {% else %}
-    <div class="dissertation-info dissertation-info-page">
-    {% endif %}
-        <div>
-            <p class="dissertation-title">
-                {% if include.location == home %}
-                <a href="/dissertation">
-                {% else %}
-                <a href="../papers/fred-hohman-thesis.pdf">
-                {% endif %}
-                    Interactive Scalable Interfaces for Machine Learning Interpretability
-                </a>
-            </p>
-            <p style="font-weight: 500">Fred Hohman</p>
-            <p style="font-weight: 500; color: rgba(0,0,0,0.6);">Dissertation, Georgia Tech, 2020.</p>
-            {% if include.details==true %}
+        {% else %}
+        <div class="dissertation-info dissertation-info-page">
+            {% endif %}
+            <div>
+                <p class="dissertation-title">
+                    {% if include.location == home %}
+                    <a href="/dissertation">
+                        {% else %}
+                        <a href="../papers/fred-hohman-thesis.pdf">
+                            {% endif %}
+                            Interactive Scalable Interfaces for Machine Learning Interpretability
+                        </a>
+                </p>
+                <p style="font-weight: 500">Kunal Mohindra</p>
+                <p style="font-weight: 500; color: rgba(0,0,0,0.6);">Dissertation, Georgia Tech, 2020.</p>
+                {% if include.details==true %}
                 <hr style="margin: 0.5rem 0rem">
                 <p class="document-metadata">195 pages. 28 MB.</p>
                 <p class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> ACM SIGCHI Dissertation Award</p>
-                <p class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> Georgia Tech College of Computing Dissertation Award</p>
-            {% endif %}
+                <p class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> Georgia Tech College of Computing
+                    Dissertation Award</p>
+                {% endif %}
+            </div>
+
         </div>
 
     </div>
-
-</div>
